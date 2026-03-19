@@ -1,13 +1,13 @@
 {
-  "current_task": "Этап 2.1 - Создание database.py",
+  "current_task": "Этап 2.2 - Создание модели User",
   "plan": [
-    "Создать backend/database.py",
-    "Создать тесты для database.py",
+    "Создать backend/models/user.py",
+    "Создать тесты для модели User",
     "Запустить тесты и проверить прохождение",
-    "Исправить проблему с зависимостями (sgflib)"
+    "Обновить completed_tasks.md и state.json"
   ],
   "step_index": 4,
-  "mode": "GIT",
+  "mode": "LOGGER",
   "status": "done",
   "attempts": 0,
   "tests": {
@@ -18,7 +18,7 @@
     "done": true
   },
   "logging": {
-    "bugs_recorded": true,
+    "bugs_recorded": false,
     "fixes_recorded": true
   },
   "git": {

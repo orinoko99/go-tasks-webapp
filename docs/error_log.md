@@ -23,3 +23,9 @@
 Файлы: backend/database.py:40
 Воспроизведение: pytest выдает предупреждение MovedIn20Warning
 Решение: Импортировать declarative_base() из sqlalchemy.orm вместо sqlalchemy.ext.declarative
+
+## 2026-03-19 16:00
+Проблема: Циклическая зависимость между User и SolvedTask
+Файлы: backend/models/user.py
+Воспроизведение: тесты test_user_model.py падают с ошибкой "failed to locate a name SolvedTask"
+Решение: Временно убрать relationship из модели User до создания модели SolvedTask (Этап 2.3)

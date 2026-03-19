@@ -1,7 +1,7 @@
 {
-  "task_id": "DatabaseModule",
+  "task_id": "UserModel",
   "tests_written": true,
   "last_run_result": "pass",
-  "test_file": "tests/test_database.py",
-  "tests_count": 7
+  "test_file": "tests/test_user_model.py",
+  "tests_count": 10
 }
