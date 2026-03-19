@@ -1,0 +1,84 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qn][ro][rp][oq][pq][or]AB[oo][np][pp][qp][nq][rq][nr][pr][rr][rs]
+;W[qq]
+;B[``]
+;W[qr]LB[qq:1][``:2][qr:3]C[Is it pae Threat?
+
+
+\b Black to play\b0 .
+White cut at 1 as a pae threat.
+Is this move really a pae threat?
+
+What happens if Black doesn't answer?
+Of course White continues with 3 and then...
+])
+(;AW[qn][ro][rp][oq][pq][qq][or][qr]AB[oo][np][pp][qp][nq][rq][nr][pr][rr][rs]
+;B[os]
+;W[ps]
+;B[ns]
+;W[sq]
+;B[qs]
+;W[sr]LB[os:1][ps:2][ns:3][sq:4][qs:5][sr:6]C[Dia. 01 Pae or bik
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+What happens if Black attacks from 1?
+\cf1\b White 2 \cf0\b0 becomes \cf2\b sente \cf0\b0 then\cf2\b  \cf0\b0 Black has to play at 3.
+
+After White plays hane at 4, the \cf2\b situation\cf0\b0  becomes \cf2\b critical\cf0\b0 .
+If Black plays at 5, White makes pae with 6.
+If Black plays dansu at 6 instead of 5, it becomes gote bik which is not a good result for Black.
+])
+(;AW[qn][ro][rp][oq][pq][qq][or][qr]AB[oo][np][pp][qp][nq][rq][nr][pr][rr][rs]
+;B[qs]
+;W[ps]
+;B[ns]
+;W[sq]
+;B[os]
+;W[sr]LB[qs:1][ps:2][ns:3][sq:4][os:5][sr:6]C[Dia. 02 Same
+
+
+How about Black 1?
+After White 2, Black's descending move at 3 looks good, but after White's hane at 4 the pae is unavoidable up to 6.
+
+This result is same with the previous diagram. Then does it mean that Black should have answered White's pae threat?
+No. Black has a good move to capture White.
+])
+(;AW[qn][ro][rp][oq][pq][qq][or][qr]AB[oo][np][pp][qp][nq][rq][nr][pr][rr][rs]
+;B[op]
+;W[ps]
+;B[ns]
+;W[sq]
+;B[sr]
+;W[sp]
+;B[os]LB[op:1][ps:2][ns:3][sq:4][sr:5][sp:6][os:7]C[Dia. 03 Bik
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+Sometimes it is good to attack from the outside. Shall we try this time as well?
+So Black starts with 1.
+
+After that White has to take with 2, then Black 3 and White 4 are necessary moves.
+
+It becomes \cf1\b bik \cf0\b0 up to 7. This is a\cf2\b  failure for Black\cf0\b0  again, which means Black 1 was bad.
+])
+(;AW[qn][ro][rp][oq][pq][qq][or][qr]AB[oo][np][pp][qp][nq][rq][nr][pr][rr][rs]
+;B[ps]
+;W[qs]
+;B[op]LB[ps:1][qs:2][op:3]C[Dia. 04 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black 1 is the \cf1\b vital point for the capturing race\cf0\b0 . Whenever White got to play here, Black was in trouble. The opponent's vital point is my vital.
+
+After White 2, Black fills the liberty at 3 and wins the capturing race.
+
+Therefore\b  Black didn't have to answer White's pae threat\b0 .
+
+])
+)

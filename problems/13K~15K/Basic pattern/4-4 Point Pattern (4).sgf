@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[oq]AW[mp][nq][oq]AB[no][np][pp]LB[pn:][po:B][op:A][pq:C]LB[pn:][po:B][op:A][pq:C]CR[oq]C[4-4 Point joseki (4)
+
+{\colortbl ;\red0\green0\blue255;}
+
+It's \cf1\b Black\cf0\b0 's turn.
+
+\f1 Which one is best response A, B, C ?\f0
+])
+(;AW[pn][mp][nq][oq]AB[no][np][pp]
+;B[po]
+;W[qr]
+;B[qn]LB[po:1][qr:2][qn:3]C[Dia1(Solution)
+
+{\colortbl ;\red0\green0\blue255;}
+
+In this situation, bamboo joint is best move.
+Black can connect completely and pressure the White stone.
+
+White sliding at 2, Black bends at 3.
+Up to \cf1\b B3\cf0\b0 , it is basic joseki.
+
+])
+(;AW[pn][mp][nq][oq]AB[no][np][pp]
+;B[op]
+;W[pq]LB[op:1][pq:2]C[Dia2(Empty triangle)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b B1 \cf0\b0 is too simple. It makes a empty triangle.
+
+When White plays at 2, Black is drifting on air without an eye.
+])
+(;AW[pn][mp][nq][oq]AB[no][np][pp]
+;B[pq]
+;W[op]
+;B[oo]
+;W[po]
+;B[pr]
+;W[lq]
+;B[ro]
+;W[mn]LB[pq:1][op:2][oo:3][po:4][pr:5][lq:6][ro:7][mn:8]C[Dia3(Failure)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Black's C is failure. because Black's three stones dead by \cf1\b W2\cf0\b0 , \cf1\b W4\cf0\b0 .
+])
+(;AW[pn][mp][op][nq][oq]AB[no][np][pp][pq]
+;B[po]
+;W[oo]
+;B[qn]
+;W[qm]LB[po:1][oo:2][qn:3][qm:4]C[Dia4(Bad move)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+\cf1\b B1 \cf0\b0 is also bad move.
+because White double bend at \cf2\b W4 \cf0\b0 is a nice play.
+])
+)

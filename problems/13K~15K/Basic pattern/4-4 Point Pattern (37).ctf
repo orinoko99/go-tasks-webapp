@@ -1,0 +1,103 @@
+//19
+5
+Star-point Joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par When Black plays 4 White should have played A. But White decided to tenuki.
+\par How should Black punish White?\lang1042\f1
+\par
+\par }
+#
+(
+1[qj]
+1[kp]
+1[pp]
+2[nq]
+65[kr]
+)
+4
+W[no]
+B[pn]
+W[pr]
+B[qq]
+1st Dia. Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a big move but it's a mistake. White will play 2 and White's group is safe now.\lang1042\f1
+\par }
+#
+(
+1[qj]
+1[pn]
+2[no]
+1[kp]
+1[pp]
+2[nq]
+1[qq]
+2[pr]
+)
+2
+B[qr]
+W[kr]
+2nd Dia. Black 1 and 3 are mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 and 3 are mistakes. White will play 4 and 6. This result is good for White.\lang1042\f1
+\par
+\par }
+#
+(
+1[qj]
+1[pn]
+2[no]
+1[kp]
+1[pp]
+2[nq]
+1[qq]
+2[pr]
+)
+6
+B[oq]
+W[or]
+B[np]
+W[mp]
+B[op]
+W[mr]
+3rd Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black has to play 1. This move makes White's group weaker, and also heavier.\lang1042\f1
+\par
+\par }
+#
+(
+1[qj]
+1[pn]
+2[no]
+1[kp]
+1[pp]
+2[nq]
+1[qq]
+2[pr]
+)
+1
+B[mp]
+4th Dia. Continuation
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When White plays 1 Black will answer 2, it's a good and strong move. White is heave now. Later if Black plays A it will be really painful for White.\lang1042\f1
+\par
+\par
+\par }
+#
+(
+1[qj]
+1[pn]
+2[no]
+1[kp]
+1[mp]
+1[pp]
+2[nq]
+1[qq]
+65[nr]
+2[pr]
+)
+2
+W[np]
+B[mq]

@@ -1,0 +1,190 @@
+//19
+5
+Can be alive by one move(90)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par How to use two stones is important.
+\par
+\par }
+#
+(
+1[no]
+1[oo]
+1[kp]
+1[lp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+1[iq]
+1[kq]
+2[lq]
+2[mq]
+1[oq]
+6[pq]
+1[qq]
+1[jr]
+2[kr]
+2[mr]
+1[or]
+6[pr]
+2[ks]
+)
+0
+Dia.1(Huge mistake)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Up to 5, W can live easily but is this the right sequence??
+\par
+\par B had\cf1\b  a huge mistake.\cf0\b0
+\par
+\par }
+#
+(
+1[no]
+1[oo]
+1[kp]
+1[lp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+1[iq]
+1[kq]
+2[lq]
+2[mq]
+1[oq]
+2[pq]
+1[qq]
+1[jr]
+2[kr]
+2[mr]
+1[or]
+2[pr]
+65[qr]
+2[ks]
+)
+5
+W[nr]
+B[qr]
+W[ns]
+B[ps]
+W[ls]
+Dia.2(Good move)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \cf1\b Dansu at 1 is the proper direction.\cf0\b0
+\par
+\par Then B spot isn't sente anymore.
+\par
+\par }
+#
+(
+1[no]
+1[oo]
+1[kp]
+1[lp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+1[iq]
+1[kq]
+2[lq]
+2[mq]
+1[oq]
+2[pq]
+1[qq]
+1[jr]
+2[kr]
+2[mr]
+6[nr]
+1[or]
+2[pr]
+65[qr]
+2[ks]
+66[ns]
+)
+1
+B[ps]
+Dia.3(Diagonal move also fail)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Diagonal move also fail because B2 is \cf1\b a good respond.\cf0\b0
+\par
+\par Then B spot is also not a sente!!
+\par
+\par }
+#
+(
+1[no]
+1[oo]
+1[kp]
+1[lp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+1[iq]
+1[kq]
+2[lq]
+2[mq]
+1[oq]
+2[pq]
+1[qq]
+1[jr]
+2[kr]
+2[mr]
+66[nr]
+1[or]
+2[pr]
+2[ks]
+65[os]
+)
+2
+W[ns]
+B[ps]
+Dia.4(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Descent at the first line is very good aim.
+\par
+\par Now, W3 is sente so up to 5, it is \cf1\b the life of two eyes.\cf0\b0
+\par
+\par }
+#
+(
+1[no]
+1[oo]
+1[kp]
+1[lp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+1[iq]
+1[kq]
+2[lq]
+2[mq]
+1[oq]
+2[pq]
+1[qq]
+1[jr]
+2[kr]
+2[mr]
+1[or]
+2[pr]
+2[ks]
+)
+5
+W[ps]
+B[os]
+W[ns]
+B[qr]
+W[ls]

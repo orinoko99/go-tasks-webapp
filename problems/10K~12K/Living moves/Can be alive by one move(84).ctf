@@ -1,0 +1,191 @@
+//19
+5
+Can be alive by one move(84)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\ltrpar\lang1042\f0
+\par \lang1033\f1 First move is important.\f2
+\par \lang1042\f0
+\par }
+#
+(
+2[pn]
+2[qn]
+2[rn]
+2[oo]
+1[qo]
+1[ro]
+2[so]
+2[op]
+1[pp]
+1[qp]
+2[oq]
+1[pq]
+2[qq]
+2[rq]
+2[or]
+1[pr]
+2[qr]
+1[rr]
+1[ps]
+1[qs]
+2[rs]
+)
+0
+Dia.1(B's wish)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par You might think that 'It's easy!!B dansu at 1 ,W connects at 2 and B3 can make two eyes'
+\par
+\par But this result is just B's wish.
+\par
+\par }
+#
+(
+2[pn]
+2[qn]
+2[rn]
+2[oo]
+1[qo]
+1[ro]
+2[so]
+2[op]
+1[pp]
+1[qp]
+2[oq]
+1[pq]
+2[qq]
+2[rq]
+2[or]
+1[pr]
+2[qr]
+1[rr]
+1[ps]
+1[qs]
+2[rs]
+)
+3
+B[sp]
+W[sn]
+B[sr]
+Dia.2(Seem fail)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W should have captured one stone.
+\par
+\par Up to 4, it seems fail because W's group is dead.
+\par BUT!!
+\par
+\par Continue the next page_
+\par }
+#
+(
+2[pn]
+2[qn]
+2[rn]
+2[oo]
+1[qo]
+1[ro]
+2[so]
+2[op]
+1[pp]
+1[qp]
+1[sp]
+2[oq]
+1[pq]
+2[qq]
+2[rq]
+2[or]
+1[pr]
+2[qr]
+1[rr]
+1[ps]
+1[qs]
+2[rs]
+)
+4
+W[sr]
+B[sn]
+W[rl]
+B[sq]
+Dia.3(Flower six)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W's dead group is\cf1\b  flower six!!
+\par \cf0\b0
+\par So B can't make two eyes.
+\par
+\par }
+#
+(
+2[rl]
+2[pn]
+2[qn]
+2[rn]
+1[sn]
+2[oo]
+1[qo]
+1[ro]
+2[op]
+1[pp]
+1[qp]
+1[sp]
+2[oq]
+1[pq]
+2[qq]
+2[rq]
+1[sq]
+2[or]
+1[pr]
+2[qr]
+2[sr]
+1[ps]
+1[qs]
+2[rs]
+)
+2
+B[rp]
+W[rr]
+Dia.4 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Descent at 1 is\cf1\b  the only way to live.\cf0\b0
+\par
+\par W can capture two stones but B3 and 5 are good combination so up to 7, W's five stones are in \lang1033\f1 chokchoksu. \lang1042\f0
+\par
+\par }
+#
+(
+2[pn]
+2[qn]
+2[rn]
+2[oo]
+1[qo]
+1[ro]
+2[so]
+2[op]
+1[pp]
+1[qp]
+2[oq]
+1[pq]
+2[qq]
+2[rq]
+2[or]
+1[pr]
+2[qr]
+1[rr]
+1[ps]
+1[qs]
+2[rs]
+)
+7
+B[sr]
+W[sq]
+B[sp]
+W[ss]
+B[rr]
+W[rp]
+B[sr]

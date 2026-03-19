@@ -1,0 +1,48 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pr][qr][rr][sr][ps]AB[qm][qp][rp][sp][oq][pq][or][os]LB[rs:A]LB[rs:A]C[Easy Counting(19)
+
+
+\b White to play\b0 (or \b Black to play\b0 ).
+If White plays at A, he lives with two eyes. What is the value of this move?
+
+Of course it has to be compared with the case if Black plays at A.
+
+])
+(;AW[pr][qr][rr][sr][ps]AB[qm][qp][rp][sp][oq][pq][or][os]
+;W[rs]LB[rs:1]C[Dia. 01 If White Plays
+
+{\colortbl ;\red0\green0\blue255;}
+
+White plays at 1 and\cf1\b  lives with two points\cf0\b0 .
+
+
+])
+(;CR[pr][qr][rr][sr][ps]AW[pr][qr][rr][sr][ps]AB[qm][qp][rp][sp][oq][pq][or][os]
+;B[rs]LB[rs:1]CR[pr][qr][rr][sr][ps]C[Dia. 02 If Black Plays
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black would start with 1 as well. This case White \'a1\'e2 stones are dead.
+
+Black captured 5 stones which means 10 points plus 5 other points which means all together \cf1\b 15 points\cf0\b0 .
+
+
+
+
+
+])
+(;AW[pr][qr][rr][sr][ps]AB[qm][qp][rp][sp][oq][pq][or][os]LB[rs:A]LB[rs:A]C[Dia. 03 Value of A?
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+After counting it is 2+15=\cf1\b 17 points\cf0\b0 .
+
+A is the move for both players which is worth \cf2\b gote 17 points\cf0\b0 .
+
+])
+)

@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[lp][np][op][pq][qq][rq][mr][pr][qs]AB[ql][pn][oo][pp][qp][rp][oq][or][os][ps]LBC[Be careful resistance
+
+
+\lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+
+B has three liberties and W also has three liberties.
+
+Be careful resistance!!
+
+
+])
+(;AW[lp][np][op][pq][qq][rq][mr][pr][qs]AB[ql][pn][oo][pp][qp][rp][oq][or][os][ps]
+;B[rs]
+;W[rr]LB[rs:1][rr:2]C[DIa.1(Ko)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Dansu at 1 is very careless attack.
+W will make a\cf1\b  ko\cf0\b0
+This is the resistance that I told you before!
+
+])
+(;AW[lp][np][op][pq][qq][rq][mr][pr][qs]AB[ql][pn][oo][pp][qp][rp][oq][or][os][ps]LB[rs:A][ss:B]
+;B[sq]
+;W[rr]
+;B[sr]
+;W[nq]LB[sq:1][rr:2][sr:3][nq:4][rs:A][ss:B]C[DIa.2(Burden for B)
+
+{\colortbl ;\red255\green0\blue0;}
+
+B1 looks like a good attack but making one eye(W2) is a quite proper answer.
+
+After 4, B should play at A and it's a ko.
+\cf1\b This is also burden for B.\cf0\b0
+
+])
+(;AW[lp][np][op][pq][qq][rq][mr][pr][qs]AB[ql][pn][oo][pp][qp][rp][oq][or][os][ps]
+;B[rr]
+;W[sr]
+;B[rs]LB[rr:1][sr:2][rs:3]C[DIa.3(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Attaching at\cf1\b  2 to 2 point\cf0\b0  is a tesuji of capturing race.
+
+B can capture W's group easily.
+
+
+])
+)

@@ -1,0 +1,178 @@
+//19
+5
+Can be alive by one move(71)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par This is a little bit difficult!!
+\par
+\par }
+#
+(
+1[qm]
+1[rm]
+5[sm]
+1[qn]
+2[rn]
+1[sn]
+1[qo]
+2[ro]
+1[pp]
+2[qp]
+2[sp]
+1[pq]
+2[qq]
+1[nr]
+1[pr]
+2[qr]
+2[rr]
+2[ps]
+1[qs]
+)
+0
+Dia.1(Misreading)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W1 tries to defend throw in move and wants B capture at A.
+\par But \cf1\b it is misreding.\cf0\b0
+\par
+\par Playing inside at 2 is a strong attack.
+\par Up to 4, W is dead.
+\par }
+#
+(
+1[qm]
+1[rm]
+1[sm]
+1[qn]
+2[rn]
+1[sn]
+1[qo]
+2[ro]
+1[pp]
+2[qp]
+2[sp]
+1[pq]
+2[qq]
+1[nr]
+1[pr]
+2[qr]
+2[rr]
+65[os]
+2[ps]
+1[qs]
+)
+4
+W[rp]
+B[sq]
+W[rs]
+B[sr]
+Dia.2(Common move)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Capturing at 1 seems to be a common move but it is the way to be death.
+\par
+\par However, throw in at 2 is a slack move so up to 5, W can make two eyes.
+\par
+\par
+\par }
+#
+(
+1[qm]
+1[rm]
+1[sm]
+1[qn]
+2[rn]
+1[sn]
+1[qo]
+2[ro]
+1[pp]
+2[qp]
+2[sp]
+1[pq]
+2[qq]
+1[nr]
+1[pr]
+2[qr]
+2[rr]
+2[ps]
+1[qs]
+)
+5
+W[rs]
+B[rp]
+W[rq]
+B[so]
+W[sr]
+Dia.3(2 to 1 point)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \cf1\b 2 to 1 point\cf0\b0  is the right vital point to kill W.
+\par
+\par Up to 3, W can't make two eyes.
+\par
+\par }
+#
+(
+1[qm]
+1[rm]
+1[sm]
+1[qn]
+2[rn]
+1[sn]
+1[qo]
+2[ro]
+1[pp]
+2[qp]
+2[sp]
+1[pq]
+2[qq]
+1[nr]
+1[pr]
+2[qr]
+2[rr]
+2[ps]
+2[rs]
+)
+3
+B[sr]
+W[sq]
+B[rp]
+Dia.4(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\cf1\lang1042\b\f0\fs18
+\par W1 is the vital point of life.\cf0\b0
+\par
+\par This is the best result of both.
+\par
+\par }
+#
+(
+1[qm]
+1[rm]
+1[sm]
+1[qn]
+2[rn]
+1[sn]
+1[qo]
+2[ro]
+1[pp]
+2[qp]
+2[sp]
+1[pq]
+2[qq]
+1[nr]
+1[pr]
+2[qr]
+2[rr]
+2[ps]
+1[qs]
+)
+3
+W[sq]
+B[os]
+W[rs]

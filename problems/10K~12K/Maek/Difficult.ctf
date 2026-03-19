@@ -1,0 +1,131 @@
+//19
+4
+Difficult?
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par Capturing race between B and W seems to be bed for W's four stones(\'a1\'e2).
+\par
+\par But there is a tesuji!!
+\par
+\par
+\par }
+#
+(
+1[qn]
+2[mp]
+2[op]
+2[pp]
+1[qp]
+1[rp]
+1[sp]
+1[pq]
+6[qq]
+6[rq]
+6[sq]
+2[nr]
+1[pr]
+6[rr]
+1[ps]
+)
+0
+DIa.1(Disadvantageous ko for W)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Reduction liberties from outside is the basic rule of capturing race.
+\par
+\par But in this case, the rule is bed because B2 is a\cf1\b  good move\cf0\b0 .
+\par W has to make ko(A) which is a \cf2\b disadvantageous ko\cf0\b0  for W.
+\par
+\par }
+#
+(
+1[qn]
+2[mp]
+2[op]
+2[pp]
+1[qp]
+1[rp]
+1[sp]
+1[pq]
+2[qq]
+2[rq]
+2[sq]
+2[nr]
+1[pr]
+2[rr]
+1[ps]
+65[ss]
+)
+2
+W[oq]
+B[rs]
+DIa.2(Self-dansu)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W1 is very heavy and a \cf1\b self-dansu move.
+\par
+\par \cf0\b0
+\par }
+#
+(
+1[qn]
+2[mp]
+2[op]
+2[pp]
+1[qp]
+1[rp]
+1[sp]
+1[pq]
+2[qq]
+2[rq]
+2[sq]
+2[nr]
+1[pr]
+2[rr]
+1[ps]
+65[qs]
+)
+2
+W[qr]
+B[qs]
+DIa.3(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Descent at 1 is a tesuji.
+\par
+\par Up to 5, B can't play at A.
+\par This result is \f1 the \cf1\b one eye versus no eye.\fs24
+\par \cf0\b0\f0\fs18
+\par
+\par }
+#
+(
+1[qn]
+2[mp]
+2[op]
+2[pp]
+1[qp]
+1[rp]
+1[sp]
+1[pq]
+2[qq]
+2[rq]
+2[sq]
+2[nr]
+1[pr]
+65[qr]
+2[rr]
+1[ps]
+65[qs]
+)
+5
+W[rs]
+B[qr]
+W[oq]
+B[sr]
+W[or]

@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[bm][em][cn][bo][bp][aq][cq][eq][gq][cr][dr][ds]AB[co][do][cp][fp][bq][dq][br][bs][cs]LBC[Capturing Race
+
+Black and White fight a fierce capturing race in the corner. Is there any way for Black to win it?
+])
+(;AW[bm][em][cn][bo][bp][aq][cq][eq][gq][cr][dr][ds]AB[co][do][cp][fp][bq][dq][br][bs][cs]
+;B[er]
+;W[dp]
+;B[es]
+;W[dq]
+;B[fq]LB[er:1][dp:2][es:3][dq:4][fq:5]C[Correct
+
+
+Black should take liberties from the key stones (the cutting stones) first. Even White captures at 2, Black reduces again the liberties from the key stones and finally wins the capturing race with Black 5.
+])
+(;AW[bm][em][cn][bo][bp][aq][cq][eq][gq][cr][dr][ds]AB[co][do][cp][fp][bq][dq][br][bs][cs]
+;B[dp]
+;W[er]LB[dp:1][er:2]C[Wrong
+
+
+Saving the single stone is not a good idea here. White connects and is ahead in liberties.
+])
+)

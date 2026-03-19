@@ -1,0 +1,97 @@
+//19
+3
+Black to kill
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Where should Black play to capture the white group?
+\par }
+#
+(
+1[bm]
+1[cm]
+2[an]
+2[bn]
+2[cn]
+1[dn]
+1[en]
+2[do]
+1[eo]
+2[dp]
+1[ep]
+2[aq]
+2[bq]
+2[cq]
+2[dq]
+1[eq]
+1[ar]
+1[br]
+1[cr]
+1[dr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black 1 is the vital point. Even White tries to live at White 2, Black can extend to 3, threatening a snapback at 4.
+\par }
+#
+(
+1[bm]
+1[cm]
+2[an]
+2[bn]
+2[cn]
+1[dn]
+1[en]
+2[do]
+1[eo]
+2[dp]
+1[ep]
+2[aq]
+2[bq]
+2[cq]
+2[dq]
+1[eq]
+1[ar]
+1[br]
+1[cr]
+1[dr]
+)
+4
+B[bp]
+W[bo]
+B[ap]
+W[co]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par This is the wrong side. White plays at 2 making miai at 3 and 4. That is, if Black plays 3, White lives at 4 and vice versa.
+\par }
+#
+(
+1[bm]
+1[cm]
+2[an]
+2[bn]
+2[cn]
+1[dn]
+1[en]
+2[do]
+1[eo]
+2[dp]
+1[ep]
+2[aq]
+2[bq]
+2[cq]
+2[dq]
+1[eq]
+1[ar]
+1[br]
+1[cr]
+1[dr]
+)
+4
+B[bo]
+W[bp]
+B[co]
+W[ao]

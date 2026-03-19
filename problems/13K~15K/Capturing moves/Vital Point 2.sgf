@@ -1,0 +1,52 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qm][rn][po][qo][pp][rp][pq][pr][qs]AB[ro][qp][qq][rq][qr][rs]LBC[Vital Point 2
+
+
+\b White to play\b0 .
+This problem looks a bit complicated.
+
+Anyway there is a move to capture Black. If White knows where should Black play to live, the solution of this problem comes automatically.
+])
+(;AW[qm][rn][po][qo][pp][rp][pq][pr][qs]AB[ro][qp][qq][rq][qr][rs]
+;W[sr]LB[sr:1]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White has to start with the \cf1\b placement \cf0\b0 at 1.
+
+Wherever White plays as the first move, if Black gets to play this move, he is alive.
+
+The real question is from now.
+
+
+])
+(;AW[qm][rn][po][qo][pp][rp][pq][pr][sr][qs]AB[ro][qp][qq][rq][qr][rs]
+;B[sp]
+;W[sn]
+;B[sq]
+;W[so]LB[sp:1][sn:2][sq:3][so:4]C[Dia. 02 Follow up
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black has to capture with 1 and then White descends at 2 and \cf1\b Black is dead\cf0\b0 .
+
+If Black plays at 3, White captures with 4. Moreover if Black plays at 4 instead of 3, White plays dansu with 3 and Black can't live anymore.
+])
+(;AW[qm][rn][po][qo][pp][rp][pq][pr][qs]AB[ro][qp][qq][rq][qr][rs]LB[sp:A]
+;W[so]
+;B[sr]LB[so:1][sr:2][sp:A]C[Dia. 03 Vital Point for Living
+
+{\colortbl ;\red0\green0\blue255;}
+
+If White can't see how to capture Black, he takes at 1.
+After that Black lives with 2.
+If White plays at A instead of 1, Black still lives with 2.
+This was the \cf1\b vital point for living\cf0\b0 .
+
+])
+)

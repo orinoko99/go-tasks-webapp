@@ -1,0 +1,187 @@
+//19
+6
+Vital Point to Capture?(30)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par White has to captue Black.
+\par
+\par If White plays at A, Black makes pae with B.
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+130[sq]
+2[nr]
+1[or]
+1[pr]
+2[rr]
+1[sr]
+2[ns]
+1[os]
+131[rs]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is the \cf1\b only move to avoid pae\cf0\b0 .
+\par Black has to play at 2 then if White cuts with 3 he can capture Black easily.
+\par
+\par Black has double shortage of liberties.
+\par
+\par
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+2[rr]
+1[sr]
+2[ns]
+1[os]
+)
+3
+W[rs]
+B[qs]
+W[sq]
+Dia. 02 Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's diagonal move at 1 is \cf1\b careless\cf0\b0 . Normally it is a a powerful vital point, but this time Black can resist.
+\par
+\par If Black plays at 2 it becomes pae.
+\par
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+2[rr]
+1[sr]
+2[ns]
+1[os]
+)
+2
+W[qs]
+B[rs]
+Dia. 03 Practice Problem
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par
+\par In this time, White has an extra liberty at X. It changes a lot about the life and death problem.
+\par
+\par What is the best result?
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+2[rr]
+1[sr]
+691[ns]
+1[os]
+)
+0
+Dia. 04 Pae is the Best
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's diagonal move at 1 is the best attack in this situation.
+\par After that, Black has to start the pae with 2.
+\par
+\par
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+2[rr]
+1[sr]
+1[os]
+)
+2
+W[qs]
+B[rs]
+Dia. 05 White 1, Careless
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It is careless if White tries to avoid the pae with 1.
+\par Black lives with the vital point at 2.
+\par
+\par After White 3, Black 4 works.
+\par
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+2[rr]
+1[sr]
+1[os]
+)
+4
+W[rs]
+B[qs]
+W[sq]
+B[qr]

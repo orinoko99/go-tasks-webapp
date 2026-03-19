@@ -1,0 +1,155 @@
+//19
+4
+The Vital Point for Death (41)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to Play.\b0
+\par Black has a critical weakpoint.
+\par
+\par It is easy, but if you don't double-check the anwser before you make a conclusion, you might fail.
+\par }
+#
+(
+2[nm]
+2[pn]
+2[qn]
+2[rn]
+2[sn]
+2[oo]
+1[po]
+1[qo]
+2[ro]
+1[so]
+2[op]
+1[pp]
+1[rp]
+1[sp]
+2[oq]
+1[pq]
+2[or]
+2[pr]
+1[qr]
+1[qs]
+)
+0
+Diagram 1 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Did you find white's attachment at 1?
+\par
+\par Instead of cutting black, it is a good move for white to aim at playing dansu from the inside like this.
+\par
+\par Black's connection at 2 is necessary.
+\par Next, white plays dansu at 3.
+\par
+\par And then -
+\par }
+#
+(
+2[nm]
+2[pn]
+2[qn]
+2[rn]
+2[sn]
+2[oo]
+1[po]
+1[qo]
+2[ro]
+1[so]
+2[op]
+1[pp]
+1[rp]
+1[sp]
+2[oq]
+1[pq]
+2[or]
+2[pr]
+1[qr]
+1[qs]
+)
+3
+W[rq]
+B[qq]
+W[sq]
+Diagram 2 (Correct Continuation)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par When black connects at 1, white 2 is a good move.
+\par
+\par If black tries to resist with 3, white 4 is a decisive blow!
+\par
+\par It is easy to see that black cannot live, even if the four white stones are captured.
+\par
+\par Instead of 3, even if black plays at 4, white captures the stone with \b\f1 A\b0\f0  and it becomes an eye vs. no eye capturing race.
+\par }
+#
+(
+2[nm]
+2[pn]
+2[qn]
+2[rn]
+2[sn]
+2[oo]
+1[po]
+1[qo]
+2[ro]
+1[so]
+2[op]
+1[pp]
+1[rp]
+1[sp]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[sq]
+2[or]
+2[pr]
+1[qr]
+1[qs]
+65[ss]
+)
+4
+B[qp]
+W[rr]
+B[rs]
+W[sr]
+Diagram 3 (Only Small)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's cut at 01 gives up the chance of a big profit in exchange for something small...
+\par
+\par Black does not connect but instead plays dansu at 2 and sacrifices the four black stones.
+\par
+\par Now, black can live with 4.
+\par
+\par White has failed to capture the whole black group.
+\par }
+#
+(
+2[nm]
+2[pn]
+2[qn]
+2[rn]
+2[sn]
+2[oo]
+1[po]
+1[qo]
+2[ro]
+1[so]
+2[op]
+1[pp]
+1[rp]
+1[sp]
+2[oq]
+1[pq]
+2[or]
+2[pr]
+1[qr]
+1[qs]
+)
+4
+W[qq]
+B[rq]
+W[qp]
+B[sr]

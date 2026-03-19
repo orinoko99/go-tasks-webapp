@@ -1,0 +1,75 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qk][cl][dn][no][oo][po][qo][ro][so][ap][bp][cp][dp][ep][sp][aq][qq][rq][br][cr][rr]AB[fp][mp][np][op][pp][qp][rp][bq][cq][dq][eq][fq][jq][pq][ar][dr][pr][qr][cs]LB[as:A][rs:B]LB[as:A][rs:B]C[Which side is bigger?(10)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Which side is bigger \b A\b0  or \b B\b0 ?
+
+Think about it from both Black and White's perspective to decide which is bigger.  Also calculate how much each side is.\lang1042\f0\fs18
+
+\cf1 1)\cf0\lang1033\b\f1\fs16 A\cf2\b0  is bigger.\lang1042\f0\fs18    \cf1
+2)\cf0\lang1033\b\f1\fs16 B \cf2\b0 is bigger.\lang1042\f0\fs18   \cf0
+\cf1 3)\cf2\lang1033\f1\fs16 They're the same.\cf0\lang1042\f0\fs18
+\cf2
+\cf1
+\cf0
+])
+(;AW[qk][cl][dn][no][oo][po][qo][ro][so][ap][bp][cp][dp][ep][sp][aq][qq][rq][br][cr][rr]AB[fp][mp][np][op][pp][qp][rp][bq][cq][dq][eq][fq][jq][pq][ar][dr][pr][qr][cs]
+;W[as]LB[as:1]C[Dia.1 How big is A?
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Let's start off by calculating how big the left side is.
+
+White takes a stone with 1 but doesn't make any territory otherwise.  He gets \cf1\b 1 point\cf0\lang1042\b0\f0\fs18 .
+
+
+])
+(;AW[qk][cl][dn][no][oo][po][qo][ro][so][ap][bp][cp][dp][ep][sp][aq][qq][rq][br][cr][rr]AB[fp][mp][np][op][pp][qp][rp][bq][cq][dq][eq][fq][jq][pq][ar][dr][pr][qr][cs]LB[as:?][ds:?]
+;B[bs]LB[bs:1][as:?][ds:?]C[Dia.2 7 points
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 When Black plays 1, he captures two stones, so that is two points.  Then the two X marked spots are two points, and two points in the middle, for a total of 6 points.
+\lang1042\f0\fs18
+\lang1033\f1\fs16 A is worth:\lang1042\f0\fs18
+1+6=\cf1\b 7\lang1033\f1\fs16  points in husu\cf0\b0 .\lang1042\f0\fs18
+
+
+
+
+])
+(;AW[qk][cl][dn][no][oo][po][qo][ro][so][ap][bp][cp][dp][ep][sp][aq][qq][rq][br][cr][rr]AB[fp][mp][np][op][pp][qp][rp][bq][cq][dq][eq][fq][jq][pq][ar][dr][pr][qr][cs]LB[ps:B][qs:A]
+;W[rs]LB[rs:1][ps:B][qs:A]C[Dia.3 How big is B?
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 This time let's turn our attention to the right part of the board \lang1042\f0\fs18 (\lang1033\b\f1\fs16 B\lang1042\b0\f0\fs18 )\lang1033\f1\fs16 .
+
+If White descends at 1 he gets 3 points of \cf1\b so this is worth 3 points\cf0\lang1042\b0\f0\fs18 .
+
+\lang1033\f1\fs16 Next White A is seonsu and Black will block at B.
+
+\lang1042\f0\fs18
+])
+(;AW[qk][cl][dn][no][oo][po][qo][ro][so][ap][bp][cp][dp][ep][sp][aq][qq][rq][br][cr][rr]AB[fp][mp][np][op][pp][qp][rp][bq][cq][dq][eq][fq][jq][pq][ar][dr][pr][qr][cs]LB[ps:?]
+;B[rs]LB[rs:1][ps:?]C[Dia.4 4 points in husu
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Black 1 means that White gets no points in the corner but he does get to keep a point at X since White no longer has any seonsu moves against him.
+
+Therefore \b the right side, B, is worth \lang1042\b0\f0\fs18 3+1=\cf1\b 4\lang1033\f1\fs16  points\cf0\lang1042\b0\f0\fs18 .
+\lang1033\b\f1\fs16 A\b0  is 3 points bigger than \b B\b0 .\lang1042\f0\fs18
+])
+(;AW[qk][cl][dn][no][oo][po][qo][ro][so][ap][bp][cp][dp][ep][sp][aq][qq][rq][br][cr][rr]AB[fp][mp][np][op][pp][qp][rp][bq][cq][dq][eq][fq][jq][pq][ar][dr][pr][qr][cs]LBC[No diagram name
+
+
+
+])
+)

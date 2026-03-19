@@ -1,0 +1,225 @@
+//19
+6
+Easy Counting(13)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 (or \b White to play\b0 ).
+\par
+\par It is the same value again either Black captures White \'a1\'e2 stone or White captures Black \'a1\'e3 stone.
+\par
+\par It is slighty different from the previous problem.
+\par
+\par Don't forget who has the privilege to play the next move.
+\par }
+#
+(
+1[qm]
+2[po]
+1[qo]
+2[mp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[hq]
+2[kq]
+2[mq]
+1[nq]
+1[oq]
+2[lr]
+5[mr]
+6[nr]
+1[or]
+)
+0
+Dia. 01 If Black Plays
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Let's check the points if Black plays first.
+\par Next, it is counted as though White gets A and Black gets B.
+\par The result is moved to the next diagram.
+\par
+\par
+\par
+\par
+\par
+\par }
+#
+(
+1[qm]
+2[po]
+1[qo]
+2[mp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[hq]
+2[kq]
+2[mq]
+1[nq]
+1[oq]
+2[lr]
+1[mr]
+2[nr]
+1[or]
+65[ls]
+66[ms]
+)
+1
+B[ns]
+Dia. 02 Black 15 Points, White 6 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par This is the shape we got.
+\par The borderlines are made by Xs again for the convenient counting.
+\par
+\par \cf1\b Black\cf0\b0  gets \cf1\b 15 points\cf0\b0  and \cf1\b White\cf0\b0  gets \cf1\b 6 points\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+1[qm]
+2[po]
+1[qo]
+2[mp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+691[rp]
+691[sp]
+2[hq]
+691[iq]
+691[jq]
+2[kq]
+2[mq]
+1[nq]
+1[oq]
+691[hr]
+2[lr]
+1[mr]
+1[or]
+691[hs]
+2[ls]
+1[ms]
+1[ns]
+)
+0
+Dia. 03 If White Plays
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White is \cf1\b also\cf0\b0  capturing the stone with 1.
+\par
+\par However the situation is a bit different now. White has the privilege for the next move.
+\par
+\par
+\par }
+#
+(
+1[qm]
+2[po]
+1[qo]
+2[mp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[hq]
+2[kq]
+2[mq]
+1[nq]
+1[oq]
+2[lr]
+1[mr]
+2[nr]
+1[or]
+)
+1
+W[ms]
+Dia. 04 White's Right
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The hane at 1 is \cf1\b White's right\cf0\b0 . Black has to pull back with 2.
+\par White 3 and 5 are sente endgame moves.
+\par
+\par
+\par }
+#
+(
+1[qm]
+2[po]
+1[qo]
+2[mp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[hq]
+2[kq]
+2[mq]
+1[nq]
+1[oq]
+2[lr]
+2[nr]
+1[or]
+2[ms]
+)
+6
+W[os]
+B[pr]
+W[ps]
+B[qs]
+W[ns]
+B[qr]
+Dia. 05 Gote 10 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The borderlines are made again by Xs, same like in \b Dia. 02\b0 .
+\par
+\par Black got 8 points, White got 9 points.
+\par
+\par After counting
+\par (15-8)+(9-6)=\cf1\b 10 points\cf0\b0 .
+\par The value of capturing the Black (or White stone) on the \b main diagram\b0  is \cf2\b 10 points\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+1[qm]
+2[po]
+1[qo]
+2[mp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+691[rp]
+691[sp]
+2[hq]
+691[iq]
+691[jq]
+2[kq]
+2[mq]
+1[nq]
+1[oq]
+691[hr]
+2[lr]
+2[nr]
+1[or]
+1[pr]
+1[qr]
+691[hs]
+2[ms]
+2[ns]
+2[os]
+2[ps]
+1[qs]
+)
+0

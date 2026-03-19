@@ -1,0 +1,53 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ap][bp][ep][fp][cq][dq][fq][hq][br][cr][gr]AB[cn][en][ao][bo][cp][dp][bq][eq][dr][er][fr]LBC[Capturing Race
+
+Black has a nice tesuji to capture all white corner stones. Where is it?
+])
+(;AW[ap][bp][ep][fp][cq][dq][fq][hq][br][cr][gr]AB[cn][en][ao][bo][cp][dp][bq][eq][dr][er][fr]
+;B[ar]
+;W[aq]
+;B[bq]
+;W[fs]
+;B[bs]
+;W[es]
+;B[cs]LB[ar:1][aq:2][bq:3][fs:4][bs:5][es:6][cs:7]C[Correct
+
+Black should hane to create a snapback. Like this, he can capture all corner stones and save his own stones.
+
+])
+(;AW[ap][bp][ep][fp][cq][dq][fq][hq][br][cr][gr]AB[cn][en][ao][bo][cp][dp][bq][eq][dr][er][fr]
+;B[aq]
+;W[fs]
+;B[ar]
+;W[es]
+;B[bs]
+;W[ds]LB[aq:1][fs:2][ar:3][es:4][bs:5][ds:6]C[Wrong
+
+Just capturing two stones is not enough. Like this, White is ahead in liberties and captures the four black stones.
+
+])
+(;AW[ap][bp][ep][fp][cq][dq][fq][hq][br][cr][gr]AB[cn][en][ao][bo][cp][dp][bq][eq][dr][er][fr]
+;B[cs]
+;W[aq]
+;B[bs]
+;W[ar]
+;B[ds]
+;W[fs]LB[cs:1][aq:2][bs:3][ar:4][ds:5][fs:6]C[Wrong: One eye vs. no eye
+
+Filling the liberties from the outside won't do it either. White makes an eye and breaks Black's eye. Such a situation is called "one eye versus no eye". Having an eye is preferable and wins the capturing race.
+])
+(;AW[ap][bp][ep][fp][cq][dq][fq][hq][br][cr][gr]AB[cn][en][ao][bo][cp][dp][bq][eq][dr][er][fr]
+;B[bs]
+;W[aq]
+;B[ar]
+;W[as]LB[bs:1][aq:2][ar:3][as:4]C[Wrong: Pae (Ko)
+
+Playing the belly attachment makes a pae (ko) but this is not enough. Compare with the correct answer in which Black could capture unconditionally.
+
+])
+)

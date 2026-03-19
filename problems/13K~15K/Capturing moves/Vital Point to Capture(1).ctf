@@ -1,0 +1,165 @@
+//19
+6
+Vital Point to Capture?(1)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 .
+\par Black has to capture White.
+\par
+\par It is an easy problem but still Black should be careful.
+\par
+\par
+\par
+\par }
+#
+(
+1[qo]
+1[rp]
+1[nq]
+1[pq]
+1[qq]
+2[rq]
+1[or]
+2[pr]
+2[qr]
+2[rs]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's placement at 1 is the\cf1\b  best way to attack and avoid pae\cf0\b0 .
+\par
+\par }
+#
+(
+1[qo]
+1[rp]
+1[nq]
+1[pq]
+1[qq]
+2[rq]
+1[or]
+2[pr]
+2[qr]
+2[rs]
+)
+1
+B[sr]
+Dia. 02 Follow up
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par After White cuts with 1, Black plays hane at 2 and White can't live anymore.
+\par
+\par Before playing the hane at 2, Black can also play the exchange of A for White B.
+\par
+\par
+\par }
+#
+(
+1[qo]
+1[rp]
+65[sp]
+1[nq]
+1[pq]
+1[qq]
+2[rq]
+1[or]
+2[pr]
+2[qr]
+66[rr]
+1[sr]
+2[rs]
+)
+2
+W[sq]
+B[ps]
+Dia. 03 Black's Hope
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Some people might think playing at 1 is the same.
+\par
+\par If White connects at 2, then it would be great for Black.
+\par
+\par A and B are miai, so White dies in gote.
+\par
+\par However White is not going to play like this.
+\par }
+#
+(
+1[qo]
+1[rp]
+1[nq]
+1[pq]
+1[qq]
+2[rq]
+1[or]
+2[pr]
+2[qr]
+66[sr]
+65[ps]
+2[rs]
+)
+2
+B[sq]
+W[rr]
+Dia. 04 Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against Black 1, White resists with 2.
+\par If Black wants to capture this White, he has to win the pae at A.
+\par
+\par If once Black pulls back at 3, White plays at 4 and it is still pae.
+\par
+\par
+\par }
+#
+(
+1[qo]
+1[rp]
+1[nq]
+1[pq]
+1[qq]
+2[rq]
+1[or]
+2[pr]
+2[qr]
+65[rr]
+2[rs]
+)
+4
+B[sq]
+W[sr]
+B[sp]
+W[ps]
+Dia. 05 Scared
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black worries that White would start a pae, so he plays the hane at 1.
+\par
+\par Then White lives easily at 2.
+\par
+\par After Black 3, White answers with 4, and against Black 5, White plays at 6 and lives with two eyes.
+\par
+\par }
+#
+(
+1[qo]
+1[rp]
+1[nq]
+1[pq]
+1[qq]
+2[rq]
+1[or]
+2[pr]
+2[qr]
+2[rs]
+)
+6
+B[ps]
+W[sr]
+B[sp]
+W[sq]
+B[os]
+W[qs]

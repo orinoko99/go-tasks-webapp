@@ -1,0 +1,173 @@
+//19
+5
+Vital Point to Capture?(9)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Black just played the one-space jump at \'a1\'e3. Black played here to live, but actually it is the opposite.
+\par
+\par Find the move which captures Black. Also think about what was the correct move for Black.
+\par
+\par
+\par }
+#
+(
+2[mo]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[ns]
+5[rs]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's\cf1\b  cut\cf0\b0  at 1 is the \cf1\b starting point\cf0\b0 .
+\par After White plays here, Black is in trouble.
+\par
+\par After Black 2, White plays at 3 (or at A) and the eye becomes false on this side, so Black is dead.
+\par }
+#
+(
+2[mo]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[ns]
+65[os]
+66[qs]
+1[rs]
+)
+3
+W[qr]
+B[rr]
+W[ps]
+Dia. 02 Illusion
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a serious \cf1\b illusion\cf0\b0 .
+\par After Black blocks at 2, White's dansu at 3 doesn't work.
+\par
+\par Black answers at 4 and lives with five points.
+\par
+\par
+\par }
+#
+(
+2[mo]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[ns]
+1[rs]
+)
+4
+W[os]
+B[ps]
+W[qr]
+B[qs]
+Dia. 03 Captured?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's attach at 1 is a \cf1\b mistake\cf0\b0 .
+\par However Black 2 is another one.
+\par
+\par White throws-in at 3 and it is possible to capture Black.
+\par If Black plays at 3 instead of 2, he is alive.
+\par }
+#
+(
+2[mo]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[ns]
+1[rs]
+)
+3
+W[ps]
+B[qs]
+W[qr]
+Dia. 04 Black's Correct Move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par From the beginning Black's diagonal move at 1 is the \cf1\b correct move\cf0\b0  then Black can live.
+\par
+\par After White 2, Black 3 is another \cf1\b great move\cf0\b0 . Black has to sacrifice his three stones, but he can live up to 5.
+\par
+\par
+\par }
+#
+(
+2[mo]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[ns]
+)
+5
+B[qs]
+W[os]
+B[rr]
+W[ps]
+B[ss]

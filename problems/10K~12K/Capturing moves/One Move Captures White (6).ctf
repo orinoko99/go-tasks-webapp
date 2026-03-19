@@ -1,0 +1,167 @@
+//19
+5
+One Move Captures White (6)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to Play.\b0
+\par To  begin with, white's group in the corner is perfectly alive.
+\par
+\par Then,
+\par
+\par Black plays at 1 and white makes a hanging connection with 2.
+\par Something is wrong. White has made a mistake meaning there is a chance for black.
+\par }
+#
+(
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[mq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[mr]
+2[nr]
+1[qr]
+2[rr]
+2[sr]
+)
+2
+B[nq]
+W[os]
+Diagram 1 (Black Mistake)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Now it is black's turn to make a mistake by playing dansu at 1. It is like a mistake competition. White connects at 2 and that's it.
+\par
+\par Some might think this is natural.
+\par However, there is a move to capture white.
+\par }
+#
+(
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[mq]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[mr]
+2[nr]
+1[qr]
+2[rr]
+2[sr]
+2[os]
+)
+2
+B[pr]
+W[or]
+Diagram 2 (Ineffective)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par What if black hanes at 1?
+\par This lacks effectiveness. White plays dansu at 2 and there is no move left.
+\par
+\par Even if black connects at 3, white plays dansu at 4 and lives.
+\par
+\par \pard\nowidctlpar\qj However, it is worth mentioning that it is now seonsu for black to descent at 5. If white doesn't play at \b\f1 A\b0\f0 , black plays at \b\f1 B\b0\f0  killing white.
+\par \pard
+\par }
+#
+(
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[mq]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[mr]
+2[nr]
+1[qr]
+2[rr]
+2[sr]
+66[ns]
+2[os]
+65[ss]
+)
+5
+B[rs]
+W[pr]
+B[qs]
+W[ps]
+B[ms]
+Diagram 3 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's diagonal move is a vital point that is not easy to find unless you know of it. It aims at capturing the three white \'a1\'e2 stones.
+\par
+\par Actually, it is not just the three white stones but white's whole group.
+\par \pard\nowidctlpar\qj Now even if white connects at \b\f1 A\b0\f0 , the group is dead.
+\par }
+#
+(
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[mq]
+1[nq]
+6[oq]
+6[pq]
+6[qq]
+1[rq]
+1[mr]
+2[nr]
+65[or]
+1[qr]
+2[rr]
+2[sr]
+2[os]
+65[ps]
+)
+1
+B[ps]
+Diagram 4 (White's Correct Move)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par When black plays at \'a1\'e3, where should white play?
+\par
+\par Is it white 1? No, white gets into trouble again.
+\par
+\par \pard\nowidctlpar\qj The life-saving moves for white are \b\f1 A\b0\f0 , \b\f1 B\b0\f0 , or \b\f1 C\b0\f0 .
+\par \pard
+\par Please check for yourself.
+\par
+\par }
+#
+(
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[mq]
+5[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[mr]
+2[nr]
+65[pr]
+1[qr]
+2[rr]
+2[sr]
+66[ps]
+67[qs]
+)
+1
+W[or]

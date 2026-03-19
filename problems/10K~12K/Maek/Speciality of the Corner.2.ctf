@@ -1,0 +1,159 @@
+//19
+5
+Speciality of the Corner
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 .
+\par
+\par Since it is the first problem, it isn't difficult.
+\par
+\par It is a capturing race between Black \'a1\'e3 and White \'a1\'e2 stones.
+\par
+\par If one knows about the specility of the corner, he can solve it in a blink of an eye.
+\par
+\par }
+#
+(
+2[ql]
+2[qo]
+2[rp]
+1[mq]
+1[oq]
+1[pq]
+1[qq]
+2[rq]
+6[pr]
+6[qr]
+5[rr]
+)
+0
+Dia. 01 Actual Game
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par In actual game, Black might think, he has two liberties, while White has three so he can't win this capturing race. Therefore Black plays at 1.
+\par
+\par White plays dansu at 2 and save his stones.
+\par
+\par What would happen if White plays dansu from A?
+\par It would be a mistake for White.
+\par
+\par Then Black goes out at 2 and captures the White stones.
+\par
+\par }
+#
+(
+2[ql]
+2[qo]
+2[rp]
+1[mq]
+1[oq]
+1[pq]
+1[qq]
+2[rq]
+2[pr]
+2[qr]
+1[rr]
+65[sr]
+)
+2
+B[or]
+W[rs]
+Dia. 02 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par There is a hint in the previous diagram.
+\par Black's descending move at 1 is a \cf1\b basic maek\cf0\b0  in a capturing race.
+\par
+\par Black wins the capturing race up to 3.
+\par
+\par
+\par
+\par }
+#
+(
+2[ql]
+2[qo]
+2[rp]
+1[mq]
+1[oq]
+1[pq]
+1[qq]
+2[rq]
+2[pr]
+2[qr]
+1[rr]
+)
+3
+B[rs]
+W[sr]
+B[or]
+Dia. 03 Practice Problem
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Looks similar but a bit different.
+\par Black \'a1\'e3 stones are separated.
+\par
+\par If Black could capture the White \'a1\'e2 stones he would be safe. Is there a good move?
+\par
+\par If Black just plays the descend move at A, White can play at B and Black has not enough liberties.
+\par }
+#
+(
+2[ql]
+2[oo]
+2[qo]
+2[np]
+66[pp]
+2[rp]
+1[mq]
+2[nq]
+5[oq]
+5[pq]
+5[qq]
+2[rq]
+1[lr]
+1[nr]
+6[or]
+6[pr]
+6[qr]
+5[rr]
+1[ms]
+65[rs]
+)
+0
+Dia. 04 Excellent Hane
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's hane at 1 is\cf1\b  excellent\cf0\b0 .
+\par
+\par Up to 3, Black captures the three White stones. The descending move or the hane are famous maek.
+\par '
+\par
+\par }
+#
+(
+2[ql]
+2[oo]
+2[qo]
+2[np]
+2[rp]
+1[mq]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+2[rq]
+1[lr]
+1[nr]
+2[or]
+2[pr]
+2[qr]
+1[rr]
+1[ms]
+)
+3
+B[qs]
+W[sr]
+B[rs]

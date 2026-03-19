@@ -1,0 +1,149 @@
+//19
+4
+Vital Point to Capture?(24)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Black's living space looks enough but if White attacks calmly he can easily capture Black.
+\par
+\par The first move is the vital point.
+\par
+\par }
+#
+(
+2[rn]
+2[oo]
+2[po]
+2[mp]
+2[np]
+2[qp]
+2[rp]
+2[mq]
+1[nq]
+1[oq]
+1[qq]
+1[rq]
+1[sq]
+2[mr]
+2[nr]
+1[or]
+2[os]
+1[rs]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's \cf1\b attack\cf0\b0  on the first line is the vital point. Black can't capture White with out move.
+\par
+\par Black 2 is the strongest resistance but White's placement at 3 is calm.
+\par \cf1\b Black dies\cf0\b0  up to 5.
+\par
+\par
+\par
+\par }
+#
+(
+2[rn]
+2[oo]
+2[po]
+2[mp]
+2[np]
+2[qp]
+2[rp]
+2[mq]
+1[nq]
+1[oq]
+1[qq]
+1[rq]
+1[sq]
+2[mr]
+2[nr]
+1[or]
+2[os]
+1[rs]
+)
+5
+W[ps]
+B[pr]
+W[sr]
+B[qs]
+W[rr]
+Dia. 02 Two Eyes
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's hane at 1 is careless.
+\par Black 2 is a good move.
+\par White has to play at 3 and then Black lives with 4.
+\par
+\par If White breaks the eye with 4 instead of playing at 3, Black can squeeze with A and live.
+\par }
+#
+(
+2[rn]
+2[oo]
+2[po]
+2[mp]
+2[np]
+2[qp]
+2[rp]
+2[mq]
+1[nq]
+1[oq]
+1[qq]
+1[rq]
+1[sq]
+2[mr]
+2[nr]
+1[or]
+2[os]
+65[ps]
+1[rs]
+)
+4
+W[pr]
+B[qr]
+W[pq]
+B[sr]
+Dia. 03 Opponent's Vital Point
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's placement at 1 is a vital point, but Black has prepared a move against it.
+\par Black's block at 2 works.
+\par
+\par After White's cut at 3, Black can play the squeeze with 4 and 6.
+\par Black 2 was also the \cf1\b opponent's vital point\cf0\b0 .
+\par
+\par
+\par
+\par }
+#
+(
+2[rn]
+2[oo]
+2[po]
+2[mp]
+2[np]
+2[qp]
+2[rp]
+2[mq]
+1[nq]
+1[oq]
+1[qq]
+1[rq]
+1[sq]
+2[mr]
+2[nr]
+1[or]
+2[os]
+1[rs]
+)
+6
+W[sr]
+B[ps]
+W[pr]
+B[pq]
+W[qs]
+B[qr]

@@ -1,0 +1,146 @@
+//19
+4
+One Move Captures White (19)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to Play.\b0
+\par White's eyespace is very wide, but if you create a dead shape, you can easily capture white.
+\par
+\par Please make sure that it does not become pik.
+\par }
+#
+(
+1[ko]
+1[lp]
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+2[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[kr]
+1[lr]
+2[mr]
+2[qr]
+2[rr]
+1[sr]
+2[ls]
+1[ps]
+2[rs]
+)
+0
+Diagram 1 (Can Black Capture White?)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is usually a strong move.
+\par You might think this can capture white but that is not correct.
+\par
+\par Before you move to the next diagram, please think about where white can play to resist black.
+\par }
+#
+(
+1[ko]
+1[lp]
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+2[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[kr]
+1[lr]
+2[mr]
+2[qr]
+2[rr]
+1[sr]
+2[ls]
+1[ps]
+2[rs]
+)
+1
+B[or]
+Diagram 2 (Pik)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's diagonal move at 1 is the vital point for life.
+\par
+\par If black plays at 2, white plays at 3 creating a pik.
+\par }
+#
+(
+1[ko]
+1[lp]
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+2[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[kr]
+1[lr]
+2[mr]
+1[or]
+2[qr]
+2[rr]
+1[sr]
+2[ls]
+1[ps]
+2[rs]
+)
+3
+W[ns]
+B[os]
+W[pr]
+Diagram 3 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Please don't miss any moves in this sequence. White's peeping move on the first line at 1 is the vital point to kill white.
+\par
+\par White can only connect at 2. If black plays at 3, as shown up to 5, white is dead due to the bulky five shape.
+\par }
+#
+(
+1[ko]
+1[lp]
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+2[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[kr]
+1[lr]
+2[mr]
+2[qr]
+2[rr]
+1[sr]
+2[ls]
+1[ps]
+2[rs]
+)
+5
+B[ns]
+W[ms]
+B[or]
+W[nr]
+B[os]

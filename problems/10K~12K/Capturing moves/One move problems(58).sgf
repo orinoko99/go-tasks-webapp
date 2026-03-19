@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[rq]AW[ln][on][pn][qn][mo][no][qo][mp][op][qp][mq][qq][lr][rr][ls][ps][qs]AB[oo][po][np][pp][nq][pq][rq][mr][nr][or][pr][qr]LBCR[rq]C[One move problems(58)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Black has just cut with the marked stone.  You might think that you could just play any kind of move, after all, it looks like we can easily take this stone out.  However, there is a fantastic maek that will kill Black.  Where is it?
+
+\lang1042\f0\fs18
+])
+(;AW[ln][on][pn][qn][mo][no][qo][mp][op][qp][mq][qq][lr][rr][ls][ps][qs]AB[oo][po][np][pp][nq][pq][rq][mr][nr][or][pr][qr]
+;W[rs]
+;B[os]
+;W[rp]
+;B[ms]LB[rs:1][os:2][rp:3][ms:4]C[Dia.1 Alive with two eyes
+
+White's connection at 1 is just what Black wants.  Black 2 is seonsu, then, Black 4 makes a second eye.  White has to find another way.
+\lang1042\f1\fs18
+
+])
+(;CR[rr]AW[ln][on][pn][qn][mo][no][qo][mp][op][qp][mq][qq][lr][rr][ls][ps][qs]AB[oo][po][np][pp][nq][pq][rq][mr][nr][or][pr][qr]
+;W[rp]
+;B[os]
+;W[ms]
+;B[rs]LB[rp:1][os:2][ms:3][rs:4]CR[rr]C[Dia.2 Too straightforward
+
+Just capturing the stone is not the right idea, even if that might be what you would play in a real game.  Black can descend at 2 and then dansu at 4, which is seonsu.  Try something else.
+\lang1042\f1\fs18
+
+])
+(;AW[ln][on][pn][qn][mo][no][qo][mp][op][qp][mq][qq][lr][rr][ls][ps][qs]AB[oo][po][np][pp][nq][pq][rq][mr][nr][or][pr][qr]
+;W[ss]
+;B[os]
+;W[ms]LB[ss:1][os:2][ms:3]C[Dia.3 Correct/ The 1,1 point
+
+The 1,1 point is the key to this position and the maek.  Black bends at 2 and White can go ahead and erase the other eye with 3.  The great part?  Once Black takes the two stones White just takes back and it's all over.
+\lang1042\f1\fs18
+
+])
+(;AW[ln][on][pn][qn][mo][no][qo][mp][op][qp][mq][qq][lr][rr][ls][ps][qs]AB[oo][po][np][pp][nq][pq][rq][mr][nr][or][pr][qr]LBC[No diagram name
+
+
+
+])
+)

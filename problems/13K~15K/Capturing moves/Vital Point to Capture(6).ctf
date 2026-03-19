@@ -1,0 +1,160 @@
+//19
+5
+Vital Point to Capture?(6)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Black has a big eye-space, but if White plays the vital point, Black can collapse.
+\par
+\par The first move is the key, after that it becomes easy.
+\par
+\par }
+#
+(
+2[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+1[pq]
+1[sq]
+2[nr]
+1[or]
+1[rr]
+1[os]
+1[ps]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's \cf1\b attachment through the knight's move \cf0\b0 at 1 is the vital point.
+\par
+\par Attach through the knight's move!
+\par It is a famous proverb.
+\par It is often used during fights, but it is also very useful in life and death problems.
+\par
+\par Black has to answer with 2 and then White plays at 3 and Black is dead.
+\par
+\par }
+#
+(
+2[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+1[pq]
+1[sq]
+2[nr]
+1[or]
+1[rr]
+1[os]
+1[ps]
+)
+3
+W[qr]
+B[qq]
+W[rq]
+Dia. 02 Sente?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par I hope nobody wants to play at 1, just because it is sente.
+\par
+\par Black answers at 2 and lives with many points.
+\par
+\par The exchange of White 1 for Black 2 is only endgame.
+\par
+\par }
+#
+(
+2[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+1[pq]
+1[sq]
+2[nr]
+1[or]
+1[rr]
+1[os]
+1[ps]
+)
+2
+W[qq]
+B[qr]
+Dia. 03 White's Misjudge
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White plays dansu at 1, because he belives if Black answers with 2, he can capture Black with 3. However it is a \cf1\b wrong reading\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+2[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+1[pq]
+1[sq]
+2[nr]
+1[or]
+1[rr]
+1[os]
+1[ps]
+)
+3
+W[rq]
+B[sr]
+W[qr]
+Dia. 04 Opponent's Vital Point
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against White \'a1\'e2, Black 1 is a\cf1\b  nice move\cf0\b0 , then Black lives with two eyes.
+\par
+\par Black 1 comes from the proverb which says \cf1\b the opponent's vital point is my vital point\cf0\b0 .
+\par
+\par Therefore, it means \b Dia. 03 \b0 was a \cf2\b bad sequence\cf0\b0 .
+\par
+\par }
+#
+(
+2[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+1[pq]
+6[rq]
+1[sq]
+2[nr]
+1[or]
+1[rr]
+1[os]
+1[ps]
+)
+3
+B[qr]
+W[sr]
+B[rs]

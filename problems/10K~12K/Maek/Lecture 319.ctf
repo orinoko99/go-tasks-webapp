@@ -1,0 +1,112 @@
+//19
+3
+Black to Live
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Where should Black play to save his stones?
+\par }
+#
+(
+2[dm]
+2[em]
+2[fm]
+2[cn]
+1[dn]
+1[en]
+1[fn]
+2[gn]
+2[co]
+1[do]
+1[fo]
+2[go]
+2[cp]
+1[dp]
+1[ep]
+2[gp]
+2[cq]
+1[dq]
+2[fq]
+2[br]
+1[cr]
+1[dr]
+1[er]
+2[fr]
+2[ds]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black should use the maek/tesuji at 1. Even if White captures at 2, Black can atari at 3 and live at 5.
+\par
+\par }
+#
+(
+2[dm]
+2[em]
+2[fm]
+2[cn]
+1[dn]
+1[en]
+1[fn]
+2[gn]
+2[co]
+1[do]
+1[fo]
+2[go]
+2[cp]
+1[dp]
+1[ep]
+2[gp]
+2[cq]
+1[dq]
+2[fq]
+2[br]
+1[cr]
+1[dr]
+1[er]
+2[fr]
+2[ds]
+)
+5
+B[bq]
+W[bp]
+B[bs]
+W[ar]
+B[es]
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The hane at 1 without any preparation fails. White throws twice in at 2 and 4 and captures Black.
+\par
+\par }
+#
+(
+2[dm]
+2[em]
+2[fm]
+2[cn]
+1[dn]
+1[en]
+1[fn]
+2[gn]
+2[co]
+1[do]
+1[fo]
+2[go]
+2[cp]
+1[dp]
+1[ep]
+2[gp]
+2[cq]
+1[dq]
+2[fq]
+2[br]
+1[cr]
+1[dr]
+1[er]
+2[fr]
+2[ds]
+)
+4
+B[bs]
+W[cs]
+B[es]
+W[cs]

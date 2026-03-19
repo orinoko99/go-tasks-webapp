@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[sr]AW[oo][pp][lq][nq][oq][qq][rq][qr][sr][qs]AB[ql][qn][qp][rp][sp][pq][sq][or][pr][rr]LBCR[sr]C[What is the aim?
+
+
+\b Black to play\b0 .
+White just played the throw-in move at \'a1\'e2. Black should think about what is the aim of this move.
+
+
+])
+(;AW[oo][pp][lq][nq][oq][qq][rq][qr][sr][qs]AB[ql][qn][qp][rp][sp][pq][sq][or][pr][rr]
+;B[ss]
+;W[nr]LB[ss:1][nr:2]C[Dia. 01 Careless
+
+{\colortbl ;\red255\green0\blue0;}
+
+If it happens in the actual game, there is big chance that Black takes with 1 then White blocks at 2.
+
+If it is played like this, Black can't play from both sides It is a \cf1\b double shortage of liberties\cf0\b0 . Black fell into White's trap.
+
+])
+(;AW[oo][pp][lq][nq][oq][qq][rq][qr][sr][qs]AB[ql][qn][qp][rp][sp][pq][sq][or][pr][rr]
+;B[rs]
+;W[ss]LB[rs:1][ss:2]C[Dia. 02 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black 1 sees through White's trick. It is \cf1\b excellent\cf0\b0  to sacrafice two stones like this.
+It works because the situation is in the corner. White has to capture with 2.
+
+
+
+])
+(;AW[oo][pp][lq][nq][oq][qq][rq][qr][sr][qs][ss]AB[ql][qn][qp][rp][sp][pq][sq][or][pr]
+;B[rr]LB[rr:1]C[Dia. 03 Follow up
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b After\cf0\b0  Black \cf1\b throws-in\cf0\b0  at 1, White \cf1\b can't find any solution\cf0\b0 .
+It doesn't matter whether he takes or he doesn't take, it won't work.
+
+
+
+])
+)

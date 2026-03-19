@@ -1,0 +1,48 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cl][dn][go][ho][dq][eq][gq][fr][gr]AB[gn][fo][ep][fp][fq][dr][er]LBC[How to Capture
+
+Isn't there any way Black can capture White?
+])
+(;AW[cl][dn][go][ho][dq][eq][gq][fr][gr]AB[gn][fo][ep][fp][fq][dr][er]
+;B[cq]
+;W[dp]
+;B[do]
+;W[cp]
+;B[bp]
+;W[co]
+;B[cn]
+;W[bo]
+;B[bn]
+;W[ao]
+;B[ap]
+;W[eo]
+;B[an]
+;W[do]
+;B[dm]
+;W[en]
+;B[em]LB[cq:1][dp:2][do:3][cp:4][bp:5][co:6][cn:7][bo:8][bn:9][ao:10][ap:11][eo:12][an:13][do:14][dm:15][en:16][em:17]C[Correct
+
+Black can capture White in a ladder by sacrificing a stone. Could you read the correct sequence until the end?
+
+])
+(;AW[cl][dn][go][ho][dq][eq][gq][fr][gr]AB[gn][fo][ep][fp][fq][dr][er]
+;B[cq]
+;W[dp]
+;B[do]
+;W[cp]
+;B[co]
+;W[bp]
+;B[bq]
+;W[bo]
+;B[cn]
+;W[bn]LB[cq:1][dp:2][do:3][cp:4][co:5][bp:6][bq:7][bo:8][cn:9][bn:10]C[Wrong
+
+Black 5 is a mistake and Black misses the chance to capture White.
+
+])
+)

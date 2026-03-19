@@ -1,0 +1,182 @@
+//19
+4
+Vital Point to Capture? (21)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par
+\par Black has an eye on the left side so White should remove the eye on the right side.
+\par
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[lp]
+2[mp]
+1[op]
+1[pp]
+2[qp]
+2[jq]
+2[kq]
+1[lq]
+1[mq]
+1[oq]
+2[pq]
+2[qq]
+2[jr]
+1[kr]
+1[mr]
+1[or]
+1[pr]
+1[qr]
+2[rr]
+1[ks]
+1[ms]
+2[os]
+2[ps]
+2[qs]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's connection at 1 is the \cf1\b only move\cf0\b0  which captures Black.
+\par
+\par After Black 2, White captures Black with the wedge-in at 3.
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[lp]
+2[mp]
+1[op]
+1[pp]
+2[qp]
+2[jq]
+2[kq]
+1[lq]
+1[mq]
+66[nq]
+1[oq]
+2[pq]
+2[qq]
+2[jr]
+1[kr]
+1[mr]
+1[or]
+1[pr]
+1[qr]
+2[rr]
+1[ks]
+1[ms]
+65[ns]
+2[os]
+2[ps]
+2[qs]
+)
+3
+W[rs]
+B[ns]
+W[nq]
+Dia. 02 Throw-in
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a thoughtless move.
+\par Black's \cf1\b throw-in move\cf0\b0  at 2 \cf1\b works\cf0\b0 , and then it is impossible to capture Black.
+\par
+\par After White 3, Black 4 is sente.
+\par Black lived with many points up to 6.
+\par \'b9\'e93\'bf\'a1\'b4\'c2 \'c8\'e64\'c0\'c7 \'b5\'fb\'b3\'bf\'c0\'cc \'bc\'b1\'bc\'f6\'c1\'d2?
+\par 6\'b1\'ee\'c1\'f6 \'c8\'e6\'c0\'ba \'b5\'e6\'c0\'bb \'ba\'b8\'b8\'e9\'bc\'ad \'c5\'a9\'b0\'d4 \'bb\'ec\'be\'d2\'bd\'c0\'b4\'cf\'b4\'d9.
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[lp]
+2[mp]
+1[op]
+1[pp]
+2[qp]
+2[jq]
+2[kq]
+1[lq]
+1[mq]
+1[oq]
+2[pq]
+2[qq]
+2[jr]
+1[kr]
+1[mr]
+1[or]
+1[pr]
+1[qr]
+2[rr]
+1[ks]
+1[ms]
+2[os]
+2[ps]
+2[qs]
+)
+6
+W[np]
+B[rs]
+W[nq]
+B[ns]
+W[rq]
+B[nr]
+Dia. 03 Same
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's wedge-in move is same.
+\par Black throws-in at 2 again and he can't be captured.
+\par
+\par Therefore White 1 in\b  Dia. 01 \b0 was a calm move.
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[lp]
+2[mp]
+1[op]
+1[pp]
+2[qp]
+2[jq]
+2[kq]
+1[lq]
+1[mq]
+1[oq]
+2[pq]
+2[qq]
+2[jr]
+1[kr]
+1[mr]
+1[or]
+1[pr]
+1[qr]
+2[rr]
+1[ks]
+1[ms]
+2[os]
+2[ps]
+2[qs]
+)
+2
+W[nq]
+B[rs]

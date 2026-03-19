@@ -1,0 +1,40 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[rb][mc][nc][oc][pc][rc][pd][qd]AB[lb][qb][kc][qc][ld][md][od][rd][ne][pe][qe][re]LBC[Actual Game
+
+The tesuji you need to find is often used in actual games. Black to play.
+])
+(;AW[rb][mc][nc][oc][pc][rc][pd][qd]AB[lb][qb][kc][qc][ld][md][od][rd][ne][pe][qe][re]
+;B[sc]
+;W[sb]
+;B[ra]
+;W[sd]
+;B[oa]
+;W[na]LB[sc:1][sb:2][ra:3][sd:4][oa:5][na:6]C[Failure
+
+The hane at 1 fails because White will block at 2 and capture at 4. When Black tries to reduce the eye space with the large knight's jump at 5, White counterattacks at 6. Black has no move to kill White.
+
+])
+(;AW[rb][mc][nc][oc][pc][rc][pd][qd]AB[lb][qb][kc][qc][ld][md][od][rd][ne][pe][qe][re]
+;B[sb]
+;W[sc]
+;B[ra]LB[sb:1][sc:2][ra:3]C[Success
+
+The belly attachment is the tesuji needed here. White resists at 2 and a ko will start at 3.
+
+])
+(;AW[rb][mc][nc][oc][pc][rc][pd][qd]AB[lb][qb][kc][qc][ld][md][od][rd][ne][pe][qe][re]
+;B[sb]
+;W[pb]
+;B[sc]
+;W[qa]
+;B[oa]LB[sb:1][pb:2][sc:3][qa:4][oa:5]C[Variation
+
+If White responds at 2, Black will atari at 3 and then steal the second eye at 5.
+
+])
+)

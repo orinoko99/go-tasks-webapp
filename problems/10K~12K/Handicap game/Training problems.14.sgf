@@ -1,0 +1,74 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pc]AW[fc][nc][qh][jn][gp][np][nq]AB[pc][dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;W[ng]LB[ng:1]CR[pc]C[Training problems(35)
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 This time White plays at 1 in response to the \lang1042\f0\fs18\'a1\'e3\lang1033\f1\fs16 marked Black stone.  This is a very light and flexible move.  What is White aiming at and how should Black counter it?
+
+\lang1042\f0\fs18
+])
+(;AW[fc][nc][ng][qh][jn][gp][np][nq]AB[pc][dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[nd:?]
+;B[nd]
+;W[md]
+;B[mc]LB[nd:1][md:2][mc:3][nd:?]C[Dia.1 Helping White
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 Black might feel like cutting the top stone off from the rest of the group.  The thing to do then would be to attach and crosscut.
+
+Actually, this move \cf1\b helps White \cf0\b0 which we'll see in the next diagram.
+
+\lang1042\f0\fs18
+])
+(;CR[nc][jd]AW[fc][nc][md][ng][qh][jn][gp][np][nq]AB[mc][pc][dd][jd][nd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[lc:?]
+;W[ne]
+;B[od]
+;W[lc]
+;B[mb]
+;W[le]LB[ne:1][od:2][lc:3][mb:4][le:5][lc:?]CR[nc][jd]C[Dia.2 Black fails
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 Black can capture the\lang1042\f0\fs18  \'a1\'e2\lang1033\f1\fs16  marked stone, but it helps White in the ned.  White dansus with 2 and then 3, letting the stone go, then plays at 5, creating strong shape on the outside and also isolates the marked Black stone on the outside.
+
+\cf1\b Black has failed\cf0\lang1042\b0\f0\fs18 .
+
+
+])
+(;CR[jd]AW[fc][nc][ng][qh][jn][gp][np][nq]AB[pc][dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[nd]
+;W[md]
+;B[ne]
+;W[me]LB[nd:1][md:2][ne:3][me:4]CR[jd]C[Dia.3 Black gets sealed
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 Balck plays 1, then when White plays 2, Black extends at 3, and now after White pushes at 4, Black is feeling \cf1\b sealed in\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 The Black stone on the outside is cut off from his friends.  We can do better than this.
+
+\lang1042\f0\fs18
+])
+(;AW[fc][nc][ng][qh][jn][gp][np][nq]AB[pc][dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[lc]
+;W[ne]LB[lc:1][ne:2]C[Dia.4 Big smile
+
+
+\lang1033\f1\fs16 What if we want to directly attack this stone?  It's a good attitude to have, but when White plays 2, he has a big smile on his face.
+
+White connects all of his stones neatly.  We'll go over how Black should attack White in the next problem.
+
+\lang1042\f0\fs18
+])
+(;AW[fc][nc][qh][jn][gp][np][nq]AB[pc][dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;W[ng]LB[ng:1]C[No diagram name
+
+
+
+])
+)

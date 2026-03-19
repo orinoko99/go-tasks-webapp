@@ -1,0 +1,61 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[op][pp][qp][rp][rq][qr][sr][qs]AB[lo][oo][po][qo][ro][mp][np][sp][pq][qq][nr][pr]
+;W[ps]
+;B[os]LB[ps:1][os:2]C[W can live easily...
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+B had a mistake(B2)
+
+W can live easily but there is something more to do.
+
+
+
+])
+(;AW[op][pp][qp][rp][rq][qr][sr][ps][qs]AB[lo][oo][po][qo][ro][mp][np][sp][pq][qq][nr][pr][os]
+;W[rs]LB[rs:1]C[DIa.1(Not bed but..)
+
+
+Just living at 1 is not bed but B has a weakpoint.
+You should find it out!!
+
+
+])
+(;AW[op][pp][qp][rp][rq][qr][sr][ps][qs]AB[lo][oo][po][qo][ro][mp][np][sp][pq][qq][nr][pr][os]
+;W[oq]
+;B[or]
+;W[nq]
+;B[mr]
+;W[mq]
+;B[lq]
+;W[rs]LB[oq:1][or:2][nq:3][mr:4][mq:5][lq:6][rs:7]C[Dia.2(Better than before)
+
+
+How about the sequence of diagram??
+
+It's better than before but this isn't the right answer.
+
+
+
+
+])
+(;AW[op][pp][qp][rp][rq][qr][sr][ps][qs]AB[lo][oo][po][qo][ro][mp][np][sp][pq][qq][nr][pr][os]LB[mr:A][or:B]
+;W[nq]
+;B[mq]
+;W[oq]LB[nq:1][mq:2][oq:3][mr:A][or:B]C[Dia.3(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+W1 is a \cf1\b good tesuji.\cf0\b0
+
+Up to 3, W captures B's three stone.
+If B played at A instead of B2, W would play at B, this is a snapback.
+
+])
+)

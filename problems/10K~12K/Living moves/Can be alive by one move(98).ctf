@@ -1,0 +1,142 @@
+//19
+4
+Can be alive by one move(98)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\ltrpar\lang1042\f0
+\par \lang1033\f1 First move is important.\f2
+\par \lang1042\f0
+\par }
+#
+(
+2[mo]
+2[oo]
+2[po]
+2[qo]
+2[op]
+1[pp]
+2[rp]
+2[lq]
+2[mq]
+1[oq]
+1[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[or]
+1[rr]
+2[sr]
+)
+0
+Dia.1(The eye space of death)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Connecting at 1 is\cf1\b  a careless move.\cf0\b0
+\par
+\par Playing inside at 2 is a good attack so after 2, B has nothing to do.
+\par
+\par }
+#
+(
+2[mo]
+2[oo]
+2[po]
+2[qo]
+2[op]
+1[pp]
+2[rp]
+2[lq]
+2[mq]
+1[oq]
+1[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[or]
+1[rr]
+2[sr]
+)
+6
+B[qr]
+W[ps]
+B[qp]
+W[pr]
+B[ms]
+W[os]
+Dia.2(Ko)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Descent at 1 tries to extend eye space but it is\cf1\b  a greedy move.
+\par \cf0\b0
+\par \cf2\b W2 is a good attack \cf0\b0 so B can't avoid a ko.
+\par
+\par }
+#
+(
+2[mo]
+2[oo]
+2[po]
+2[qo]
+2[op]
+1[pp]
+2[rp]
+2[lq]
+2[mq]
+1[oq]
+1[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[or]
+1[rr]
+2[sr]
+)
+6
+B[rs]
+W[ps]
+B[pr]
+W[qp]
+B[qs]
+W[pq]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \cf1\b Diagonal move is the vital point of life.\cf0\b0
+\par
+\par B doesn't have to worry about cutting at A because B can escape at B.
+\par
+\par }
+#
+(
+2[mo]
+2[oo]
+2[po]
+2[qo]
+2[op]
+1[pp]
+2[rp]
+2[lq]
+2[mq]
+1[oq]
+1[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[or]
+65[qr]
+1[rr]
+2[sr]
+66[rs]
+)
+3
+B[ps]
+W[qp]
+B[pq]

@@ -1,0 +1,74 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[ls]AW[qp][nq][oq][qq][mr][qr][ns][qs]AB[po][qo][np][op][rp][lq][mq][rq][lr][rr][ls]LBCR[ls]C[Living with one Move (14)
+
+
+\b White to play\b0 .
+White stones are in Black's area.
+
+Black played the descending move at \'a1\'e3 which is a sente move.
+How should White live?
+])
+(;AW[qp][nq][oq][qq][mr][qr][ns][qs]AB[po][qo][np][op][rp][lq][mq][rq][lr][rr][ls]
+;W[pp]
+;B[ms]
+;W[pr]
+;B[nr]
+;W[os]LB[pp:1][ms:2][pr:3][nr:4][os:5]C[Dia. 01 Lucky Life
+
+{\colortbl ;\red255\green0\blue0;}
+
+Expanding the living space with 1 is a powerful move but in this situation it is \cf1\b bad\cf0\b0 .
+
+If Black plays dansu at 2, White makes an eye and a lucky life with 3.
+
+However Black is not going to play like this.
+
+])
+(;CR[pp]AW[pp][qp][nq][oq][qq][mr][qr][ns][qs]AB[po][qo][np][op][rp][lq][mq][rq][lr][rr][ls]
+;B[pr]
+;W[or]
+;B[ms]
+;W[ps]
+;B[nr]LB[pr:1][or:2][ms:3][ps:4][nr:5]CR[pp]C[Dia. 02 Pae
+
+{\colortbl ;\red0\green0\blue255;}
+
+Against White \'a1\'e2, Black's placement at 1 is severe. This was \cf1\b Black's vital point\cf0\b0  as well.
+
+White 2 is the best move now, but after Black 3 the pae is unavoidable.
+
+
+
+])
+(;AW[qp][nq][oq][qq][mr][qr][ns][qs]AB[po][qo][np][op][rp][lq][mq][rq][lr][rr][ls]
+;W[or]
+;B[ms]
+;W[ps]LB[or:1][ms:2][ps:3]C[Dia. 03 Pae Again
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+White \cf1\b didn't even read one move forward\cf0\b0  if he makes an eye with 1.
+
+If Black plays the dansu at 2, what was White's plan?
+
+White has to make \cf2\b pae \cf0\b0 with 3.
+This variation is just as bad as the variation in the previous diagram because White should live unconditionally.
+])
+(;AW[qp][nq][oq][qq][mr][qr][ns][qs]AB[po][qo][np][op][rp][lq][mq][rq][lr][rr][ls]
+;W[pr]
+;B[pp]
+;W[os]LB[pr:1][pp:2][os:3]C[Dia. 04 Correct Answer
+
+
+White 1 is a modest move, which is the only way for White.
+
+After Black 2, White lives easily with 3.
+
+
+])
+)

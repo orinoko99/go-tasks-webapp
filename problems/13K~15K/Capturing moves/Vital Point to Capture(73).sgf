@@ -1,0 +1,65 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qq][rq][sq][or][pr][os]AB[qp][rp][sp][nq][oq][pq][mr]LBC[Where is a vital point?(73)
+
+
+\f1 It's\b  Black\b0 's turn.\f0
+
+W has a huge eye space.
+but you can find out a vital point!
+
+
+])
+(;CR[qq][rq][sq]AW[qq][rq][sq][or][pr][os]AB[qp][rp][sp][nq][oq][pq][mr]
+;B[rr]
+;W[qr]
+;B[qs]
+;W[sr]
+;B[rs]LB[rr:1][qr:2][qs:3][sr:4][rs:5]CR[qq][rq][sq]C[Dia.1(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+
+
+Attaching at 1 is a \cf1\b strong attack\cf0\b0 .
+
+W2 is the only answer for W.
+
+But B3 and 5 make an empty triangle in the W's eye space!
+
+])
+(;AW[qq][rq][sq][or][pr][os]AB[qp][rp][sp][nq][oq][pq][mr]
+;B[qs]
+;W[rr]
+;B[rs]
+;W[ss]
+;B[sr]
+;W[qr]
+;B[nr]
+;W[ss]LB[qs:1][rr:2][rs:3][ss:4][sr:5][qr:6][nr:7][ss:8]C[DIa.2(Ko)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Playing inside at 1 looks like a vital point but W has a countermeasure(W 2,4).
+
+Up to 8, B can't avoide a \cf1\b ko\cf0\b0 !
+
+])
+(;AW[qq][rq][sq][or][pr][os]AB[qp][rp][sp][nq][oq][pq][mr]
+;B[rs]
+;W[qs]
+;B[sr]
+;W[qr]LB[rs:1][qs:2][sr:3][qr:4]C[DIa.3(Wrong judgement)
+
+{\colortbl ;\red255\green0\blue0;}
+
+B1 is a \cf1\b wrong judgement.\cf0\b0
+
+After W2, B has nothing to do anymore.
+Even It's not a draw.
+])
+)

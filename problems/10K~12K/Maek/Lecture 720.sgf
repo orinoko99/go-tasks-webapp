@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dn][io][ep][aq][bq][cq][dq][jq][ar][dr][er][cs]AB[bp][cp][dp][eq][fq][hq][br][fr][bs][es]LBC[Aim at the Cutting Stone
+
+How can Black capture White?
+])
+(;AW[dn][io][ep][aq][bq][cq][dq][jq][ar][dr][er][cs]AB[bp][cp][dp][eq][fq][hq][br][fr][bs][es]
+;B[eo]
+;W[fp]
+;B[go]
+;W[gp]
+;B[hp]LB[eo:1][fp:2][go:3][gp:4][hp:5]C[Correct
+
+Black should capture the cutting stone by first playing atari at 1 and then using a net at 3 to capture White.
+
+])
+(;AW[dn][ep][aq][bq][cq][dq][jq][ar][dr][er][cs]AB[bp][cp][dp][eq][fq][hq][br][fr][bs][es]LB[io:]
+;B[eo]
+;W[fp]
+;B[gp]
+;W[fo]
+;B[fn]
+;W[go]
+;B[ho]
+;W[gn]
+;B[gm]
+;W[hn]LB[eo:1][fp:2][gp:3][fo:4][fn:5][go:6][ho:7][gn:8][gm:9][hn:10][io:]C[Wrong
+
+The ladder fails because to the ladder breaker at x.
+
+])
+)

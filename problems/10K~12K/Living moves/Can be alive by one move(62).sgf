@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[oq][pq]AW[op][pp][qp][nq][qq][nr][qr][qs]AB[oo][po][qo][mp][np][rp][mq][oq][pq][rq][mr][rr]LBCR[oq][pq]C[Can be alive by one move(62)
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+How to capture B's two stones(\'a1\'e3) is important
+
+])
+(;AW[op][pp][qp][nq][qq][nr][qr][qs]AB[oo][po][qo][mp][np][rp][mq][oq][pq][rq][mr][rr]
+;W[or]
+;B[ns]
+;W[os]
+;B[pr]LB[or:1][ns:2][os:3][pr:4]C[Dia.1(The death of an empty triangle)
+
+{\colortbl ;\red255\green0\blue0;}
+
+You might think about W1 first but it isn't a proper move.
+
+B2 and 4 are good combination.
+Up to 4, B can make\cf1\b  the death of an  empty triangle.
+\cf0\b0
+])
+(;AW[op][pp][qp][nq][qq][nr][qr][qs]AB[oo][po][qo][mp][np][rp][mq][oq][pq][rq][mr][rr]
+;W[ns]
+;B[or]
+;W[pr]LB[ns:1][or:2][pr:3]C[Dia.2(Right answer)
+
+
+Descent at 1 can extend six eye spaces which is completely alive.
+
+2 and 3 are miai.
+
+])
+(;CR[ms]AW[op][pp][qp][nq][qq][nr][qr][ms][qs]AB[oo][po][qo][mp][np][rp][mq][oq][pq][rq][kr][mr][rr]LB[ns:A]
+;W[pr]LB[pr:1][ns:A]CR[ms]C[Dia.3(Reference)
+
+{\colortbl ;\red0\green0\blue255;}
+
+If W occupied at A, there are\cf1\b  some way to live.\cf0\b0
+Dansu at 1 can be alive and playing at A also can!!
+
+])
+)

@@ -1,0 +1,106 @@
+//19
+3
+Capturing Technique
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black to capture White.
+\par }
+#
+(
+2[bn]
+2[cn]
+2[bo]
+1[co]
+1[go]
+2[bp]
+1[cp]
+1[gp]
+2[hp]
+2[ip]
+1[bq]
+1[cq]
+1[fq]
+2[gq]
+1[hq]
+2[jq]
+2[gr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black should block at 1 and then cut at 3. When White captures, Black goes around at 5. This way Black can squeeze White and capture up to 21.
+\par }
+#
+(
+2[bn]
+2[cn]
+2[bo]
+1[co]
+1[go]
+2[bp]
+1[cp]
+1[gp]
+2[hp]
+2[ip]
+1[bq]
+1[cq]
+1[fq]
+2[gq]
+1[hq]
+2[jq]
+2[gr]
+)
+21
+B[hr]
+W[fr]
+B[er]
+W[eq]
+B[gs]
+W[fp]
+B[fs]
+W[fq]
+B[fo]
+W[dr]
+B[dq]
+W[es]
+B[hs]
+W[eo]
+B[dp]
+W[ep]
+B[en]
+W[cr]
+B[do]
+W[er]
+B[br]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Giving way at 3 fails. White wins the capturing race.
+\par
+\par }
+#
+(
+2[bn]
+2[cn]
+2[bo]
+1[co]
+1[go]
+2[bp]
+1[cp]
+1[gp]
+2[hp]
+2[ip]
+1[bq]
+1[cq]
+1[fq]
+2[gq]
+1[hq]
+2[jq]
+2[gr]
+)
+6
+B[hr]
+W[fr]
+B[eq]
+W[iq]
+B[er]
+W[ir]

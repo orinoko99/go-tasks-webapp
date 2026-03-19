@@ -1,0 +1,53 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[mn]AW[qf][jn][mn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][ko][dp][jp][pp][eq]
+;B[kn]
+;W[ml]
+;B[jm]
+;W[pl]LB[kn:1][ml:2][jm:3][pl:4]CR[mn]C[Improve your rank
+
+Black's turn\b0
+When White played \lang1042\f1\'a1\'e2\lang1043\f0 , Black played 1, White 2, Black 3 and White decided to separate Black with 4.
+How should Black answer?\lang1042\f1
+
+])
+(;CR[pn][pp]AW[qf][ml][pl][jn][mn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][jm][dn][kn][pn][ko][dp][jp][pp][eq]LB[qq:?]
+;B[fn]
+;W[qq]LB[fn:1][qq:2][qq:?]CR[pn][pp]C[1st Dia. Black's in danger
+
+Black 1 seems like a stonger answer but if White plays 3-3 Black's \lang1042\f1\'a1\'e3\lang1043\f0  stones are weak. If Black can answer correctly it's ok but considering this is a handicap game I don't recommend Black to play like this.\lang1042\f1
+
+])
+(;AW[qf][ml][pl][jn][mn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][jm][dn][kn][pn][ko][dp][jp][pp][eq]LB[lp:B][lq:A]
+;B[oq]
+;W[fn]
+;B[mq]LB[oq:1][fn:2][mq:3][lp:B][lq:A]C[2nd Dia. Correct answer
+
+Black 1 is possible. This move is looking to protect Black's stones by connecting.
+If White plays 2, Black plays 3.
+If White tries to play A Black will answer B. Black is connected.\lang1042\f1
+
+])
+(;CR[qf][oq]AW[qf][ml][pl][jn][mn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][jm][dn][kn][pn][ko][dp][jp][pp][eq][oq]
+;W[nq]
+;B[fn]
+;W[jr]
+;B[pg]LB[nq:1][fn:2][jr:3][pg:4]CR[qf][oq]C[3rd Dia. Very good for Black
+
+When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  if White plays 1, Black plays 2, White has to answer 3. Then Black 4 is a good move. Black's plan is to attack White's \lang1042\f1\'a1\'e2\lang1043\f0  stone.
+Black is winning this game by a lot.\lang1042\f1
+
+])
+(;CR[nq]AW[qf][ml][pl][jn][mn][fp][mp][fq][nq]AB[nc][dd][jd][pd][dj][jj][pj][jm][dn][kn][pn][ko][dp][jp][pp][eq][oq]LB[qp:B][qq:A]
+;B[hp]
+;W[fn]
+;B[dl]LB[hp:1][fn:2][dl:3][qp:B][qq:A]CR[nq]C[4th Dia. Keep looking
+
+When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is a possible answer. You don't need to be afraid of White A, Black answers B and there's no problem.\lang1042\f1
+
+])
+)

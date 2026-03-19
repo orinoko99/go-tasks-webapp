@@ -1,0 +1,52 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pg][fp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][dp][jp][pp][eq]LB[jn:B][pn:A]
+;W[mp]LB[mp:1][jn:B][pn:A]C[How should Black play?
+
+Black's turn\b0
+White 1 is aiming to play A or B next. Where should Black play to get the best result? \lang1042\f1
+
+])
+(;CR[fp][fq]AW[pg][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][dp][jp][pp][eq]LB[jn:‚]
+;B[jn]
+;W[mn]
+;B[gm]LB[jn:1][mn:2][gm:3][jn:‚]CR[fp][fq]C[1st Dia. Correct answer
+
+Black 1 is the correct answer. If White plays 2 then Black 3 is a good move.
+Now White's 2 \lang1042\f1\'a1\'e2\lang1043\f0  stones are in danger.\lang1042\f1
+
+
+])
+(;CR[jn]AW[pg][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][jn][dp][jp][pp][eq]LB[mn:A][pn:B]
+;W[gm]
+;B[jl]LB[gm:1][jl:2][mn:A][pn:B]CR[jn]C[2nd Dia. Bad for White
+
+When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  if White plays 1 Black 2 is a good answer. White is very hard to handle both groups now.
+Black can also play A or B instead of 2.\lang1042\f1
+
+])
+(;AW[pg][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][dp][jp][pp][eq]LB[go:A]
+;B[fn]
+;W[gn]
+;B[gm]
+;W[hn]
+;B[hp]LB[fn:1][gn:2][gm:3][hn:4][hp:5][go:A]C[3rd Dia. Correct answer 2
+
+Black 1 is also a good option. If you want to attack White then this sequence is better than the previous diagram. White can't connect at A because the shape would be terrible.\lang1042\f1
+])
+(;CR[mp]AW[pg][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][fn][dp][jp][pp][eq]
+;W[hp]
+;B[jn]
+;W[hn]
+;B[jl]LB[hp:1][jn:2][hn:3][jl:4]CR[mp]C[4th Dia. Good for Black
+
+White has to play 1 and then Black plays 2 and 4. Black is very happy about this result. White still has to worry about the left side group and the \lang1042\f1\'a1\'e2\lang1043\f0  stone.
+This result is very good for Black\lang1042\f1
+
+
+])
+)

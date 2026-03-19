@@ -1,0 +1,156 @@
+//19
+5
+A Star Point Pattern (41)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to Play.\b0
+\par White pushes up at 1 and it is natural for black to resist by pushing through with 2.
+\par
+\par In response to white defending at 3, it is a little strange for black to cut on this side with 4.
+\par
+\par Where should white answer it?
+\par }
+#
+(
+1[pj]
+1[kp]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+2[pq]
+2[qq]
+)
+4
+W[np]
+B[oq]
+W[or]
+B[nr]
+Diagram 1 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Capturing the cutting stone with 1, is correct and white's only response.
+\par
+\par It allows black to take profit with 2 and 4 but white gets very good shape after capturing with 3.
+\par
+\par White then occupies a good point with 5 and ruins black's plan to close in white's group here. This is not a desirable result for black.
+\par }
+#
+(
+1[pj]
+1[kp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+1[nr]
+2[or]
+)
+5
+W[mr]
+B[pr]
+W[ns]
+B[qr]
+W[nn]
+Diagram 2 (Don't Connect)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White should not fear the two white stones in the corner being captured and connect at 1.
+\par
+\par Black will hane at 2 and try to seal white in.
+\par
+\par In response to white 3, as we have seen previously, black cuts at 4.
+\par
+\par And then -
+\par
+\par
+\par }
+#
+(
+1[pj]
+1[kp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+1[nr]
+2[or]
+)
+4
+W[pr]
+B[no]
+W[mo]
+B[mp]
+Diagram 3 (White is Beaten)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par 1 to 5, is a familiar sequence. When black plays 6, it is finished.
+\par
+\par Compared to Diagram 1, white's resulting shape is not so good.
+\par
+\par Locally, white has been beaten.
+\par }
+#
+(
+1[pj]
+2[mo]
+1[no]
+1[kp]
+1[mp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+1[nr]
+2[or]
+2[pr]
+)
+6
+W[mq]
+B[mr]
+W[lq]
+B[lp]
+W[kr]
+B[nn]
+Diagram 4 (Not Enough For Black)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par When white plays dansu on the black \'a1\'e3 stone with 1, if black hanes over the head of the two white stones with 2 attempting to seal white in, it's a good move for white to calmly extend to 3. This result is not good enough for black.
+\par
+\par If black next plays at 4, white hanes at W5 and there is a break in black's center influence.
+\par
+\par Black's initial move, cutting white's group with \'a1\'e3 was not good.
+\par }
+#
+(
+1[pj]
+1[kp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+5[nr]
+2[or]
+)
+5
+W[mr]
+B[no]
+W[rq]
+B[rp]
+W[mo]

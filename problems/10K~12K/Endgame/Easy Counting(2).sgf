@@ -1,0 +1,54 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mo][lp][np][kq][nq][oq][nr][pr][rr][ps][qs][rs]AB[ql][nn][no][po][op][pq][qq][rq][sq][or][qr]LB[sr:A]LB[sr:A]C[Easy Counting(2)
+
+
+\b Black to play \b0 (or \b White to play\b0 ).
+\b
+\b0 Let's count how much \b A\b0  is worth?
+
+
+])
+(;AW[mo][lp][np][kq][nq][oq][nr][pr][rr][ps][qs][rs]AB[ql][nn][no][po][op][pq][qq][rq][sq][or][qr]
+;B[sr]LB[sr:1]C[Dia. 01 Black's territory doesn't change
+
+{\colortbl ;\red255\green0\blue0;}
+
+If Black plays at 1, there is no change in his territory.
+Black 1 only takes away White's possibility to make points.
+
+Therefore the \cf1\b counting method is simple\cf0\b0 .
+
+
+])
+(;AW[mo][lp][np][kq][nq][oq][nr][pr][rr][ps][qs][rs]AB[ql][nn][no][po][op][pq][qq][rq][sq][or][qr]
+;W[sr]LB[sr:1]C[Dia. 02 Not one Point
+
+
+White can make points with 1.
+How many points can he make?
+
+Do you think it is one point? That would be a hasty answer.
+
+Then 2 points? That is correct.
+
+
+
+])
+(;CR[sr]AW[mo][lp][np][kq][nq][oq][nr][pr][rr][sr][ps][qs][rs]AB[ql][nn][no][po][op][pq][qq][rq][sq][or][qr]LB[os:A][ss:?]LB[os:A][ss:?]CR[sr]C[Dia. 03 2 Points
+
+{\colortbl ;\red0\green0\blue255;}
+
+The value of White \'a1\'e2 stone is 2 points.
+There is one point at X and White doesn't have to capture at A either.
+So one extra point is added, which means \cf1\b 2 points\cf0\b0 .
+
+When the value of a move is counted, it is important to pay attention whether a defending move is needed or not.
+
+
+])
+)

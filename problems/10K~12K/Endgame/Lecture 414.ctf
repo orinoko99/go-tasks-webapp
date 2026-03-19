@@ -1,0 +1,113 @@
+//19
+3
+Which move is bigger?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Where should Black play next?
+\par }
+#
+(
+2[an]
+2[bn]
+2[cn]
+2[dn]
+1[bo]
+1[co]
+1[do]
+2[eo]
+2[fo]
+2[ap]
+2[bp]
+1[cp]
+1[ep]
+2[fp]
+2[hp]
+2[aq]
+1[bq]
+1[dq]
+1[fq]
+2[gq]
+1[ar]
+1[cr]
+2[dr]
+1[fr]
+2[gr]
+2[gs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black descending to 1 is worth seven points, while White's move at 2 makes only six points.
+\par }
+#
+(
+2[an]
+2[bn]
+2[cn]
+2[dn]
+1[bo]
+1[co]
+1[do]
+2[eo]
+2[fo]
+2[ap]
+2[bp]
+1[cp]
+1[ep]
+2[fp]
+2[hp]
+2[aq]
+1[bq]
+1[dq]
+1[fq]
+2[gq]
+1[ar]
+1[cr]
+2[dr]
+1[fr]
+2[gr]
+2[gs]
+)
+2
+B[fs]
+W[ao]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black decided to take six points at 1 and allows White to play the bigger move at 2. White's move is worth seven points.
+\par }
+#
+(
+2[an]
+2[bn]
+2[cn]
+2[dn]
+1[bo]
+1[co]
+1[do]
+2[eo]
+2[fo]
+2[ap]
+2[bp]
+1[cp]
+1[ep]
+2[fp]
+2[hp]
+2[aq]
+1[bq]
+1[dq]
+1[fq]
+2[gq]
+1[ar]
+1[cr]
+2[dr]
+1[fr]
+2[gr]
+2[gs]
+)
+7
+B[ao]
+W[fs]
+B[er]
+W[ds]
+B[cs]
+W[es]
+B[eq]

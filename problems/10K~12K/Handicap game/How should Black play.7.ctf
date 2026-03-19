@@ -1,0 +1,192 @@
+//19
+5
+How should Black play?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn
+\par \b0 When Black played 1. White answered 2. Then Black played 3 and White 4.
+\par How should Black play now?
+\par A,B or C?\lang1042\f1
+\par
+\par }
+#
+(
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+2[pm]
+2[cn]
+68[bo]
+2[cp]
+1[dp]
+1[jp]
+1[np]
+1[pp]
+66[bq]
+1[gq]
+67[cr]
+)
+4
+B[cq]
+W[dq]
+B[ep]
+W[eq]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black has to play 1 and 3. White will answer 2 and 4. Then Black plays 5.
+\par Later Black can play A in sente.
+\par Black's center is very strong now.\lang1042\f1
+\par
+\par }
+#
+(
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+2[pm]
+2[cn]
+2[cp]
+1[dp]
+1[ep]
+1[jp]
+1[np]
+1[pp]
+1[cq]
+2[dq]
+2[eq]
+65[fq]
+1[gq]
+)
+5
+B[co]
+W[bp]
+B[bo]
+W[bq]
+B[dn]
+2nd Dia. Keep looking
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If Black plays 1 White will answer 2 and 4. Black 5 and 7 are mistakes.
+\par Black should have played 1,3 and 5 like in the previous diagram.
+\par After this-\lang1042\f1
+\par
+\par }
+#
+(
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+2[pm]
+2[cn]
+2[cp]
+1[dp]
+1[ep]
+1[jp]
+1[np]
+1[pp]
+1[cq]
+2[dq]
+2[eq]
+65[fq]
+1[gq]
+)
+9
+B[fq]
+W[cr]
+B[bq]
+W[br]
+B[co]
+W[bp]
+B[bo]
+W[aq]
+B[dn]
+3rd Dia. Keep looking
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White will play this sequence. Black has some aji left. If Black plays A instead of 2, White will play 2. White can then live without a ko.\lang1042\f1
+\par
+\par }
+#
+(
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+2[pm]
+65[an]
+2[cn]
+1[dn]
+1[bo]
+1[co]
+2[bp]
+2[cp]
+1[dp]
+1[ep]
+1[jp]
+1[np]
+1[pp]
+2[aq]
+2[dq]
+2[eq]
+1[fq]
+1[gq]
+2[br]
+2[cr]
+)
+3
+W[bn]
+B[ao]
+W[dm]
+4th Dia. Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 and 3 are the worst options.
+\par White will happily play 6. White was able to make a big territory and Black still has some weakness left at A.\lang1042\f1
+\par
+\par }
+#
+(
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+2[pm]
+2[cn]
+2[cp]
+1[dp]
+1[ep]
+65[fp]
+1[jp]
+1[np]
+1[pp]
+1[cq]
+2[dq]
+2[eq]
+1[gq]
+)
+6
+B[bp]
+W[co]
+B[fq]
+W[cr]
+B[bq]
+W[br]

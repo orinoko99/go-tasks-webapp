@@ -1,0 +1,161 @@
+//19
+4
+Where is a vital point?(78)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\cf1\lang1042\f0\fs18
+\par \cf0\f1 It's\b  White\b0 's turn.\fs24
+\par \cf1\f0\fs18
+\par B has already been alive??\cf0
+\par }
+#
+(
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[mp]
+2[np]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+2[mq]
+1[nq]
+1[pq]
+1[rq]
+2[sq]
+2[mr]
+1[nr]
+1[qr]
+2[rr]
+2[sr]
+2[ms]
+1[ns]
+2[rs]
+)
+0
+Dia.1(Right answer)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \cf1\b Jumping at first line\cf0\b0 (W1) is a good attack.
+\par
+\par B couldn't have any chance to be alive.
+\par
+\par
+\par }
+#
+(
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[mp]
+2[np]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+2[mq]
+1[nq]
+1[pq]
+1[rq]
+2[sq]
+2[mr]
+1[nr]
+1[qr]
+2[rr]
+2[sr]
+2[ms]
+1[ns]
+2[rs]
+)
+3
+W[ps]
+B[qs]
+W[pr]
+Dia.2(Variation)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par B1 is another variation.
+\par
+\par W just rescues his own(W\'a1\'e2)
+\par \cf1\b There is no way to live\cf0\b0  for B.
+\par
+\par Also A rather than 3 can't make a real eye.
+\par
+\par }
+#
+(
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[mp]
+2[np]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+2[mq]
+1[nq]
+66[oq]
+1[pq]
+1[rq]
+2[sq]
+2[mr]
+1[nr]
+1[qr]
+2[rr]
+2[sr]
+2[ms]
+1[ns]
+65[os]
+6[ps]
+2[rs]
+)
+4
+B[pr]
+W[qs]
+B[op]
+W[or]
+DIa.3(an inordinate thinking)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par W1 is \f1 an\cf1\b  inordinate thinking\cf0\b0 .\f0
+\par
+\par
+\par }
+#
+(
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[mp]
+2[np]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+2[mq]
+1[nq]
+1[pq]
+1[rq]
+2[sq]
+2[mr]
+1[nr]
+1[qr]
+2[rr]
+2[sr]
+2[ms]
+1[ns]
+2[rs]
+)
+2
+W[or]
+B[oq]

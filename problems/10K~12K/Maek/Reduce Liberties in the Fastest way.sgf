@@ -1,0 +1,76 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[np][pp][qp][sp][lq][nq][rq][mr][rr][rs]AB[qn][ro][rp][qq][nr][or][qr][sr]LBC[Reduce Liberties in the Fastest way
+
+
+\b White to play\b0 .
+If White uses the normal capturing race technique, he can't win.
+
+Find a maek which reduces Black's liberties.
+First move decides everything.
+
+
+
+])
+(;AW[np][pp][qp][sp][lq][nq][rq][mr][rr][rs]AB[qn][ro][rp][qq][nr][or][qr][sr]
+;W[qs]
+;B[ps]
+;W[pr]
+;B[pq]
+;W[oq]LB[qs:1][ps:2][pr:3][pq:4][oq:5]C[Dia. 01 White 1 Looks Good
+
+{\colortbl ;\red255\green0\blue0;}
+
+Normally White 1 is the maek in a capturing race.
+
+If Black blocks directly, White's throw-in at 3 is a nice move and White wins.
+
+However Black 2 is a \cf1\b questionable\cf0\b0  move.
+])
+(;CR[qs]AW[np][pp][qp][sp][lq][nq][rq][mr][rr][qs][rs]AB[qn][ro][rp][qq][nr][or][qr][sr]
+;B[pr]
+;W[ns]
+;B[ps]
+;W[oq]
+;B[sq]LB[pr:1][ns:2][ps:3][oq:4][sq:5]CR[qs]C[Dia. 02 Black is one Move Faster
+
+
+Against White 1, Black's connection at 2 is a good move which increases Black's liberties.
+
+Black is one move faster with the sequence up to 5.
+])
+(;AW[np][pp][qp][sp][lq][nq][rq][mr][rr][rs]AB[qn][ro][rp][qq][nr][or][qr][sr]
+;W[oq]
+;B[pr]
+;W[ns]
+;B[qs]LB[oq:1][pr:2][ns:3][qs:4]C[Dia. 03 Bad Again
+
+{\colortbl ;\red0\green0\blue255;}
+
+White 1 is not good either, it forces Black to play at 2.
+
+Whenever Black played at 2, White was captured.
+How about using the proverb "\cf1\b the opponent's vital point is my vital point\cf0\b0 "?
+
+
+])
+(;AW[np][pp][qp][sp][lq][nq][rq][mr][rr][rs]AB[qn][ro][rp][qq][nr][or][qr][sr]
+;W[pr]
+;B[pq]
+;W[oq]
+;B[ps]
+;W[qs]LB[pr:1][pq:2][oq:3][ps:4][qs:5]C[Dia. 04 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's wedge-in at 1 is the \cf1\b maek to win this capturin race\cf0\b0 .
+
+After Black 2, White wins with 3 and 5.
+
+Wedge-in move is often good to reduce liberties.
+])
+)

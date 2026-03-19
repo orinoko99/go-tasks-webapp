@@ -1,0 +1,68 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pn][qn][rn][po][so][op][sp][oq][sq][or][os]AB[qo][qp][pq][rq][qr][sr]LBC[Where is a vital point?(81)
+
+
+It's\b  White\b0 's turn.\fs24
+\f1\fs18
+The ko is the best way to catch!!
+And there are two way!
+
+])
+(;AW[pn][qn][rn][po][so][op][sp][oq][sq][or][os]AB[qo][qp][pq][rq][qr][sr]
+;W[pr]
+;B[rs]
+;W[qs]
+;B[ps]
+;W[pp]
+;B[qq]
+;W[qs]LB[pr:1][rs:2][qs:3][ps:4][pp:5][qq:6][qs:7]C[Dia.1(Right answer1)
+
+{\colortbl ;\red0\green0\blue255;}
+
+One of the answer is \cf1\b pinching at 1\cf0\b0 .
+B should try to make an eye(B2).
+
+W has to put his own stone in 3 first because W5 can be used a ko threat !
+
+Up to 7, It's a sente ko.
+
+
+
+])
+(;AW[pn][qn][rn][po][so][op][sp][oq][sq][or][os]AB[qo][qp][pq][rq][qr][sr]
+;W[rs]
+;B[pr]
+;W[rp]
+;B[pp]
+;W[rr]
+;B[qs]
+;W[qq]LB[rs:1][pr:2][rp:3][pp:4][rr:5][qs:6][qq:7]C[Dia.2(Right answer2)
+
+
+Another anwser is playing inside at 1.
+
+You can change the sequence W3,5.
+
+Up to 7, It's also a sente ko.
+
+
+
+])
+(;AW[pn][qn][rn][po][so][op][sp][oq][sq][or][os]AB[qo][qp][pq][rq][qr][sr]
+;W[qs]
+;B[pr]
+;W[ps]
+;B[rs]LB[qs:1][pr:2][ps:3][rs:4]C[Dia.3(Live)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W1 is a \cf1\b careless move\cf0\b0 .
+B can make a real eye by sente(B2).
+
+])
+)

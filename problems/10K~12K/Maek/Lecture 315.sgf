@@ -1,0 +1,38 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cn][do][eo][ho][cp][fp][gp][cq][dq][cr]AB[hn][in][co][fo][go][dp][ep][eq][fq][dr]LBC[Capture White
+
+How can Black capture some white stones?
+])
+(;AW[cn][do][eo][ho][cp][fp][gp][cq][dq][cr]AB[hn][in][co][fo][go][dp][ep][eq][fq][dr]
+;B[hp]
+;W[gq]
+;B[gr]
+;W[hq]
+;B[iq]
+;W[hr]
+;B[ir]
+;W[hs]
+;B[gs]
+;W[ip]
+;B[is]
+;W[hp]
+;B[jp]LB[hp:1][gq:2][gr:3][hq:4][iq:5][hr:6][ir:7][hs:8][gs:9][ip:10][is:11][hp:12][jp:13]C[Correct
+
+By sacrificing a stone Black can capture White in a ladder.
+
+])
+(;AW[cn][do][eo][ho][cp][fp][gp][cq][dq][cr]AB[hn][in][co][fo][go][dp][ep][eq][fq][dr]
+;B[hp]
+;W[gq]
+;B[hq]
+;W[gr]LB[hp:1][gq:2][hq:3][gr:4]C[Wrong
+
+The atari at 1 and 3 fail. White is happy to get so much profit.
+
+])
+)

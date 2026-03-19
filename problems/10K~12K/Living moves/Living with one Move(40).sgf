@@ -1,0 +1,67 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[po][pp][pq][pr][qr][rr][sr]AB[nm][pn][qn][oo][op][qp][oq][rq][or]LBC[Living with one Move(40)
+
+
+\b White to play\b0 .
+White has not enough space to make two eyes in the corner.
+
+Therefore White should find the weakness in Black's shape and make an eye on the right side.
+Where is the vital point?
+])
+(;CR[rq]AW[po][pp][pq][pr][qr][rr][sr]AB[nm][pn][qn][oo][op][qp][oq][rq][or]
+;W[rp]LB[rp:1]CR[rq]C[Dia. 01 Correct Answer-Side Attachment
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's \cf1\b side attachment\cf0\b0  at 1 was the \cf1\b vital point for living\cf0\b0 .
+Like this, Black can't save his \'a1\'e3 stone.
+
+If White can capture this one stone, he can get one eye for sure.
+
+Let's see it.
+])
+(;AW[po][pp][rp][pq][pr][qr][rr][sr]AB[nm][pn][qn][oo][op][qp][oq][rq][or]
+;B[ro]
+;W[sp]
+;B[qo]
+;W[qq]LB[ro:1][sp:2][qo:3][qq:4]C[Dia. 02 Follow up
+
+
+Continuously, even if Black plays dansu at 1, White goes out with 2.
+After Black 3, White lives with 4.
+
+
+])
+(;CR[rm]AW[po][pp][pq][pr][qr][rr][sr]AB[nm][rm][pn][qn][oo][op][qp][oq][rq][or]LB[ro:A]
+;W[rp]LB[rp:1][ro:A]CR[rm]C[Dia. 03 Practice Problem
+
+
+\b Practice problem\b0 .
+\b White to play\b0 .
+
+If there is a Black stone at \'a1\'e3, how does the life and death problem change?
+
+White has to play the first move at 1 again.
+If Black plays dansu at A, White can live, but-
+
+
+])
+(;AW[po][pp][rp][pq][pr][qr][rr][sr]AB[nm][rm][pn][qn][oo][op][qp][oq][rq][or]
+;B[qo]
+;W[qq]
+;B[sp]
+;W[sq]
+;B[so]LB[qo:1][qq:2][sp:3][sq:4][so:5]C[Dia. 04 Can't Live
+
+
+Black connects at 1.
+After White 2, Black can take away the eye with 3 and 5, so White is captured.
+
+The conclusion is that White can't live because of the Black \'a1\'e3 stone.
+])
+)

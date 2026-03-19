@@ -1,0 +1,57 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oo][bp][cp][dp][fp][jp][mp][op][bq][dq][gq][nq][pq][qq][rq][ar][dr][pr][sr][cs][ps]AB[ck][qm][nn][on][ao][bo][co][do][eo][po][ap][pp][qp][rp][sp][aq][cq][sq][br][cr][qr][rr][qs]LB[bs:A][rs:B]LB[bs:A][rs:B]C[Which side is bigger?(22)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+Here we go again.  Let's calculate which is bigger, A or B.  On both sides we're capturing 3 stones.  Which side is bigger and by how much?
+\lang1042\f1\fs18
+\lang1033\f0\fs16 Multiple choice:
+\cf1\lang1042\f1\fs18 1)\cf0\lang1033\b\f0\fs16 A \cf2\b0 is bigger.\lang1042\f1\fs18
+\cf1 2)\cf0\lang1033\b\f0\fs16 B \cf2\b0 is bigger.\lang1042\f1\fs18  \cf0
+\cf1 3)\cf2\lang1033\f0\fs16 They're the same size.\lang1042\f1\fs18
+\cf1
+])
+(;AW[oo][bp][cp][dp][fp][jp][mp][op][bq][dq][gq][nq][pq][qq][rq][ar][dr][pr][sr][cs][ps]AB[ck][qm][nn][on][ao][bo][co][do][eo][po][ap][pp][qp][rp][sp][aq][cq][sq][br][cr][qr][rr][qs]LB[as:?][ds:?]
+;W[bs]LB[bs:1][as:?][ds:?]C[Dia.1 How big is A?
+
+Let's look at A first.  White takes at 1, grabs three stones  and gains two points of territory at the x marked spots.
+
+All in all, this is 8 points.
+\lang1042\f1\fs18
+
+])
+(;AW[oo][bp][cp][dp][fp][jp][mp][op][bq][dq][gq][nq][pq][qq][rq][ar][dr][pr][sr][cs][ps]AB[ck][qm][nn][on][ao][bo][co][do][eo][po][ap][pp][qp][rp][sp][aq][cq][sq][br][cr][qr][rr][qs]
+;B[as]LB[as:1]C[Dia.2 9 points in husu
+
+{\colortbl ;\red0\green0\blue255;}
+Black could take at 1 and calculating the value of this move is easy, one point for the captured stone.  Combined with the previous diagram, we calculate the value to be 8+1 = \cf1\lang1042\b\f1\fs18 9\lang1033\f0\fs16  points of territory in husu.\cf0\b0
+\lang1042\f1\fs18
+
+
+
+
+])
+(;AW[oo][bp][cp][dp][fp][jp][mp][op][bq][dq][gq][nq][pq][qq][rq][ar][dr][pr][sr][cs][ps]AB[ck][qm][nn][on][ao][bo][co][do][eo][po][ap][pp][qp][rp][sp][aq][cq][sq][br][cr][qr][rr][qs]LB[ss:?]
+;W[rs]LB[rs:1][ss:?]C[Dia.3 How big is B?
+
+{\colortbl ;\red0\green0\blue255;}
+How about B?  How big is that?  White can take three Black stones with 1, gaining him six points of territory.  We have to also include the x marked spot, giving us 6+1 = \cf1\b 7 point of territory.\cf0\b0  \lang1042\f1\fs18
+])
+(;AW[oo][bp][cp][dp][fp][jp][mp][op][bq][dq][gq][nq][pq][qq][rq][ar][dr][pr][sr][cs][ps]AB[ck][qm][nn][on][ao][bo][co][do][eo][po][ap][pp][qp][rp][sp][aq][cq][sq][br][cr][qr][rr][qs]LB[rs:?]
+;B[ss]LB[ss:1][rs:?]C[Dia.4 1 point difference
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+Black could take a stone at 1, gaining him two points plus a point for the x marked spot.  This gives 3 points.
+
+Combined with the previous diagram we can see that B is worth 7+3=\cf1\b 10 points of territory in husu.
+\cf0\lang1042\b0\f1\fs18
+\lang1033\f0\fs16 This means that the answer to the question of which is bigger, A or B, the answer is:
+\cf2\lang1042\f1\fs18 2)\cf0\lang1033\b\f0\fs16 B\cf1\b0  is bigger by 1 point.
+
+\cf0\lang1042\f1\fs18
+])
+)

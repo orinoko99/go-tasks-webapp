@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[eo][fo][go][cp][dp][hp][cq][hq][hr][cs][ds][es]AB[ep][fp][dq][gq][er][fr][fs]LBC[Capturing Move
+
+Black to play and capture some white stones.
+])
+(;AW[eo][fo][go][cp][dp][hp][cq][hq][hr][cs][ds][es]AB[ep][fp][dq][gq][er][fr][fs]
+;B[cr]
+;W[br]
+;B[bs]
+;W[as]
+;B[dr]
+;W[bs]
+;B[bq]
+;W[bp]
+;B[ar]LB[cr:1][br:2][bs:3][as:4][dr:5][bs:6][bq:7][bp:8][ar:9]C[Correct
+
+
+Black should wedge in at 1 and throw in at 3. Even if White captures and connects at 4 and 6, Black eventually captures all by cutting at 7.
+])
+(;AW[eo][fo][go][cp][dp][hp][cq][hq][hr][cs][ds][es]AB[ep][fp][dq][gq][er][fr][fs]
+;B[cr]
+;W[br]
+;B[dr]
+;W[bs]
+;B[bq]
+;W[bp]LB[cr:1][br:2][dr:3][bs:4][bq:5][bp:6]C[Wrong
+
+Just connecting at 3 doesn't succeed because White will simply connect at 4.
+
+])
+)

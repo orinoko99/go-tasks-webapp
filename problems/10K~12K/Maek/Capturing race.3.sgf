@@ -1,0 +1,50 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[rs]AW[np][op][mq][pq][qq][mr][qr][rs]AB[ro][pp][qp][nq][oq][rq][nr][pr][ns]LBCR[rs]C[Capturing race
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+W\'a1\'e2 will be helpful for capturing race.
+])
+(;AW[np][op][mq][pq][qq][mr][qr][rs]AB[ro][pp][qp][nq][oq][rq][nr][pr][ns]LB[or:A]
+;W[ps]
+;B[os]LB[ps:1][os:2][or:A]C[DIa.1(Ko)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+W1 is\cf1\b  very careless move.
+\cf0\b0 W wants B to connect at A but that's W's wish.\cf1\b
+
+\cf0\b0 B plays at 2 that it's a\cf2\b  ko\cf0\b0 .\cf1\b
+\cf0\b0
+])
+(;AW[np][op][mq][pq][qq][mr][qr][rs]AB[ro][pp][qp][nq][oq][rq][nr][pr][ns]
+;W[qs]
+;B[os]
+;W[ps]
+;B[rr]LB[qs:1][os:2][ps:3][rr:4]C[DIa.2(Also a ko)
+
+
+How about connecting at 1?
+It seems to be working but B2 is a good move.
+
+Up to 4, this result is also a ko.
+
+])
+(;CR[nq][oq][nr][ns]AW[np][op][mq][pq][qq][mr][qr][rs]AB[ro][pp][qp][nq][oq][rq][nr][pr][ns]
+;W[os]
+;B[rr]
+;W[qs]LB[os:1][rr:2][qs:3]CR[nq][oq][nr][ns]C[DIa.3(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+You should think about \cf1\b '\f1 The enemy's vital point is your own' \cf0\b0\f0
+
+W should reduce the liberties from B's four stones.
+])
+)

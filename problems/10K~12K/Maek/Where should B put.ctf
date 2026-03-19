@@ -1,0 +1,139 @@
+//19
+4
+Where should B put?
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par
+\par \lang1033\f1 It's\b  Black\b0 's turn.\f2
+\par \lang1042\f0
+\par It looks complicate.
+\par Where should B put?
+\par
+\par }
+#
+(
+2[qk]
+2[om]
+2[qn]
+1[no]
+1[po]
+2[qo]
+1[pp]
+2[rp]
+1[nq]
+2[oq]
+1[qq]
+2[rq]
+1[nr]
+1[or]
+2[pr]
+2[qr]
+1[rr]
+)
+0
+DIa.1(Patholesia attitude)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Just capturing one stone is very \cf1\b patholesia attitude!!\cf0\b0
+\par
+\par
+\par }
+#
+(
+2[qk]
+2[om]
+2[qn]
+1[no]
+1[po]
+2[qo]
+1[pp]
+2[rp]
+1[nq]
+6[oq]
+1[qq]
+2[rq]
+1[nr]
+1[or]
+2[pr]
+2[qr]
+1[rr]
+)
+2
+B[pq]
+W[rs]
+Dia.2(Mistake)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B1 tried to make a ko that if W dansu at 1, he would play at B.
+\par
+\par But W didn't play at A because after W2, B can't make a ko.
+\par
+\par
+\par }
+#
+(
+2[qk]
+2[om]
+2[qn]
+1[no]
+1[po]
+2[qo]
+1[pp]
+2[rp]
+1[nq]
+2[oq]
+1[qq]
+2[rq]
+1[nr]
+1[or]
+2[pr]
+2[qr]
+1[rr]
+65[ps]
+66[ss]
+)
+2
+B[qs]
+W[sr]
+Dia.3(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \cf1\b Descent at 1 is the right answer.\cf0\b0
+\par
+\par W 2,4 try to escape but it doesn't work.
+\par Up to 7, B beats the capturing race.
+\par
+\par Playing at A instead of 7 is also ok.
+\par
+\par }
+#
+(
+2[qk]
+2[om]
+2[qn]
+1[no]
+1[po]
+2[qo]
+1[pp]
+2[rp]
+1[nq]
+2[oq]
+1[qq]
+2[rq]
+1[nr]
+1[or]
+2[pr]
+2[qr]
+1[rr]
+65[ps]
+)
+7
+B[rs]
+W[pq]
+B[qp]
+W[op]
+B[oo]
+W[sr]
+B[np]

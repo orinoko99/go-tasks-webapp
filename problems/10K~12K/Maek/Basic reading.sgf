@@ -1,0 +1,53 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[qp][qq][rq]AW[qm][qo][ro][op][pp][oq][or][qr][rr][sr]AB[oo][po][np][qp][nq][qq][rq][nr]LBCR[qp][qq][rq]C[Basic reading
+
+
+\lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+
+Basic reading problem.
+
+B's three stone seems to be dead.
+
+BUT!!
+])
+(;AW[qm][qo][ro][op][pp][oq][or][qr][rr][sr]AB[oo][po][np][qp][nq][qq][rq][nr]LB[no:A]
+;B[mn]
+;W[os]LB[mn:1][os:2][no:A]C[DIa.1(B misses the chance)
+
+{\colortbl ;\red0\green0\blue255;}
+
+
+If B tried to prevent a weakpoint(A), he would miss the chance.
+
+W defends \cf1\b his own weakpoint \cf0\b0 that playing at 2.
+])
+(;AW[qm][qo][ro][op][pp][oq][or][qr][rr][sr]AB[oo][po][np][qp][nq][qq][rq][nr]
+;B[pr]
+;W[ps]
+;B[pq]LB[pr:1][ps:2][pq:3]C[DIa.2(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+B1 is a \cf1\b good move to attack to W's weak point.
+\cf0\b0
+Continue the next page.
+])
+(;AW[qm][qo][ro][op][pp][oq][or][qr][rr][sr][ps]AB[oo][po][np][qp][nq][pq][qq][rq][nr][pr]
+;W[os]
+;B[qs]
+;W[rs]
+;B[ns]LB[os:1][qs:2][rs:3][ns:4]C[Dia.3(Throw in is a final blow)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b Throw in at 2 is a final blow!! \cf0\b0
+
+Up to 4, B's three stone is alive in addition he captures W's group.
+
+])
+)

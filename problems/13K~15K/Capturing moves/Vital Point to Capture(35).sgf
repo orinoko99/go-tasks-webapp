@@ -1,0 +1,77 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ko][no][oo][po][qo][lp][np][rp][lq][qq][rq][lr][rr][ms][rs]AB[op][pp][qp][mq][nq][pr][qr][ns][os][qs]LBC[Vital Point to Capture?(35)
+
+
+\b White to play\b0 .
+If this shape appears in the actual game, it is easy to let Black live.
+However if White makes use of the shortage of liberties it is simple to capture Black.
+
+The first move decides everything.
+
+])
+(;AW[ko][no][oo][po][qo][lp][np][rp][lq][qq][rq][lr][rr][ms][rs]AB[op][pp][qp][mq][nq][pr][qr][ns][os][qs]LB[mr:A]
+;W[oq]
+;B[pq]
+;W[nr]LB[oq:1][pq:2][nr:3][mr:A]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's severe attack with cut at 1 is \cf1\b aiming at the shortage of liberties\cf0\b0 .
+Black has to play at 2 and then breaking the eye with White 3 is a brilliant move. Black can't cut at A, can he?
+
+So Black is dead.
+
+
+])
+(;CR[oq]AW[ko][no][oo][po][qo][lp][np][rp][lq][oq][qq][rq][lr][rr][ms][rs]AB[op][pp][qp][mq][nq][pr][qr][ns][os][qs]LB[pq:A]
+;B[mr]
+;W[or]LB[mr:1][or:2][pq:A]CR[oq]C[Dia. 02 White 2, Good Move
+
+{\colortbl ;\red0\green0\blue255;}
+
+Against White \'a1\'e2 if Black 1 could work, it would be nice, but \cf1\b White 2 \cf0\b0 is a \cf1\b good move\cf0\b0 .
+
+This time there is a shortage of liberties on the right side, so Black can't play at A.
+
+
+])
+(;AW[ko][no][oo][po][qo][lp][np][rp][lq][qq][rq][lr][rr][ms][rs]AB[op][pp][qp][mq][nq][pr][qr][ns][os][qs]
+;W[nr]
+;B[mr]
+;W[oq]
+;B[or]
+;W[pq]
+;B[ls]LB[nr:1][mr:2][oq:3][or:4][pq:5][ls:6]C[Dia. 03 Wrong Order
+
+{\colortbl ;\red255\green0\blue0;}
+
+First White wedge-in at 1 is \cf1\b wrong order\cf0\b0 .
+
+After Black 2, White plays double dansu but Black lives with 4 and 6.
+
+White captured the three Black stones but globally it is not satisfying.
+This problem shows how important is the order of the moves.
+
+
+])
+(;AW[ko][no][oo][po][qo][lp][np][rp][lq][qq][rq][lr][rr][ms][rs]AB[op][pp][qp][mq][nq][pr][qr][ns][os][qs]
+;W[pq]
+;B[oq]
+;W[mr]
+;B[nr]LB[pq:1][oq:2][mr:3][nr:4]C[Dia. 04 The Opponent's Vital Point
+
+{\colortbl ;\red255\green0\blue0;}
+
+Attacking with White 1 is meaningless.
+After Black connects with 2, White can't capture Black anymore. 2 was the \cf1\b opponent's vital point\cf0\b0  too.
+
+Black lives up to 4.
+
+
+])
+)

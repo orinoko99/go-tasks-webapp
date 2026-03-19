@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[hn][in][ho][dp][fp][gp][ip][pp][iq][kq][nq][ir]AB[ck][cn][go][io][ko][bp][hp][jp][hq][jq][jr]LBC[Proper Haengma
+
+Where should Black play next?
+])
+(;AW[hn][in][ho][dp][fp][gp][ip][pp][iq][kq][nq][ir]AB[ck][cn][go][io][ko][bp][hp][jp][hq][jq][jr]
+;B[hr]
+;W[jo]
+;B[is]
+;W[io]
+;B[kp]LB[hr:1][jo:2][is:3][io:4][kp:5]C[Correct
+
+Black should play the atari at 1. White can't help but needs to capture at 2 wheras Black utilizes the atari at 3 and the connection at 5 to join all his stones.
+
+])
+(;AW[hn][in][ho][dp][fp][gp][ip][pp][iq][kq][nq][ir]AB[ck][cn][go][io][ko][bp][hp][jp][hq][jq][jr]
+;B[jo]
+;W[hr]LB[jo:1][hr:2]C[Wrong
+
+Connecting at 1 is heavy play and misses a great chance.
+
+])
+)

@@ -1,0 +1,193 @@
+//19
+5
+Improve your rank
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par We are almost done with this situation. So let's study the last variation.
+\par When Black plays 1, White 2 and 4 are strong moves. White is looking for a ko.
+\par How should Black answer?\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[fp]
+1[jp]
+1[pp]
+1[eq]
+2[fq]
+2[nq]
+)
+4
+B[mp]
+W[pq]
+B[qq]
+W[op]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is the correct answer. White plays 2. You don't need to be afraid of the ko. \cf1\b White can't have any ko threats in the opening\cf0\b0 .
+\par Black can play the ko and then ignore any threat White makes.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[fp]
+1[jp]
+1[mp]
+2[op]
+1[pp]
+1[eq]
+2[fq]
+2[nq]
+2[pq]
+1[qq]
+)
+5
+B[po]
+W[qr]
+B[pr]
+W[or]
+B[oq]
+2nd DIa. White's wish
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a strong move, but it's just what White wants.
+\par White will play 2, Black plays 3 and White happily plays 4.
+\par Black's 2 \lang1042\f1\'a1\'e3 \lang1043\f0 stones are weak now. \lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[fp]
+5[jp]
+5[mp]
+2[op]
+1[pp]
+1[eq]
+2[fq]
+2[nq]
+2[pq]
+1[qq]
+)
+5
+B[po]
+W[qr]
+B[pr]
+W[or]
+B[oq]
+3rd Dia. Bad for White
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 The first result isn't good for White. So White will play 1. Then Black plays 2 and 4. And the result is good for Black.
+\par Black can also play A instead of 4, it's also good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+65[mn]
+1[pn]
+1[po]
+1[dp]
+2[fp]
+1[jp]
+1[mp]
+2[op]
+1[pp]
+1[eq]
+2[fq]
+2[nq]
+2[pq]
+1[qq]
+)
+4
+W[no]
+B[mo]
+W[nn]
+B[lm]
+4th Dia. Another option
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black's strongest answer is 1. White has to play 2.
+\par After Black plays 9, White got some territory but Black is very strong.
+\par This result is good for Black.
+\par This and the 1st diagram are the best options for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[fp]
+1[jp]
+1[mp]
+2[op]
+1[pp]
+1[eq]
+2[fq]
+2[nq]
+2[pq]
+1[qq]
+)
+9
+B[oo]
+W[qp]
+B[po]
+W[qr]
+B[rq]
+W[rr]
+B[rp]
+W[mq]
+B[lp]

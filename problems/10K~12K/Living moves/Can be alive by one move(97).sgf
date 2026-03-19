@@ -1,0 +1,61 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[jp][kp][mp][np][op][pp][rp][jq][qq][jr][kr][rr]AB[kq][lq][nq][oq][lr][pr][qr]LBC[Can be alive by one move(97)
+
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\lang1042\f0
+\lang1033\f1 First move is important.\f2
+\lang1042\f0
+])
+(;AW[jp][kp][mp][np][op][pp][rp][jq][qq][jr][kr][rr]AB[kq][lq][nq][oq][lr][pr][qr]
+;B[qs]
+;W[os]
+;B[mq]
+;W[ms]
+;B[ls]
+;W[nr]LB[qs:1][os:2][mq:3][ms:4][ls:5][nr:6]C[Dia.1(Flower five)
+
+{\colortbl ;\red255\green0\blue0;}
+
+How about extending eye space??
+
+B seems to have enough eye space to live but W2 is a good attack.
+
+So up to 6, B is \cf1\b dead by flower five.
+\cf0\b0
+])
+(;AW[jp][kp][mp][np][op][pp][rp][jq][qq][jr][kr][rr]AB[kq][lq][nq][oq][lr][pr][qr]
+;B[nr]
+;W[os]
+;B[mq]
+;W[qs]
+;B[ps]
+;W[pq]
+;B[or]
+;W[ms]LB[nr:1][os:2][mq:3][qs:4][ps:5][pq:6][or:7][ms:8]C[Dia.2(Sharp move)
+
+{\colortbl ;\red255\green0\blue0;}
+
+B1 is a strong move but \cf1\b playing inside at 2 is sharp.\cf0\b0
+
+And W4 and 6 are good sequence so B can't find the way to live.
+])
+(;AW[jp][kp][mp][np][op][pp][rp][jq][qq][jr][kr][rr]AB[kq][lq][nq][oq][lr][pr][qr]
+;B[os]
+;W[nr]
+;B[qs]LB[os:1][nr:2][qs:3]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b Diagonal move is the enemy's vital point.\cf0\b0
+
+If W tried to erase B's eye at the left side, B can make an eye at the right side.
+
+And also W can't rescue one stone.
+])
+)

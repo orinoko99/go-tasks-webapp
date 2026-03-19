@@ -1,0 +1,116 @@
+//19
+5
+A Star Point Pattern (48)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to Play.\b0
+\par In the knight's approach/two-space high pincer pattern, the most active move for white to play is a double-approach.
+\par
+\par Black has many options in responding, and the variantion can be difficult. Let's study the basic shapes.
+\par }
+#
+(
+1[kp]
+1[pp]
+2[nq]
+)
+1
+W[qn]
+Diagram 1 (From the Other Direction)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The most frequently used countermeasure for black to employ is  the attachment of 1. In this case, attaching to the stone which black is not focussed on attacking.
+\par
+\par In this way, black gets momentum in preparation for attacking  the white \'a1\'e2 stone.
+\par }
+#
+(
+2[qn]
+1[kp]
+1[pp]
+6[nq]
+)
+1
+B[pn]
+Diagram 2 (Hane After the Attachment)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White naturally hanes at 1. There is a proverb which states, "Hane when your opponent attaches". Next, black extends with 2.
+\par
+\par The difficulties appear when white invades the corner at the 3-3 point.
+\par
+\par How should black respond to this?
+\par }
+#
+(
+1[pn]
+2[qn]
+1[kp]
+1[pp]
+2[nq]
+)
+3
+W[pm]
+B[on]
+W[qq]
+Diagram 3 (Black, Dissatisfied)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par In a real game, black's block at 1, is commonly seen. In this case, white can be satisfied to simply cross under with 2.
+\par
+\par Up to 8, white's the profit white gains is large.
+\par
+\par On the other hand, black is dissatisfied as black's \'a1\'e3 stone is in an awkward place.
+\par
+\par Unless playing a handicap game, you should not play like this.
+\par }
+#
+(
+2[pm]
+1[on]
+1[pn]
+2[qn]
+5[kp]
+1[pp]
+2[nq]
+2[qq]
+)
+8
+B[pq]
+W[qp]
+B[qo]
+W[ro]
+B[po]
+W[rm]
+B[om]
+W[pl]
+Diagram 4 (A Typical Bad Move)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Instead of wedging in between white's stones and then connecting, it is a typical bad move for black to turn at 1.
+\par
+\par Now, white will immediately play a wedge with 2 and connect at 4.
+\par
+\par Black also connects with 5 but it is bad shape. White's profit is even greater than in the previous diagram. Black is in an unfavorable position.
+\par }
+#
+(
+690[om]
+2[pm]
+1[on]
+1[pn]
+2[qn]
+1[kp]
+1[pp]
+2[qp]
+2[nq]
+1[pq]
+2[qq]
+)
+6
+B[om]
+W[po]
+B[oo]
+W[qo]
+B[op]
+W[pl]

@@ -1,0 +1,71 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oo][po][ro][op][qp][rp][oq][or]AB[ql][pn][qn][rn][qo][pp][pq][qq][pr][ps]
+;W[os]LB[os:1]C[Can we do anything?
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 White has just descended with 1.
+We'll see whether or not this move is really seonsu.
+
+Can White do anything or can we play elsewhere?
+
+\lang1042\f0\fs18
+])
+(;AW[oo][po][ro][op][qp][rp][oq][or][os]AB[ql][pn][qn][rn][qo][pp][pq][qq][pr][ps]
+;W[rq]
+;B[rr]
+;W[qs]
+;B[qr]
+;W[sr]
+;B[rs]LB[rq:1][rr:2][qs:3][qr:4][sr:5][rs:6]C[Dia.1 Eye vs. no eye
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 If Black plays elsewhere we need to see if White can do anything.  If not, Black should play elsewhere.
+
+Moving out with White 1 seems like a candidate for a starting move.  Black blocks with 2, White dansus with 3 and then 5, but now Black \cf1\b has an eye and White doesn't.
+
+\cf0\lang1042\b0\f0\fs18
+])
+(;AW[oo][po][ro][op][qp][rp][oq][or][os]AB[ql][pn][qn][rn][qo][pp][pq][qq][pr][ps]
+;W[rr]
+;B[rq]
+;W[sq]
+;B[so]LB[rr:1][rq:2][sq:3][so:4]C[Dia.2 Can we just play elsewhere?
+
+
+\lang1033\f1\fs16 White's one space jump at 1 also doesn't work.
+Black simply plays 2 and 4 to capture White.
+
+So, does that mean it's okay to play elsewhere?  White can't seem to attack us if we do.
+
+He can if he really tries.
+
+\lang1042\f0\fs18
+])
+(;AW[oo][po][ro][op][qp][rp][oq][or][os]AB[ql][pn][qn][rn][qo][pp][pq][qq][pr][ps]LB[qr:A]
+;W[rq]
+;B[rr]
+;W[rs]LB[rq:1][rr:2][rs:3][qr:A]C[Dia.3 White can attack
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 White 1 and Black 2 are the way to start off, but White shouldn't dansu at 3, he should play on the \cf1\b 2,1 point\cf0\lang1042\b0\f0\fs18 .
+
+\lang1033\f1\fs16 Now Black has to connect at A or die in snapback and when he does, he'll be dansued, so actually White can capture if Black plays elsewhere.\lang1042\f0\fs18
+
+
+
+])
+(;AW[oo][po][ro][op][qp][rp][oq][or]AB[ql][pn][qn][rn][qo][pp][pq][qq][pr][ps]
+;W[os]LB[os:1]C[No diagram name
+
+
+
+])
+)

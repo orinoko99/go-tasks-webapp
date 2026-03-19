@@ -1,0 +1,86 @@
+//19
+5
+Star-point Joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par Black 1 is also a joseki. White plays 2. How should Black answer?\lang1042\f1
+\par
+\par }
+#
+(
+1[pp]
+2[nq]
+)
+2
+B[kp]
+W[no]
+1st Dia. Simple joseki
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is the standart move. If White plays 2 and 4 Black will answer 5.
+\par This is a simple joseki.\lang1042\f1
+\par
+\par }
+#
+(
+2[no]
+1[kp]
+1[pp]
+2[nq]
+)
+5
+B[pn]
+W[pr]
+B[qq]
+W[kr]
+B[qj]
+2nd Dia. Another option
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black can also play 1, it's a strong move. White will play 2 and 4. This is also a joseki.\lang1042\f1
+\par
+\par }
+#
+(
+2[no]
+1[kp]
+1[pp]
+2[nq]
+)
+4
+B[qn]
+W[pr]
+B[qq]
+W[kr]
+3rd Dia. Continuaton
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Do you think Black 1 is a better move?
+\par If White plays like this then it's good for Black.
+\par But White will play-\lang1042\f1
+\par
+\par }
+#
+(
+2[no]
+1[kp]
+1[pp]
+2[nq]
+)
+4
+B[qm]
+W[pr]
+B[qq]
+W[kr]
+4th Dia. 3-3
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White will play 1 to take territory. Black's \lang1042\f1\'a1\'e3\lang1043\f0  move was too greedy. This sequence is very complicated. I recommend you to stick to diagrams 1 and 2.\lang1042\f1
+\par
+\par }
+#
+(
+5[qm]
+2[no]
+1[kp]
+1[pp]
+2[nq]
+)
+1
+W[qq]

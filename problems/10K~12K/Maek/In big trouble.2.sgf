@@ -1,0 +1,50 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pm][nn][pn][qo][ro][so][qp][pq][pr]AB[ql][qm][qn][no][po][pp][rp][qq][rq][qr]LBC[In big trouble
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+W is in big trouble so he should do something.
+
+])
+(;AW[pm][nn][pn][qo][ro][so][qp][pq][pr]AB[ql][qm][qn][no][po][pp][rp][qq][rq][qr]
+;W[mo]
+;B[np]
+;W[mn]
+;B[mq]LB[mo:1][np:2][mn:3][mq:4]C[DIa.1(Painful)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W might think about four stones can't rescue so tries to be using them.
+
+But this result is \cf1\b very painful for W.
+
+])
+(;AW[pm][nn][pn][qo][ro][so][qp][pq][pr]AB[ql][qm][qn][no][po][pp][rp][qq][rq][qr]
+;W[oo]
+;B[op]
+;W[np]
+;B[on]LB[oo:1][op:2][np:3][on:4]C[Dia.2(Reckless)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W1,3 are\cf1\b  very reckless attack\cf0\b0 , after 4 all of W's stones are in trouble.
+
+])
+(;AW[pm][nn][pn][qo][ro][so][qp][pq][pr]AB[ql][qm][qn][no][po][pp][rp][qq][rq][qr]
+;W[np]
+;B[oo]
+;W[mo]LB[np:1][oo:2][mo:3]C[DIa.3(Right move)
+
+
+Attaching at 1 is a severe tesuji.
+B's two stone can't escape.
+
+
+])
+)

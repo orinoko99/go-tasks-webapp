@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nn][on][mo][po][qo][mp][qp][mq][rq][mr][pr][rr][rs]AB[no][oo][np][nq][pq][qq][nr][qr][ns][qs]LBC[One move problem(46)
+
+
+\lang1033\b\f1\fs16 White to play
+\b0 This looks like a problem for Black to live but in fact it's a problem where White can kill Black.  Don't think too hard on it, just play where your instincts tell you.
+
+\lang1042\f0\fs18
+])
+(;AW[nn][on][mo][po][qo][mp][qp][mq][rq][mr][pr][rr][rs]AB[no][oo][np][nq][pq][qq][nr][qr][ns][qs]
+;W[ps]
+;B[pp]
+;W[oq]
+;B[op]LB[ps:1][pp:2][oq:3][op:4]C[Dia.1 A good move
+
+If White plays 1 Black 2 is a good move.  White can dansu at 3 but what does it matter, Black plays 4 and if White connects it gives Black a four space shape, meaning Black lives.
+\lang1042\f1\fs18
+
+])
+(;AW[nn][on][mo][po][qo][mp][qp][mq][rq][mr][pr][rr][rs]AB[no][oo][np][nq][pq][qq][nr][qr][ns][qs]LB[op:A][ps:B]
+;W[or]
+;B[pp]
+;W[oq]
+;B[os]LB[or:1][pp:2][oq:3][os:4][op:A][ps:B]C[Dia.2 Black lives
+
+White 1 is not succesful either.  Black 2 seems to be the vital point to live.  White 3 and Black 4 lead to a shape where Black lives in Bik (mutual life).  White isn't going to play at A or B, clearly.
+\lang1042\f1\fs18
+
+])
+(;CR[pq][qq][qr][qs]AW[nn][on][mo][po][qo][mp][qp][mq][rq][mr][pr][rr][rs]AB[no][oo][np][nq][pq][qq][nr][qr][ns][qs]LB[op:B][os:A]
+;W[pp]
+;B[or]
+;W[ps]LB[pp:1][or:2][ps:3][op:B][os:A]CR[pq][qq][qr][qs]C[Dia.3 Correct / Looks simple
+
+White 1 is the correct spot.  This move doesn't look like much but it is the correct move.  Black will dansu at 2, but then White can extend at 3.  If Black takes at A, White plays B and Black is dead.
+\lang1042\f1\fs18
+
+])
+(;AW[nn][on][mo][po][qo][mp][qp][mq][rq][mr][pr][rr][rs]AB[no][oo][np][nq][pq][qq][nr][qr][ns][qs]LBC[No diagram name
+
+
+
+])
+)

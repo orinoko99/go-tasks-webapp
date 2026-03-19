@@ -1,0 +1,38 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cl][el][cm][em][bn][fn][bo][fo][bp][gp][hp][bq][dq][eq][fq][iq][ar]AB[dm][en][co][eo][cp][dp][ep][fp][cq][br][cr][dr]LBC[Black to Live
+
+Where should he play?
+])
+(;AW[cl][el][cm][em][bn][fn][bo][fo][bp][gp][hp][bq][dq][eq][fq][iq][ar]AB[dm][en][co][eo][cp][dp][ep][fp][cq][br][cr][dr]
+;B[gq]
+;W[gr]
+;B[fr]
+;W[hq]
+;B[er]
+;W[gq]
+;B[dn]LB[gq:1][gr:2][fr:3][hq:4][er:5][gq:6][dn:7]C[Correct
+
+The cut at 1 is a skillful technique to squeeze the white stones at 3 and 5. At the end Black can secure the second eye at 7.
+
+])
+(;AW[cl][el][cm][em][bn][fn][bo][fo][bp][gp][hp][bq][dq][eq][fq][iq][ar]AB[dm][en][co][eo][cp][dp][ep][fp][cq][br][cr][dr]
+;B[fr]
+;W[gq]
+;B[er]
+;W[dn]
+;B[gr]
+;W[hr]
+;B[gs]
+;W[bs]
+;B[cs]
+;W[es]LB[fr:1][gq:2][er:3][dn:4][gr:5][hr:6][gs:7][bs:8][cs:9][es:10]C[Wrong
+
+The attachment at 1 is not enough. White captures Black up to 10.
+
+])
+)

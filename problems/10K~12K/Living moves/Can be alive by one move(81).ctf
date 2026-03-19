@@ -1,0 +1,124 @@
+//19
+4
+Can be alive by one move(81)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \pard\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\lang1042\f0
+\par This is the one of basic life and death problem.
+\par }
+#
+(
+2[qm]
+2[rn]
+2[qo]
+1[ro]
+2[op]
+2[pp]
+2[qp]
+1[rp]
+2[lq]
+2[oq]
+1[pq]
+1[qq]
+2[or]
+)
+0
+Dia.1(Equivocal)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Descent at 1 is \cf1\b an equivocal move
+\par \cf0\b0 that didn't extend eye space and play at vital point.
+\par
+\par Bending at 2 is a good attack so up to 4, B has no way to live.
+\par
+\par }
+#
+(
+2[qm]
+2[rn]
+2[qo]
+1[ro]
+2[op]
+2[pp]
+2[qp]
+1[rp]
+2[lq]
+2[oq]
+1[pq]
+1[qq]
+2[or]
+)
+4
+B[qr]
+W[so]
+B[sq]
+W[rr]
+Dia.2(The death of miai)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Extending eye space is\cf1\b  mistake.
+\par \cf0\b0
+\par W plays inside at 2.
+\par Up to 6, B has to play both of A and B but it's impossible!!
+\par
+\par
+\par }
+#
+(
+2[qm]
+2[rn]
+2[qo]
+1[ro]
+2[op]
+2[pp]
+2[qp]
+1[rp]
+66[sp]
+2[lq]
+2[oq]
+1[pq]
+1[qq]
+2[or]
+65[ps]
+)
+6
+B[pr]
+W[rr]
+B[rq]
+W[so]
+B[sr]
+W[rs]
+Dia.3 (Right answer)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \cf1\b Tiger's mouth is the vital point of life.\cf0\b0
+\par
+\par After 1, W has nothing to do.
+\par
+\par }
+#
+(
+2[qm]
+2[rn]
+2[qo]
+1[ro]
+2[op]
+2[pp]
+2[qp]
+1[rp]
+2[lq]
+2[oq]
+1[pq]
+1[qq]
+2[or]
+65[qs]
+66[rs]
+)
+3
+B[rr]
+W[pr]
+B[qr]

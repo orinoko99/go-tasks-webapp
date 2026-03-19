@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cl][cn][dn][co][bp][dp][bq][dq][eq][fq][hq][iq][dr][gr]AB[do][eo][cp][ep][fp][gp][hp][cq][gq][cr][cs]LBC[How to Capture
+
+Black to capture White.
+])
+(;AW[cl][cn][dn][co][bp][dp][bq][dq][eq][fq][hq][iq][dr][gr]AB[do][eo][cp][ep][fp][gp][hp][cq][gq][cr][cs]LB[fr:A][hr:B]
+;B[fr]
+;W[fs]
+;B[ds]
+;W[er]
+;B[es]LB[fr:1][fs:2][ds:3][er:4][es:5][fr:A][hr:B]C[Success
+
+The sacrifice at 1 is an excellent technique to sqeeze White. After 5 White can't connect at A or Black will cut at B.
+
+])
+(;AW[cl][cn][dn][co][bp][dp][bq][dq][eq][fq][hq][iq][dr][gr]AB[do][eo][cp][ep][fp][gp][hp][cq][gq][cr][cs]
+;B[hr]
+;W[fr]
+;B[ir]
+;W[jq]
+;B[jr]
+;W[br]LB[hr:1][fr:2][ir:3][jq:4][jr:5][br:6]C[Failure
+
+The cut at 1 is also severe but when White turns to 6 Black has to give up on the corner.
+
+])
+)

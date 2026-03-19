@@ -1,0 +1,171 @@
+//19
+4
+First is a key move(78)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par B has a weakpoint but it isn't easy!!
+\par
+\par }
+#
+(
+2[mn]
+2[nn]
+2[on]
+2[lo]
+1[mo]
+1[no]
+1[oo]
+2[po]
+2[qo]
+2[lp]
+1[op]
+1[pp]
+2[qp]
+2[lq]
+1[mq]
+1[pq]
+1[qq]
+2[rq]
+2[kr]
+2[mr]
+1[nr]
+1[qr]
+2[rr]
+2[ms]
+1[ns]
+1[qs]
+2[rs]
+)
+0
+Dia.1(Life of real two eyes)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Attacking B's weakpoint is\cf1\b  too hasty.\cf0\b0
+\par
+\par B can make two real eyes that \cf2\b 'Life of real two eyes'\cf0\b0
+\par
+\par }
+#
+(
+2[mn]
+2[nn]
+2[on]
+2[lo]
+1[mo]
+1[no]
+1[oo]
+2[po]
+2[qo]
+2[lp]
+1[op]
+1[pp]
+2[qp]
+2[lq]
+1[mq]
+1[pq]
+1[qq]
+2[rq]
+2[kr]
+2[mr]
+1[nr]
+1[qr]
+2[rr]
+2[ms]
+1[ns]
+1[qs]
+2[rs]
+)
+4
+W[nq]
+B[or]
+W[mp]
+B[ps]
+Dia.2(W's thinking)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W1 looks good?
+\par Because W can make B's eye space as flower five.
+\par
+\par But! it is the W's thinking.
+\par B won't play like this.
+\par }
+#
+(
+2[mn]
+2[nn]
+2[on]
+2[lo]
+1[mo]
+1[no]
+1[oo]
+2[po]
+2[qo]
+2[lp]
+1[op]
+1[pp]
+2[qp]
+2[lq]
+1[mq]
+1[pq]
+1[qq]
+2[rq]
+2[kr]
+2[mr]
+1[nr]
+1[qr]
+2[rr]
+2[ms]
+1[ns]
+1[qs]
+2[rs]
+)
+3
+W[mp]
+B[nq]
+W[or]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Attacing at 1 is\cf1\b  the enemy's vital point.
+\par \cf0\b0
+\par As you can see, if B played at 1, he would be able to live.
+\par
+\par }
+#
+(
+2[mn]
+2[nn]
+2[on]
+2[lo]
+1[mo]
+1[no]
+1[oo]
+2[po]
+2[qo]
+2[lp]
+1[op]
+1[pp]
+2[qp]
+2[lq]
+1[mq]
+1[pq]
+1[qq]
+2[rq]
+2[kr]
+2[mr]
+1[nr]
+1[qr]
+2[rr]
+2[ms]
+1[ns]
+1[qs]
+2[rs]
+)
+3
+W[or]
+B[nq]
+W[mp]

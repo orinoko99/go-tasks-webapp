@@ -1,0 +1,54 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[rq][or][pr][qr][sr][os][ss]AB[pp][qp][rp][sp][nq][oq][sq][nr][ns]LBC[Living with one Move(39)
+
+
+\b White to play\b0 .
+Living space is very narrow.
+
+The question is whether White can live or not.
+
+])
+(;AW[rq][or][pr][qr][sr][os][ss]AB[pp][qp][rp][sp][nq][oq][sq][nr][ns]LB[rs:A]
+;W[qq]
+;B[qs]LB[qq:1][qs:2][rs:A]C[Dia. 01 Death
+
+{\colortbl ;\red0\green0\blue255;}
+
+White can't live with expanding his living space at 1.
+\cf1\b Black 2\cf0\b0  is a \cf1\b severe\cf0\b0  vital point.
+
+Black has to be careful. If he plays at A instead of 2, White can live with 2.
+
+])
+(;AW[rq][or][pr][qr][sr][os][ss]AB[pp][qp][rp][sp][nq][oq][sq][nr][ns]
+;W[qs]
+;B[rr]
+;W[rs]
+;B[qq]LB[qs:1][rr:2][rs:3][qq:4]C[Dia. 02 Vital Point of Living but
+
+{\colortbl ;\red0\green0\blue255;}
+
+White 1 is the\cf1\b  vital point for living\cf0\b0 .
+At the important moment when Black throws-in at 2, White captures with 3 and Black takes away the eye with 4, so White dies.
+
+White could have lived. Where should White play with 3?
+There was a small hint in the previous diagram.
+])
+(;CR[rr]AW[rq][or][pr][qr][sr][os][qs][ss]AB[pp][qp][rp][sp][nq][oq][sq][nr][rr][ns]
+;W[qq]
+;B[rs]
+;W[sr]LB[qq:1][rs:2][sr:3]CR[rr]C[Dia. 03 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+Against Black's throw in at \'a1\'e3, White shouldn't take, but connect at 1.
+
+After Black 2, White's \cf1\b snapback\cf0\b0  with 3 \cf1\b works\cf0\b0  so White lives.
+
+])
+)

@@ -1,0 +1,76 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[fe]AW[fc][qh][jn][gp][np][nq]AB[dd][jd][pd][fe][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[cc:A]
+;W[ge]LB[ge:1][cc:A]CR[fe]C[Training problems(38)
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Here's the homework from the previous problem.
+White has attached at 1 to the \lang1042\f0\fs18\'a1\'e3\lang1033\f1\fs16  marked Black stone instead of jumping into the corner with \b A.\b0   \lang1042\f0\fs18
+])
+(;AW[fc][ge][qh][jn][gp][np][nq]AB[dd][jd][pd][fe][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[fd:A]
+;B[gf]
+;W[he]LB[gf:1][he:2][fd:A]C[Dia.1
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Black's jjeotchim at 1 is a move that \cf1\b just about anyone would play\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 A is also a good candidate.
+
+White will of course extend at 2.
+
+Next-
+
+\lang1042\f0\fs18
+])
+(;AW[fc][ge][he][qh][jn][gp][np][nq]AB[dd][jd][pd][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[fd]
+;W[gc]
+;B[ec]LB[fd:1][gc:2][ec:3]C[Dia.2 Weaknesses
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 If we look at the continuation the sequence that results is easy to understand.  White can only play 2.
+
+Now, Black can play the tiger's mouth and White has some\lang1042\f0\fs18  \cf1\lang1033\b\f1\fs16 weaknesses \cf0\b0 in his shape.  Black can feel satisfied.
+
+\lang1042\f0\fs18
+])
+(;AW[fc][gc][ge][he][qh][jn][gp][np][nq]AB[ec][dd][fd][jd][pd][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;W[ic]
+;B[jc]
+;W[if]
+;B[nc]LB[ic:1][jc:2][if:3][nc:4]C[Dia.3 Good for Black
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White has to live so he fixes his weakness with 2 which makes \cf1\b Black stronger\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Black will block at 2 and White 3 gets out.  This result is good for Black.\lang1042\f0\fs18
+
+])
+(;CR[ge]AW[fc][ge][qh][jn][gp][np][nq]AB[dd][jd][pd][fe][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[fd:?][gf:A]
+;B[fd]
+;W[gd]
+;B[ec]
+;W[gc]
+;B[ff]LB[fd:1][gd:2][ec:3][gc:4][ff:5][fd:?][gf:A]CR[ge]C[Dia.4  Black is solid
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 In the beginning when White played the\lang1042\f0\fs18\'a1\'e2\lang1033\f1\fs16  marked stone, Black could play 1, an \cf1\b easy to understand move\cf0\lang1042\b0\f0\fs18 .
+
+\lang1033\f1\fs16 Up to 5 Black solidly takes the corner and A is a good followup move.
+
+\lang1042\f0\fs18
+])
+(;AW[fc][qh][jn][gp][np][nq]AB[dd][jd][pd][fe][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;W[ge]LB[ge:1]C[No diagram name
+
+
+
+])
+)

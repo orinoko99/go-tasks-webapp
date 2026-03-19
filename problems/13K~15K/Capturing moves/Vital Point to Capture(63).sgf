@@ -1,0 +1,63 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[rs]AW[pp][qp][pq][rq][pr][qr][ps]AB[nn][po][qo][ro][op][rp][oq][or][os][rs]LBCR[rs]C[Where is a vital point?(63)
+
+
+It's\b  Black\b0 's turn.\f1
+
+W's group seems to be hard to capture.
+
+But B's\'a1\'e3 can be a hero!!
+
+
+])
+(;AW[pp][qp][pq][rq][pr][qr][ps]AB[nn][po][qo][ro][op][rp][oq][or][os][rs]LB[qs:A]
+;B[sr]
+;W[sq]
+;B[rr]LB[sr:1][sq:2][rr:3][qs:A]C[DIa.1(Right answer/Diagonal move)
+
+
+
+Diagonal move is the first step to capture W's group.
+W must play at 2.
+
+Chocking at 3 is an excellent attack because W can't play at A.
+
+It's an o\f1 ne eye versus no eye!!\f0
+
+])
+(;AW[pp][qp][pq][rq][pr][qr][ps]AB[nn][po][qo][ro][op][rp][oq][or][os][rs]LB[qs:A][ss:B]
+;B[rr]
+;W[sr]
+;B[sp]
+;W[sq]LB[rr:1][sr:2][sp:3][sq:4][qs:A][ss:B]C[Dia.2(Draw)
+
+{\colortbl ;\red255\green0\blue0;}
+
+B1 is a good tesuji of endgame but couldn't get W's group.
+
+W2 is a \cf1\b vital point\cf0\b0 .
+
+This result is a draw.
+(A, B is a self dansu)
+
+])
+(;AW[pp][qp][pq][rq][pr][qr][ps]AB[nn][po][qo][ro][op][rp][oq][or][os][rs]
+;B[sq]
+;W[sr]
+;B[sp]
+;W[rr]LB[sq:1][sr:2][sp:3][rr:4]C[Dia.3(Bed move)
+
+{\colortbl ;\red255\green0\blue0;}
+
+B 1, 3 look like a sente endgame.
+But it's a\cf1\b  bed move\cf0\b0 .
+
+Because W plays at 4 that is able to be alive easily.
+
+])
+)

@@ -1,0 +1,133 @@
+//19
+5
+Star-point Joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par This is a continuation of the previous problem. When Black plays 3 if White plays A then it's simple. But what if White plays 4?\lang1042\f1
+\par
+\par }
+#
+(
+1[qn]
+131[op]
+1[pp]
+65[qp]
+2[nq]
+2[pq]
+1[qq]
+2[qr]
+)
+4
+B[oq]
+W[pr]
+B[or]
+W[op]
+1st Dia. Simple way
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black has to play 1. Then White plays 2 and 4. After Black plays 5 it's a joseki.
+\par This is the simple solution.\lang1042\f1
+\par
+\par }
+#
+(
+1[qn]
+2[op]
+1[pp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+1[or]
+2[pr]
+2[qr]
+)
+5
+B[nr]
+W[qp]
+B[po]
+W[rp]
+B[mq]
+2nd Dia. Keep looking
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Then real problem starts if White answers 1 to Black's \lang1042\f1\'a1\'e3\lang1043\f0  move.
+\par This is a very complicated variation.
+\par Black will play 2 to 7, so far it's rather simple but later it will develop into a huge fight.
+\par When Black plays A White should answer B.\lang1042\f1
+\par
+\par }
+#
+(
+66[mn]
+1[qn]
+65[lp]
+2[op]
+1[pp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+5[nr]
+1[or]
+2[pr]
+2[qr]
+)
+7
+W[np]
+B[mq]
+W[mp]
+B[lq]
+W[qp]
+B[po]
+W[rp]
+3rd Dia. Net
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is an easy answer. White will play 2 and 4 then Black 5 is a good move. Now it's a net.\lang1042\f1
+\par
+\par }
+#
+(
+1[qn]
+6[np]
+2[op]
+1[pp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+1[nr]
+1[or]
+2[pr]
+2[qr]
+)
+5
+B[mr]
+W[qp]
+B[po]
+W[rp]
+B[mo]
+4th Dia. White 1 is a mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White 1 is a mistake. Black will play 2 then White has to play 3 and 5. Black will happily play 6. This is better than the 1st diagram for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[qn]
+2[op]
+1[pp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+1[nr]
+1[or]
+2[pr]
+2[qr]
+)
+6
+W[mq]
+B[mr]
+W[qp]
+B[po]
+W[rp]
+B[lq]

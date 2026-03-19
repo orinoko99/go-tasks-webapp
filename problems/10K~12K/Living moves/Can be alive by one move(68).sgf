@@ -1,0 +1,55 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[qs]AW[qo][ro][so][op][pp][sp][oq][or][os][qs]AB[rp][pq][sq][pr][sr][ps]LBCR[qs]C[Can be alive by one move(68)
+
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+\pard\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\lang1042\f0
+W's one stone(\'a1\'e2)bothers B group.
+])
+(;AW[qo][ro][so][op][pp][sp][oq][or][os][qs]AB[rp][pq][sq][pr][sr][ps]
+;B[qr]
+;W[rs]
+;B[rr]
+;W[qp]LB[qr:1][rs:2][rr:3][qp:4]C[Dia.1(Captured easily)
+
+{\colortbl ;\red255\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+\cf1\b B1 is captured easily by W2.\cf0\b0
+
+])
+(;AW[qo][ro][so][op][pp][sp][oq][or][os][qs]AB[rp][pq][sq][pr][sr][ps]
+;B[rr]
+;W[qq]
+;B[qr]
+;W[rs]LB[rr:1][qq:2][qr:3][rs:4]C[Dia.2(Also can't live)
+
+{\colortbl ;\red255\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+\cf1\b Turning at 1 also can't live.
+\cf0\b0
+W2 and 4 is a good attack.
+Playing at 4 instead of 2 is also possible.
+
+])
+(;AW[qo][ro][so][op][pp][sp][oq][or][os][qs]AB[rp][pq][sq][pr][sr][ps]
+;B[rs]
+;W[qq]
+;B[qr]LB[rs:1][qq:2][qr:3]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+Diagonal at 1 is the vital point of life.
+
+\cf1\b 2 to 1 point\cf0\b0  is very useful.
+
+])
+)

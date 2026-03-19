@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ap][dp][ep][bq][cq][eq][fq][gq][ar][br][gr][gs]AB[cn][bo][do][bp][cp][dq][dr][er][fr][ds][fs]LBC[One Eye vs. No Eye
+
+Where should Black play to capture White?
+])
+(;AW[ap][dp][ep][bq][cq][eq][fq][gq][ar][br][gr][gs]AB[cn][bo][do][bp][cp][dq][dr][er][fr][ds][fs]
+;B[bs]
+;W[cr]
+;B[cs]LB[bs:1][cr:2][cs:3]C[Success
+
+Black should attach at 1 to create a "one eye versus no eye" situation. Black having one eye is in the favorable position and wins the capturing race.
+
+])
+(;AW[ap][dp][ep][bq][cq][eq][fq][gq][ar][br][gr][gs]AB[cn][bo][do][bp][cp][dq][dr][er][fr][ds][fs]
+;B[ao]
+;W[bs]LB[ao:1][bs:2]C[Wrong
+
+Taking an outside liberty first results in a bik/seki.
+
+])
+)

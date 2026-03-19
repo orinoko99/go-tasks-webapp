@@ -1,0 +1,65 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qn][nq]AB[kp][pp]
+;B[np]
+;W[mp]
+;B[no]
+;W[qq]LB[np:1][mp:2][no:3][qq:4]C[Star point jeongseok (67)
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 In response to White's double approach Black has attached and White has responded with 2.  What should we do when White jumps in the corner with 4.
+
+\lang1042\f0\fs18
+])
+(;AW[qn][mp][nq][qq]AB[no][kp][np][pp]
+;B[qp]
+;W[pq]LB[qp:1][pq:2]C[Dia.1 Mistake in direction
+
+Blocking with 1 is a mistake in direction.  White can easily link up all of his stones with a big smile and make lots of territory in the corner.  \lang1042\f1\fs18
+
+])
+(;AW[qn][mp][nq][pq][qq]AB[no][kp][np][pp][qp]
+;B[oq]
+;W[or]
+;B[op]
+;W[mr]
+;B[mo]
+;W[qk]LB[oq:1][or:2][op:3][mr:4][mo:5][qk:6]C[Dia.2 Thickness isn't useful
+
+Black could wedge at 1 and then create thickness facing the outside with 5, but how is he going to use his powerful wall if White can just defend his group with 6?  Black's thickness just isn't that useful here.
+\lang1042\f1\fs18
+
+])
+(;AW[qn][mp][nq][qq]AB[no][kp][np][pp]
+;B[pq]
+;W[qp]
+;B[po]
+;W[qr]LB[pq:1][qp:2][po:3][qr:4]C[Dia.3 Right direction but...
+
+Black 1 is the right idea but the execution is off.  White solidly defends with 2 and 4 and takes big profit in the corner.  \lang1042\f1\fs18
+
+])
+(;AW[qn][mp][nq][qq]AB[no][kp][np][pp]
+;B[oq]
+;W[qp]
+;B[nr]LB[oq:1][qp:2][nr:3]C[Dia.4 Jeongseok
+
+Black's play at 1 is a strong move.  Of course this is jeongseok.  Once Black plays 3 the sequence is finished.  This is good for Black.
+\lang1042\f1\fs18
+
+])
+(;AW[qn][nq]AB[kp][pp]
+;B[np]
+;W[mp]
+;B[no]
+;W[qq]LB[np:1][mp:2][no:3][qq:4]C[No diagram name
+
+
+
+])
+)

@@ -1,0 +1,134 @@
+//19
+4
+Living with one Move(20)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par
+\par White has captured one stone, but Black \'a1\'e3 stone is making trouble.
+\par
+\par So White has to be careful.
+\par
+\par
+\par }
+#
+(
+1[no]
+1[qo]
+1[ro]
+1[pp]
+2[qp]
+5[sp]
+1[nq]
+1[pq]
+2[qq]
+1[nr]
+2[or]
+2[pr]
+1[qr]
+2[rr]
+)
+0
+Dia. 01 Mistake from Both/Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Capturing with White 1 is a \cf1\b mistake\cf0\b0 .
+\par However Black's attachment at 2 is another \cf1\b bad move\cf0\b0 .
+\par White can resist with 3 and 5 and make \cf2\b pae\cf0\b0 .
+\par
+\par Black should have played at 3 instead of 2 and then White would be dead.
+\par
+\par
+\par }
+#
+(
+1[no]
+1[qo]
+1[ro]
+1[pp]
+2[qp]
+1[sp]
+1[nq]
+1[pq]
+2[qq]
+1[nr]
+2[or]
+2[pr]
+1[qr]
+2[rr]
+)
+6
+W[qs]
+B[sr]
+W[rq]
+B[sq]
+W[os]
+B[rs]
+Dia. 02 White 1, Idle
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is an idle move which doesn't care about the Black \'a1\'e3 stone.
+\par
+\par Black throws-in at 2 immediately.
+\par
+\par White has to take at 3, but Black captures him with 4.
+\par
+\par
+\par }
+#
+(
+1[no]
+1[qo]
+1[ro]
+1[pp]
+2[qp]
+5[sp]
+1[nq]
+1[pq]
+2[qq]
+1[nr]
+2[or]
+2[pr]
+1[qr]
+2[rr]
+)
+4
+W[sq]
+B[rq]
+W[qs]
+B[rp]
+Dia. 03 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's connection at 1 is \cf1\b calm\cf0\b0 .
+\par After Black 2, White lives with 3.
+\par
+\par Black 4 tries to create a shortage of liberties, but White can play at 5, because he has a liberty at A.
+\par
+\par }
+#
+(
+1[no]
+1[qo]
+1[ro]
+1[pp]
+2[qp]
+65[rp]
+1[sp]
+1[nq]
+1[pq]
+2[qq]
+1[nr]
+2[or]
+2[pr]
+1[qr]
+2[rr]
+)
+5
+W[rq]
+B[sq]
+W[sr]
+B[qs]
+W[rs]

@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[fo][hp][eq][fq][kq][dr][fr]AB[cm][do][cq][dq][cr][er]LBC[How to Play the Endgame
+
+Where's Black's best endgame move on the lower side?
+])
+(;AW[fo][hp][eq][fq][kq][dr][fr]AB[cm][do][cq][dq][cr][er]LB[fs:a]
+;B[ds]
+;W[``]
+;B[fs]
+;W[gr]
+;B[gs]
+;W[hs]
+;B[es]
+;W[hr]LB[ds:1][``:2][fs:3][gr:4][gs:5][hs:6][es:7][hr:8][fs:a]C[Correct
+
+If Black captures at 1, he can later continue with the seonsu/sente endgame sequence from 3 to 8.
+])
+(;AW[fo][hp][eq][fq][kq][dr][fr]AB[cm][do][cq][dq][cr][er]
+;B[es]
+;W[fs]
+;B[ds]LB[es:1][fs:2][ds:3]C[Wrong
+
+Descending to 1 is not good because Black loses his follow-up moves shown in the solution.
+])
+)

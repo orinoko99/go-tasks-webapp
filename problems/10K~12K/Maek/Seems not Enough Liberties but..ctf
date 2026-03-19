@@ -1,0 +1,148 @@
+//19
+4
+Seems not Enough Liberties but...
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par It is not good to solve only difficult problems, so sometimes it is good to get confidence through easy ones.
+\par
+\par However nobody should underestimate a problem which looks too easy.
+\par
+\par Save the White stones without any trouble.
+\par
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+1[mp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+1[lq]
+1[nq]
+2[oq]
+2[rq]
+1[nr]
+2[or]
+1[pr]
+1[qr]
+2[rr]
+2[os]
+)
+0
+Dia. 01 Not Enough Liberty
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If it would be possible to win the capturing race with a move like White 1, this shape wouldn't be published as a problem.
+\par After Black 2, White has \cf1\b simply not enough liberty\cf0\b0 .
+\par
+\par
+\par
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+1[mp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+1[lq]
+1[nq]
+2[oq]
+2[rq]
+1[nr]
+2[or]
+1[pr]
+1[qr]
+2[rr]
+2[os]
+)
+2
+W[rp]
+B[ns]
+Dia. 02 Thoughtless Move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a \cf1\b thoughtless move\cf0\b0 .
+\par After Black answers with 2, White's defeat becomes obvious.
+\par
+\par Black has three liberties while White has only 2.
+\par
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+1[mp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+1[lq]
+1[nq]
+2[oq]
+2[rq]
+1[nr]
+2[or]
+1[pr]
+1[qr]
+2[rr]
+2[os]
+)
+2
+W[qq]
+B[pq]
+Dia. 03 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's hane with 1 on the first line is the \cf1\b maek\cf0\b0  which is aiming at Black's shortage of liberties.
+\par Black has to play at 2 and if White plays the dansu at 3, Black has no answer left. If White plays at A instead of 3 White wins the capturing race again.
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+1[mp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+1[lq]
+1[nq]
+2[oq]
+65[pq]
+2[rq]
+1[nr]
+2[or]
+1[pr]
+1[qr]
+2[rr]
+2[os]
+)
+3
+W[qs]
+B[ps]
+W[qq]

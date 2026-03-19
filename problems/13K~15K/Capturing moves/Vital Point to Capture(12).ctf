@@ -1,0 +1,170 @@
+//19
+5
+Vital Point to Capture?(12)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par There is one eye in the corner.
+\par So White only has to destroy the eye on the left.
+\par One move decides this life and death problem.
+\par
+\par
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[mr]
+1[nr]
+1[or]
+1[rr]
+1[sr]
+2[ms]
+1[rs]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White can destroy the eye with 1.
+\par It is an attack which \cf1\b aims\cf0\b0  at Black's \cf1\b shortage of liberties\cf0\b0 .
+\par
+\par After Black 2, White connects with 3 and Black is captured.
+\par If White plays at A instead of 3, Black is still captured.
+\par
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[mr]
+1[nr]
+1[or]
+1[rr]
+1[sr]
+2[ms]
+65[os]
+1[rs]
+)
+3
+W[ps]
+B[pr]
+W[ns]
+Dia. 02 Big Illusion
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White might think that playing at 1 is good too. After Black connects at 2, White attaches at 3 and it becomes the same with the correct answer in \b Dia. 01\b0 .
+\par
+\par However this is a \cf1\b big illusion\cf0\b0 .
+\par
+\par Black can play at 3 instead of 2, then he \cf2\b lives\cf0\b0 .
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[mr]
+1[nr]
+1[or]
+1[rr]
+1[sr]
+2[ms]
+1[rs]
+)
+3
+W[ns]
+B[pr]
+W[ps]
+Dia. 03 Only Endgame
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's attachment at 1 is \cf1\b only\cf0\b0  an \cf1\b endgame move\cf0\b0 .
+\par If Black plays at 2, he can live up to 4.
+\par
+\par
+\par
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[mr]
+1[nr]
+1[or]
+1[rr]
+1[sr]
+2[ms]
+1[rs]
+)
+4
+W[os]
+B[ps]
+W[ns]
+B[pr]
+Dia. 04 Confused?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par People who thought about White 1 are probably \cf1\b confused\cf0\b0  with another situation.
+\par
+\par Black lives easily with many points up to 4.
+\par
+\par If there is a White stone at A, White 1 would be a great way to attack.
+\par
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+65[sq]
+2[mr]
+1[nr]
+1[or]
+1[rr]
+1[sr]
+2[ms]
+1[rs]
+)
+4
+W[pr]
+B[qr]
+W[ps]
+B[qs]

@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ao][bo][co][do][ap][bq][cq][dr][er][cs]AB[bp][cp][dp][aq][dq][eq][fq][ar][fr]LBC[Vital Point
+
+It's Black's turn. Find the vital point to win the capturing race.
+])
+(;AW[ao][bo][co][do][ap][bq][cq][dr][er][cs]AB[bp][cp][dp][aq][dq][eq][fq][ar][fr]LB[br:a]
+;B[bs]
+;W[cr]
+;B[es]LB[bs:1][cr:2][es:3][br:a]C[Correct
+
+The diagonal move at 1 is the vital point in this shape. White can't approach at a because he's short of liberties.
+
+])
+(;AW[ao][bo][co][do][ap][bq][cq][dr][er][cs]AB[bp][cp][dp][aq][dq][eq][fq][ar][fr]
+;B[br]
+;W[cr]
+;B[es]
+;W[bs]LB[br:1][cr:2][es:3][bs:4]C[Failure
+
+The atari at 1 fails because White will connect at 2. Next, Black can't play at 4 because he's short of liberties. White wins the capturing race.
+
+])
+)

@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ao][bo][co][do][eo][ap][ep][aq][dq][cr][dr][es]AB[bp][cp][dp][fp][gp][bq][eq][ar][br][er][gr]LBC[One Eye versus no Eye
+
+How should Black play to capture some white stones?
+])
+(;AW[ao][bo][co][do][eo][ap][ep][aq][dq][cr][dr][es]AB[bp][cp][dp][fp][gp][bq][eq][ar][br][er][gr]LB[cq:A]
+;B[bs]
+;W[cs]LB[bs:1][cs:2][cq:A]C[Correct
+
+
+Black should make an eye at 1. Even if White reduces the liberties at 2, he can't enter at A because of jachung.
+])
+(;AW[ao][bo][co][do][eo][ap][ep][aq][dq][cr][dr][es]AB[bp][cp][dp][fp][gp][bq][eq][ar][br][er][gr]
+;B[cs]
+;W[bs]
+;B[fs]
+;W[ds]LB[cs:1][bs:2][fs:3][ds:4]C[Wrong
+
+The hane at 1 doesn't work because White will throw in at 2. After White 4 the fight results in a bik/seki.
+])
+)

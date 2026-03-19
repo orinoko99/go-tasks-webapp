@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[no][po][qo][ro][so][op][sp][nq][nr][qr]AB[pp][qp][rp][sq][or][pr][rr][ss]LBC[First is a key move(91)
+
+
+\lang1033\f1 It's\b  White\b0 's turn.\lang1042\f0
+
+Where is the first move?
+])
+(;AW[no][po][qo][ro][so][op][sp][nq][nr][qr]AB[pp][qp][rp][sq][or][pr][rr][ss]
+;W[os]
+;B[qs]LB[os:1][qs:2]C[Dia.1(Sente endgame)
+
+{\colortbl ;\red255\green0\blue0;}
+
+If W didn't find B's weak point, he would play just\cf1\b  sente endgame\cf0\b0  like this.
+
+
+])
+(;AW[no][po][qo][ro][so][op][sp][nq][nr][qr]AB[pp][qp][rp][sq][or][pr][rr][ss]
+;W[qs]
+;B[qq]LB[qs:1][qq:2]C[Dia.2(Reckless move)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Descent at 1 is \cf1\b a reckless move.
+\cf0\b0
+After 2, W has nothing to do.
+
+])
+(;AW[no][po][qo][ro][so][op][sp][nq][nr][qr]AB[pp][qp][rp][sq][or][pr][rr][ss]
+;W[pq]
+;B[oq]
+;W[qq]
+;B[rq]
+;W[qs]LB[pq:1][oq:2][qq:3][rq:4][qs:5]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b W1\cf0\b0  is very good move to attack B's weak point.
+
+B tries to capture W's four stones but up to 5, B's two group are in\cf1\b  double self-dansu.\cf0\b0
+
+])
+)

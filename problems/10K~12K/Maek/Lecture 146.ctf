@@ -1,0 +1,93 @@
+//19
+3
+Maek (Tesuji)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Where should Black play to win the capturing race?
+\par }
+#
+(
+2[dp]
+2[ep]
+2[fp]
+1[gp]
+1[hp]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+2[gq]
+1[hq]
+2[br]
+1[cr]
+2[fr]
+2[gr]
+1[hr]
+1[bs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The one-point jump to the first line is the only move. Even White breaks through at 2, Black will connect at 3 and win the capturing race.
+\par }
+#
+(
+2[dp]
+2[ep]
+2[fp]
+1[gp]
+1[hp]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+2[gq]
+1[hq]
+2[br]
+1[cr]
+2[fr]
+2[gr]
+1[hr]
+1[bs]
+)
+7
+B[es]
+W[er]
+B[dr]
+W[ds]
+B[cs]
+W[ar]
+B[gs]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Blocking at 1 doesn't work here because White will continuously play atari at 2 and 4.
+\par }
+#
+(
+2[dp]
+2[ep]
+2[fp]
+1[gp]
+1[hp]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+2[gq]
+1[hq]
+2[br]
+1[cr]
+2[fr]
+2[gr]
+1[hr]
+1[bs]
+)
+4
+B[er]
+W[es]
+B[dr]
+W[ds]

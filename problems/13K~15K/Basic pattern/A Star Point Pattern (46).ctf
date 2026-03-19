@@ -1,0 +1,103 @@
+//19
+4
+A Star Point Pattern (46)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \b Black to Play.\b0
+\par When white invades the corner at the 3-3 point, black 2 and 4 are usually strong responses when there is a black stone around \'a1\'e3.
+\par
+\par White 5, seems a little strange, however, this is a standard pattern.
+\par }
+#
+(
+5[pj]
+1[kp]
+1[pp]
+2[nq]
+)
+5
+W[qq]
+B[qp]
+W[pq]
+B[op]
+W[mr]
+Diagram 1 (Closing White in)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Blockinbg soliding with black 1 is the only move.
+\par
+\par \pard\ltrpar\nowidctlpar\qj Instead of this move, it is too loose for black to play at \b\f1 A\b0\f0 .
+\par \pard\ltrpar
+\par Next -
+\par }
+#
+(
+1[pj]
+65[mo]
+1[kp]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+2[pq]
+2[qq]
+2[mr]
+)
+1
+B[np]
+Diagram 2 (Basic Pattern)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par It is normal for white to hane at 1 in exchange for black 2.
+\par
+\par White \'a1\'e2 is known to have been invented by Master Oh Cheong Wuon(Go Seigen/\'e7\'ef\'f4\'e8\'ea\'b9).
+\par
+\par \pard\ltrpar\nowidctlpar\qj After 2, white hanes at \b\f1 A\b0\f0  at an opportune moment. however, the ladder after black \b\f1 B\b0\f0 ,\b\f1  \b0\f0 white\b\f1  C\b0\f0 , black\b\f1  D\b0\f0  should be favorable for white. It is difficult to grasp but please note that there is this kind of potential in this position.
+\par }
+#
+(
+1[pj]
+68[ln]
+65[lo]
+1[kp]
+66[lp]
+1[np]
+1[op]
+1[pp]
+1[qp]
+67[mq]
+2[nq]
+2[pq]
+2[qq]
+6[mr]
+)
+2
+W[mp]
+B[mo]
+Diagram 3 (White Plays Elsewhere)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par If white plays elsewhere in this situation, it is good for black to play a forcing move at 1.
+\par
+\par White cannot do much more than simply connect at 2.
+\par
+\par If there is no other urgent points on the board, it is a big move for black to extend to 3, making impressive thickness.
+\par
+\par }
+#
+(
+1[pj]
+1[kp]
+1[np]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+2[pq]
+2[qq]
+2[mr]
+)
+3
+B[mq]
+W[nr]
+B[lq]

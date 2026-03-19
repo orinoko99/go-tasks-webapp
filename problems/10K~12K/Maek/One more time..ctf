@@ -1,0 +1,152 @@
+//19
+4
+One more time.
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par This is \lang1033\f1 similar problem before.\f2
+\par \lang1042\f0
+\par
+\par }
+#
+(
+1[pn]
+2[mp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+2[kq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+2[pq]
+2[kr]
+1[lr]
+1[mr]
+1[or]
+2[pr]
+1[rr]
+2[ps]
+)
+0
+Dia.1(One eye versus no eye)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par
+\par Do you remember bending at 1 is a bed move?
+\par Because making one eye is a vital point.
+\par
+\par Up to 6, \cf1\b B wins by the one eye versus no eye.
+\par \cf0\b0
+\par
+\par }
+#
+(
+1[pn]
+2[mp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+2[kq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+2[pq]
+2[kr]
+1[lr]
+1[mr]
+1[or]
+2[pr]
+1[rr]
+2[ps]
+)
+6
+W[ls]
+B[ns]
+W[ks]
+B[qr]
+W[ms]
+B[qq]
+DIa.2(Beginners mistake)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par
+\par Beginners usually make mistakes which is kind of seif-dansu(W1).
+\par
+\par Up to 4, B has a three liberties and W has a two. so B wins the capturing race.
+\par }
+#
+(
+1[pn]
+2[mp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+2[kq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+2[pq]
+2[kr]
+1[lr]
+1[mr]
+1[or]
+2[pr]
+1[rr]
+2[ps]
+)
+4
+W[os]
+B[ns]
+W[ls]
+B[qr]
+DIa.3(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par I think, now you can find the playing inside at 1 easily!!
+\par
+\par Up to 3, W wins the capturing race.
+\par
+\par }
+#
+(
+1[pn]
+2[mp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+2[kq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+2[pq]
+2[kr]
+1[lr]
+1[mr]
+1[or]
+2[pr]
+1[rr]
+2[ps]
+)
+3
+W[ns]
+B[os]
+W[ls]

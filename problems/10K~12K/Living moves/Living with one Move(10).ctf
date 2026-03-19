@@ -1,0 +1,220 @@
+//19
+6
+Living with one Move(10)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 .
+\par If one checks it carefully, it is a \cf1\b symmetrical shape\cf0\b0 .
+\par
+\par If it is so, Black's living move is decided.
+\par However if Black ignores the proverb and becomes greedy he is going to be in trouble.
+\par
+\par
+\par }
+#
+(
+2[oo]
+2[po]
+2[ro]
+2[np]
+1[op]
+2[qp]
+2[lq]
+2[nq]
+1[oq]
+1[qq]
+2[rq]
+2[mr]
+1[nr]
+1[or]
+1[qr]
+1[rr]
+2[sr]
+)
+0
+Dia. 01 Life?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par How about expanding Black's eye-space with 1?
+\par If White plays at 2, Black can live easily with 3.
+\par
+\par However this variation was Black's wishful thinking. Black is \cf1\b missed \cf0\b0 a very\cf1\b  important thing\cf0\b0 .
+\par In other words, White is not going to play the hane at 2.
+\par
+\par }
+#
+(
+2[oo]
+2[po]
+2[ro]
+2[np]
+1[op]
+2[qp]
+2[lq]
+2[nq]
+1[oq]
+1[qq]
+2[rq]
+2[mr]
+1[nr]
+1[or]
+1[qr]
+1[rr]
+2[sr]
+)
+3
+B[ns]
+W[rs]
+B[ps]
+Dia. 02 Placement
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par After Black \'a1\'e3, White destroys the eye-shape from 1 to 3 and Black can't live anymore.
+\par
+\par Actually if Black directly plays the placement at 3 instead of 1, Black is captured again.
+\par
+\par Pay attention that Black lived immediately in the previous diagram when he got to play at 3.
+\par
+\par }
+#
+(
+2[oo]
+2[po]
+2[ro]
+2[np]
+1[op]
+2[qp]
+2[lq]
+2[nq]
+1[oq]
+1[qq]
+2[rq]
+2[mr]
+1[nr]
+1[or]
+1[qr]
+1[rr]
+2[sr]
+5[ns]
+)
+3
+W[pp]
+B[pq]
+W[ps]
+Dia. 03 Death in Hane
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black can't live with 1 either.
+\par Following the Baduk proverb which says "\cf1\b There is death in the hane\cf0\b0 ", White plays at 2 and 4 then the placement at 6.
+\par
+\par White can also play at 6 instead of 4.
+\par However if White plays at 6 instead of 2, Black can live with A.
+\par }
+#
+(
+2[oo]
+2[po]
+2[ro]
+2[np]
+1[op]
+2[qp]
+2[lq]
+2[nq]
+1[oq]
+1[qq]
+2[rq]
+2[mr]
+1[nr]
+1[or]
+1[qr]
+1[rr]
+2[sr]
+65[ps]
+)
+6
+B[pp]
+W[ns]
+B[os]
+W[rs]
+B[qs]
+W[pr]
+Dia. 04 Black Lives
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against Black \'a1\'e3, it is not good if White plays hane at 1.
+\par Black 2 is a \cf1\b good move\cf0\b0 .
+\par
+\par Shall we check what is the meaning of this move?
+\par Against White 3, Black 4 works and after White 5, Black plays dansu at 6 and it becomes \cf2\b continuous dansu\cf0\b0 .
+\par
+\par Therefore White 2 is the only move in \b Dia. 03\b0 .
+\par
+\par }
+#
+(
+2[oo]
+2[po]
+2[ro]
+2[np]
+1[op]
+5[pp]
+2[qp]
+2[lq]
+2[nq]
+1[oq]
+1[qq]
+2[rq]
+2[mr]
+1[nr]
+1[or]
+1[qr]
+1[rr]
+2[sr]
+)
+6
+W[rs]
+B[ns]
+W[ps]
+B[pr]
+W[qs]
+B[os]
+Dia. 05 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Have you heard about the proverb which says, "\cf1\b the vital point is in the center of the symmetrical shape\cf0\b0 "?
+\par
+\par Yes, that's right. Therefore Black 1 is the vital point.
+\par
+\par After White 2 and Black 3, A and B are miai so Black is alive.
+\par }
+#
+(
+2[oo]
+2[po]
+2[ro]
+2[np]
+1[op]
+2[qp]
+2[lq]
+2[nq]
+1[oq]
+1[qq]
+2[rq]
+2[mr]
+1[nr]
+1[or]
+1[qr]
+1[rr]
+2[sr]
+65[ns]
+66[rs]
+)
+3
+B[ps]
+W[pp]
+B[pq]

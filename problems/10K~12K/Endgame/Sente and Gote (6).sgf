@@ -1,0 +1,69 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oo][op][lq][oq][or]AB[pn][qo][pp][pq][pr]LB[os:A][ps:B]LB[os:A][ps:B]C[Sente and Gote (6)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\b Playing hane and connecting on the first line.\b0
+
+First it has to be decided if it is \cf1\b sente or gote\cf0\b0 , when Black plays hane at \b A\b0  or when White plays hane at \b B\b0 . Then count how many points it is worth.
+
+
+
+])
+(;AW[oo][op][lq][oq][or]AB[pn][qo][pp][pq][pr]
+;B[os]
+;W[ns]
+;B[ps]
+;W[mr]LB[os:1][ns:2][ps:3][mr:4]C[Dia. 01 If Black Plays
+
+{\colortbl ;\red0\green0\blue255;}
+
+If Black plays at 1 and 3 it becomes \cf1\b sente endgame\cf0\b0 .
+White has to defend at 4.
+
+
+])
+(;AW[oo][op][lq][oq][mr][or][ns]AB[pn][qo][pp][pq][pr][os][ps]LB[mo:?][no:?][ro:?][so:?][lp:?][lr:?][ls:?]LB[mo:?][no:?][ro:?][so:?][lp:?][lr:?][ls:?]C[Dia. 02 Borderline
+
+
+Borderlines are marked with Xs for the convenience counting.
+
+Black has 12 points inside the Xs, White has 6 points.
+
+
+])
+(;AW[oo][op][lq][oq][or]AB[pn][qo][pp][pq][pr]
+;W[ps]
+;B[qs]
+;W[os]
+;B[qr]LB[ps:1][qs:2][os:3][qr:4]C[Dia.03 If White Plays
+
+{\colortbl ;\red0\green0\blue255;}
+
+If it is White's turn, he also plays the hane and connects which is sente.
+
+When it is sente for both players it is called \cf1\b double sente endgame\cf0\b0 .
+In case it is gote for both players, it is called \cf1\b double gote endgame\cf0\b0 .
+
+
+
+
+])
+(;AW[oo][op][lq][oq][or][os][ps]AB[pn][qo][pp][pq][pr][qr][qs]LB[mo:?][no:?][ro:?][so:?][lp:?][lr:?][ls:?]LB[mo:?][no:?][ro:?][so:?][lp:?][lr:?][ls:?]C[Dia. 04 4 Points
+
+{\colortbl ;\red0\green0\blue255;}
+
+For the same reason like before, we marked the borderlines with Xs. It has to be marked at the same places like before.
+
+Black has 10 points, White has 8 points.
+
+After counting it is
+(12-10)+(8-6)=\cf1\b 4 points\cf0\b0 . Therefore Black 1 and 3 in the \b Dia. 01\b0  or White 1 and 3 in \b Dia. 03\b0  are worth 4 points.
+
+])
+)

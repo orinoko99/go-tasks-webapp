@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pq][pr]AW[np][op][lq][mq][pq][kr][mr][pr][ks]AB[no][oo][kp][lp][pp][qp][iq][kq][oq][qq][jr][or]LBCR[pq][pr]C[Can be alive by one move(90)
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+How to use two stones is important.
+
+])
+(;AW[np][op][lq][mq][pq][kr][mr][pr][ks]AB[no][oo][kp][lp][pp][qp][iq][kq][oq][qq][jr][or]LB[qr:A]
+;W[nr]
+;B[qr]
+;W[ns]
+;B[ps]
+;W[ls]LB[nr:1][qr:2][ns:3][ps:4][ls:5][qr:A]C[Dia.1(Huge mistake)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Up to 5, W can live easily but is this the right sequence??
+
+B had\cf1\b  a huge mistake.\cf0\b0
+
+])
+(;CR[nr]AW[np][op][lq][mq][pq][kr][mr][nr][pr][ks]AB[no][oo][kp][lp][pp][qp][iq][kq][oq][qq][jr][or]LB[qr:A][ns:B]
+;B[ps]LB[ps:1][qr:A][ns:B]CR[nr]C[Dia.2(Good move)
+
+{\colortbl ;\red255\green0\blue0;}
+
+\cf1\b Dansu at 1 is the proper direction.\cf0\b0
+
+Then B spot isn't sente anymore.
+
+])
+(;AW[np][op][lq][mq][pq][kr][mr][pr][ks]AB[no][oo][kp][lp][pp][qp][iq][kq][oq][qq][jr][or]LB[nr:B][os:A]
+;W[ns]
+;B[ps]LB[ns:1][ps:2][nr:B][os:A]C[Dia.3(Diagonal move also fail)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Diagonal move also fail because B2 is \cf1\b a good respond.\cf0\b0
+
+Then B spot is also not a sente!!
+
+])
+(;AW[np][op][lq][mq][pq][kr][mr][pr][ks]AB[no][oo][kp][lp][pp][qp][iq][kq][oq][qq][jr][or]
+;W[ps]
+;B[os]
+;W[ns]
+;B[qr]
+;W[ls]LB[ps:1][os:2][ns:3][qr:4][ls:5]C[Dia.4(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Descent at the first line is very good aim.
+
+Now, W3 is sente so up to 5, it is \cf1\b the life of two eyes.\cf0\b0
+
+])
+)

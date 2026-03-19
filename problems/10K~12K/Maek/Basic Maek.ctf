@@ -1,0 +1,142 @@
+//19
+4
+Basic Maek
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par White has only three liberties.
+\par
+\par Where is the basic maek?
+\par It should be found in a blink of an eye.
+\par
+\par
+\par }
+#
+(
+1[po]
+1[ro]
+1[pp]
+2[nq]
+2[oq]
+1[pq]
+2[qq]
+2[rq]
+2[sq]
+2[mr]
+1[nr]
+2[or]
+2[pr]
+1[qr]
+1[rr]
+1[sr]
+1[os]
+1[ps]
+)
+0
+Dia. 01 Give up
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If White captures at 1 it shows that White \cf1\b gives up\cf0\b0  the \cf1\b capturing race\cf0\b0 .
+\par
+\par Black fills the liberty with 2 and captures the White \'a1\'e2 stones.
+\par
+\par White gained some profit up to 3, but didn't find the answer for this problem.
+\par
+\par }
+#
+(
+1[po]
+1[ro]
+1[pp]
+2[nq]
+2[oq]
+1[pq]
+6[qq]
+6[rq]
+6[sq]
+2[mr]
+1[nr]
+2[or]
+2[pr]
+1[qr]
+1[rr]
+1[sr]
+1[os]
+1[ps]
+)
+4
+W[ns]
+B[rp]
+W[qs]
+B[qp]
+Dia. 02 Throw-in
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \cf1\b What kind of move\cf0\b0  is White's\cf1\b  throw-in \cf0\b0 at 1? Hopefully nobody thought about this move.
+\par
+\par After Black takes at 2 White loses the capturing race immediately.
+\par
+\par
+\par
+\par }
+#
+(
+1[po]
+1[ro]
+1[pp]
+2[nq]
+2[oq]
+1[pq]
+2[qq]
+2[rq]
+2[sq]
+2[mr]
+1[nr]
+2[or]
+2[pr]
+1[qr]
+1[rr]
+1[sr]
+1[os]
+1[ps]
+)
+4
+W[qs]
+B[rs]
+W[ns]
+B[rp]
+Dia. 03 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's \cf1\b placement \cf0\b0 at 1 is the\cf1\b  vital point of the capturing race\cf0\b0 .
+\par
+\par After Black 2, White 3 works as a snapback. Black has no chance to resist.
+\par }
+#
+(
+1[po]
+1[ro]
+1[pp]
+2[nq]
+2[oq]
+1[pq]
+2[qq]
+2[rq]
+2[sq]
+2[mr]
+1[nr]
+2[or]
+2[pr]
+1[qr]
+1[rr]
+1[sr]
+1[os]
+1[ps]
+)
+3
+W[rs]
+B[rp]
+W[qs]

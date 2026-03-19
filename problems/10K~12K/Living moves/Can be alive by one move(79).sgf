@@ -1,0 +1,70 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[sp][pq][qq][rq][or][rr][ps]AB[oo][ro][pp][rp][nq][oq][sq][nr][ns]LBC[Can be alive by one move(79)
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+\lang1033\f1 First move is important.\lang1042\f0
+])
+(;AW[sp][pq][qq][rq][or][rr][ps]AB[oo][ro][pp][rp][nq][oq][sq][nr][ns]
+;W[sr]
+;B[os]
+;W[pr]LB[sr:1][os:2][pr:3]C[Dia.1(Bent four)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Capturing at 1 is common move.
+
+After 2, W can make \cf1\b bent four \cf0\b0 which the eye shape of life.
+
+But it is W's wish!!
+
+])
+(;AW[sp][pq][qq][rq][or][rr][sr][ps]AB[oo][ro][pp][rp][nq][oq][nr][ns]
+;B[pr]
+;W[qr]
+;B[os]
+;W[rs]LB[pr:1][qr:2][os:3][rs:4]C[Dia.2(Ko)
+
+{\colortbl ;\red0\green0\blue255;}
+
+How about throw in??
+
+Then W can make a \cf1\b ko.\cf0\b0
+But this result is also W's wish.
+
+])
+(;AW[sp][pq][qq][rq][or][rr][sr][ps]AB[oo][ro][pp][rp][nq][oq][nr][ns]
+;B[rs]
+;W[qs]
+;B[pr]LB[rs:1][qs:2][pr:3]C[Dia.3(Good attack)
+
+{\colortbl ;\red0\green0\blue255;}
+
+B1 is \cf1\b a good attack\cf0\b0  to kill W's group.
+
+W tries to make two eyes but throw in at 3 is also good attack.
+
+])
+(;AW[sp][pq][qq][rq][or][rr][ps]AB[oo][ro][pp][rp][nq][oq][sq][nr][ns]
+;W[qs]
+;B[so]
+;W[sr]
+;B[os]
+;W[pr]LB[qs:1][so:2][sr:3][os:4][pr:5]C[Dia.4 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+In this case, the enemy's vital point isn't working.
+\cf1\b
+W1 is the only way to live.\cf0\b0
+
+This is\cf1\b  the basic life and death \cf0\b0 which you must know.
+
+])
+)

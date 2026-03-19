@@ -1,0 +1,199 @@
+//19
+5
+Easy Counting(18)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\b\f0\fs18
+\par Black to play\b0 (or \b White to play\b0 ).
+\par It isn't a complicated problem because both players have no follow up after capturing the three stones.
+\par
+\par 3 liberties vs. 3 liberties so if White plays he can capture the three Black \'a1\'e3 stones, if Black plays he can capture the three White \'a1\'e2 stones.
+\par
+\par }
+#
+(
+2[qn]
+1[gq]
+1[jq]
+1[kq]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[jr]
+6[kr]
+6[lr]
+6[mr]
+5[nr]
+5[or]
+5[pr]
+2[qr]
+)
+0
+Dia. 01 If White Plays
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If White plays first, he captures Black with the sequence from 1 to 5.
+\par
+\par Black A and White B are natural points, they are played for convenient counting.
+\par
+\par
+\par
+\par }
+#
+(
+2[qn]
+1[gq]
+1[jq]
+1[kq]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[jr]
+2[kr]
+2[lr]
+2[mr]
+1[nr]
+1[or]
+1[pr]
+2[qr]
+65[js]
+66[ms]
+)
+5
+W[ps]
+B[ks]
+W[os]
+B[ls]
+W[ns]
+Dia. 02 White 11 Points, Black 4 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par As always the borderlines are made by Xs.
+\par
+\par \cf1\b White\cf0\b0  captured the three stones so totally he has \cf1\b 11 points\cf0\b0  and \cf1\b Black\cf0\b0  has \cf1\b 4 points\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+2[qn]
+1[gq]
+691[hq]
+691[iq]
+1[jq]
+1[kq]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+691[rq]
+691[sq]
+691[gr]
+1[jr]
+2[kr]
+2[lr]
+2[mr]
+2[qr]
+691[gs]
+1[js]
+1[ks]
+1[ls]
+2[ms]
+2[ns]
+2[os]
+2[ps]
+)
+0
+Dia. 03 If Black Plays
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If Black plays, he captures White with the sequence from 1 to 5.
+\par
+\par White A and Black B are natural points, they are played for convenient counting.
+\par
+\par
+\par
+\par
+\par }
+#
+(
+2[qn]
+1[gq]
+1[jq]
+1[kq]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[jr]
+2[kr]
+2[lr]
+2[mr]
+1[nr]
+1[or]
+1[pr]
+2[qr]
+66[ns]
+65[qs]
+)
+5
+B[ks]
+W[ps]
+B[ls]
+W[os]
+B[ms]
+Dia. 04 Gote 14 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Borderlines are made again. \cf1\b Black\cf0\b0  has \cf1\b 11 points\cf0\b0  and \cf1\b White\cf0\b0  has \cf1\b 4 points\cf0\b0 .
+\par
+\par After counting it is
+\par (11-4)+(11-4)=\cf2\b 14 points\cf0\b0 .
+\par
+\par Therefore the sequence from White 1 to 5 in \b Dia. 01\b0  (or the sequence from Black 1 to 5 in \b Dia. 03\b0 ) worth gote \cf1\b 14 points\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+2[qn]
+1[gq]
+691[hq]
+691[iq]
+1[jq]
+1[kq]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+691[rq]
+691[sq]
+691[gr]
+1[jr]
+1[nr]
+1[or]
+1[pr]
+2[qr]
+691[gs]
+1[ks]
+1[ls]
+1[ms]
+1[ns]
+2[os]
+2[ps]
+2[qs]
+)
+0

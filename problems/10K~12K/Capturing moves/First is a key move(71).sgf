@@ -1,0 +1,58 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mo][op][pp][qp][rp][sp][nq][nr][pr][ns][rs]AB[oq][pq][qq][rq][or][sr][os]LBC[First is a key move(71)
+
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+First is a key move!
+Use properly inside two stones.
+
+])
+(;AW[mo][op][pp][qp][rp][sp][nq][nr][pr][ns][rs]AB[oq][pq][qq][rq][or][sr][os]
+;W[qr]
+;B[rr]
+;W[qs]
+;B[ps]LB[qr:1][rr:2][qs:3][ps:4]C[Dia.1(Lightening four)
+
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+How about connect two stones?
+
+B2 is \cf1\b a good move\cf0\b0  so B can make W's stones are the lightening four format which living format.
+
+])
+(;AW[mo][op][pp][qp][rp][sp][nq][nr][pr][ns][rs]AB[oq][pq][qq][rq][or][sr][os]LB[ps:A]
+;W[sq]
+;B[rr]
+;W[qr]
+;B[qs]LB[sq:1][rr:2][qr:3][qs:4][ps:A]C[Dia.2(Outside also can't)
+
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+How about attacking from outside(W1)?
+B2 is calm so up to 4, B's group is \cf1\b alive.\cf0\b0
+
+])
+(;AW[mo][op][pp][qp][rp][sp][nq][nr][pr][ns][rs]AB[oq][pq][qq][rq][or][sr][os]LB[ps:A][qs:B]
+;W[rr]
+;B[sq]
+;W[qr]LB[rr:1][sq:2][qr:3][ps:A][qs:B]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+W1 is \cf1\b the enemy's vital point.\cf0\b0
+
+After 2, connecting at 3 is a good attack.
+If B played at A, W would make flower five.
+
+])
+)

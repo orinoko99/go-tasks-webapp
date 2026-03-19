@@ -1,0 +1,60 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pq][qq][nr][or][rr][sr][rs]AB[pp][qp][rp][mq][nq][oq][rq][mr][ms]LBC[Where is a vital point?(94)
+
+
+\f1 It's\b  Black\b0 's turn.\f0
+
+W has a real eye at the right side.
+
+Then you have to try at the other side!!
+
+
+])
+(;AW[pq][qq][nr][or][rr][sr][rs]AB[pp][qp][rp][mq][nq][oq][rq][mr][ms]LB[os:A]
+;B[ps]
+;W[pr]
+;B[ns]LB[ps:1][pr:2][ns:3][os:A]C[Dia.1(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Invaiding at 1 is a \cf1\b vital point\cf0\b0 .
+
+W tries to capture B1 but B can connect.
+Even A is a self-dansu.
+
+
+])
+(;AW[pq][qq][nr][or][rr][sr][rs]AB[pp][qp][rp][mq][nq][oq][rq][mr][ms]LB[sq:A][pr:A]
+;B[pr]
+;W[qr]
+;B[ps]
+;W[qs]LB[pr:1][qr:2][ps:3][qs:4][sq:A][pr:A]C[DIa.2(A is empty)
+
+
+In this case, cutting move doesn't work.
+W can live easily to capture B's two stones.
+
+If B occupied at A, this result can be succeed.
+
+])
+(;AW[pq][qq][nr][or][rr][sr][rs]AB[pp][qp][rp][mq][nq][oq][rq][mr][ms]LB[ns:A]
+;B[ns]
+;W[ps]
+;B[os]
+;W[pr]LB[ns:1][ps:2][os:3][pr:4][ns:A]C[DIa.3(Enemy's vital point)
+
+{\colortbl ;\red255\green0\blue0;}
+
+If it showed in the actual game you might miss the right answer which like B1.
+
+Because tiger's mouth is an \cf1\b enemy's vital point.\cf0\b0
+
+How about that B played at 3 first??
+It will be the same result.
+])
+)

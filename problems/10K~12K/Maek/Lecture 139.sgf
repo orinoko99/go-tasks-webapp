@@ -1,0 +1,33 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cl][dl][eo][bp][cp][dp][dq][gq][hq][dr]AB[dm][bo][co][do][ep][gp][eq][er]LBC[Maek/Tesuji
+
+
+Where should Black play to capture the white cutting stone?
+])
+(;AW[cl][dl][eo][bp][cp][dp][dq][gq][hq][dr]AB[dm][bo][co][do][ep][gp][eq][er]
+;B[fn]
+;W[en]
+;B[em]
+;W[fo]
+;B[go]
+;W[fp]
+;B[fq]LB[fn:1][en:2][em:3][fo:4][go:5][fp:6][fq:7]C[Correct Answer
+
+
+The diagonal move net is the maek here. White can't escape.
+])
+(;AW[cl][dl][eo][bp][cp][dp][dq][gq][hq][dr]AB[dm][bo][co][do][ep][gp][eq][er]
+;B[fo]
+;W[en]
+;B[em]
+;W[fn]LB[fo:1][en:2][em:3][fn:4]C[Wrong
+
+
+Don't play an atari without any thought. White can easily escape.
+])
+)

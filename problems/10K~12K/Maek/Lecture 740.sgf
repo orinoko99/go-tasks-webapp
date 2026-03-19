@@ -1,0 +1,23 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cn][cp][cq][eq][fq][cr][dr]AB[do][dp][fp][gp][hp][dq][er]LBC[Loose Ladder
+
+Capture some white stones.
+])
+(;AW[cn][cp][cq][eq][fq][cr][dr]AB[do][dp][fp][gp][hp][dq][er]
+;B[fr]
+;W[gq]
+;B[gr]
+;W[hq]
+;B[iq]
+;W[hr]
+;B[ir]LB[fr:1][gq:2][gr:3][hq:4][iq:5][hr:6][ir:7]C[Success
+
+Black can capture White in a loose ladder up to 7.
+
+])
+)

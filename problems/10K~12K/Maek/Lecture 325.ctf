@@ -1,0 +1,68 @@
+//19
+3
+How to Answer
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 White played the overplay at x. Where should Black respond?
+\par }
+#
+(
+2[eo]
+2[cp]
+2[ep]
+1[fp]
+2[cq]
+1[dq]
+1[eq]
+8[fq]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black should drive White towards the first line and his own strong stones. This way the cutting stones get captured.
+\par
+\par }
+#
+(
+2[eo]
+2[cp]
+2[ep]
+1[fp]
+2[cq]
+1[dq]
+1[eq]
+2[fq]
+)
+7
+B[gq]
+W[fr]
+B[gr]
+W[fo]
+B[gp]
+W[dr]
+B[er]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Don't atari this way because Black needs to crawl on the second time three times to ensure life. White is happy to gather influence.
+\par
+\par }
+#
+(
+2[eo]
+2[cp]
+2[ep]
+1[fp]
+2[cq]
+1[dq]
+1[eq]
+2[fq]
+)
+9
+B[fr]
+W[gq]
+B[gr]
+W[hq]
+B[hr]
+W[iq]
+B[cr]
+W[br]
+B[es]

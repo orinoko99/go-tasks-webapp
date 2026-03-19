@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oo][po][op][qp][oq][qq][nr][ms][ns][ps]AB[nn][pn][qn][no][qo][np][rp][lq][nq][rq][mr][ls]LBC[One move problems(55)
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 If you aren't careful you might not think that there is a way to capture white.  Look carefully, this is a really cool move.\lang1042\f0\fs18
+
+
+])
+(;AW[oo][po][op][qp][oq][qq][nr][ms][ns][ps]AB[nn][pn][qn][no][qo][np][rp][lq][nq][rq][mr][ls]
+;B[rr]
+;W[qr]LB[rr:1][qr:2]C[Dia.1 A slack move
+
+Black's descent at 1 is just plain slack.  It's like he's not even trying.  There is a way to capture White, but moving in from the outside is not going to do it.
+\lang1042\f1\fs18
+
+
+])
+(;AW[oo][po][op][qp][oq][qq][nr][ms][ns][ps]AB[nn][pn][qn][no][qo][np][rp][lq][nq][rq][mr][ls]
+;B[or]
+;W[pr]
+;B[os]
+;W[rr]
+;B[sr]
+;W[rs]LB[or:1][pr:2][os:3][rr:4][sr:5][rs:6]C[Dia.2
+
+Black's cut at 1 is probably the way most people would go about capturing White.  It seems like a sharp move but White can still live.  White will counter dansu at 2 and then enlarge his eye space wiht 4 and 6.  As we can see White is alive.\lang1042\f1\fs18
+])
+(;AW[oo][po][op][qp][oq][qq][nr][ms][ns][ps]AB[nn][pn][qn][no][qo][np][rp][lq][nq][rq][mr][ls]
+;B[pr]
+;W[or]
+;B[qr]
+;W[rr]
+;B[rs]LB[pr:1][or:2][qr:3][rr:4][rs:5]C[Dia.3 Correct / Right in the middle
+
+We finally come to the vital point.  Play right smack dab in the middle and you'll hit the spot.  White must block at 2 and then Black can come out with 3.  White 4 is futile, Black 5 captures it.  If White plays 2 and 3 then Black will play there and capture he stones, so 2 and 3 are matbogi.
+\lang1042\f1\fs18
+])
+(;AW[oo][po][op][qp][oq][qq][nr][ms][ns][ps]AB[nn][pn][qn][no][qo][np][rp][lq][nq][rq][mr][ls]LBC[No diagram name
+
+
+
+])
+)

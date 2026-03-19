@@ -1,0 +1,103 @@
+//19
+3
+Maek (Tesuji)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black to capture the three white stones on the lower side. Where should he play?
+\par }
+#
+(
+2[cl]
+2[dm]
+2[cn]
+1[dn]
+2[co]
+1[do]
+1[io]
+2[cp]
+1[dp]
+2[kp]
+1[cq]
+2[dq]
+1[eq]
+1[gq]
+2[iq]
+1[cr]
+2[dr]
+2[er]
+)
+0
+Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Blocking at 1 and then spinning around with Black 3 and 5 will prepare the ladder. Beware of where to atari with Black 9!
+\par }
+#
+(
+2[cl]
+2[dm]
+2[cn]
+1[dn]
+2[co]
+1[do]
+1[io]
+2[cp]
+1[dp]
+2[kp]
+1[cq]
+2[dq]
+1[eq]
+1[gq]
+2[iq]
+1[cr]
+2[dr]
+2[er]
+)
+13
+B[fr]
+W[ep]
+B[es]
+W[fq]
+B[ds]
+W[eq]
+B[eo]
+W[fp]
+B[fo]
+W[gp]
+B[hp]
+W[go]
+B[gn]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Oh, what a pity. Black extended to 1 and missed the chance to capture White. White has the wonderful belly attachment at White 2 and wins the capturing race.
+\par }
+#
+(
+2[cl]
+2[dm]
+2[cn]
+1[dn]
+2[co]
+1[do]
+1[io]
+2[cp]
+1[dp]
+2[kp]
+1[cq]
+2[dq]
+1[eq]
+1[gq]
+2[iq]
+1[cr]
+2[dr]
+2[er]
+)
+8
+B[fq]
+W[br]
+B[bq]
+W[cs]
+B[ar]
+W[bs]
+B[fr]
+W[bp]

@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nq]AB[qn][pp]
+;W[qq]LB[qq:1]C[Star-point Joseki
+
+Black's turn\b0
+White just invaded the corner with 3-3.
+How should Black answer?\lang1042\f1
+
+])
+(;AW[nq][qq]AB[qn][pp]
+;B[qp]
+;W[pq]LB[qp:1][pq:2]C[1st Dia. Mistake
+
+Black 1 is a very weak move. White will happily take the corner and connect at the same time with 2.\lang1042\f1
+
+])
+(;AW[nq][qq]AB[qn][pp]
+;B[pq]
+;W[pr]
+;B[or]
+;W[qr]
+;B[oq]
+;W[ro]LB[pq:1][pr:2][or:3][qr:4][oq:5][ro:6]C[2nd Dia. Only move!
+
+Black has to plays 1! It's the only move.
+White will play 2, Black 3, White 4, Black 5 and White 6.
+This is the only sequence for both players.\lang1042\f1
+
+
+])
+(;AW[ro][nq][qq][pr][qr]AB[qn][pp][oq][pq][or]
+;B[qo]
+;W[rn]
+;B[rm]
+;W[qp]
+;B[qm]LB[qo:1][rn:2][rm:3][qp:4][qm:5]C[3rd Dia. Continuation
+
+Black plays 1, White answers 2 and 4. Then Black plays 5. This is one of the variations. Black's center is too strong. White shoulnd't play 3-3 on the opening.\lang1042\f1
+
+])
+(;AW[ro][nq][qq][pr][qr]AB[qn][pp][oq][pq][or]LB[so:A]
+;B[rn]
+;W[qo]
+;B[po]
+;W[pn]
+;B[ql]LB[rn:1][qo:2][po:3][pn:4][ql:5][so:A]C[4th Dia. Keep looking
+
+Depending on the situation Black can play 1. If Black's surroundings are strong then it's a good move.
+White will play 2 and 4, Black has to answer.
+White is not alive yet, later Black can play A.\lang1042\f1
+
+])
+(;AW[qo][ro][nq][qq][pr][qr]AB[qn][rn][po][pp][oq][pq][or]
+;W[qp]
+;B[om]LB[qp:1][om:2]C[5th Dia. Black 2 is good
+
+If White decides to just live with 1, then Black 2 is a good move.\lang1042\f1
+])
+)

@@ -1,0 +1,138 @@
+//19
+4
+Can be alive by one move(66)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par B played at \'a1\'e3.
+\par Be careful self-dansu!!
+\par
+\par
+\par }
+#
+(
+1[rn]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[nr]
+2[or]
+2[qr]
+1[rr]
+5[sr]
+1[ns]
+2[os]
+)
+0
+Dia.1(Captured)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par Bending at 1 is \cf1\b B's wants.\cf0\b0
+\par
+\par Up to 4, W's group is in self-dansu.
+\par
+\par }
+#
+(
+1[rn]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[nr]
+2[or]
+2[qr]
+1[rr]
+1[sr]
+1[ns]
+2[os]
+)
+4
+W[rs]
+B[so]
+W[sq]
+B[ps]
+Dia.2(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W1 is the vital point of life and\cf1\b  calm move.
+\par \cf0\b0
+\par You don't have to worry about B2 because after 3, B can't make W is in snapback anymore.
+\par
+\par }
+#
+(
+1[rn]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[nr]
+2[or]
+65[pr]
+2[qr]
+1[rr]
+1[sr]
+1[ns]
+2[os]
+)
+3
+W[sq]
+B[qs]
+W[rs]
+Dia.3(Actually)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par Actually, B should have played at 1.
+\par It is a vital point.
+\par
+\par Up to 4, ko is the best result for both.
+\par
+\par }
+#
+(
+1[rn]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[nr]
+2[or]
+2[qr]
+1[rr]
+1[ns]
+2[os]
+)
+4
+B[qs]
+W[rs]
+B[ss]
+W[sr]

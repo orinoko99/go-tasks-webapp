@@ -1,0 +1,54 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[ns]AW[qn][ro][pp][qp][nq][oq][nr][ns]AB[rp][rq][or][pr][rr][rs]LBCR[ns]C[Vital Point to Capture?(34)
+
+
+\b White to play\b0 .
+Black has a complete eye on the right side, then how about the left side?
+
+White's descending move at \'a1\'e2 gives big support to capture this Black group.
+
+
+
+])
+(;AW[qn][ro][pp][qp][nq][oq][nr][ns]AB[rp][rq][or][pr][rr][rs]
+;W[ps]
+;B[os]
+;W[qr]LB[ps:1][os:2][qr:3]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's \cf1\b attachment on the first line\cf0\b0  at 1 is a \cf1\b sharp attack\cf0\b0 .
+
+If Black cuts with 2, White breaks the eye with 3 and Black dies.
+
+
+])
+(;CR[ps]AW[qn][ro][pp][qp][nq][oq][nr][ns][ps]AB[rp][rq][or][pr][rr][rs]
+;B[qq]
+;W[os]
+;B[qs]
+;W[pq]LB[qq:1][os:2][qs:3][pq:4]CR[ps]C[Dia. 02 False eye
+
+
+Against White \'a1\'e2, if Black pulls back with 1, White plays at 2 and Black has not enough space to make an eye.
+
+It is false eye up to 4, so Blck is dead again.
+
+])
+(;AW[qn][ro][pp][qp][nq][oq][nr][ns]AB[rp][rq][or][pr][rr][rs]
+;W[sp]
+;B[os]LB[sp:1][os:2]C[Dia. 03 Big Mistake
+
+{\colortbl ;\red255\green0\blue0;}
+
+White's hane at 1 is a \cf1\b big mistake\cf0\b0 .
+Black can make his second eye with 2.
+
+
+])
+)

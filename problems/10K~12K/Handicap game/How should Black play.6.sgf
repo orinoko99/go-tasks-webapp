@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qf][mp]AB[nc][dd][jd][pd][dj][jj][pj][pn][dp][jp][pp]
+;W[fq]
+;B[dn]
+;W[jn]LB[fq:1][dn:2][jn:3]C[How should Black play?
+
+Black's turn\b0
+When White plays 1, Black can play 3 as we've seen on the previous problem. But this is also possible.
+How should Black play now?\lang1042\f1
+
+])
+(;CR[fq]AW[qf][jn][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][dp][jp][pp]
+;B[gp]LB[gp:1]CR[fq]C[1st Dia. Continuation
+
+There are many ways for Black to play. Black 1 is one of them. This move's goal is to attack White's \lang1042\f1\'a1\'e2\lang1043\f0  stone and move towards the center at the same time.\lang1042\f1
+
+])
+(;AW[qf][jn][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][dp][gp][jp][pp]
+;W[gq]
+;B[hp]
+;W[fp]
+;B[gn]LB[gq:1][hp:2][fp:3][gn:4]C[2nd Dia. Black's wish
+
+White playing 1 is exactly what Black wants. This sequence will make White heavier while making Black stronger.\lang1042\f1
+
+
+
+
+])
+(;AW[qf][jn][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][dp][gp][jp][pp]LB[fo:A][go:B]
+;W[fp]LB[fp:1][fo:A][go:B]C[3rd Dia. White 1 is the problem
+
+This is the real proble. When White plays 1. How should Black answer? A or B?
+\lang1042\f1
+
+])
+(;CR[jn]AW[qf][jn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][dp][gp][jp][pp]LB[fl:A]
+;B[go]
+;W[fo]
+;B[gn]
+;W[fn]
+;B[gm]
+;W[fm]
+;B[dl]
+;W[gl]
+;B[im]LB[go:1][fo:2][gn:3][fn:4][gm:5][fm:6][dl:7][gl:8][im:9][fl:A]CR[jn]C[4th Dia. Good play
+
+White will play 2 and 4. Then Black plays 3 and 5. As the sequence shows Black will be able to play the shoulder hit move at 9 against White's stone . White's group is too weak. And There's still a weakness left at A.\lang1042\f1
+
+])
+)

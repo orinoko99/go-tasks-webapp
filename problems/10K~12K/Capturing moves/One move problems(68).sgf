@@ -1,0 +1,50 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ro][so][op][pp][qp][oq][or][os]AB[rp][pq][qq][pr][sr][qs]LBC[One move problems(68)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 How should White capture Black when Black seems to have a good amount of eye space?
+
+\lang1042\f0\fs18
+])
+(;AW[ro][so][op][pp][qp][oq][or][os]AB[rp][pq][qq][pr][sr][qs]
+;W[rq]
+;B[rr]
+;W[sp]
+;B[ps]LB[rq:1][rr:2][sp:3][ps:4]C[Dia.1 Endgame moves
+
+If you cut with White 1 and take a Black stone then you are simply playing endgame moves and are not succeeding in capturing Black.  Black lives with 4.
+\lang1042\f1\fs18
+
+])
+(;AW[ro][so][op][pp][qp][oq][or][os]AB[rp][pq][qq][pr][sr][qs]
+;W[rr]
+;B[rq]
+;W[sp]
+;B[rs]LB[rr:1][rq:2][sp:3][rs:4]C[Dia.2 Alive in matbogi?
+
+What about the placement attack of White 1?  Actually, this is a severe move.  The only thing Black can do is play 2.  Now is an important moment!
+
+If White thinks Black lives in matbogi then he'll play 3 and Black will play  and live with two eyes.  Can you think of a better place to play than White 3?
+\lang1042\f1\fs18
+])
+(;AW[ro][so][op][pp][qp][oq][or][rr][os]AB[rp][pq][qq][rq][pr][sr][qs]LB[qr:A]
+;W[rs]
+;B[sp]
+;W[ps]LB[rs:1][sp:2][ps:3][qr:A]C[Dia.3 Correct / The placement  attack
+
+White 1 is the correct followup to the placement attack.  Even if Black tries 2 it doesn't work for him because White can dansu at 3 and Black cannot connect at A because he doesn't have enough liberties.
+\lang1042\f1\fs18
+
+])
+(;AW[ro][so][op][pp][qp][oq][or][os]AB[rp][pq][qq][pr][sr][qs]LBC[No diagram name
+
+
+
+])
+)

@@ -1,0 +1,29 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[bp][ep][fp][gp][hp][ip][cq][dq][iq][br][er][ir][bs]AB[eq][fq][gq][hq][cr][dr][hr][cs][ds][fs]LBC[Save Black
+
+
+Black needs a maek (tesuji) to live.
+])
+(;AW[bp][ep][fp][gp][hp][ip][cq][dq][iq][br][er][ir][bs]AB[eq][fq][gq][hq][cr][dr][hr][cs][ds][fs]
+;B[fr]
+;W[es]
+;B[dr]LB[fr:1][es:2][dr:3]C[Correct
+
+
+The correct technique is "under the stones". Black sacrifices four stones and cuts back at Black 3 to make the second eye.
+])
+(;AW[bp][ep][fp][gp][hp][ip][cq][dq][iq][br][er][ir][bs]AB[eq][fq][gq][hq][cr][dr][hr][cs][ds][fs]
+;B[es]
+;W[gs]
+;B[fr]
+;W[hs]LB[es:1][gs:2][fr:3][hs:4]C[Wrong
+
+
+Don't try to save the four stones or all the black stones will die.
+])
+)

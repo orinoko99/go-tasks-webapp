@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dn][cp][dp][bq][eq][fq][ar][er][gr][bs][fs][gs]AB[ep][fp][gp][ip][dq][gq][br][cr][dr][hr][hs]LBC[Black to Capture
+
+Where should Black play to capture White and save his own stones?
+])
+(;AW[dn][cp][dp][bq][eq][fq][ar][er][gr][bs][fs][gs]AB[ep][fp][gp][ip][dq][gq][br][cr][dr][hr][hs]
+;B[cs]
+;W[cq]
+;B[as]LB[cs:1][cq:2][as:3]C[Correct
+
+
+The best Black can achieve is the pae (ko) up to 3.
+])
+(;AW[dn][cp][dp][bq][eq][fq][ar][er][gr][bs][fs][gs]AB[ep][fp][gp][ip][dq][gq][br][cr][dr][hr][hs]
+;B[ds]
+;W[cq]LB[ds:1][cq:2]C[Wrong
+
+
+Descending to 1 fails because White simply fills an outside liberty at 2. One eye versus no eye, Black can't win the capturing race.
+])
+)

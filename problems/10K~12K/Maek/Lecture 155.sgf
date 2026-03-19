@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[bl][el][cm][bo][co][dp][cq][dq][eq][br][ds]AB[dn][fn][do][bp][cp][ep][fp][bq][fq][hq][cr]LBC[Maek (Tesuji)
+
+It looks quite sad for Black, unless you find a great maek to save his stones.
+])
+(;AW[bl][el][cm][bo][co][dp][cq][dq][eq][br][ds]AB[dn][fn][do][bp][cp][ep][fp][bq][fq][hq][cr]
+;B[bs]
+;W[ar]
+;B[er]
+;W[dr]
+;B[es]LB[bs:1][ar:2][er:3][dr:4][es:5]C[Correct
+
+
+The combination of the atari on the left at 1 and on the right at 3 and 5 are an excellent sequence. This way White is captured in a snapback.
+])
+(;AW[bl][el][cm][bo][co][dp][cq][dq][eq][br][ds]AB[dn][fn][do][bp][cp][ep][fp][bq][fq][hq][cr]
+;B[er]
+;W[dr]
+;B[bs]
+;W[cs]
+;B[ar]
+;W[as]LB[er:1][dr:2][bs:3][cs:4][ar:5][as:6]C[Wrong
+
+
+Don't miss the order of moves! This way White can make a pae (ko).
+])
+)

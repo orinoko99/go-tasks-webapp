@@ -1,0 +1,240 @@
+//19
+6
+Improve your rank
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par White A didn't work. So White decided to play 1. How should Black answer?\lang1042\f1
+\par
+\par
+\par }
+#
+(
+2[fc]
+65[jc]
+1[dd]
+1[jd]
+1[pd]
+1[cf]
+2[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+1
+W[nc]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When White plays \lang1042\f1\'a1\'e2\lang1043\f0 , Black 1 and 3 are good answers. If Black play like this Black is able to get territory and White doesn't even have many options for the next move. Since White has sente now, Black should be able to answer correctly to not get in trouble.\lang1042\f1
+\par
+\par }
+#
+(
+2[fc]
+6[nc]
+1[dd]
+1[jd]
+1[pd]
+1[cf]
+2[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+5
+B[nd]
+W[md]
+B[oc]
+W[ne]
+B[od]
+2nd Dia. Good for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If White plays 1, Black will answer 2 and 4. Black 6 is a good move.
+\par Now White's \lang1042\f1\'a1\'e2\lang1043\f0  stone is very weak. It's difficult for White to answer.\lang1042\f1
+\par
+\par
+\par }
+#
+(
+2[fc]
+65[mc]
+2[nc]
+1[oc]
+1[dd]
+1[jd]
+2[md]
+1[nd]
+1[od]
+1[pd]
+2[ne]
+1[cf]
+6[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+6
+W[me]
+B[mc]
+W[lc]
+B[nb]
+W[mb]
+B[pg]
+3rd Dia. Black has big territory
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If White plays 1, Black 2 is a good answer. White 3 is a good move but Black 4 counters it very well, it's a patient move.
+\par White has to play 5 and Black plays 6.
+\par Black was able to get a big territory.
+\par This result is good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+2[fc]
+690[mc]
+2[nc]
+1[oc]
+1[dd]
+1[jd]
+2[md]
+1[nd]
+1[od]
+1[pd]
+2[ne]
+1[cf]
+2[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+6
+W[mc]
+B[me]
+W[kd]
+B[mf]
+W[ke]
+B[qf]
+4th Dia. Good for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If White plays 1 Black will answer 2. White plays 3 and 5. Black will then play 6. Black is able to capture White's \lang1042\f1\'a1\'e2\lang1043\f0  stone. Black is satisfied with this result.\lang1042\f1
+\par
+\par }
+#
+(
+2[fc]
+2[nc]
+1[oc]
+1[dd]
+1[jd]
+2[md]
+1[nd]
+1[od]
+1[pd]
+6[ne]
+1[cf]
+2[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+6
+W[nb]
+B[me]
+W[le]
+B[mf]
+W[lc]
+B[nf]
+5th Dia. Another option
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  if White answers 1, Black 2 is a good move.
+\par This result is very good for Black, so White will not play like this.\lang1042\f1
+\par
+\par }
+#
+(
+2[nb]
+2[fc]
+2[nc]
+1[oc]
+1[dd]
+1[jd]
+2[md]
+1[nd]
+1[od]
+1[pd]
+5[me]
+2[ne]
+1[cf]
+2[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+2
+W[ld]
+B[le]

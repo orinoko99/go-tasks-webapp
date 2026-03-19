@@ -1,0 +1,159 @@
+//19
+5
+One Move Captures Black (9)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to Play.\b0
+\par To be correct, this problem should be called, 'three moves capture black'.
+\par
+\par After you find the first move, the next move is natural.
+\par
+\par However, please be careless, thinking you can capture black anyway.
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[qr]
+1[rr]
+2[ns]
+2[rs]
+)
+0
+Diagram 1 (Mistake)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It is a beginners' mistake for white to push in on the first line with 1.
+\par
+\par It is a good move for black to throw-in at 2. You might think it a pae but actually it isn't.
+\par .
+\par When white captures black at 3, if black plays dansu from the outside with 4, white is trapped unable to connect. Black is alive
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[qr]
+1[rr]
+2[ns]
+2[rs]
+)
+4
+W[os]
+B[ss]
+W[sr]
+B[qs]
+Diagram 2 (Calm)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par The enemy's key point is your own. So, what about white 1?
+\par
+\par It is a calm response for black to play 2, creating more eyespace. If white plays 3, black plays dansu at 4 and lives with a lot of points.
+\par
+\par \pard\ltrpar\nowidctlpar\qj Instead of 4, if black connects at \b\f1 A\b0\f0 , the black group is dead due having a dead shape. Bent four in the corner.
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+65[pr]
+1[qr]
+1[rr]
+2[ns]
+2[rs]
+)
+4
+W[ss]
+B[os]
+W[qs]
+B[sr]
+Diagram 3 (Creative)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par White 1 is creative. However, when black plays at 2, white cannot create a completely dead shape, and merely adds extra stones as a sacrifice.
+\par
+\par When black captures white at 4, even if white makes one eye false with 5, black can resist at 6, starting a pae. It was a fantastically energetic attack, but in the end it fails.
+\par
+\par The reason it is classed as a failure is because in this case there is a way to capture black unconditionally.
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[qr]
+1[rr]
+2[ns]
+2[rs]
+)
+6
+W[qs]
+B[ps]
+W[ss]
+B[sr]
+W[os]
+B[rs]
+Diagram 4 (Correct)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par White 1 is the vital point for killing black.
+\par
+\par When black answers it at 2, white naturally fills black's eyespace with 3. No more explanation is necessary.
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[qr]
+1[rr]
+2[ns]
+2[rs]
+)
+3
+W[ps]
+B[qs]
+W[ss]

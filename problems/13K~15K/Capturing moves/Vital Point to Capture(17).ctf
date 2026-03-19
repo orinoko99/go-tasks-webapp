@@ -1,0 +1,148 @@
+//19
+5
+Vital Point to Capture?(17)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Black has a pretty big eye-space.
+\par
+\par However it just looks nice, if White attacks in a severe way, Black is going to collapse.
+\par
+\par }
+#
+(
+2[qn]
+2[ro]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+2[nq]
+2[pq]
+1[qq]
+1[qr]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's \cf1\b placement \cf0\b0 at 1 is the \cf1\b vital point\cf0\b0 .
+\par
+\par It is not only at the 1-2 point but it is also looking at the snapback at A.
+\par
+\par Black 2 is the strongest way to resist, but White 3 is the deciding move.
+\par
+\par It doesn't help Black even if he connects with the next move at A.
+\par }
+#
+(
+2[qn]
+2[ro]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+2[nq]
+2[pq]
+1[qq]
+65[rq]
+1[qr]
+)
+3
+W[sr]
+B[rr]
+W[so]
+Dia. 02 Endgame
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It is hard to think during an actual game that it is possible to capture Black.
+\par
+\par There is big chance that White is going to block at 1 for \cf1\b endgame\cf0\b0 .
+\par
+\par Then Black is satisfied living with 2.
+\par
+\par If Black tries to live with many points and plays at A instead of 2, White plays at 2 and Black is in big trouble.
+\par }
+#
+(
+2[qn]
+2[ro]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+2[nq]
+2[pq]
+1[qq]
+1[qr]
+65[qs]
+)
+2
+W[pr]
+B[sr]
+Dia. 03 Another Solution?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's attachment at 1 is a sharp idea.
+\par The \cf1\b 2-2 point \cf0\b0 is also a vital point in the corner.
+\par
+\par If Black plays hane at 2, White 3 is a suitable move and White can capture Black up to 7.
+\par
+\par Is it another solution then?
+\par No~
+\par }
+#
+(
+2[qn]
+2[ro]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+2[nq]
+2[pq]
+1[qq]
+1[qr]
+65[rr]
+)
+7
+W[rr]
+B[rs]
+W[sr]
+B[pr]
+W[or]
+B[ps]
+W[rq]
+Dia. 04 Live with Miai
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against White \'a1\'e2, Black's attachment at 1 is the vital point for living.
+\par
+\par If White plays at A, Black lives with B. Moreover if White plays at B, Black lives with A.
+\par In other words, A and B are \cf1\b miai\cf0\b0 .
+\par
+\par
+\par
+\par }
+#
+(
+2[qn]
+2[ro]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+2[nq]
+2[pq]
+1[qq]
+66[rq]
+1[qr]
+6[rr]
+65[rs]
+)
+1
+B[sr]

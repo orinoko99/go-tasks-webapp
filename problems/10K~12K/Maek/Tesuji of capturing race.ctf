@@ -1,0 +1,179 @@
+//19
+5
+Tesuji of capturing race
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  Black\b0 's turn.\f2
+\par \lang1042\f0
+\par Tesuji of capturing race
+\par
+\par Don't make a mistake.
+\par }
+#
+(
+1[pn]
+2[np]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+2[lq]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[or]
+2[pr]
+1[rr]
+2[sr]
+1[os]
+2[qs]
+1[rs]
+)
+0
+Dia.1(Endgame)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B1 seems to be an answer but it is just an\cf1\b  endgame.\cf0\b0
+\par
+\par W can capture B's three stones easily.
+\par
+\par }
+#
+(
+1[pn]
+2[np]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+2[lq]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[or]
+2[pr]
+1[rr]
+2[sr]
+1[os]
+2[qs]
+1[rs]
+)
+2
+B[sq]
+W[nr]
+Dia.2(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Dansu at 1 is \cf1\b the right answer.\cf0\b0
+\par
+\par W can't connect at A.
+\par
+\par
+\par }
+#
+(
+1[pn]
+2[np]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+2[lq]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[or]
+2[pr]
+65[qr]
+1[rr]
+2[sr]
+1[os]
+2[qs]
+1[rs]
+)
+1
+B[ps]
+Dia.3(An applied problem)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par <An applied problem>
+\par
+\par There is one more W's stone(\'a1\'e2) at inside.
+\par
+\par \lang1033\f1 It's\b  Black\b0 's turn.\f2
+\par \lang1042\f0
+\par Where is a tesuji?
+\par }
+#
+(
+1[pn]
+2[np]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+2[lq]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[or]
+2[pr]
+6[qr]
+1[rr]
+2[sr]
+1[os]
+2[qs]
+1[rs]
+)
+0
+Dia.1(Right side!)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par In this case,\cf1\b  B should play at right side.
+\par
+\par \cf0\b0 B also has one more liberty.
+\par
+\par }
+#
+(
+1[pn]
+2[np]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+2[lq]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[or]
+2[pr]
+2[qr]
+1[rr]
+2[sr]
+1[os]
+2[qs]
+1[rs]
+)
+3
+B[sq]
+W[ss]
+B[rr]

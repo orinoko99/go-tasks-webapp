@@ -1,0 +1,57 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mn][rn][oo][po][qo][np][rp][sp][nq][nr][ns][os]AB[op][pp][qp][oq][rq][sq][or][pr]LBC[First is a key move(76)
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+It's not an esay one!
+And ko isn't the right answer.
+
+
+])
+(;AW[mn][rn][oo][po][qo][np][rp][sp][nq][nr][ns][os]AB[op][pp][qp][oq][rq][sq][or][pr]
+;W[qr]
+;B[qq]
+;W[ps]
+;B[rr]
+;W[rs]LB[qr:1][qq:2][ps:3][rr:4][rs:5]C[Dia.1(Ko isn't enough)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Attaching at 1 looks like a sharp attack but it will be a ko.
+
+And \cf1\b this result isn't enough.
+])
+(;AW[mn][rn][oo][po][qo][np][rp][sp][nq][nr][ns][os]AB[op][pp][qp][oq][rq][sq][or][pr]
+;W[qq]
+;B[rr]
+;W[qs]
+;B[qr]
+;W[ps]
+;B[rs]LB[qq:1][rr:2][qs:3][qr:4][ps:5][rs:6]C[Dia.2(Look like a sharp move)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W1 wanted B to dansu but B2 is a good attack so\cf1\b  B can live easily.
+\cf0\b0
+If B dansu one stone, W would cut at 2 and W can capture easily.
+
+])
+(;AW[mn][rn][oo][po][qo][np][rp][sp][nq][nr][ns][os]AB[op][pp][qp][oq][rq][sq][or][pr]LB[ps:A]
+;W[rr]
+;B[qr]
+;W[qq]LB[rr:1][qr:2][qq:3][ps:A]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Attaching at \cf1\b 2 to 2 point \cf0\b0 is a vital point.
+
+If B played at 2, W would throw in at 3
+and if B played at 3, W would cross at A.
+])
+)

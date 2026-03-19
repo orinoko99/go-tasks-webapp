@@ -1,0 +1,74 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[fc][qh][jn][gp][np][nq]AB[dd][jd][pd][fe][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[cd:A]
+;W[ge]
+;B[gf]
+;W[dc]
+;B[cc]
+;W[cb]LB[ge:1][gf:2][dc:3][cc:4][cb:5][cd:A]C[Training problems (42)
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 White exchanges 1 for 2 and then White attaches at 3.  We'll be studying variations from this shape.  When Black plays at 4 White answers with 5, how should Black respond?  \lang1042\f0\fs18
+
+
+])
+(;CR[ge]AW[cb][dc][fc][ge][qh][jn][gp][np][nq]AB[cc][dd][jd][pd][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[cd]
+;W[eb]
+;B[gd]LB[cd:1][eb:2][gd:3]CR[ge]C[Dia.1 Solid Defense
+
+This is a shape that we learned in our session on jeongseok.  Black should definitely solidly defend with 1, it's a good move.  The tiger's mouth of White 2 is solid shape.  Up to here is jeongseok, but since Black gets to play 3 he's really happy because White cannot make use of the marked stone.
+\lang1042\f1\fs18
+])
+(;CR[cd]AW[cb][dc][fc][ge][qh][jn][gp][np][nq]AB[cc][cd][dd][jd][pd][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;W[gd]
+;B[db]
+;W[ff]
+;B[ee]LB[gd:1][db:2][ff:3][ee:4]CR[cd]C[Dia.3 White 3 is overplay
+
+If White doesn't like the result from the previous diagram he can draw back wiht 1 in reponse to the marked Black stone.  Black should just cut.
+
+White's cut at 3 is overplay.  Black draws back with 4 and White is in for a very disadvantageous fight.  This is a success for Black.
+\lang1042\f1\fs18
+
+])
+(;AW[cb][dc][fc][ge][qh][jn][gp][np][nq]AB[cc][dd][jd][pd][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[ed:A][ee:B]
+;B[ec]
+;W[db]
+;B[cd]LB[ec:1][db:2][cd:3][ed:A][ee:B]C[Dia.3 Easy to understand
+
+Black could try and dansu at 1 then connect at 3.  This is the easy way to play.  There aren't many variations.  Next, White plays at A and Black could respond at B and get a very thick shape.
+\lang1042\f1\fs18
+
+])
+(;CR[cb]AW[cb][dc][fc][ge][qh][jn][gp][np][nq]AB[cc][dd][jd][pd][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[db]
+;W[ec]
+;B[bb]
+;W[cd]
+;B[bc]
+;W[de]
+;B[ed]
+;W[ff]LB[db:1][ec:2][bb:3][cd:4][bc:5][de:6][ed:7][ff:8]CR[cb]C[Dia.4 Crosscut
+
+In response to the marked White stone Black can play at 1 and 3 to capture the stone but this is just what White is waiting for.  White can cut through Black's shape with 4.  Black connects at 5 and now White can play at 6 and then cut at 8.
+
+What do you think?  This is pretty complicated.  The upshot is White is going either capture one or two stones, so he is going to have a nice shape on the outside.
+\lang1042\f1\fs18
+])
+(;AW[fc][qh][jn][gp][np][nq]AB[dd][jd][pd][fe][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;W[ge]
+;B[gf]
+;W[dc]
+;B[cc]
+;W[cb]LB[ge:1][gf:2][dc:3][cc:4][cb:5]C[No diagram name
+
+
+
+])
+)

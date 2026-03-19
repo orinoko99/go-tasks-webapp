@@ -1,0 +1,70 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pq][qq][or][rr][ps]AB[rn][oo][pp][rp][nq][oq][nr][ns]LBC[Living with one Move (17)
+
+
+\b White to play\b0 .
+The shape is simple but the problem is pretty difficult.
+
+It is because if White doesn't play correctly, it is difficult to attack with Black.
+Where is the vital point for living?
+
+
+])
+(;AW[pq][qq][or][rr][ps]AB[rn][oo][pp][rp][nq][oq][nr][ns]
+;W[sr]
+;B[os]
+;W[pr]LB[sr:1][os:2][pr:3]C[Dia. 01 Live Easily?
+
+
+Some people might think White can easily live with 1. If Black plays dansu at 2 White lives with the connection at 3.
+
+However this is not a correct variation.
+
+])
+(;CR[sr]AW[pq][qq][or][rr][sr][ps]AB[rn][oo][pp][rp][nq][oq][nr][ns]
+;B[pr]
+;W[qr]
+;B[os]
+;W[rs]LB[pr:1][qr:2][os:3][rs:4]CR[sr]C[Dia. 02 No, it is pae!
+
+
+Some people might think that White move at \'a1\'e2 is bad, because if Black plays the sequence up to 4 it becomes pae.
+
+
+])
+(;AW[pq][qq][or][rr][sr][ps]AB[rn][oo][pp][rp][nq][oq][nr][ns]
+;B[rs]
+;W[qs]
+;B[pr]LB[rs:1][qs:2][pr:3]C[Dia. 03 White Dies
+
+{\colortbl ;\red0\green0\blue255;}
+
+Both variations in the previous diagrams were no correct.
+This is the correct sequence.
+
+Black 1 is the\cf1\b  real vital point\cf0\b0 .
+After White 2, Black throws-in at 3 and White can't live anymore.
+
+If it is so, how should Black live?
+])
+(;AW[pq][qq][or][rr][ps]AB[rn][oo][pp][rp][nq][oq][nr][ns]
+;W[qs]
+;B[sr]
+;W[sq]LB[qs:1][sr:2][sq:3]C[Dia. 04 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White 1 is the \cf1\b only vital point for living\cf0\b0 .
+White makes one eye on each side with this move.
+
+If Black plays at 2, White captures the stone and lives with the hane at 3.
+
+
+
+])
+)

@@ -1,0 +1,68 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qp][qq][sq][nr][or][pr][rr]AB[po][qo][ro][np][pp][rp][mq][pq][rq][mr]LBC[Alive in one move(43)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 One move decides the life and death of this shape.
+
+Should we connect first or is there soemthing else we should do?
+
+\lang1042\f0\fs18
+])
+(;AW[qp][qq][sq][nr][or][pr][rr]AB[po][qo][ro][np][pp][rp][mq][pq][rq][mr]
+;W[qr]
+;B[ns]
+;W[os]
+;B[sr]LB[qr:1][ns:2][os:3][sr:4]C[Dia.1 Connecting dies
+
+
+\lang1033\f1\fs16 If White connects he dies, because he doesn't have enough eyespace.  Black reduces eye space with 2 then throws in with 4 and White dies.
+
+\lang1042\f0\fs18
+
+
+])
+(;AW[qp][qq][sq][nr][or][pr][rr]AB[po][qo][ro][np][pp][rp][mq][pq][rq][mr]
+;W[qs]LB[qs:1]C[Dia.2 Correct
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White should play at 1 and \cf1\b not directly connect\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 This move might look funny but it makes usre that there is an eye on both the left and right.
+
+Kind of neat, huh?
+\lang1042\f0\fs18
+
+])
+(;AW[qp][qq][sq][nr][or][pr][rr]AB[qn][po][ro][np][pp][rp][mq][pq][rq][mr]LBC[Dia.3
+
+
+\lang1033\b\f1\fs16 Here's another problem\lang1042\b0\f0\fs18 .
+\lang1033\b\f1\fs16 How does White live?
+
+\b0 The two White stones are no longer in seonsu, so does that change the problem?
+
+\lang1042\f0\fs18
+])
+(;AW[qp][qq][sq][nr][or][pr][rr]AB[qn][po][ro][np][pp][rp][mq][pq][rq][mr]LB[sr:B][ns:A]
+;W[qs]LB[qs:1][sr:B][ns:A]C[Dia.4 Same thing
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Nope, there is no difference, White 1 is sitll the vital point. \lang1042\f0\fs18
+\cf1\lang1033\b\f1\fs16 White lives with 1\cf0\lang1042\b0\f0\fs18 .
+
+\lang1033\f1\fs16 Confirm to yourself what happens if White plays 1 at A instead.
+\lang1042\f0\fs18
+])
+(;AW[qp][qq][sq][nr][or][pr][rr]AB[po][qo][ro][np][pp][rp][mq][pq][rq][mr]LBC[No diagram name
+
+
+
+])
+)

@@ -1,0 +1,107 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[qd]AW[qd][qf][pg]AB[dd][jd][pd][of][pf][dj][jj][pj][dp][jp][pp]LBCR[qd]C[White's Knight approach(3)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+It's \cf1\b Black\cf0\b0 's turn.
+
+In this situation, \cf2\b White \cf0\b0 attaches at \cf2\b\'a1\'e2 \cf0\b0 when black's attach-extend .
+
+It seems like unusal, like a trick. but it's just a kind of Joseki.
+
+So, what is the easiest response?
+])
+(;AW[qd][qf][pg]AB[dd][jd][pd][of][pf][dj][jj][pj][dp][jp][pp]LB[qc:A][og:B][qh:C]
+;B[qe]
+;W[re]
+;B[pe]
+;W[rg]LB[qe:1][re:2][pe:3][rg:4][qc:A][og:B][qh:C]C[Dia 1 (Simple move)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Black's wedge in, then connect .
+
+\cf1\b White \cf0\b0 has to make tiger mouth at \cf1\b 4\cf0\b0 .
+
+Question!
+
+Which one is better for Black A, B, C?
+])
+(;AW[qd][re][qf][pg][rg]AB[dd][jd][pd][pe][qe][of][pf][dj][jj][pj][dp][jp][pp]LB[pc:C][oi:B][pi:A]
+;B[qc]
+;W[rd]
+;B[og]
+;W[ph]
+;B[oh]LB[qc:1][rd:2][og:3][ph:4][oh:5][pc:C][oi:B][pi:A]C[Dia 2(Solution)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+Don't forget Blacks must atari White.
+
+After \cf1\b W2 \cf0\b0 black pushes at 3
+and Black continuing to push.
+
+After \cf1\b White \cf0\b0 plays \cf1\b A\cf0\b0 , \cf2\b Black \cf0\b0 plays \cf2\b B\cf0\b0
+
+To protect the cutting ponit at C.
+
+Look at the next diagram.
+])
+(;CR[qc]AW[qd][rd][re][qf][pg][rg][ph]AB[qc][dd][jd][pd][pe][qe][of][pf][og][oh][dj][jj][pj][dp][jp][pp]
+;W[pc]
+;B[oc]
+;W[pb]
+;B[ob]
+;W[qb]
+;B[fd]LB[pc:1][oc:2][pb:3][ob:4][qb:5][fd:6]CR[qc]C[Dia 3(Thanks for the White's cut)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Don't worry about it.
+
+If opponent cuts at 1, good for Black.
+
+\cf1\b Black\cf0\b0 's atari at \cf1\b 2\cf0\b0 , and blocks at 4.
+\cf1\b\'a1\'e3 \cf0\b0 is intended to be a sacrificed stone.
+
+You get a sente, and keep at 6  Black will win by 100points !
+])
+(;CR[pj]AW[qd][re][qf][pg][rg]AB[dd][jd][pd][pe][qe][of][pf][dj][jj][pj][dp][jp][pp]
+;B[og]
+;W[qc]
+;B[ph]
+;W[ob]
+;B[qg]
+;W[rf]LB[og:1][qc:2][ph:3][ob:4][qg:5][rf:6]CR[pj]C[Dia 4 (Wrong sequence)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+\cf1\b B1 \cf0\b0 is \b wrong sequence\b0 .
+
+\cf2\b White \cf0\b0 gains good oppotunity at \cf2\b 2\cf0\b0 .
+
+Black can not keep the upper side territory.
+Black does not bad, but Black's shape is \b over-concentration\b0 .
+])
+(;AW[qd][re][qf][pg][rg]AB[dd][jd][pd][pe][qe][of][pf][dj][jj][pj][dp][jp][pp]
+;B[qh]
+;W[qg]
+;B[qc]
+;W[rd]
+;B[rc]
+;W[og]LB[qh:1][qg:2][qc:3][rd:4][rc:5][og:6]C[Dia 5 (Undesirable move)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+Even a moron connects against a peep.
+\cf1\b B1 \cf0\b0 gains sente but, it is undesirable move.
+After \cf2\b W4\cf0\b0 , \cf1\b B5 \cf0\b0 is over play.
+
+Instead of \cf1\b B5 \cf0\b0 , If play W6, also not good for black. that's why you don't need to peep at 1.
+])
+)

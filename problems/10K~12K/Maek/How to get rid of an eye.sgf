@@ -1,0 +1,58 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pp][qp][mq][nq][oq][mr][or][rr]AB[ko][mp][np][op][lq][pq][lr][pr]LBC[How to get rid of an eye
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16
+This time we're going to look at things from Black's position.  How can Black get rid of an eye?\lang1042\f0\fs18
+])
+(;CR[pq][pr]AW[pp][qp][mq][nq][oq][mr][or][rr]AB[ko][mp][np][op][lq][pq][lr][pr]
+;B[ms]
+;W[ns]
+;B[ls]
+;W[qq]LB[ms:1][ns:2][ls:3][qq:4]CR[pq][pr]C[Dia.1 Giving up
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 Black 1 and 3 are weird moves.  Black's \lang1042\f0\fs18\'a1\'e3\lang1033\f1\fs16  marked stones are all captured.  It's almost like Black's given up.  When White plays 4 we can see that \cf1\b White obviously wins the capturing race.\cf0\b0
+
+\lang1042\f0\fs18
+])
+(;AW[pp][qp][mq][nq][oq][mr][or][rr]AB[ko][mp][np][op][lq][pq][lr][pr]
+;B[ps]
+;W[ns]
+;B[ls]
+;W[qq]LB[ps:1][ns:2][ls:3][qq:4]C[Dia.2 Eye vs. no eye
+
+{\colortbl ;\red255\green0\blue0;}
+When Black descends with 1 it may seem like he's played a good move.  But, White can make an eye with 2, it's a maek.  At this moment White has increased his liberties.
+
+Even if Black descends at 3 this is a case of \cf1\b one eye vs. no eye\cf0\b0  so Black is dead.
+
+\lang1042\f1\fs18
+])
+(;AW[pp][qp][mq][nq][oq][mr][or][rr]AB[ko][mp][np][op][lq][pq][lr][pr]
+;B[ns]
+;W[os]
+;B[ps]LB[ns:1][os:2][ps:3]C[Dia.3 Correct / Placement attack
+
+{\colortbl ;\red0\green0\blue255;}
+Black's placement attack at 1 is the maek in this position.  White can block with 3 but then Black will take away a liberty at 3 which means \cf1\b Black has won the capturing race!
+\cf0\lang1042\b0\f1\fs18
+\lang1033\f0\fs16 White has 2 liberties and Black has 3, which means Black wins.
+
+\cf1\b Your opponent's vital point is your vital point!
+
+\cf0\lang1042\b0\f1\fs18
+])
+(;AW[pp][qp][mq][nq][oq][mr][or][rr]AB[ko][mp][np][op][lq][pq][lr][pr]LBC[No diagram name
+
+
+
+])
+)

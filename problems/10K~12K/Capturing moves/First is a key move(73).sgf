@@ -1,0 +1,70 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pp][qp][nq][oq][pq][rq][nr][rr][os]AB[po][qo][ro][mp][np][op][rp][mq][sq][mr][sr][ms][ns]LBC[First is a key move(73)
+
+
+\lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+
+What is the best result?
+])
+(;AW[pp][qp][nq][oq][pq][rq][nr][rr][os]AB[po][qo][ro][mp][np][op][rp][mq][sq][mr][sr][ms][ns]LB[or:A]
+;B[ps]
+;W[pr]LB[ps:1][pr:2][or:A]C[Dia.1(Ko)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+Dansu at 1 is\cf1\b  hasty.
+\cf0\b0 W won't play at A because W can make a ko.
+
+Is this the best result?
+Nope! \cf2\b The ko isn't the right answer.
+\cf0\b0
+])
+(;AW[pp][qp][nq][oq][pq][rq][nr][rr][os]AB[po][qo][ro][mp][np][op][rp][mq][sq][mr][sr][ms][ns]
+;B[pr]
+;W[qr]
+;B[ps]
+;W[qs]LB[pr:1][qr:2][ps:3][qs:4]C[Dia.2(Life of snapback)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Attaching at 1 tries to capture W's group without ko but W2 is \cf1\b a good attack.
+\cf0\b0
+Up to 4, B two stones are in snapback.
+
+
+
+
+])
+(;AW[pp][qp][nq][oq][pq][rq][nr][rr][os]AB[po][qo][ro][mp][np][op][rp][mq][sq][mr][sr][ms][ns]LB[or:A][qs:B]
+;B[rs]
+;W[qr]
+;B[ps]
+;W[pr]LB[rs:1][qr:2][ps:3][pr:4][or:A][qs:B]C[Dia.3(Also ko)
+
+
+Bending at 1 looks a good attack but it will also be a ko.
+
+<White>
+If W played at A instead of 4, it would be dead.
+Because After A, B will connect at B and W can't dansu three stones.
+])
+(;AW[pp][qp][nq][oq][pq][rq][nr][rr][os]AB[po][qo][ro][mp][np][op][rp][mq][sq][mr][sr][ms][ns]LB[ps:A]
+;B[qr]
+;W[pr]
+;B[rs]
+;W[qq]
+;B[qs]LB[qr:1][pr:2][rs:3][qq:4][qs:5][ps:A]C[Dia.4(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+B1 is a slack move commonly but in this case, \cf1\b it is a strong attack.\cf0\b0
+
+Up to 5, W can't play at A because it is self-dansu.
+
+])
+)

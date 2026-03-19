@@ -1,0 +1,54 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pj]AW[nq]AB[pj][kp][pp]
+;W[qq]
+;B[qp]
+;W[pq]
+;B[op]
+;W[mr]LB[qq:1][qp:2][pq:3][op:4][mr:5]CR[pj]C[A Star Point Pattern (46)
+
+
+\b Black to Play.\b0
+When white invades the corner at the 3-3 point, black 2 and 4 are usually strong responses when there is a black stone around \'a1\'e3.
+
+White 5, seems a little strange, however, this is a standard pattern.
+])
+(;AW[nq][pq][qq][mr]AB[pj][kp][op][pp][qp]LB[mo:A]
+;B[np]LB[np:1][mo:A]C[Diagram 1 (Closing White in)
+
+
+Blockinbg soliding with black 1 is the only move.
+
+\pard\ltrpar\nowidctlpar\qj Instead of this move, it is too loose for black to play at \b\f1 A\b0\f0 .
+\pard\ltrpar
+Next -
+])
+(;CR[mr]AW[nq][pq][qq][mr]AB[pj][kp][np][op][pp][qp]LB[ln:D][lo:A][lp:B][mq:C]
+;W[mp]
+;B[mo]LB[mp:1][mo:2][ln:D][lo:A][lp:B][mq:C]CR[mr]C[Diagram 2 (Basic Pattern)
+
+
+It is normal for white to hane at 1 in exchange for black 2.
+
+White \'a1\'e2 is known to have been invented by Master Oh Cheong Wuon(Go Seigen/\'e7\'ef\'f4\'e8\'ea\'b9).
+
+\pard\ltrpar\nowidctlpar\qj After 2, white hanes at \b\f1 A\b0\f0  at an opportune moment. however, the ladder after black \b\f1 B\b0\f0 ,\b\f1  \b0\f0 white\b\f1  C\b0\f0 , black\b\f1  D\b0\f0  should be favorable for white. It is difficult to grasp but please note that there is this kind of potential in this position.
+])
+(;AW[nq][pq][qq][mr]AB[pj][kp][np][op][pp][qp]
+;B[mq]
+;W[nr]
+;B[lq]LB[mq:1][nr:2][lq:3]C[Diagram 3 (White Plays Elsewhere)
+
+
+If white plays elsewhere in this situation, it is good for black to play a forcing move at 1.
+
+White cannot do much more than simply connect at 2.
+
+If there is no other urgent points on the board, it is a big move for black to extend to 3, making impressive thickness.
+
+])
+)

@@ -1,0 +1,69 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[or]AW[mp][np][op][pp][qp][rp][mq][rq][mr][ns]AB[nq][pq][qq][nr][or][rr][sr]LBCR[or]C[First is a key move(86)
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+B played at \'a1\'e3.
+It's mistake!!
+
+
+])
+(;AW[mp][np][op][pp][qp][rp][mq][rq][mr][ns]AB[nq][pq][qq][nr][or][rr][sr]
+;W[os]
+;B[ps]
+;W[ms]
+;B[pr]LB[os:1][ps:2][ms:3][pr:4]C[Dia.1(Endgame?)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W1 didn't realize B's mistake.
+
+After 2, W can't capture B's group anymore.
+\cf1\b It is a just sente endgame.\cf0\b0
+
+])
+(;AW[mp][np][op][pp][qp][rp][mq][rq][mr][ns]AB[nq][pq][qq][nr][or][rr][sr]LB[ms:A]
+;W[qs]
+;B[ps]
+;W[ms]
+;B[rs]LB[qs:1][ps:2][ms:3][rs:4][ms:A]C[Dia.2(Good move)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Playing at 1 looks like a vital point but B2 is\cf1\b  a good attack\cf0\b0 .
+After 2, B has nothing to do.
+
+])
+(;AW[mp][np][op][pp][qp][rp][mq][rq][mr][ns]AB[nq][pq][qq][nr][or][rr][sr]LB[qs:A]
+;W[rs]
+;B[ps]LB[rs:1][ps:2][qs:A]C[Dia.3(2 to 1 point is also fail)
+
+{\colortbl ;\red0\green0\blue255;}
+
+How about attacking at 2 to 1 point??
+W wants B play at A.
+
+But B2 is \cf1\b an excellent responed \cf0\b0 so B's group is alive.
+
+])
+(;AW[mp][np][op][pp][qp][rp][mq][rq][mr][ns]AB[nq][pq][qq][nr][or][rr][sr]
+;W[ps]
+;B[os]
+;W[pr]LB[ps:1][os:2][pr:3]C[Dia.4(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b 'The enemy's vital point is your own'\cf0\b0
+
+W1 is the only way to capture B's group.
+
+B can't cut W's stones.
+
+])
+)

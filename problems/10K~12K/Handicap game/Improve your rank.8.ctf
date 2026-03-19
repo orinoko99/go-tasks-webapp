@@ -1,0 +1,225 @@
+//19
+6
+Improve your rank
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par When White plays \lang1042\f1\'a1\'e2\lang1043\f0 . How should Black answer?
+\par In the previous problem Black played A. It wasn't good for Black. Let's think about a different option.\lang1042\f1
+\par
+\par }
+#
+(
+65[db]
+6[eb]
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+1[cf]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+)
+0
+1st Dia. Black 5 is important
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black will play 1 and 3. White will play 4.
+\par Now Black 5 is an important move. You should memorize it.
+\par After this-\lang1042\f1
+\par
+\par }
+#
+(
+2[eb]
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+1[cf]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+)
+5
+B[db]
+W[de]
+B[ce]
+W[dc]
+B[ec]
+2nd Dia. Continuation
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White has to play 1. Black will play 2, White 3 and Black plays 4 and 6.
+\par It's a bit complicated but please memorize it.
+\par White took the corner but Black's influence towards the center is very strong. This result is good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[db]
+2[eb]
+2[dc]
+1[ec]
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+1[ce]
+2[de]
+1[cf]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+)
+6
+W[cc]
+B[ed]
+W[cb]
+B[fb]
+W[da]
+B[gc]
+3rd Dia. White 1 is an overplay
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  White 1 is an overplay. Black has 4 liberties and White has 3. Black wins this capturing race.\lang1042\f1
+\par
+\par }
+#
+(
+1[db]
+2[eb]
+6[cc]
+6[dc]
+1[ec]
+2[nc]
+1[dd]
+5[ed]
+1[jd]
+1[pd]
+1[ce]
+2[de]
+1[cf]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+)
+4
+W[fb]
+B[cb]
+W[bc]
+B[bb]
+4th Dia. Black 3 is the strongest answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When White plays 2, Black 3 is the strongest answer. Sometimes this move is good. If Black plays as in the second diagram it's bad for Black. The situation will get confusing.\lang1042\f1
+\par
+\par }
+#
+(
+2[eb]
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+1[cf]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+)
+3
+B[db]
+W[de]
+B[ee]
+5th Dia. Black's success
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White will play 1. Then Black plays 2 and 4. White has to play 5 and 7.
+\par White's still weak. Black has a good territory. This result is a success for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[db]
+2[eb]
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+2[de]
+1[ee]
+1[cf]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+)
+8
+W[dc]
+B[cc]
+W[ec]
+B[cb]
+W[ed]
+B[cd]
+W[fe]
+B[ef]

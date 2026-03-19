@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[om][oo][po][np][qp][qq][rq][qr][qs]AB[pl][qm][qo][ro][pp][rp][kq][mq][pq][mr][pr]LBC[Critical Situation
+
+
+\b White to play\b0 .
+White has not enough space to live in the corner.
+
+Moreover White's stones in the center are also floating.
+Find a maek to settle this critical situation.
+])
+(;AW[om][oo][po][np][qp][qq][rq][qr][qs]AB[pl][qm][qo][ro][pp][rp][kq][mq][pq][mr][pr]LB[oq:A]
+;W[nq]
+;B[nr]
+;W[or]
+;B[os]LB[nq:1][nr:2][or:3][os:4][oq:A]C[Dia. 01 No Chance to Live
+
+
+After White 1 and 3, White hoped that Black plays dansu from A, but Black has no reason to play like that.
+
+Black answers at 4 and White can't live anymore.
+
+
+])
+(;AW[om][oo][po][np][qp][qq][rq][qr][qs]AB[pl][qm][qo][ro][pp][rp][kq][mq][pq][mr][pr]
+;W[or]
+;B[oq]
+;W[nq]
+;B[nr]
+;W[os]LB[or:1][oq:2][nq:3][nr:4][os:5]C[Dia. 02 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's attachment at 1 is a \cf1\b brilliant maek\cf0\b0 . Against Black 2, White plays at 3 and after Black 4, White's descending move at 5 works.
+
+After White's excellent sequence, few Black stones are captured and White's situation is saved.
+
+
+
+])
+(;CR[pp][pq][or][pr]AW[om][oo][po][np][qp][qq][rq][or][qr][qs]AB[pl][qm][qo][ro][pp][rp][kq][mq][pq][mr][pr]LB[nr:A][ns:B]
+;B[os]
+;W[oq]LB[os:1][oq:2][nr:A][ns:B]CR[pp][pq][or][pr]C[Dia. 03 Variation
+
+{\colortbl ;\red0\green0\blue255;}
+
+Against White \'a1\'e2, it seems Black can resist with the hane at 1, but \cf1\b White 2 \cf0\b0 is a \cf1\b good move\cf0\b0  and Black can't save his \'a1\'e3 stones.
+
+If White plays at A instead of 2, Black can connect at B.
+
+])
+)

@@ -1,0 +1,62 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[nq]AW[nq]AB[pp]
+;B[lq]
+;W[qq]LB[lq:1][qq:2]CR[nq]C[Star-point Joseki
+
+Black's turn\b0
+When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is a very popular answer. Everybody likes this joseki. Now White played 2. How should Black answer?\lang1042\f1
+
+])
+(;AW[nq][qq]AB[pp][lq]LB[qj:A][qo:B]
+;B[pq]
+;W[qp]
+;B[po]LB[pq:1][qp:2][po:3][qj:A][qo:B]C[1st Dia. Black 1 is the only move
+
+If there are no Black stones around A, Black 1 is the only move!. White 2 is also the only answer. Black 3 is an important move. Black can't play B instead of 3.
+Later I will show why.\lang1042\f1
+
+])
+(;AW[qp][nq][qq]AB[po][pp][lq][pq]
+;W[pr]
+;B[or]
+;W[qr]
+;B[oq]
+;W[qn]LB[pr:1][or:2][qr:3][oq:4][qn:5]C[1st Dia. Joseki
+
+White will play 1 to 5. White has territory and Black got influence. This is a very popular joseki.\lang1042\f1
+
+])
+(;AW[qp][nq][qq]AB[pp][lq][pq]
+;B[pr]
+;W[po]
+;B[oo]
+;W[pn]
+;B[np]
+;W[qr]LB[pr:1][po:2][oo:3][pn:4][np:5][qr:6]C[3rd Dia. Bad for Black
+
+Black 1 is a bad move. White will play 2 right away. This result is better for White than the previous diagram.
+If Black plays 3 somewhere else-\lang1042\f1
+
+])
+(;AW[po][qp][nq][qq]AB[pp][lq][pq][pr]
+;B[qo]
+;W[qn]
+;B[ro]
+;W[rn]
+;B[oo]
+;W[pn]
+;B[qr]
+;W[rp]
+;B[rq]
+;W[so]
+;B[np]LB[qo:1][qn:2][ro:3][rn:4][oo:5][pn:6][qr:7][rp:8][rq:9][so:10][np:11]C[4th Dia. Bad move
+
+Black 1 is a mistake. White is very strong now and White even got sente.\lang1042\f1
+
+])
+)

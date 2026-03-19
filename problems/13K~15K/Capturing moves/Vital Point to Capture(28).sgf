@@ -1,0 +1,63 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pp][qp][rp][nq][oq][rq][lr][nr]AB[qq][or][pr][rr][sr][rs]LBC[Vital Point to Capture?(28)
+
+
+\b White to play\b0 .
+Black has an eye in the corner and it seems he has an eye on the left side as well.
+
+However if White plays a good sequence he can capture Black.
+
+This problem shows the power of the shortage of liberties.
+
+
+])
+(;AW[pp][qp][rp][nq][oq][rq][lr][nr]AB[qq][or][pr][rr][sr][rs]
+;W[os]
+;B[ps]
+;W[qr]LB[os:1][ps:2][qr:3]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's hane at 1 is a \cf1\b good move \cf0\b0 which \cf1\b prepares the shortage of liberties\cf0\b0 .
+
+Black has to answer with 2 and then White captures Black with the throw-in at 3.
+
+
+
+])
+(;AW[pp][qp][rp][nq][oq][rq][lr][nr]AB[qq][or][pr][rr][sr][rs]
+;W[qr]
+;B[qs]
+;W[pq]
+;B[os]LB[qr:1][qs:2][pq:3][os:4]C[Dia. 02 Pae?
+
+{\colortbl ;\red255\green0\blue0;}
+
+White throws-in with 1 and after Black takes with 2, Black can play the dansu at 3.
+If it is played like this, Black resists with 4 and it becomes pae.
+
+However this \cf1\b sequence is terrible\cf0\b0 . Black is not going to capture with 2 but lives with 3.
+
+
+
+
+])
+(;AW[pp][qp][rp][nq][oq][rq][lr][nr]AB[qq][or][pr][rr][sr][rs]
+;W[pq]
+;B[qr]LB[pq:1][qr:2]C[Dia. 03 Give up
+
+{\colortbl ;\red255\green0\blue0;}
+
+White's dansu at 1 \cf1\b gives up\cf0\b0  about capturing Black.
+Black can easily live with the connection at 2.
+
+If White can't see how to capture, there is a big chance that Black will live like this.
+The sequence in \b Dia. 01\b0  was excellent.
+
+])
+)

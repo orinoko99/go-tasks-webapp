@@ -1,0 +1,51 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nq]AB[pp][lq]
+;W[pq]
+;B[qq]
+;W[op]LB[pq:1][qq:2][op:3]C[Star-point Joseki
+
+Black's turn\b0
+White 1 and 3 are overplays.
+People who like kos a lot maybe inclined to play like this, but it's a big overplay.
+How should Black answer?\lang1042\f1
+
+
+])
+(;AW[op][nq][pq]AB[pp][lq][qq]
+;B[po]LB[po:1]C[1st Dia. Correct answer
+
+Black 1 is the correct move.
+You don't have to be afraid of the ko.
+There are no ko threats in the opening.\lang1042\f1
+
+])
+(;AW[op][nq][pq]AB[po][pp][lq][qq]
+;W[qr]
+;B[pr]
+;W[or]
+;B[oq]LB[qr:1][pr:2][or:3][oq:4]C[2nd Dia. Continuation
+
+If White plays 1 Black has to answer 2. You should play strongly here. Don't let the opponent look down on you!\lang1042\f1
+
+
+])
+(;CR[qr]AW[op][nq][pq][qr]AB[po][pp][lq][qq]
+;B[rq]
+;W[or]LB[rq:1][or:2]CR[qr]C[3rd Dia. Mistake
+
+When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is a mistake. The result is very good for White.\lang1042\f1
+
+])
+(;CR[op]AW[op][nq][pq]AB[rh][po][pp][lq][qq]
+;W[pr]
+;B[qr]LB[pr:1][qr:2]CR[op]C[4th Dia. Very good for White
+
+White 1 is a weak move. Black will happily play 2. Since White's \lang1042\f1\'a1\'e2\lang1043\f0  move was an overplay, there's no good sequence for White in this situation.\lang1042\f1
+
+])
+)

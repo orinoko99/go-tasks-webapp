@@ -1,0 +1,75 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[jp][kp][lp][mp][np][jq][nq][jr][lr][mr][nr][js][ls]AB[op][pp][qp][rp][sp][oq][or][os]LB[ns:A]LB[ns:A]C[1 Point 2 Points(1)
+
+
+Starts with 1 point.
+It is a very simple problem, but if someone disregards it, later when the level of the lectures are going up he might have difficulties.
+
+Don't underestimate it, study hard from the beginning.
+
+How many points is \b A\b0  worth?
+
+
+])
+(;AW[jp][kp][lp][mp][np][jq][nq][jr][lr][mr][nr][js][ls]AB[op][pp][qp][rp][sp][oq][or][os]
+;B[ns]LB[ns:1]C[Dia. 01 If Black Plays
+
+
+When one is counting how much a move is worth, it is convenient to distinguish the difference between Black's turn and White's turn. That difference is the worth of the move.
+
+Let's check what happens if it is Black's turn in this situation.
+If Black plays at 1, Black's territory hasn't increased, right?
+
+
+])
+(;AW[jp][kp][lp][mp][np][jq][nq][jr][lr][mr][nr][js][ls]AB[op][pp][qp][rp][sp][oq][or][os]LB[ms:A]
+;W[ns]LB[ns:1][ms:A]C[Dia. 02 If White's turn
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+Let's check what happens if White plays.
+
+If White plays at 1, White gets \cf1\b 1 point \cf0\b0 at A. There is no change in Black's territory.
+
+Therefore Black 1 in \b Dia. 01\b0  and White 1 in this diagram \cf2\b worth 1 point\cf0\b0 .
+
+
+])
+(;AW[jp][kp][lp][mp][np][jq][nq][jr][lr][mr][nr][js][ls]AB[op][pp][qp][rp][sp][oq][or][ms][os]LB[ns:A]LB[ns:A]C[Dia. 03 Practice Problem
+
+
+How much is A worth?
+
+It works if you count the same way as before.
+
+])
+(;AW[jp][kp][lp][mp][np][jq][nq][jr][lr][mr][nr][js][ls]AB[op][pp][qp][rp][sp][oq][or][ms][os]
+;W[ns]LB[ns:1]C[Dia. 04 If White Plays
+
+{\colortbl ;\red0\green0\blue255;}
+
+Let's check what happens if White plays first.
+White takes the one stone with 1. By how many points White has increased his territory?
+
+You should add one captured stone and one point so White territory has increased by \cf1\b 2 points\cf0\b0 .
+
+
+])
+(;AW[jp][kp][lp][mp][np][jq][nq][jr][lr][mr][nr][js][ls]AB[op][pp][qp][rp][sp][oq][or][ms][os]
+;B[ns]LB[ns:1]C[Dia. 05 If Black plays
+
+{\colortbl ;\red255\green0\blue0;}
+
+If it is Black's turn, Black saves his one stone with 1.
+Like this Black's territory hasn't increased.
+So only White's territory has increased in\b  Dia. 04\b0  by two points.
+
+That means White 1 in \b Dia. 04 \b0 and Black 1 in this diagram \cf1\b worth 2 points\cf0\b0 .
+
+])
+)

@@ -1,0 +1,146 @@
+//19
+4
+Easy Counting(20)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 (or \b Black to play\b0 ).
+\par
+\par It makes a huge difference in points either White plays at \b A\b0  or Black plays at \b A\b0 .
+\par
+\par What is the value of \b A\b0 ?
+\par
+\par
+\par }
+#
+(
+2[qk]
+2[on]
+2[pn]
+1[oo]
+2[po]
+1[lp]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+1[kq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+130[sq]
+1[or]
+2[qr]
+2[rr]
+1[os]
+2[qs]
+)
+0
+Dia. 01 If White Plays
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White plays at 1 and he makes \cf1\b 3 points \cf0\b0 (Xs).
+\par \cf1\b
+\par \cf0\b0
+\par }
+#
+(
+2[qk]
+2[on]
+2[pn]
+1[oo]
+2[po]
+1[lp]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+1[kq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+1[or]
+2[qr]
+2[rr]
+691[sr]
+1[os]
+2[qs]
+691[rs]
+691[ss]
+)
+1
+W[sq]
+Dia. 02 If Black Plays
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If Black plays at 1 he captures the White three \'a1\'e2 stones.
+\par
+\par Black captures three stones which means 6 points plus 5 other points, which makes all together \cf1\b 11 points\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+2[qk]
+2[on]
+2[pn]
+1[oo]
+2[po]
+1[lp]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+1[kq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+1[or]
+6[qr]
+6[rr]
+1[os]
+6[qs]
+)
+1
+B[sq]
+Dia. 03 Value of A?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par After counting it is 3+11=\cf1\b 14 points\cf0\b0 .
+\par
+\par A is the move for both players which is worth \cf2\b gote 14 points\cf0\b0 .
+\par }
+#
+(
+2[qk]
+2[on]
+2[pn]
+1[oo]
+2[po]
+1[lp]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+1[kq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+65[sq]
+1[or]
+2[qr]
+2[rr]
+1[os]
+2[qs]
+)
+0

@@ -1,0 +1,137 @@
+//19
+4
+In big trouble
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par W is in big trouble so he should do something.
+\par
+\par }
+#
+(
+1[ql]
+2[pm]
+1[qm]
+2[nn]
+2[pn]
+1[qn]
+1[no]
+1[po]
+2[qo]
+2[ro]
+2[so]
+1[pp]
+2[qp]
+1[rp]
+2[pq]
+1[qq]
+1[rq]
+2[pr]
+1[qr]
+)
+0
+DIa.1(Painful)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W might think about four stones can't rescue so tries to be using them.
+\par
+\par But this result is \cf1\b very painful for W.
+\par
+\par }
+#
+(
+1[ql]
+2[pm]
+1[qm]
+2[nn]
+2[pn]
+1[qn]
+1[no]
+1[po]
+2[qo]
+2[ro]
+2[so]
+1[pp]
+2[qp]
+1[rp]
+2[pq]
+1[qq]
+1[rq]
+2[pr]
+1[qr]
+)
+4
+W[mo]
+B[np]
+W[mn]
+B[mq]
+Dia.2(Reckless)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W1,3 are\cf1\b  very reckless attack\cf0\b0 , after 4 all of W's stones are in trouble.
+\par
+\par }
+#
+(
+1[ql]
+2[pm]
+1[qm]
+2[nn]
+2[pn]
+1[qn]
+1[no]
+1[po]
+2[qo]
+2[ro]
+2[so]
+1[pp]
+2[qp]
+1[rp]
+2[pq]
+1[qq]
+1[rq]
+2[pr]
+1[qr]
+)
+4
+W[oo]
+B[op]
+W[np]
+B[on]
+DIa.3(Right move)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Attaching at 1 is a severe tesuji.
+\par B's two stone can't escape.
+\par
+\par
+\par }
+#
+(
+1[ql]
+2[pm]
+1[qm]
+2[nn]
+2[pn]
+1[qn]
+1[no]
+1[po]
+2[qo]
+2[ro]
+2[so]
+1[pp]
+2[qp]
+1[rp]
+2[pq]
+1[qq]
+1[rq]
+2[pr]
+1[qr]
+)
+3
+W[np]
+B[oo]
+W[mo]

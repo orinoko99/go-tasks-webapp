@@ -1,0 +1,163 @@
+//19
+4
+Vital Point to Capture?(15)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Black's shape is quite strange.
+\par It is hard to admit that it is alive, isn't it?
+\par
+\par White can capture Black if he finds the move which creates shortage of liberties.
+\par
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+2[nq]
+1[oq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+2[pr]
+1[qr]
+2[ns]
+2[os]
+1[qs]
+2[rs]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a \cf1\b good vital point \cf0\b0 which creates a shortage of liberties.
+\par
+\par It is painful for Black that he can't play at A.
+\par
+\par The shape which looked alive suddenly  looks like dying.
+\par
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+2[nq]
+1[oq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+2[pr]
+1[qr]
+2[ns]
+2[os]
+65[ps]
+1[qs]
+2[rs]
+)
+1
+W[rr]
+Dia. 02 Follow up
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black has to play dansu at 1 and then White plays dansu while connecting at 2. Black can't make an eye on the left side, can he?
+\par
+\par \cf1\b Black dies\cf0\b0  up to 4.
+\par
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+2[nq]
+1[oq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+2[pr]
+1[qr]
+2[rr]
+2[ns]
+2[os]
+1[qs]
+2[rs]
+)
+4
+B[sr]
+W[ps]
+B[ss]
+W[pq]
+Dia. 03 Black Escapes
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If White is not careful he might simply play at 1. After that Black \cf1\b saves \cf0\b0 his corner with 2.
+\par
+\par White made sente endgame up to 4, but he missed the nice chance to kill Black.
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+2[nq]
+1[oq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+2[pr]
+1[qr]
+2[ns]
+2[os]
+1[qs]
+2[rs]
+)
+4
+W[ps]
+B[rr]
+W[pq]
+B[ss]

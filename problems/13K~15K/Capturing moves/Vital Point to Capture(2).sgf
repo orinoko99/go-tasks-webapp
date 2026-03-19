@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pq][qq][rq][pr][ps][rs]AB[op][pp][qp][rp][oq][or][qr]LBC[Vital Point to Capture?(2)
+
+
+\b Black to play\b0 .
+White's eye-space is not so big.
+Actually it might be a very easy problem.
+
+However it is also important to be steady with the easy problems, then your basics are going to be good.
+
+The first move decides everything.
+])
+(;AW[pq][qq][rq][pr][ps][rs]AB[op][pp][qp][rp][oq][or][qr]LB[sq:B][rr:A]
+;B[sr]LB[sr:1][sq:B][rr:A]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black's \cf1\b placement \cf0\b0 at 1 is a powerful vital point.
+
+It is also the 1-2 vital point.
+If White plays at A, Black connects with B and White is dead.
+
+
+
+])
+(;AW[pq][qq][rq][pr][ps][rs]AB[op][pp][qp][rp][oq][or][qr][sr]LB[sp:B][os:A][qs:?][ss:?]
+;W[sq]
+;B[rr]LB[sq:1][rr:2][sp:B][os:A][qs:?][ss:?]C[Dia. 02 Bik?
+
+
+Therefore White has to cut with 1.
+After that Black connects with 2.
+One might think that it is bik because the liberties at the Xs are empty, but it is a big illusion.
+
+If Black plays at A and B, White is going to be in dansu, which means White is dead.
+
+])
+(;AW[pq][qq][rq][pr][ps][rs]AB[op][pp][qp][rp][oq][or][qr]
+;B[sq]
+;W[sr]
+;B[sp]LB[sq:1][sr:2][sp:3]C[Dia. 03 Gote Endgame
+
+{\colortbl ;\red255\green0\blue0;}
+
+If Black plays at 1 and 3, he is going to regret it. It is not more than a \cf1\b gote endgame\cf0\b0 .
+
+White lives with 5 points. It is a very bad result for Black.
+
+])
+(;AW[pq][qq][rq][pr][ps][rs]AB[op][pp][qp][rp][oq][or][qr]
+;B[os]
+;W[sq]LB[os:1][sq:2]C[Dia. 04 Unreasonable
+
+
+Black 1 looks like a missclick.
+
+It is an unreasonable move, White lives easily with 2.
+])
+)

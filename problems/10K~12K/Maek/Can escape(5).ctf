@@ -1,0 +1,187 @@
+//19
+5
+Can escape?(5)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  Black\b0 's turn.\f2
+\par \lang1042\f0
+\par B\'a1\'e3 can escape?
+\par
+\par }
+#
+(
+2[qn]
+1[ko]
+2[oo]
+2[ro]
+5[op]
+2[pp]
+2[qp]
+1[rp]
+1[kq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+)
+0
+Dia.1(W is in trouble)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Dansu at 1 is a very bed move.
+\par
+\par Up to 5, B can escape easily and\cf1\b  W's six stones are in trouble.\cf0\b0
+\par
+\par }
+#
+(
+2[qn]
+1[ko]
+2[oo]
+2[ro]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[kq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+)
+5
+B[np]
+W[mp]
+B[no]
+W[mo]
+B[nn]
+Dia.2(The same as before)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Dansu at 1 is also bed move and\cf1\b  the result is the same as before\cf0\b0 .
+\par
+\par Then B can escape?
+\par }
+#
+(
+2[qn]
+1[ko]
+2[oo]
+2[ro]
+5[np]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[kq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+)
+8
+W[no]
+B[mp]
+W[lp]
+B[mo]
+W[lo]
+B[mn]
+W[lq]
+B[ln]
+DIa.3(Net)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par It can't be possible!!
+\par
+\par W has a solution whichi is\cf1\b  a sort of net(W1)
+\par \cf0\b0
+\par Continue the next page.
+\par
+\par }
+#
+(
+2[qn]
+1[ko]
+2[oo]
+2[ro]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[kq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+)
+4
+W[mo]
+B[po]
+W[qo]
+B[no]
+Dia.4(Chokchoksu )
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Up to 5. B's six stone is captured by \lang1033\f1 chokchoksu.
+\par \cf1\b
+\par B has no chance to escape. \cf0\b0\f2
+\par \lang1042\f0
+\par
+\par }
+#
+(
+2[qn]
+1[ko]
+2[mo]
+1[no]
+2[oo]
+1[po]
+2[qo]
+2[ro]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[kq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+)
+5
+W[nn]
+B[on]
+W[mp]
+B[oo]
+W[om]

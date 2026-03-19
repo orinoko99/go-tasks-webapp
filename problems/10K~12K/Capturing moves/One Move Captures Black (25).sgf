@@ -1,0 +1,58 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mo][no][oo][po][qo][mp][qp][mq][qq][lr][rr][ls][ps][rs]AB[np][op][pp][nq][mr][or][pr][qr][ms][qs]LBC[One Move Captures Black (25)
+
+
+\b White to Play.\b0
+This is an easy problem.
+
+There are not many places to play so please read thoroughly and do not make any mistakes.
+
+The first move is the key.
+])
+(;AW[mo][no][oo][po][qo][mp][qp][mq][qq][lr][rr][ls][ps][rs]AB[np][op][pp][nq][mr][or][pr][qr][ms][qs]LB[os:A]
+;W[ns]
+;B[nr]LB[ns:1][nr:2][os:A]C[Diagram 1 (No Consideration)
+
+
+White's dansu at 1 disregards this problem. Black answers it at 2 and lives easily.
+
+\pard\nowidctlpar\qj White is trapped, unable to play at \b\f1 A\b0\f0 .
+])
+(;AW[mo][no][oo][po][qo][mp][qp][mq][qq][lr][rr][ls][ps][rs]AB[np][op][pp][nq][mr][or][pr][qr][ms][qs]LB[nr:A][os:B]
+;W[pq]
+;B[oq]
+;W[ns]LB[pq:1][oq:2][ns:3][nr:A][os:B]C[Digram 2 (Correct)
+
+
+It is correct for white to push at 1. This seemingly common move takes away black's way of living.
+
+After black defends with 2, now white plays dansu at 3!
+\pard\nowidctlpar\qj Now, it is useless for black to play at \b\f1 A\b0\f0  because white would then play at \b\f1 B\b0\f0  and captures all black's stones.
+])
+(;CR[pq]AW[mo][no][oo][po][qo][mp][qp][mq][pq][qq][lr][rr][ls][ps][rs]AB[np][op][pp][nq][mr][or][pr][qr][ms][qs]LB[oq:B][ns:A]
+;B[os]
+;W[nr]LB[os:1][nr:2][oq:B][ns:A]CR[pq]C[Diagram 3 (Variation)
+
+
+\pard\nowidctlpar\qj When white \'a1\'e2 is played, if black captures at 1, then white throws-in with 2. If black plays at \b\f1 A\b0\f0 , white plays at \b\f1 B\lang1033\kerning2\f2\fs20
+\lang1042\kerning0\b0\f0\fs18 destroying black's eye and black is finished.
+\pard
+White captures black easily. This is one of the basic problems.
+])
+(;AW[mo][no][oo][qo][mp][qp][mq][qq][lr][rr][ls][ps][rs]AB[np][op][pp][nq][mr][or][pr][qr][ms][qs]LB[po:?]
+;W[pq]
+;B[oq]
+;W[ns]
+;B[nr]LB[pq:1][oq:2][ns:3][nr:4][po:?]C[Diagram 4 (Also)
+
+
+\pard\nowidctlpar\qj If black had a liberty at \b\f1 X\b0\f0 , black's group would in fact be is perfectly alive. In response to white 1, black can play at 2 and black's group is safe.
+\pard
+If white plays at 3, black answers at 4 and black's group lives. A single liberty can determine whether black is alive or dead.
+])
+)

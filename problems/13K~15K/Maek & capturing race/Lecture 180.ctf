@@ -1,0 +1,96 @@
+//19
+3
+Black's next move
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Where should Black play next? Look for a maek (tesuji) to connect the black stones.
+\par }
+#
+(
+2[cn]
+2[dn]
+2[fn]
+1[do]
+2[fo]
+2[ho]
+2[cp]
+1[dp]
+1[fp]
+2[gp]
+1[ip]
+2[cq]
+1[dq]
+1[eq]
+2[fq]
+1[gq]
+1[hq]
+2[cr]
+2[dr]
+1[er]
+2[fr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The atari on the first line is the correct way. When White captures at 2, Black can go round and connect at 3.
+\par }
+#
+(
+2[cn]
+2[dn]
+2[fn]
+1[do]
+2[fo]
+2[ho]
+2[cp]
+1[dp]
+1[fp]
+2[gp]
+1[ip]
+2[cq]
+1[dq]
+1[eq]
+2[fq]
+1[gq]
+1[hq]
+2[cr]
+2[dr]
+1[er]
+2[fr]
+)
+3
+B[fs]
+W[ep]
+B[gr]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Connecting the cutting stone is not a good idea here because White also connects at 2 and captures seven black stones.
+\par }
+#
+(
+2[cn]
+2[dn]
+2[fn]
+1[do]
+2[fo]
+2[ho]
+2[cp]
+1[dp]
+1[fp]
+2[gp]
+1[ip]
+2[cq]
+1[dq]
+1[eq]
+2[fq]
+1[gq]
+1[hq]
+2[cr]
+2[dr]
+1[er]
+2[fr]
+)
+2
+B[ep]
+W[es]

@@ -1,0 +1,84 @@
+//19
+3
+Blockade or Capture?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 What is Black's best sequence? Show 5 moves.
+\par }
+#
+(
+1[bp]
+1[cp]
+1[dp]
+1[ep]
+1[fp]
+1[hp]
+2[bq]
+2[cq]
+1[dq]
+2[eq]
+2[fq]
+2[br]
+2[dr]
+1[er]
+2[cs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black can capture the cutting stones with the moves up to 7.
+\par }
+#
+(
+1[bp]
+1[cp]
+1[dp]
+1[ep]
+1[fp]
+1[hp]
+2[bq]
+2[cq]
+1[dq]
+2[eq]
+2[fq]
+2[br]
+2[dr]
+1[er]
+2[cs]
+)
+7
+B[fr]
+W[gq]
+B[gr]
+W[hq]
+B[iq]
+W[hr]
+B[ir]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Simply blocking off with 1 and 3 is not the best sequence for Black.
+\par
+\par }
+#
+(
+1[bp]
+1[cp]
+1[dp]
+1[ep]
+1[fp]
+1[hp]
+2[bq]
+2[cq]
+1[dq]
+2[eq]
+2[fq]
+2[br]
+2[dr]
+1[er]
+2[cs]
+)
+4
+B[gq]
+W[fr]
+B[gr]
+W[es]

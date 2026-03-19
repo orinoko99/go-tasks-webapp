@@ -1,0 +1,53 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mn][oo][po][ro][np][pp][rp][nq][nr]AB[op][oq][pq][qq][rr]LBC[Can be alive by one move(91)
+
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\f1
+First move is important.\f2
+\lang1042\f0
+])
+(;AW[mn][oo][po][ro][np][pp][rp][nq][nr]AB[op][oq][pq][qq][rr]
+;B[or]
+;W[sr]
+;B[sq]
+;W[rq]
+;B[ss]
+;W[qs]LB[or:1][sr:2][sq:3][rq:4][ss:5][qs:6]C[Dia.1(Eye spaces are small)
+
+{\colortbl ;\red255\green0\blue0;}
+
+How about extending eye space?
+\cf1\b
+W2 is a good attack\cf0\b0  so up to 6, B can't live.
+
+Eye spaces are small to live.
+
+])
+(;AW[mn][oo][po][ro][np][pp][rp][nq][nr]AB[op][oq][pq][qq][rr]LB[or:A][pr:B]
+;B[sr]
+;W[qs]LB[sr:1][qs:2][or:A][pr:B]C[Dia.2(Can be alive??)
+
+
+Playing at 2 to 1 point is also bed move.
+After 2, B has nothing to do anymore.
+
+])
+(;AW[mn][oo][po][ro][np][pp][rp][nq][nr]AB[op][oq][pq][qq][rr]LB[sq:A][qs:A]
+;B[qs]
+;W[rq]
+;B[sr]LB[qs:1][rq:2][sr:3][sq:A][qs:A]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Diagonal move is\cf1\b  the right vital point of life.
+
+\cf0\b0 B has two eyes at the right and left side.
+
+])
+)

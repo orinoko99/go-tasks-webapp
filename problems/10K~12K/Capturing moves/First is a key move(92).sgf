@@ -1,0 +1,46 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ro][qp][qq][rq][sq][or][pr][rs]AB[qm][rn][no][po][qo][oq][pq][nr][qr][ns]LBC[First is a key move(92)
+
+
+\lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+
+W's shape is very flexible but not yet alive.
+])
+(;AW[ro][qp][qq][rq][sq][or][pr][rs]AB[qm][rn][no][po][qo][oq][pq][nr][qr][ns]
+;B[so]
+;W[qs]
+;B[ps]LB[so:1][qs:2][ps:3]C[Dia.1(Mistake)
+
+
+How about try to erase one eye??
+
+If W played at 2, it would be working but W won't play like this.
+
+])
+(;AW[ro][qp][qq][rq][sq][or][pr][rs]AB[qm][rn][no][po][qo][so][oq][pq][nr][qr][ns]
+;W[ps]LB[ps:1]C[Dia.2(Life)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W1 is\cf1\b  the vital point of life.\cf0\b0
+After 1, B has nothing to do.
+
+])
+(;AW[ro][qp][qq][rq][sq][or][pr][rs]AB[qm][rn][no][po][qo][oq][pq][nr][qr][ns]LB[os:A]
+;B[ps]
+;W[rr]
+;B[so]LB[ps:1][rr:2][so:3][os:A]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+B1 and 3 is \cf1\b very good sequence\cf0\b0  to kill W's group.
+
+And playing at A is also the right answer.
+
+])
+)

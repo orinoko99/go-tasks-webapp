@@ -1,0 +1,52 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mp][np][op][pp][kq][lq][qq][rq][kr][rr][ks]AB[mq][nq][oq][pq][lr][qr][ls][ns][qs]LBC[Vital point?(64)
+
+
+\f1 It's\b  White\b0 's turn.\f0
+
+B seems to have a huge space.
+But you can find a B's weakpoint.
+])
+(;AW[mp][np][op][pp][kq][lq][qq][rq][kr][rr][ks]AB[mq][nq][oq][pq][lr][qr][ls][ns][qs]LB[nr:A][pr:B]
+;W[mr]
+;B[ms]
+;W[os]LB[mr:1][ms:2][os:3][nr:A][pr:B]C[Dia.1(Right move/Dansu first)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Dansu at 1 is\cf1\b  importent sequence\cf0\b0 .
+W shouldn't miss this kind of move.\cf1\b
+\cf0\b0 W3 is a proper move.
+
+If B played at A, W would cut at B.
+Both of B's group can't dansu W's stone.
+])
+(;AW[mp][np][op][pp][kq][lq][qq][rq][kr][rr][ks]AB[mq][nq][oq][pq][lr][qr][ls][ns][qs]
+;W[rs]
+;B[or]LB[rs:1][or:2]C[Dia.2(Beginner's mistakes)
+
+
+Beginners usually make a mistake like blocking at 1.
+
+Then B can be alive bigger and esaily.
+])
+(;AW[mp][np][op][pp][kq][lq][qq][rq][kr][rr][ks]AB[mq][nq][oq][pq][lr][qr][ls][ns][qs]
+;W[os]
+;B[mr]
+;W[pr]
+;B[or]LB[os:1][mr:2][pr:3][or:4]C[Dia.3 (Inexperienced)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Attaching at 1 without Dansu at 2 is a inexperienced move.
+
+B2 is a\cf1\b  vital point.
+\cf0\b0
+Up to 4 W can't capture B's group.
+])
+)

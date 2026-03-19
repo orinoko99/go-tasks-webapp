@@ -1,0 +1,58 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oq][pq][qq][rr][sr][qs]AB[ro][np][op][pp][qp][nq][rq][sq][nr][ns][rs]LBC[Alive at once 5
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 There aren't a lot of open spots but this is an interesting problem.
+
+Can we just play anything and live? The vital point might surprise you.
+
+\lang1042\f0\fs18
+])
+(;AW[oq][pq][qq][rr][sr][qs]AB[ro][np][op][pp][qp][nq][rq][sq][nr][ns][rs]
+;W[or]
+;B[os]
+;W[ps]
+;B[qr]LB[or:1][os:2][ps:3][qr:4]C[Dia.1 A thoughtless move
+
+{\colortbl ;\red255\green0\blue0;}
+White 1 is \cf1\b a thoughtless move.\cf0\lang1042\b0\f1\fs18
+\lang1033\f0\fs16 Black 2 takes away a liberty, and when White defends at 3 Black can throw in at 4 and now White is caught in snapback.
+
+Even if you were to play Black 2 at 3 it's still good.  There's nothing White can do.\lang1042\f1\fs18
+
+])
+(;AW[oq][pq][qq][rr][sr][qs]AB[ro][np][op][pp][qp][nq][rq][sq][nr][ns][rs]
+;W[pr]
+;B[ps]
+;W[os]
+;B[or]LB[pr:1][ps:2][os:3][or:4]C[Dia.2 Pae
+
+{\colortbl ;\red0\green0\blue255;}
+If White tries 1 thinking he can live, then he has a surprise in store.  Black can throw in at 2 to start a Pae.  \cf1\b It's a clever way to attack.\cf0\b0
+\lang1042\f1\fs18
+
+
+])
+(;AW[oq][pq][qq][rr][sr][qs]AB[ro][np][op][pp][qp][nq][rq][sq][nr][ns][rs]
+;W[ps]
+;B[or]
+;W[pr]LB[ps:1][or:2][pr:3]C[Dia.3 Correct / Solid defense
+
+{\colortbl ;\red0\green0\blue255;}
+White should crawl on the first line, the \cf1\b only vital point.
+
+\cf0\b0 Black 2 is thwarted handily by White 3.  If Black plays 2 at 3 that doesn't make much of a difference, he is just handing over a stone to be captured.
+\lang1042\f1\fs18
+])
+(;AW[oq][pq][qq][rr][sr][qs]AB[ro][np][op][pp][qp][nq][rq][sq][nr][ns][rs]LBC[No diagram name
+
+
+
+])
+)

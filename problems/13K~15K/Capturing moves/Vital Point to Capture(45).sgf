@@ -1,0 +1,47 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[op][pp][qp][rp][mq][nq][qq][mr]AB[oq][pq][rq][sq][nr][qr][rs][ss]LBC[The Vital Point for Death (45)
+
+
+\b White to Play.\b0
+This is a tricky shape.
+
+If this were a real game, you might have thought black was alive.
+])
+(;CR[oq][pq][nr]AW[op][pp][qp][rp][mq][nq][qq][mr]AB[oq][pq][rq][sq][nr][qr][rs][ss]
+;W[ps]LB[ps:1]CR[oq][pq][nr]C[Diagram 1 (Correct)
+
+
+White's placement at 1 is a sharp move stabbing black's vital point.
+
+White is aiming at creating a shortage of liberties hidden in the shape of the three black \'a1\'e3 stones.
+
+This one move leaves black dead.
+
+])
+(;CR[ps]AW[op][pp][qp][rp][mq][nq][qq][mr][ps]AB[oq][pq][rq][sq][nr][qr][rs][ss]LB[pr:A][os:B]
+;B[or]
+;W[ns]LB[or:1][ns:2][pr:A][os:B]CR[ps]C[Diagram 2 (Demonstration)
+
+
+Continuing from the previous diagram, even if black connects at 1, it is a good move for white to hane at 2 and the white \'a1\'e2 stone is connected. This leaves black with no way to live.
+
+Instead of black 1, if black connects at \b\f1 A\b0\f0 , white still plays at 2 and captures black.
+Instead of black 1, if black plays at \b\f1 B\b0\f0 , white plays \b\f1 A\b0\f0  and that's it.
+])
+(;AW[op][pp][qp][rp][mq][nq][qq][mr]AB[oq][pq][rq][sq][nr][qr][rs][ss]
+;W[ns]
+;B[ps]
+;W[or]
+;B[pr]LB[ns:1][ps:2][or:3][pr:4]C[Diagram 3 (If it was a real game)
+
+
+If this were a real game, it might have been easy for white to thoughtlessly play dansu at 1. Black responds by making a hanging connection at 2 and lives.
+
+Both players might have thought this result was common sense, but that is mistaken.
+])
+)

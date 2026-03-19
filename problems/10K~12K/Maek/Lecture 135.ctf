@@ -1,0 +1,100 @@
+//19
+3
+Capturing Move
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black to play and capture some white stones.
+\par }
+#
+(
+2[eo]
+2[fo]
+2[go]
+2[cp]
+2[dp]
+1[ep]
+1[fp]
+2[hp]
+2[cq]
+1[dq]
+1[gq]
+2[hq]
+1[er]
+1[fr]
+2[hr]
+2[cs]
+2[ds]
+2[es]
+1[fs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black should wedge in at 1 and throw in at 3. Even if White captures and connects at 4 and 6, Black eventually captures all by cutting at 7.
+\par }
+#
+(
+2[eo]
+2[fo]
+2[go]
+2[cp]
+2[dp]
+1[ep]
+1[fp]
+2[hp]
+2[cq]
+1[dq]
+1[gq]
+2[hq]
+1[er]
+1[fr]
+2[hr]
+2[cs]
+2[ds]
+2[es]
+1[fs]
+)
+9
+B[cr]
+W[br]
+B[bs]
+W[as]
+B[dr]
+W[bs]
+B[bq]
+W[bp]
+B[ar]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Just connecting at 3 doesn't succeed because White will simply connect at 4.
+\par
+\par }
+#
+(
+2[eo]
+2[fo]
+2[go]
+2[cp]
+2[dp]
+1[ep]
+1[fp]
+2[hp]
+2[cq]
+1[dq]
+1[gq]
+2[hq]
+1[er]
+1[fr]
+2[hr]
+2[cs]
+2[ds]
+2[es]
+1[fs]
+)
+6
+B[cr]
+W[br]
+B[dr]
+W[bs]
+B[bq]
+W[bp]

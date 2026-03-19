@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dp][cq][dq][eq][br][cr][er][fr]AB[cn][fn][do][ho][bp][cp][ep][bq][fq][ar][gr][ds]LB[fp:]LB[fp:]C[Which one to Save?
+
+When White played the double atari at x, Black needs carefully to consider which stone to save.
+])
+(;AW[dp][fp][cq][dq][eq][br][cr][er][fr]AB[cn][fn][do][ho][bp][cp][ep][bq][fq][ar][gr][ds]
+;B[gq]
+;W[eo]
+;B[en]LB[gq:1][eo:2][en:3]C[Correct
+
+
+Black should save at 1 because this is the weak side in Black's formation. Even if White captures at 2, Black can block at 3 and capture the whole white group.
+])
+(;AW[dp][fp][cq][dq][eq][br][cr][er][fr]AB[cn][fn][do][ho][bp][cp][ep][bq][fq][ar][gr][ds]
+;B[eo]
+;W[gq]
+;B[hr]
+;W[hq]
+;B[iq]
+;W[ip]
+;B[jq]
+;W[hp]LB[eo:1][gq:2][hr:3][hq:4][iq:5][ip:6][jq:7][hp:8]C[Wrong
+
+Saving at 1 is not good because White can escape up to 8.
+])
+)

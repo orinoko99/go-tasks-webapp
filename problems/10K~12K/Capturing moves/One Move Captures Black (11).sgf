@@ -1,0 +1,78 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pp][qp][rp][sp][nq][oq][sq][nr]AB[pq][qq][rq][or][sr][os]LBC[One Move Captures Black (11)
+
+
+\b White to Play.\b0
+
+If this shape appeared in a real game, it might have become a pae.
+
+It is easy to make a pae.
+It is hard to capture black unconditionally. If you know a lot of proverbs, you can solve this problem in no time.
+])
+(;AW[pp][qp][rp][sp][nq][oq][sq][nr]AB[pq][qq][rq][or][sr][os]
+;W[rr]
+;B[rs]LB[rr:1][rs:2]C[Diagram 1 (Most Common)
+
+
+White's cut at W1 is the most common move.
+
+Black plays dansu at 2 making a pae.
+Anyone can read this much.
+
+It is, however, brilliant when you capture this group unconditionally. Where's the vital point?
+])
+(;AW[pp][qp][rp][sp][nq][oq][sq][nr]AB[pq][qq][rq][or][sr][os]LB[qs:A]
+;W[qr]
+;B[pr]
+;W[rr]
+;B[rs]LB[qr:1][pr:2][rr:3][rs:4][qs:A]C[Diagram 2 (A Pae Again)
+
+
+White 1 is a formidable move.
+However, after black connects at 2, no matter where white plays, a pae is unavoidable.
+
+For example, if white plays at 3, black plays 4, creating a pae.
+\pard\nowidctlpar\qj Instead of 3, it appears to be a good move for white to play at 4, but when black plays a throw-in at \b\f1 A\b0\f0 , it also becomes a pae.
+])
+(;AW[pp][qp][rp][sp][nq][oq][sq][nr]AB[pq][qq][rq][or][sr][os]LB[rr:A]
+;W[rs]
+;B[qs]
+;W[qr]
+;B[pr]LB[rs:1][qs:2][qr:3][pr:4][rr:A]C[Diagram 3 (Resistance)
+
+
+White's placement at 1 is the 2-1 point and it is usually a strong attack.
+However, black's resistence at 2 works.
+
+\pard\ltrpar\nowidctlpar\qj Now a pae is the best result. Instead of 3, if white thoughtlessly cuts at \b\f1 A\b0\f0 , black plays at 3 and lives unconditionally.
+])
+(;AW[pp][qp][rp][sp][nq][oq][sq][nr]AB[pq][qq][rq][or][sr][os]
+;W[qs]
+;B[rs]
+;W[pr]LB[qs:1][rs:2][pr:3]C[Diagram 4 (Correct)
+
+
+Do you remember the proverb which states, "play at the center of three stones?"
+
+Following this proverb,  white's placement at 1 is the center of three stones. If black plays at 2, white's cut at 3 is severe. Black cannot play dansu from either direction.
+
+
+])
+(;CR[qs]AW[pp][qp][rp][sp][nq][oq][sq][nr][qs]AB[pq][qq][rq][or][sr][os]
+;B[qr]
+;W[rs]LB[qr:1][rs:2]CR[qs]C[Diagram 5 (Variation)
+
+
+If black responds to \'a1\'e2 at 1, white 2 is a good move.
+Black has no response.
+
+The most frequently occurring vital point in the corner is the 2-1 point but please do not forget that the center of three stones ican also be a vital point.
+
+
+])
+)

@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cn][cp][dp][bq][eq][fq][br][er][gr][fs][gs]AB[ep][fp][dq][gq][hq][cr][dr][hr][hs]LBC[No way to capture, or?
+
+White made "one eye versus no eye" so Black can't win the capturing race with ordinary moves. However...
+])
+(;AW[cn][cp][dp][bq][eq][fq][br][er][gr][fs][gs]AB[ep][fp][dq][gq][hq][cr][dr][hr][hs]
+;B[es]
+;W[ds]
+;B[cs]LB[es:1][ds:2][cs:3]C[Correct
+
+Black can throw in at 1 and make a pae/ko up to 3.
+
+])
+(;AW[cn][cp][dp][bq][eq][fq][br][er][gr][fs][gs]AB[ep][fp][dq][gq][hq][cr][dr][hr][hs]
+;B[ds]
+;W[cq]LB[ds:1][cq:2]C[Wrong
+
+As expected Black fails by playing ordinary moves because White has an eye and Black doesn't.
+
+])
+)

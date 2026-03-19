@@ -1,0 +1,29 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[bq][cq][dr][er][cs]AB[bn][bp][cp][dq][eq][fq][fr]LBC[Black to capture
+
+How should Black play to capture the white stones?
+])
+(;AW[bq][cq][dr][er][cs]AB[bn][bp][cp][dq][eq][fq][fr]
+;B[ar]
+;W[br]
+;B[aq]
+;W[es]
+;B[bs]
+;W[as]LB[ar:1][br:2][aq:3][es:4][bs:5][as:6]C[Correct
+
+
+Pae (ko) is the correct answer. Up to White 6 there is a pae.
+])
+(;AW[bq][cq][dr][er][cs]AB[bn][bp][cp][dq][eq][fq][fr]
+;B[es]
+;W[br]LB[es:1][br:2]C[Wrong
+
+
+"There is death in the hane" doesn't work here. White easily lives by playing at 2.
+])
+)

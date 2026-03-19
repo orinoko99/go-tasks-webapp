@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oo][ro][so][pp][qp][kq][nq][oq][nr][qr][rr][os][qs]AB[rp][pq][qq][rq][or][pr][sr]LBC[Can be alive by one move(89)
+
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\lang1042\f0
+Could B live without a ko??
+])
+(;AW[oo][ro][so][pp][qp][kq][nq][oq][nr][qr][rr][os][qs]AB[rp][pq][qq][rq][or][pr][sr]
+;B[ps]
+;W[sp]
+;B[rs]LB[ps:1][sp:2][rs:3]C[Dia.1(Life?)
+
+{\colortbl ;\red255\green0\blue0;}
+
+\cf1\b You might think that B can live easily by capturing three stones.\cf0\b0
+
+If W played like this diagram, B would be able to live easily.
+But W won't!!
+
+])
+(;CR[ps]AW[oo][ro][so][pp][qp][kq][nq][oq][nr][qr][rr][os][qs]AB[rp][pq][qq][rq][or][pr][sr][ps]LB[sp:A]
+;W[rs]LB[rs:1][sp:A]CR[ps]C[Dia.2(Self-dansu)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+\cf1\b W1 is an excellent move.\cf0\b0
+B can capture four stones but he can't make two eyes in there.
+
+And making an eye at A is also impossible because it is \cf2\b self-dansu. \cf0\b0
+
+
+])
+(;AW[oo][ro][so][pp][qp][kq][nq][oq][nr][qr][rr][os][qs]AB[rp][pq][qq][rq][or][pr][sr]
+;B[rs]LB[rs:1]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+B can't live without a ko so the right answer is simple.
+
+\cf1\b B1 is the best way to live.\cf0\b0
+
+])
+)

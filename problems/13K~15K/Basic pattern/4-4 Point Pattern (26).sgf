@@ -1,0 +1,60 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[lq]AW[nq]AB[pp][lq]
+;W[pr]LB[pr:1]CR[lq]C[Star-point joseki
+
+Black's turn\b0
+When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  White 1 is a mistake. How should Black answer?\lang1042\f1
+
+])
+(;AW[nq][pr]AB[pp][lq]
+;B[qr]
+;W[pq]
+;B[qq]
+;W[op]
+;B[po]LB[qr:1][pq:2][qq:3][op:4][po:5]C[1st Dia. Mistake
+
+Black 1 is a bad move. It's White's wish. If White plays like this the result is good for Black. But White will play-\lang1042\f1
+
+])
+(;AW[nq][pr]AB[pp][lq]
+;B[qr]
+;W[qq]
+;B[pq]
+;W[rr]
+;B[or]
+;W[qs]
+;B[oq]
+;W[qo]LB[qr:1][qq:2][pq:3][rr:4][or:5][qs:6][oq:7][qo:8]C[2nd Dia. Very good for White
+
+White will play 2. That's why it's bad for Black. Now Black has to play 3 to 8.
+This result is very good for White.\lang1042\f1
+
+])
+(;AW[nq][pr]AB[pp][lq]
+;B[qq]
+;W[no]
+;B[qm]LB[qq:1][no:2][qm:3]C[3rd Dia. Good for Black
+
+Black should have played 1. This result is good for Black.\lang1042\f1
+
+])
+(;AB[pp]LB[qn:A][kq:B]
+;W[nq]
+;B[qm]
+;W[pr]
+;B[qq]
+;W[no]
+;B[lq]LB[nq:1][qm:2][pr:3][qq:4][no:5][lq:6][qn:A][kq:B]C[4th Dia. Keep looking
+
+Let's compare this situation with the previous diagram.
+When White plays 1 Black will play 2, White 3 and Black has to play 4.
+Black 2 is better than A and White should have played B instead of 5.
+So this result is good for Black.\lang1042\f1
+
+])
+)

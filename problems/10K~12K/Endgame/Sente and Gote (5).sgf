@@ -1,0 +1,67 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[iq][jq][kq][lq][mq][nq][ir][nr][is]AB[oq][pq][qq][rq][sq][lr][or]LB[mr:A]
+;B[ns]
+;W[ms]
+;B[os]
+;W[mr]LB[ns:1][ms:2][os:3][mr:4][mr:A]C[Sente and Gote (5)
+
+
+\b Playing hane and connecting on the first line.
+
+\b0 Black \'a1\'e3 makes a small difference from a simple hane and connection.
+In this case, Black's hane and connection become sente.
+White can't avoid defending at 4.
+How many points Black's sequence at 1 and 3 is worth?
+
+
+])
+(;AW[iq][jq][kq][lq][mq][nq][ir][mr][nr][is][ms]AB[oq][pq][qq][rq][sq][lr][or][ns][os]LBC[Dia. 02 When Black Plays Hane
+
+
+In this variation, Black has 8 points, White has 7 points.
+If this result is compared to the result when White plays hane and connects, then it is possible to know how much Black's hane and connection is worth.
+
+Let's check the next diagram.
+])
+(;AW[iq][jq][kq][lq][mq][nq][ir][nr][is]AB[oq][pq][qq][rq][sq][lr][or]
+;W[os]
+;B[ps]
+;W[ns]LB[os:1][ps:2][ns:3]C[Dia. 02 White is Gote
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's hane and connection is gote, Black doesn't have to defend.
+
+In this case, Black has 7 points, White has 9 points.
+
+((8-7)+(9-7)=\cf1\b 3 points\cf0\b0
+
+Therefore Black 1 and 3 from the\b  main diagram\b0 , or White 1 and 3 from this variation is worth 3 points.
+
+However-
+
+])
+(;AW[iq][jq][kq][lq][mq][nq][ir][nr][is]AB[oq][pq][qq][rq][sq][lr][or]
+;B[ns]
+;W[ms]
+;B[os]
+;W[mr]LB[ns:1][ms:2][os:3][mr:4]C[Dia. 03 Black is Sente, White is Gote
+
+{\colortbl ;\red0\green0\blue255;}
+
+Let's check the \b main diagram\b0  again.
+When Black played it was sente, when White played it was gote.
+
+Therefore, White 1 and 3 in \b Dia.02\b0  is a 3 points gote endgame, and Black 1 and 3 is 3 points sente endgame in this diagram.
+
+White 1 and 3 in Dia. 02 provided the opponent's to play sente, so it is called \cf1\b reverse sente\cf0\b0 .
+
+It is 3 points but the real value of this move is double, so it is worth 6 points.
+
+])
+)

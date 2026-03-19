@@ -1,0 +1,171 @@
+//19
+4
+Vital Point to Capture?(25)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Black's shape looks nice.
+\par It seems White can't capture it. So White might hope for a pae.
+\par
+\par However if White is aiming at the shortage of liberties, unexpected result can appear.
+\par
+\par Where is the vital point and what is the best sequence?
+\par
+\par
+\par }
+#
+(
+2[po]
+2[qo]
+2[lp]
+2[mp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[rp]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+2[rq]
+2[lr]
+1[mr]
+1[pr]
+1[qr]
+2[rr]
+2[ls]
+1[qs]
+2[rs]
+)
+0
+Dia. 01 Correct Answer/Placement
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White has to start with the placement at 1. Black attaches with the diagonal move at 2 and trying to make a pae, but White plays at 3.
+\par
+\par Black might think he can live with 4, but White's \cf1\b dansu\cf0\b0  at\cf1\b  5 decides everything\cf0\b0 .
+\par
+\par Black can't play either at A or B, because of shortage of liberties.
+\par
+\par Isn't it an excellent capturing with a double shortage of liberties?
+\par }
+#
+(
+2[po]
+2[qo]
+2[lp]
+2[mp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[rp]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+2[rq]
+2[lr]
+1[mr]
+65[nr]
+1[pr]
+1[qr]
+2[rr]
+2[ls]
+66[ps]
+1[qs]
+2[rs]
+)
+5
+W[os]
+B[ns]
+W[or]
+B[qq]
+W[ms]
+Dia. 02 Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against Black \'a1\'e3 if White doesn't  think carefully, he might believe that White 1 is the correct move.
+\par
+\par But then Black can resist and make a \cf1\b pae\cf0\b0  with 2.
+\par
+\par It is a failure for White compared with the attack in \b Dia. 01\b0 .
+\par
+\par
+\par
+\par }
+#
+(
+2[po]
+2[qo]
+2[lp]
+2[mp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[rp]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+2[rq]
+2[lr]
+1[mr]
+1[pr]
+1[qr]
+2[rr]
+2[ls]
+5[ns]
+2[os]
+1[qs]
+2[rs]
+)
+2
+W[ms]
+B[or]
+Dia. 03 Worst
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If White plays at 1 it shows White didn't really understand the original problem.
+\par
+\par It looks like White thought it is only an endgame problem.
+\par
+\par Black lives easily with 2.
+\par Moreover capturing the Black \'a1\'e3 stones are not even sente. This is the \cf1\b worst \cf0\b0 result.
+\par
+\par
+\par }
+#
+(
+2[po]
+2[qo]
+2[lp]
+2[mp]
+2[np]
+2[op]
+5[pp]
+5[qp]
+2[rp]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+65[pq]
+2[rq]
+2[lr]
+1[mr]
+1[pr]
+1[qr]
+2[rr]
+2[ls]
+1[qs]
+2[rs]
+)
+2
+W[qq]
+B[os]

@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[gp][hp][fq][iq][dr][er][fr]AB[go][ep][fp][cq][dq][gq][jq][kq][cr][gr]LBC[Despite Lack of Liberties
+
+Can Black win the capturing race?
+])
+(;AW[gp][hp][fq][iq][dr][er][fr]AB[go][ep][fp][cq][dq][gq][jq][kq][cr][gr]LB[hr:A][gs:B]
+;B[hs]
+;W[ir]
+;B[jr]
+;W[is]
+;B[ip]
+;W[hq]
+;B[ho]
+;W[fs]
+;B[ds]LB[hs:1][ir:2][jr:3][is:4][ip:5][hq:6][ho:7][fs:8][ds:9][hr:A][gs:B]C[Correct
+
+The diagonal move is an excellent maek/tesuji in this situation. White might cut at 2 and 4 but then Black can fill the liberties at the outside. After 9 White is caught in double jachung, that means he can't approach neither at A nor at B.
+
+])
+(;AW[gp][hp][fq][iq][dr][er][fr]AB[go][ep][fp][cq][dq][gq][jq][kq][cr][gr]
+;B[ds]
+;W[hr]
+;B[es]
+;W[gs]LB[ds:1][hr:2][es:3][gs:4]C[Wrong
+
+Simply reducing liberties at 1 and 3 fails because White is ahead in liberties.
+
+])
+)

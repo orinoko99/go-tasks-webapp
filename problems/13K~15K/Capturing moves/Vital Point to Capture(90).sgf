@@ -1,0 +1,53 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[os]AW[no][oo][po][qo][lp][mp][qp][lq][qq][lr][rr][ms][rs]AB[np][op][pp][mq][nq][pq][mr][qr][os][qs]LBCR[os]C[Where is a vital point?(90)
+
+
+\f1 It's\b  White\b0 's turn.\f0
+
+B jumped at \'a1\'e3 for making the two eyes.
+Is it working??
+
+])
+(;AW[no][oo][po][qo][lp][mp][qp][lq][qq][lr][rr][ms][rs]AB[np][op][pp][mq][nq][pq][mr][qr][os][qs]
+;W[or]
+;B[pr]
+;W[nr]LB[or:1][pr:2][nr:3]C[Dia.1(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+It is similar symmetrical shape.
+In the middle of B's group is a \cf1\b vital point of death.\cf0\b0
+
+W played very calm(W3) so B can't dansu them!!
+
+])
+(;AW[no][oo][po][qo][lp][mp][qp][lq][qq][lr][rr][ms][rs]AB[np][op][pp][mq][nq][pq][mr][qr][os][qs]
+;W[pr]
+;B[or]
+;W[ps]
+;B[ns]LB[pr:1][or:2][ps:3][ns:4]C[DIa.2(Two real eyes)
+
+{\colortbl ;\red255\green0\blue0;}
+
+B wants W to cut at 1 because he can dansu at 2 and make the\cf1\b  two real eyes\cf0\b0 .
+
+Don't be happy for capturing two stone!!
+])
+(;AW[no][oo][po][qo][lp][mp][qp][lq][qq][lr][rr][ms][rs]AB[np][op][pp][mq][nq][pq][mr][qr][qs]
+;B[or]
+;W[os]
+;B[ns]LB[or:1][os:2][ns:3]C[Dia.3(The right move for B)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b B should have played at 1.
+\cf0\b0
+The result is ko but It's the best way for B!!
+
+])
+)

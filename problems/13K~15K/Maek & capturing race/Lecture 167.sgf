@@ -1,0 +1,60 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ap][bp][cp][gp][aq][fq][hq][br][cr][er][fr][ds]AB[cn][bo][do][fo][dp][fp][bq][cq][dq][eq][dr]LBC[Capturing Move
+
+What is best Black's best endgame move? If you think carefully, you will find a move that captures some white stones.
+])
+(;AW[ap][bp][cp][gp][aq][fq][hq][br][cr][er][fr][ds]AB[cn][bo][do][fo][dp][fp][bq][cq][dq][eq][dr]
+;B[cs]
+;W[bs]
+;B[ar]
+;W[as]
+;B[ao]
+;W[es]
+;B[co]
+;W[cs]
+;B[ar]LB[cs:1][bs:2][ar:3][as:4][ao:5][es:6][co:7][cs:8][ar:9]C[Correct
+
+This is the correct order of moves. Throwing in twice will allow Black to capture four stones.
+])
+(;AW[ap][bp][cp][gp][aq][fq][hq][br][cr][er][fr][ds]AB[cn][bo][do][fo][dp][fp][bq][cq][dq][eq][dr]
+;B[es]
+;W[cs]
+;B[ar]
+;W[as]
+;B[ao]
+;W[fs]
+;B[co]
+;W[ar]LB[es:1][cs:2][ar:3][as:4][ao:5][fs:6][co:7][ar:8]C[Wrong Throw-in
+
+Oh no! Black chose the wrong throw-in. Like this, Black can't achieve anything.
+
+])
+(;AW[ap][bp][cp][gp][aq][fq][hq][br][cr][er][fr][ds]AB[cn][bo][do][fo][dp][fp][bq][cq][dq][eq][dr]
+;B[ar]
+;W[cs]
+;B[as]
+;W[bs]
+;B[ar]
+;W[as]
+;B[ao]
+;W[es]
+;B[co]
+;W[ar]LB[ar:1][cs:2][as:3][bs:4][ar:5][as:6][ao:7][es:8][co:9][ar:10]C[Wrong Order
+
+Oh, what a pity. Black shouldn't start with this throw-in. White can connect all his stones and is safe.
+])
+(;AW[ap][bp][cp][gp][aq][fq][hq][br][cr][er][fr][ds]AB[cn][bo][do][fo][dp][fp][bq][cq][dq][eq][dr]
+;B[cs]
+;W[bs]
+;B[es]
+;W[ar]
+;B[cs]LB[cs:1][bs:2][es:3][ar:4][cs:5]C[Wrong 2nd Throw-in
+
+The beginning looked promising, but the second throw-in is doubtful. Depending on the situation White may endure by making a pae (ko).
+])
+)

@@ -1,0 +1,99 @@
+//19
+3
+Save Black
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Where should Black play to save his corner stones?
+\par }
+#
+(
+2[cl]
+2[bm]
+1[an]
+1[bn]
+2[cn]
+1[bo]
+2[co]
+2[do]
+1[bp]
+1[cp]
+1[dp]
+2[ep]
+1[bq]
+2[cq]
+1[dq]
+2[eq]
+2[cr]
+1[dr]
+2[er]
+2[ds]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The tesuji at 1 is the correct move to live. White needs to connect at 2 and Black lives comfortably at 3.
+\par }
+#
+(
+2[cl]
+2[bm]
+1[an]
+1[bn]
+2[cn]
+1[bo]
+2[co]
+2[do]
+1[bp]
+1[cp]
+1[dp]
+2[ep]
+1[bq]
+2[cq]
+1[dq]
+2[eq]
+2[cr]
+1[dr]
+2[er]
+2[ds]
+)
+4
+B[bs]
+W[cs]
+B[br]
+W[es]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Just blocking at 1 is not good. White sacrifices two stones and captures all black stones up to 6.
+\par }
+#
+(
+2[cl]
+2[bm]
+1[an]
+1[bn]
+2[cn]
+1[bo]
+2[co]
+2[do]
+1[bp]
+1[cp]
+1[dp]
+2[ep]
+1[bq]
+2[cq]
+1[dq]
+2[eq]
+2[cr]
+1[dr]
+2[er]
+2[ds]
+)
+6
+B[br]
+W[bs]
+B[cs]
+W[cr]
+B[ar]
+W[ap]

@@ -1,0 +1,69 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[go][fp][jp][lp][op][cq][dq][fq][oq][rq][er][gr][or][pr][qr][cs][es][os]AB[ql][cm][em][fn][pn][fo][po][cp][dp][ep][rp][bq][eq][pq][qq][br][rr][sr][bs][ps][qs]LB[cr:A][rs:B]LB[cr:A][rs:B]C[Which side is bigger?(18)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Which is bigger, White A or White B, and by how much? This one is harder than it looks.\lang1042\f0\fs18
+
+\lang1033\f1\fs16 Muitliple choice\lang1042\f0\fs18
+\cf1 1)\cf0\lang1033\b\f1\fs16 A is bigger\cf2\lang1042\b0\f0\fs18
+\cf1 2)\cf0\lang1033\b\f1\fs16 B is bigger\lang1042\b0\f0\fs18
+\cf1 3)\cf2\lang1033\f1\fs16 They are the same\lang1042\f0\fs18
+\cf1
+\cf2
+\cf1
+\cf0
+])
+(;AW[go][fp][jp][lp][op][cq][dq][fq][oq][rq][er][gr][or][pr][qr][cs][es][os]AB[ql][cm][em][fn][pn][fo][po][cp][dp][ep][rp][bq][eq][pq][qq][br][rr][sr][bs][ps][qs]LB[dr:?][ds:?]
+;W[cr]LB[cr:1][dr:?][ds:?]C[Dia.1 How big is A?
+
+{\colortbl ;\red0\green0\blue255;}
+Let's calculate A first.  If White connects at 1 then the x marked spots become 2 points worth of territory.  \lang1042\f1\fs18
+
+\cf1\lang1033\b\f0\fs16 White gains two points.
+
+\cf0\lang1042\b0\f1\fs18
+
+
+])
+(;CR[cq][dq]AW[go][fp][jp][lp][op][cq][dq][fq][oq][rq][er][gr][or][pr][qr][cs][es][os]AB[ql][cm][em][fn][pn][fo][po][cp][dp][ep][rp][bq][eq][pq][qq][br][rr][sr][bs][ps][qs]
+;B[dr]LB[dr:1]CR[cq][dq]C[Dia.2 6 points in husu
+
+If Black plays 1 then he can capture the two stones.  The thing to be careful of in this case is the bottom White stone is not a stone White cares about.
+
+So, you get two points from the captured stones and two points so that makes four points of territory.
+
+2+4 = 6 points of territory.
+This means that A is worth 6 points in husu.\lang1042\f1\fs18
+
+
+])
+(;AW[go][fp][jp][lp][op][cq][dq][fq][oq][rq][er][gr][or][pr][qr][cs][es][os]AB[ql][cm][em][fn][pn][fo][po][cp][dp][ep][rp][bq][eq][pq][qq][br][rr][sr][bs][ps][qs]
+;W[rs]LB[rs:1]C[Dia.3 How big is B?
+
+Let's look at how much B is worth.  If White plays, then of course he captures the two stones. White gets the two stones and one point of territory so all in all he gets 3 points.
+
+\lang1042\f1\fs18
+
+])
+(;AW[go][fp][jp][lp][op][cq][dq][fq][oq][rq][er][gr][or][pr][qr][cs][es][os]AB[ql][cm][em][fn][pn][fo][po][cp][dp][ep][rp][bq][eq][pq][qq][br][rr][sr][bs][ps][qs]LB[sq:A][ss:?]
+;B[rs]LB[rs:1][sq:A][ss:?]C[Dia.4 1 point difference
+
+Black connects with 1 and now the point at "x" is territory and so is A.  If White had taken then Black would have to eventually fill in this point.  So, 2 points.
+
+Therefore, the worth of B is 3+2=5 points of territory in husu.
+
+A is bigger than B by 1 point.
+\lang1042\f1\fs18
+])
+(;AW[go][fp][jp][lp][op][cq][dq][fq][oq][rq][er][gr][or][pr][qr][cs][es][os]AB[ql][cm][em][fn][pn][fo][po][cp][dp][ep][rp][bq][eq][pq][qq][br][rr][sr][bs][ps][qs]LBC[No diagram name
+
+
+
+])
+)

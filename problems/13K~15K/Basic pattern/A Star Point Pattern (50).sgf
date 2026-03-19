@@ -1,0 +1,76 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nq]AB[kp][pp]LB[qo:A]
+;W[qn]
+;B[pn]
+;W[pm]
+;B[on]
+;W[qq]LB[qn:1][pn:2][pm:3][on:4][qq:5][qo:A]C[A Star Point Pattern (50)
+
+
+\b White to Play.\b0
+In the previous basic diagram, we learned that black's correct move in response to white's 3-3 point invasion is \b\f1 A\b0\f0 .
+
+However, let's find some other responses.
+
+])
+(;AW[pm][qn][nq][qq]AB[on][pn][kp][pp]LB[oq:‚]
+;B[oq]
+;W[np]
+;B[qp]LB[oq:1][np:2][qp:3][oq:‚]C[Diagram 1 (Diagonal Move?)
+
+
+What about black's diagonal attachment at 1?
+
+If white stands up with 2, black plays at 3 and it seems to be a plausable response.
+
+Next -
+
+])
+(;AW[pm][qn][np][nq][qq]AB[on][pn][kp][pp][qp][oq]
+;W[rp]
+;B[ro]
+;W[rq]
+;B[qo]
+;W[or]LB[rp:1][ro:2][rq:3][qo:4][or:5]C[Diagram 2 (White Profits)
+
+
+When white hanes and connects with 1 and 3, and then crosses under with 5, white has made a large profit in the corner.
+
+Black is beaten.
+
+Instead of black 2 -
+])
+(;AW[pm][qn][np][nq][qq]AB[on][pn][kp][pp][qp][oq]
+;W[rp]
+;B[qr]
+;W[rq]
+;B[pq]
+;W[qo]LB[rp:1][qr:2][rq:3][pq:4][qo:5]C[Diagram 3 (Black Looks Bad)
+
+
+Black can instead attach with 2 but if white connects at 3, it does not seem promising for black.
+
+Up to 5, black does not look very good.
+
+Then -
+])
+(;AW[pm][qn][np][nq][qq]AB[on][pn][kp][pp][qp][oq]
+;W[rp]
+;B[qo]
+;W[ro]
+;B[qm]
+;W[rn]
+;B[pl]
+;W[or]LB[rp:1][qo:2][ro:3][qm:4][rn:5][pl:6][or:7]C[Diagram 4 (Black, Dissatisfied)
+
+
+It is a bad shape but what about black's empty triangle with 2, waiting white to cross under and then capturing the a white stone with 4 and 6?
+
+This is a thick shape but up to 7, white's profit in the corner is too great. This is unsatisfactory to black.
+])
+)

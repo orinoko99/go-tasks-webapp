@@ -1,0 +1,190 @@
+//19
+5
+Improve your rank
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par When White plays 1, Black 2 is a strong answer. After White plays 3, Black 4 is a patient move. White decided to play 5, it's a very weird move.
+\par How should Black answer?\lang1042\f1
+\par
+\par }
+#
+(
+1[dd]
+1[jd]
+1[pd]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+5
+W[fc]
+B[cf]
+W[qh]
+B[qj]
+W[jc]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 I recommend Black 1. It's a simple and good move. If White plays 2, Black answers 3.
+\par The problem begins when White plays 4. Black's answer is very important.\lang1042\f1
+\par
+\par }
+#
+(
+2[fc]
+2[jc]
+1[dd]
+1[jd]
+1[pd]
+1[cf]
+2[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+4
+B[kc]
+W[ic]
+B[kd]
+W[qc]
+2nd Dia. Continuation
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black should play 1 to cut White's \lang1042\f1\'a1\'e2\lang1043\f0  move. White has to play 2 to 8.
+\par Black made a strong center and White's \lang1042\f1\'a1\'e2\lang1043\f0  is dead.\lang1042\f1
+\par
+\par }
+#
+(
+2[fc]
+2[ic]
+2[jc]
+1[kc]
+2[qc]
+1[dd]
+1[jd]
+1[kd]
+1[pd]
+1[cf]
+6[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+9
+B[qd]
+W[pc]
+B[oc]
+W[ob]
+B[nc]
+W[rd]
+B[re]
+W[rc]
+B[qf]
+3rd Dia. White's connected
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When White plays \lang1042\f1\'a1\'e2\lang1043\f0 , Black 1 is a mistake. White can connect his stones with 2 and 4.
+\par This result is bad for Black.\lang1042\f1
+\par
+\par }
+#
+(
+2[fc]
+2[ic]
+2[jc]
+1[kc]
+690[pc]
+6[qc]
+1[dd]
+1[jd]
+1[kd]
+1[pd]
+1[cf]
+2[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+4
+B[pc]
+W[qd]
+B[qe]
+W[re]
+4th Dia. Another option
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 What if White plays 1? Then Black 2 is a good answer. White plays 3 and Black plays 4. If you play this sequence, White will be frustrated. \lang1042\f1
+\par
+\par }
+#
+(
+2[fc]
+2[ic]
+2[jc]
+1[kc]
+1[dd]
+1[jd]
+1[kd]
+1[pd]
+1[cf]
+2[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+4
+W[qd]
+B[qc]
+W[qe]
+B[pc]

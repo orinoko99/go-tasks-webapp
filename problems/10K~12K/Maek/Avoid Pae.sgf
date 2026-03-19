@@ -1,0 +1,72 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pp][qp][rp][nq][oq][rq][nr][sr]AB[om][qn][oo][ro][op][pq][qq][or][qr][rr]LBC[Avoid Pae
+
+
+\b White to play\b0 .
+At first it looks like the capturing race is favorable for White. However if White is careless, Black can resist.
+
+Find the way to win the capturing race.
+])
+(;AW[pp][qp][rp][nq][oq][rq][nr][sr]AB[om][qn][oo][ro][op][pq][qq][or][qr][rr]
+;W[os]
+;B[ps]
+;W[ns]
+;B[po]LB[os:1][ps:2][ns:3][po:4]C[Dia. 01 Pae
+
+
+White's dansu at 1 gives chance for Black to resist.
+Black can make a pae with 2.
+Once White has time to connect at 3, but anyway he has to continue with the pae.
+
+
+
+])
+(;AW[pp][qp][rp][nq][oq][rq][nr][sr]AB[om][qn][oo][ro][op][pq][qq][or][qr][rr]
+;W[rs]
+;B[ps]
+;W[ns]
+;B[os]
+;W[sq]
+;B[po]LB[rs:1][ps:2][ns:3][os:4][sq:5][po:6]C[Dia. 02 Eye vs. no eye
+
+{\colortbl ;\red0\green0\blue255;}
+
+After the hane at 1, White is going to be in really big trouble.
+Black was able to resist in the previous diagram, but this time he can also win the capturing race.
+
+Making an eye with Black 2 is a great move.
+White is captured by \cf1\b eye vs. no eye\cf0\b0 . The sequence up to 6 is the proof of it.
+
+])
+(;AW[pp][qp][rp][nq][oq][rq][nr][sr]AB[om][qn][oo][ro][op][pq][qq][or][qr][rr]
+;W[ps]
+;B[os]
+;W[rs]LB[ps:1][os:2][rs:3]C[Dia. 03 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's placement at 1 is the \cf1\b maek\cf0\b0 . When Black got to play here in Dia. 01 or Dia. 02, White was in trouble, right?
+
+\cf1\b The opponent vital point is my vital point\cf0\b0 .
+
+After Black 2, White plays the hane at 3 and Black is easily captured.
+
+
+])
+(;CR[ps]AW[pp][qp][rp][nq][oq][rq][nr][sr][ps]AB[om][qn][oo][ro][op][pq][qq][or][qr][rr]
+;B[rs]
+;W[pr]
+;B[po]
+;W[os]LB[rs:1][pr:2][po:3][os:4]CR[ps]C[Dia. 04 Variation
+
+
+After White \'a1\'e2, Black aims at the shortage of liberties with 1. However even if White plays simple he can capture Black with 2 and 4.
+
+In other words, after White plays at \'a1\'e2, White wins the capturing race.
+])
+)

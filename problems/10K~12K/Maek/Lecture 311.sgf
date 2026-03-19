@@ -1,0 +1,40 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dn][en][bo][do][fo][ap][cp][cq][fq][gq][cr][dr][hr]AB[cl][bn][cn][co][eo][dp][dq][eq][er][fr][gr]LBC[How to Escape
+
+Black is in danger. How can he escape?
+])
+(;AW[dn][en][bo][do][fo][ap][cp][cq][fq][gq][cr][dr][hr]AB[cl][bn][cn][co][eo][dp][dq][eq][er][fr][gr]
+;B[hq]
+;W[hp]
+;B[iq]
+;W[ir]
+;B[ip]
+;W[jq]
+;B[fp]
+;W[gp]
+;B[go]
+;W[ep]
+;B[ho]
+;W[fp]
+;B[fn]
+;W[eo]
+;B[em]LB[hq:1][hp:2][iq:3][ir:4][ip:5][jq:6][fp:7][gp:8][go:9][ep:10][ho:11][fp:12][fn:13][eo:14][em:15]C[Correct
+
+
+Black should first cut at 1. The moves up to 6 follow naturally and then Black uses the maek/tesuji at 7 and 9. Even if White tries to resist up to 14, Black can capture White in a ladder at 15.
+])
+(;AW[dn][en][bo][do][fo][ap][cp][cq][fq][gq][cr][dr][hr]AB[cl][bn][cn][co][eo][dp][dq][eq][er][fr][gr]
+;B[fp]
+;W[gp]
+;B[ep]
+;W[go]LB[fp:1][gp:2][ep:3][go:4]C[Wrong
+
+Immediately playing at 1 fails because White can block Black off at 2 and 4.
+
+])
+)

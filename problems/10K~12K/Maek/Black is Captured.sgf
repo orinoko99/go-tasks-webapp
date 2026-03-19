@@ -1,0 +1,73 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[qp][qq]AW[on][pn][qn][qo][op][rp][rq][rr]AB[no][oo][po][mp][qp][mq][qq]
+;W[pp]LB[pp:1]CR[qp][qq]C[Black is Captured?
+
+
+\b Black to play\b0 .
+White just cut at 1.
+It looks like Black \'a1\'e3 stones are captured, but actually it is not true.
+
+There is a maek which captures the White stones.
+])
+(;AW[on][pn][qn][qo][op][pp][rp][rq][rr]AB[no][oo][po][mp][qp][mq][qq]
+;B[or]
+;W[pr]LB[or:1][pr:2]C[Dia. 01 Give up
+
+{\colortbl ;\red255\green0\blue0;}
+
+If Black believes that his stones are captured, he plays endgame with 1 then White answers with 2.
+
+Black \cf1\b gave up\cf0\b0  too fast.
+
+])
+(;AW[on][pn][qn][qo][op][pp][rp][rq][rr]AB[no][oo][po][mp][qp][mq][qq]
+;B[qr]
+;W[or]
+;B[oq]
+;W[pq]
+;B[pr]
+;W[nq]
+;B[np]LB[qr:1][or:2][oq:3][pq:4][pr:5][nq:6][np:7]C[Dia. 02 Mistake for Both
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+Black 1 is like a beginner's \cf1\b mistake\cf0\b0 .
+
+However White's jump at 2 is bad and greedy move.
+
+Black's wedge-in at 3 is a severe maek.
+It becomes a \cf2\b squeeze ladder \cf0\b0 and White is captured.
+White should have played the attachment at 5 instead of 2, then Black is captured.
+])
+(;AW[on][pn][qn][qo][op][pp][rp][rq][rr]AB[no][oo][po][mp][qp][mq][qq]
+;B[pr]
+;W[pq]
+;B[qr]
+;W[or]
+;B[oq]LB[pr:1][pq:2][qr:3][or:4][oq:5]C[Dia. 03 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black's \cf1\b diagonal move\cf0\b0  at 1 is a nice maek.
+
+After White 2 and 4, Black 5 is a maek to reduce White's liberties.
+
+This \cf1\b variation is correct\cf0\b0 .
+])
+(;AW[on][pn][qn][qo][op][pp][rp][rq][rr]AB[no][oo][po][mp][qp][mq][qq]
+;B[pr]
+;W[or]
+;B[oq]LB[pr:1][or:2][oq:3]C[Dia. 04 Variation
+
+{\colortbl ;\red0\green0\blue255;}
+
+What happens if White plays at 2?
+
+Black's \cf1\b wedge-in\cf0\b0  move at 3 \cf1\b works\cf0\b0  and then White has no good answer.
+])
+)

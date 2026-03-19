@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[en][do][go][bp][dp][gp][ip][eq][hq][cr][er][fr][hr][ds][gs]AB[ep][fp][cq][dq][fq][gq][br][dr][gr]LBC[Where to throw in?
+
+Save as many black stones as possible.
+])
+(;AW[en][do][go][bp][dp][gp][ip][hq][cr][hr][ds][gs]AB[ep][fp][cq][dq][fq][gq][br][dr][gr]LB[eq:][er:][fr:][fs:A][hs:B]
+;B[fs]
+;W[es]
+;B[cs]LB[fs:1][es:2][cs:3][eq:][er:][fr:][fs:A][hs:B]C[Success
+
+Black should throw in at 1 and then capture at 3. This way the marked white stones can't be saved due to chokchoksu. That means, if White connects at A, Black will capture even more stones at B.
+
+])
+(;AW[en][do][go][bp][dp][gp][ip][eq][hq][cr][er][fr][hr][ds][gs]AB[cq][dq][br][dr]LB[ep:][fp:][fq:][gq:][gr:][es:A]
+;B[es]
+;W[fs]
+;B[cs]
+;W[fo]LB[es:1][fs:2][cs:3][fo:4][ep:][fp:][fq:][gq:][gr:][es:A]C[Wrong
+
+
+The throw in at 1 fails because White won't connect at A but reduce liberties at 4. This way Black's corner stones live but the marked stones are lost.
+])
+)

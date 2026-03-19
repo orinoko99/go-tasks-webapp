@@ -1,0 +1,183 @@
+//19
+5
+Easy Counting(12)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 (or \b White to play\b0 ).
+\par
+\par It is the same value if Black captures the White \'a1\'e2 stone or if White captures the Black \'a1\'e3 stone.
+\par
+\par Don't forget who has the privilege to play the next move.
+\par
+\par
+\par }
+#
+(
+1[qm]
+1[pn]
+2[mo]
+1[oo]
+2[gq]
+2[jq]
+2[lq]
+2[mq]
+1[nq]
+1[oq]
+1[qq]
+2[lr]
+5[mr]
+6[nr]
+1[or]
+)
+0
+Dia. 01 If Black Plays
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Let's check how many points both have after Black captures with 1.
+\par
+\par Black has the right for the next move.
+\par
+\par }
+#
+(
+1[qm]
+1[pn]
+2[mo]
+1[oo]
+2[gq]
+2[jq]
+2[lq]
+2[mq]
+1[nq]
+1[oq]
+1[qq]
+2[lr]
+1[mr]
+2[nr]
+1[or]
+)
+1
+B[ns]
+Dia. 02 White 6 Points, Black 11 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's hane at 1.
+\par White has to pull back at 2.
+\par Next, it is counted as though White A and Black B were played then the borderlines are made by Xs.
+\par
+\par \cf1\b White\cf0\b0  has \cf1\b 6 points\cf0\b0 , \cf1\b Black\cf0\b0  has \cf1\b 11 points\cf0\b0 .
+\par
+\par
+\par
+\par }
+#
+(
+1[qm]
+1[pn]
+2[mo]
+1[oo]
+2[gq]
+691[hq]
+691[iq]
+2[jq]
+691[kq]
+2[lq]
+2[mq]
+1[nq]
+1[oq]
+691[pq]
+1[qq]
+691[rq]
+691[sq]
+691[gr]
+2[lr]
+1[mr]
+1[or]
+691[gs]
+65[ks]
+66[ms]
+1[ns]
+)
+2
+B[ls]
+W[kr]
+Dia. 03 If White Plays
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It is same if White plays.
+\par After White captures with 1, he \cf1\b has the right\cf0\b0  to play the hane at A.
+\par
+\par Black has to pull back at B, because he can't play pae.
+\par
+\par Next it is counted as though Black C and White D were played.
+\par
+\par
+\par }
+#
+(
+1[qm]
+1[pn]
+2[mo]
+1[oo]
+2[gq]
+2[jq]
+2[lq]
+2[mq]
+1[nq]
+1[oq]
+1[qq]
+2[lr]
+1[mr]
+2[nr]
+1[or]
+66[pr]
+68[ns]
+65[os]
+67[ps]
+)
+1
+W[ms]
+Dia. 04 Gote 10 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par This is the final shape with the borderlines made by Xs.
+\par \cf1\b White\cf0\b0  has \cf1\b 11 points\cf0\b0 , \cf1\b Black\cf0\b0  has \cf1\b 6 points\cf0\b0 .
+\par
+\par After counting (11-6)+(11-6)=\cf2\b 10 points\cf0\b0 .
+\par Therefore the value of capturing either Black or White stone in the \b main diagram\b0  is \cf1\b 10 points\cf0\b0 .
+\par
+\par }
+#
+(
+1[qm]
+1[pn]
+2[mo]
+1[oo]
+2[gq]
+691[hq]
+691[iq]
+2[jq]
+691[kq]
+2[lq]
+2[mq]
+1[nq]
+1[oq]
+691[pq]
+1[qq]
+691[rq]
+691[sq]
+691[gr]
+2[lr]
+2[nr]
+1[or]
+1[pr]
+691[gs]
+2[ms]
+2[ns]
+2[os]
+1[ps]
+)
+0

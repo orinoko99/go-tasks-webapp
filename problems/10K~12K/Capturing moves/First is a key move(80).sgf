@@ -1,0 +1,69 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pp][qp][rp][sp][pq][pr][ps]AB[oo][po][qo][ro][mp][op][nr][qr][sr]LBC[First is a key move(80)
+
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\lang1042\f0
+If you know that 'Eye space of death and Eye space of life', you can catch the right answer \lang1033\f1 immediately\f2 !!\lang1042\f0
+
+])
+(;AW[pp][qp][rp][sp][pq][pr][ps]AB[oo][po][qo][ro][mp][op][nr][qr][sr]
+;B[rr]
+;W[qs]
+;B[rs]LB[rr:1][qs:2][rs:3]C[Dia.1(Death of four space)
+
+
+How about B1?
+If W played at 2, B would be able to make death of four space.
+
+But W won't play like this.
+
+])
+(;CR[rr]AW[pp][qp][rp][sp][pq][pr][ps]AB[oo][po][qo][ro][mp][op][nr][qr][rr][sr]
+;W[rs]
+;B[qs]
+;W[qq]
+;B[so]
+;W[rq]LB[rs:1][qs:2][qq:3][so:4][rq:5]CR[rr]C[Dia.2(Life of bent four)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Attaching at 1 is a proper move.\cf0\b0
+
+Up to 5, W can make B's space is bent four which eye shape of life.
+
+In the actual game, B didn't play at 2 so  draw is the best result.
+
+])
+(;AW[pp][qp][rp][sp][pq][pr][ps]AB[oo][po][qo][ro][mp][op][nr][qr][sr]LB[qq:?][sq:?][ss:?]
+;B[rq]
+;W[rs]
+;B[rr]
+;W[qs]LB[rq:1][rs:2][rr:3][qs:4][qq:?][sq:?][ss:?]C[Dia.3(Draw)
+
+{\colortbl ;\red255\green0\blue0;}
+
+B1 tried to make flower six which eye shape of death but playing inside at 2 is a good attack.
+
+Up to 4, \cf1\b this result is also draw.\cf0\b0
+
+])
+(;AW[pp][qp][rp][sp][pq][pr][ps]AB[oo][po][qo][ro][mp][op][nr][qr][sr]LB[rs:?]
+;B[rs]
+;W[rq]
+;B[rr]LB[rs:1][rq:2][rr:3][rs:?]C[Dia.4(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Playing at \cf1\b 2 to 1 point\cf0\b0  is the vital point.
+
+Up to 3, B's four stones are eye shape of death.
+
+
+])
+)

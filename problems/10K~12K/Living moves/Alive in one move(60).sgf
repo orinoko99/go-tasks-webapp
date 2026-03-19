@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qp][rp][pq][or][pr][sr][os]AB[po][qo][ro][pp][sp][nq][oq][nr][ns][ps][rs]LBC[Alive in one move(60)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 This type of shape doesn't appear often in real games, but we can get in some good reading practice.
+
+White looks like he has some weaknesses but if he plays it right he can live.  If you get the first move wrong you won't be able to do anything.
+
+\lang1042\f0\fs18
+])
+(;AW[qp][rp][pq][or][pr][sr][os]AB[po][qo][ro][pp][sp][nq][oq][nr][ns][ps][rs]
+;W[qq]
+;B[rq]
+;W[qs]
+;B[rr]LB[qq:1][rq:2][qs:3][rr:4]C[Dia.1 Misclick
+
+White 1 looks like a misclick, at least that's the way I look at it.  Even a beginner wouldn't make this move.
+
+Black's dansu at 2 is severe.  White can play at 3 but then Black connects at 4 and this is just too simple.
+
+\lang1042\f1\fs18
+])
+(;AW[qp][rp][pq][or][pr][sr][os]AB[po][qo][ro][pp][sp][nq][oq][nr][ns][ps][rs]
+;W[rr]
+;B[qr]
+;W[qs]LB[rr:1][qr:2][qs:3]C[Dia.2 Pae
+
+White 1 is a lukewarm move.  Black will wedge at 2 and then White will throw in at 3 to start the Pae.  Poor White is lacking in the liberty department.
+
+\lang1042\f1\fs18
+
+])
+(;AW[qp][rp][pq][or][pr][sr][os]AB[po][qo][ro][pp][sp][nq][oq][nr][ns][ps][rs]LB[qq:A][qs:B]
+;W[qr]
+;B[rq]
+;W[rr]LB[qr:1][rq:2][rr:3][qq:A][qs:B]C[Dia.3 Correct / Empty triangle
+
+{\colortbl ;\red0\green0\blue255;}
+The empty triangle is the vital point.
+
+\cf0\b0 In this shape, even though it's normally bad shape, the empty triangle is the move to play.  Even if Black comes in at 2 White can connect at 3.  Now A and B are matbogi.
+
+\lang1042\f1\fs18
+])
+(;AW[qp][rp][pq][or][pr][sr][os]AB[po][qo][ro][pp][sp][nq][oq][nr][ns][ps][rs]LBC[No diagram name
+
+
+
+])
+)

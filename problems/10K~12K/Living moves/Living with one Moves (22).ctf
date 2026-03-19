@@ -1,0 +1,189 @@
+//19
+5
+Living with one Moves (22)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par The first move is one among of \b A\b0 , \b B\b0  or \b C\b0 .
+\par Which move is the best choice for White?
+\par
+\par
+\par
+\par }
+#
+(
+1[on]
+1[qo]
+1[ro]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+67[or]
+2[qr]
+1[rr]
+65[ms]
+66[ns]
+)
+0
+Dia. 01 Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 (\b C\b0 ) makes pae.
+\par After Black 2, White has to resist with 3.
+\par
+\par The question is whether this variation is the best or not?
+\par Actually it is not the best, because White has a way to live unconditionally.
+\par
+\par
+\par }
+#
+(
+1[on]
+1[qo]
+1[ro]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+2[qr]
+1[rr]
+)
+3
+W[or]
+B[ms]
+W[ns]
+Dia. 02 Powerful Vital Point?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's descending move at 1 (\b A\b0 ) is a powerful vital point.
+\par
+\par If Black attacks with 2, White can live with the connection at 3.
+\par After Black 4, White lives with the hane at 5.
+\par
+\par However this variation is not correct.
+\par
+\par
+\par }
+#
+(
+1[on]
+1[qo]
+1[ro]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+2[qr]
+1[rr]
+)
+5
+W[ms]
+B[or]
+W[nr]
+B[pr]
+W[os]
+Dia. 03 White Dies
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's placement at 1 is a severe attack.
+\par What do you think about it? After this move, it is hard for White to answer, isnt't it?
+\par
+\par If White cuts with 2, Black captures White with 3 and 5.
+\par
+\par }
+#
+(
+1[on]
+1[qo]
+1[ro]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+2[qr]
+1[rr]
+2[ms]
+)
+5
+B[os]
+W[ps]
+B[pr]
+W[qs]
+B[nr]
+Dia. 04 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's tiger's mouth move at 1 is the \cf1\b only way to live\cf0\b0 .
+\par If Black breaks the eye with 2, it looks hard for White to live but White 3 is another good move.
+\par
+\par After Black 4, White plays at 5 and gets ready to squeeze.
+\par
+\par It is a perfect life for White.
+\par
+\par
+\par }
+#
+(
+1[on]
+1[qo]
+1[ro]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+2[qr]
+1[rr]
+)
+5
+W[ns]
+B[pr]
+W[or]
+B[qs]
+W[ps]

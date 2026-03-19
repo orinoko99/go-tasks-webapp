@@ -1,0 +1,66 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pq][qq][rq][or][qr][rs]AB[op][pp][qp][rp][oq][nr][ns]LBC[Vital Point to Capture?(5)
+
+
+\b Black to play\b0 .
+Black has to read three moves forward.
+It is easy, but Black has to be careful.
+
+The first move is obvious.
+
+])
+(;AW[pq][qq][rq][or][qr][rs]AB[op][pp][qp][rp][oq][nr][ns]
+;B[sr]LB[sr:1]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b Black's placement at 1\cf0\b0  is the \cf1\b first move\cf0\b0 .
+
+If Black plays elsewhere White would live with playing at 1.
+
+The next move for White is also decided.
+
+])
+(;CR[sr]AW[pq][qq][rq][or][qr][rs]AB[op][pp][qp][rp][oq][nr][sr][ns]LB[os:A]
+;W[sq]
+;B[ps]LB[sq:1][ps:2][os:A]CR[sr]C[Dia. 02 Deciding Move
+
+{\colortbl ;\red0\green0\blue255;}
+
+Against Black \'a1\'e3, White has to cut with 1. After that Black 2 is the \cf1\b deciding move\cf0\b0 .
+It is painful for White that he can't play at A.
+
+If White blocks at A, instead of 1, Black plays at 1 and White has not enough eye-space.
+
+
+
+])
+(;AW[pq][qq][rq][sq][or][qr][rs]AB[op][pp][qp][rp][oq][nr][sr][ns]
+;B[os]
+;W[ps]LB[os:1][ps:2]C[Dia. 03 Pae
+
+
+Instead of Black 2 in \b Dia. 02\b0 , Black 1 is not a well-prepared move.
+
+White resists and make a pae with 2.
+
+])
+(;AW[pq][qq][rq][or][qr][rs]AB[op][pp][qp][rp][oq][nr][ns]
+;B[ps]
+;W[sr]LB[ps:1][sr:2]C[Dia. 04 In a Rush
+
+{\colortbl ;\red255\green0\blue0;}
+
+If Black is in a rush to break the eye it is a failure.
+Black 1 is that kind of mistake.
+
+White plays at 2 and lives with two eyes.
+It is thanks to \cf1\b Black's mistake\cf0\b0 .
+
+])
+)

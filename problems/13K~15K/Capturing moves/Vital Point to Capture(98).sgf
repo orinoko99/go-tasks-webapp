@@ -1,0 +1,60 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nq][oq][pq][qq][mr][nr][rr][rs]AB[ro][np][op][pp][qp][lq][mq][rq][lr][sr][ls]LBC[Where is a vital point??(98)
+
+
+\lang1033\f1 It's\b  Black\b0 's turn.\f2
+\lang1042\f0
+W's eye space is a huge but this shape also has a weakpoint.
+
+])
+(;AW[nq][oq][pq][qq][mr][nr][rr][rs]AB[ro][np][op][pp][qp][lq][mq][rq][lr][sr][ls]LB[ns:A]
+;B[pr]
+;W[ps]
+;B[qr]
+;W[or]
+;B[ms]LB[pr:1][ps:2][qr:3][or:4][ms:5][ns:A]C[Dia.1 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+
+Attaching at 1 is a\cf1\b  right answer.\cf0\b0
+
+W2 tries to make a real eye but cutting at 3 is a strong move and 5 is a final blow.
+
+Even Playing at A is in self-dansu.
+
+])
+(;AW[nq][oq][pq][qq][mr][nr][rr][rs]AB[ro][np][op][pp][qp][lq][mq][rq][lr][sr][ls]LB[ps:A]
+;B[pr]
+;W[ps]
+;B[os]
+;W[qr]LB[pr:1][ps:2][os:3][qr:4][ps:A]C[DIa.2(Ko)
+
+{\colortbl ;\red255\green0\blue0;}
+
+In actual game, we usually made mistake like B1.
+
+Be careful!! This result will be a \cf1\b ko\cf0\b0 .
+
+
+])
+(;AW[nq][oq][pq][qq][mr][nr][rr][rs]AB[ro][np][op][pp][qp][lq][mq][rq][lr][sr][ls]
+;B[ps]
+;W[pr]
+;B[os]
+;W[qs]LB[ps:1][pr:2][os:3][qs:4]C[Dia.3(Enemy's vital point)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Playing inside at 1 seems to be a vital point but it doesn't work.
+
+W2 is\cf1\b  an enemy's vital point!
+\cf0\b0
+Up to 4, W can be alive.
+])
+)

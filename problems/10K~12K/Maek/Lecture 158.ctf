@@ -1,0 +1,94 @@
+//19
+3
+Vital Point
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Where should Black play next?
+\par }
+#
+(
+2[cl]
+2[bm]
+1[bn]
+2[cn]
+1[bo]
+2[do]
+1[ap]
+1[bp]
+1[cp]
+2[dp]
+2[aq]
+2[bq]
+2[cq]
+1[dq]
+1[fq]
+2[cr]
+1[dr]
+1[fr]
+2[ds]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black 1 is the vital point of the white shape. Up to 4 Black can make a pae (ko).
+\par }
+#
+(
+2[cl]
+2[bm]
+1[bn]
+2[cn]
+1[bo]
+2[do]
+1[ap]
+1[bp]
+1[cp]
+2[dp]
+2[aq]
+2[bq]
+2[cq]
+1[dq]
+1[fq]
+2[cr]
+1[dr]
+1[fr]
+2[ds]
+)
+4
+B[ar]
+W[br]
+B[bs]
+W[as]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The peep at 1 fails because White ignores it and simply reduces the liberties from the outside.
+\par }
+#
+(
+2[cl]
+2[bm]
+1[bn]
+2[cn]
+1[bo]
+2[do]
+1[ap]
+1[bp]
+1[cp]
+2[dp]
+2[aq]
+2[bq]
+2[cq]
+1[dq]
+1[fq]
+2[cr]
+1[dr]
+1[fr]
+2[ds]
+)
+4
+B[bs]
+W[an]
+B[cs]
+W[co]

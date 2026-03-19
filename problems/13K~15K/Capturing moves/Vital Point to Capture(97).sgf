@@ -1,0 +1,60 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[rp][sp][pq][rq][or][qr][ps]AB[po][qo][ro][op][qp][mq][oq][qq][nr]LBC[Where is a vital point??(97)
+
+
+\f1 It's\b  Black\b0 's turn.\f0
+
+\pard\ltrpar\sa200\sl276\slmult1\lang1033\f2 Two spot look like a vital point.\lang1042\f0
+\lang1033\f2 Where is the right way?
+\pard\ltrpar\lang1042\f0
+])
+(;AW[rp][sp][pq][rq][or][qr][ps]AB[po][qo][ro][op][qp][mq][oq][qq][nr]
+;B[sr]
+;W[rr]
+;B[rs]LB[sr:1][rr:2][rs:3]C[Dia.1(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+
+There are\cf1\b  the two vital points of 2-1 point.
+
+\cf0\b0 Playing inside at 1 is the right way.
+Up to 3, B makes
+])
+(;CR[sr]AW[rp][sp][pq][rq][or][qr][ps]AB[po][qo][ro][op][qp][mq][oq][qq][nr][sr]
+;W[rs]
+;B[rr]LB[rs:1][rr:2]CR[sr]C[Dia.2(Variation)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W has a solution??(W1)
+
+No! he doesn't!
+Up to 2, W's group is in\cf1\b  double self-dansu.
+\cf0\b0
+])
+(;AW[rp][sp][pq][rq][or][qr][ps]AB[po][qo][ro][op][qp][mq][oq][qq][nr]
+;B[rs]
+;W[sr]
+;B[rr]
+;W[qs]LB[rs:1][sr:2][rr:3][qs:4]C[DIa.3(Wrong direction)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Playing inside at 1 is also 2-1 point but this is the \cf1\b wrong direction.\cf0\b0
+
+This time W doesn't connect at 3.
+Because Tiger' mouth will be succeed then you can't make the double self-dansu.
+\'c0\'cc\'b9\'f8\'bf\'a1\'b4\'c2 3\'c0\'c7 \'b0\'f7\'c0\'bb \'c0\'d5\'c1\'f6 \'be\'ca\'b0\'ed \'b9\'e92\'b7\'ce \'c8\'a3\'b1\'b8\'c4\'a1\'b4\'c2 \'bc\'f6\'b0\'a1 \'bc\'ba\'b8\'b3\'c7\'cf\'b1\'e2 \'b6\'a7\'b9\'ae\'c0\'cc\'c1\'d2.
+
+\'c8\'e63\'bf\'a1 \'b2\'f7\'be\'ee \'ba\'c1\'b5\'b5 \'b9\'e94\'b7\'ce \'bb\'ee.
+\'be\'d5\'bc\'ad\'bf\'cd \'b0\'b0\'c0\'ba \'be\'e7\'c0\'da\'c3\'e6\'c0\'cc \'b5\'c7\'c1\'fa \'be\'ca\'bd\'c0\'b4\'cf\'b4\'d9.
+
+
+])
+)

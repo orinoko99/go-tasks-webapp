@@ -1,0 +1,72 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qm][qo][mp][pp][mq][pq][pr]AB[ko][no][np][kq][nq][mr][or]
+;B[ps]
+;W[qs]
+;B[os]LB[ps:1][qs:2][os:3]C[Sente and Gote(1)
+
+
+There are several endgame moves.
+They can be divided into two categories; sente and gote moves.
+
+After Black 1 is 3 sente or gote?
+
+
+
+])
+(;AW[qm][qo][mp][pp][mq][pq][pr][qs]AB[ko][no][np][kq][nq][mr][or][os][ps]
+;B[qr]LB[qr:1]C[Dia. 01 Big Damage
+
+
+It is sente.
+If White plays elsewhere (if doesn't defend) Black cuts at 1 and White's damage is big.
+
+Therefore White should defend at 1.
+
+Sente means that if the opponent doesn't answer he will end up in big damage.
+
+If it is so-
+
+])
+(;CR[qq]AW[qm][qo][mp][pp][mq][qq][pr]AB[ko][no][np][kq][nq][mr][or]LBCR[qq]C[Dia. 02 Gote Means?
+
+
+Gote means that even if the opponent ignores your move, it doesn't matter.
+
+So if the damage is small he is going to play elsewhere.
+
+White's shape in the corner is a bit different this time.
+Check White \'a1\'e2 carefully.
+
+])
+(;AW[qm][qo][mp][pp][mq][qq][pr]AB[ko][no][np][kq][nq][mr][or]
+;B[ps]
+;W[qs]
+;B[os]LB[ps:1][qs:2][os:3]C[Dia. 03 Gote Endgame
+
+{\colortbl ;\red0\green0\blue255;}
+
+After Black 1 and 3, Black doesn't have any follow up.
+
+White doesn't have weak point, so White plays elsewhere and Black can't make any damage.
+
+Black 1 and 3 is called \cf1\b gote endgame\cf0\b0 .
+
+
+])
+(;AW[qm][qo][mp][pp][mq][pq][pr]AB[ko][no][np][kq][nq][mr][or]
+;B[ps]
+;W[qs]
+;B[os]
+;W[qr]LB[ps:1][qs:2][os:3][qr:4]C[Dia. 04 Sente Endgame
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black 1 and 3 is called \cf1\b sente endgame\cf0\b0 , because White has to defend at 4.
+
+])
+)

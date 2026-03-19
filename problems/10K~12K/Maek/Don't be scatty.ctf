@@ -1,0 +1,185 @@
+//19
+5
+Don't be scatty
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+\par
+\par It seems to be easy.
+\par Don't be scatty!!
+\par
+\par }
+#
+(
+2[qk]
+1[lo]
+1[no]
+2[qo]
+2[ro]
+2[so]
+2[op]
+2[pp]
+1[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[mr]
+1[or]
+2[pr]
+2[qr]
+2[rr]
+1[os]
+2[ps]
+)
+0
+DIa.1(One eye versus no eye)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par You might think about bending move(B1). but throw in at 2 is severe.
+\par
+\par Up to 4, B can't kill W's group.
+\par This is the\cf1\b  '\f1 One eye versus no eye'\cf0\b0\f0
+\par
+\par }
+#
+(
+2[qk]
+1[lo]
+1[no]
+2[qo]
+2[ro]
+2[so]
+2[op]
+2[pp]
+1[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[mr]
+1[or]
+2[pr]
+2[qr]
+2[rr]
+1[os]
+2[ps]
+)
+4
+B[sr]
+W[sq]
+B[sp]
+W[rs]
+DIa.2(Ko)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B can make a\cf1\b  ko\cf0\b0 , If played at 1 instead of taking off W's one stone.
+\par
+\par \cf2\b But this result is also not enough.\cf0\b0
+\par
+\par }
+#
+(
+2[qk]
+1[lo]
+1[no]
+2[qo]
+2[ro]
+2[so]
+2[op]
+2[pp]
+1[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+6[sq]
+1[mr]
+1[or]
+2[pr]
+2[qr]
+2[rr]
+1[sr]
+1[os]
+2[ps]
+)
+2
+B[rs]
+W[ss]
+DIa.3(This is also a ko)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par How about attaching at 2 to 1 point?
+\par
+\par This is a good try but is\cf1\b  also a ko.
+\par
+\par }
+#
+(
+2[qk]
+1[lo]
+1[no]
+2[qo]
+2[ro]
+2[so]
+2[op]
+2[pp]
+1[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[mr]
+1[or]
+2[pr]
+2[qr]
+2[rr]
+1[os]
+2[ps]
+)
+3
+B[rs]
+W[sq]
+B[sr]
+DIa.4(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par You might be suprised when saw B1 because it is an unexpected move.
+\par
+\par But descent at 1 is \cf1\b the only answer \cf0\b0 to capture W's group.
+\par B has one more liberty!
+\par }
+#
+(
+2[qk]
+1[lo]
+1[no]
+2[qo]
+2[ro]
+2[so]
+2[op]
+2[pp]
+65[qp]
+66[rp]
+67[sp]
+1[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[mr]
+1[or]
+2[pr]
+2[qr]
+2[rr]
+1[os]
+2[ps]
+)
+3
+B[sq]
+W[sr]
+B[rs]

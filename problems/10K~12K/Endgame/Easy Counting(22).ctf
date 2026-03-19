@@ -1,0 +1,183 @@
+//19
+5
+Easy Counting(22)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 (or \b White to play\b0 ).
+\par It makes huge difference in points whoever gets \b A\b0 .
+\par
+\par What is the value of \b A\b0 ?
+\par
+\par
+\par
+\par }
+#
+(
+1[qm]
+1[on]
+2[no]
+1[oo]
+1[qo]
+2[np]
+1[op]
+1[pp]
+2[kq]
+2[mq]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+2[or]
+1[pr]
+2[qr]
+1[rr]
+1[sr]
+2[os]
+65[ps]
+2[qs]
+2[rs]
+2[ss]
+)
+0
+Dia. 01 If Black Plays
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If it is Black's turn, he takes with 1.
+\par Black captured White's four stones, which means \cf1\b 8 points\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+1[qm]
+1[on]
+2[no]
+1[oo]
+1[qo]
+2[np]
+1[op]
+1[pp]
+2[kq]
+2[mq]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+2[or]
+1[pr]
+2[qr]
+1[rr]
+1[sr]
+2[os]
+2[qs]
+2[rs]
+2[ss]
+)
+1
+B[ps]
+Dia. 02 If White Plays
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White makes 2 points by capturing the Black stone with 1.
+\par
+\par Then 8+2=10 points.
+\par The value of Black 1 or White 1 is 10 points.
+\par
+\par
+\par }
+#
+(
+1[qm]
+1[on]
+2[no]
+1[oo]
+1[qo]
+2[np]
+1[op]
+1[pp]
+2[kq]
+2[mq]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+2[or]
+1[pr]
+2[qr]
+1[rr]
+1[sr]
+2[os]
+2[qs]
+2[rs]
+2[ss]
+)
+1
+W[ps]
+Dia. 03 Practice Problem
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Let's figure out the value of Black 1.
+\par If it is White's turn, he would also play at the same place.
+\par
+\par How many points can Black and how many points can White make if each player gets to play 1 first?
+\par
+\par By adding the value of the move for each player we can find the total value of the move.
+\par }
+#
+(
+2[qm]
+1[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+1[kq]
+1[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+2[sq]
+1[qr]
+2[rr]
+1[qs]
+2[rs]
+)
+1
+B[sr]
+Dia. 04 6 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black makes 5 points with snapback at 1. How about if White plays at 1?
+\par White gets a point at X.
+\par
+\par It means the value of 1 is 5+1=\cf1\b 6 points\cf0\b0 .
+\par
+\par }
+#
+(
+2[qm]
+1[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+1[kq]
+1[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+2[sq]
+1[qr]
+2[rr]
+1[qs]
+2[rs]
+691[ss]
+)
+1
+B[sr]

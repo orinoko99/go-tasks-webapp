@@ -1,0 +1,128 @@
+//19
+4
+One Move Captures Black (15)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to Play.\b0
+\par After engulfing white's \'a1\'e2 stone, black appears to be perfectly alive.
+\par
+\par However, a shortage of liberties can cause a big problem for black's group.
+\par What is white's attacking sequence to catch black off guard?
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+6[pr]
+1[qr]
+1[os]
+)
+0
+Diagram 1 (Giving up)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If this were a real game, white might have given up capturing black and played at 1 and 3 in seonsu.
+\par Black gladly lives with six points of territory.
+\par
+\par There is a move to capture black. Please think about many different kinds of moves and don't give up.
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+2[pr]
+1[qr]
+1[os]
+)
+4
+W[sq]
+B[sr]
+W[ns]
+B[ps]
+Diagram 2 (Pik)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's placement at 1 seems like a sharp idea.
+\par Black's best answer is 2.
+\par Now if white plays at 3, black plays 4 and creates pik.
+\par
+\par White 1 and 3 take both 2-1 points, but somehow black still lives!
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+2[pr]
+1[qr]
+1[os]
+)
+4
+W[rs]
+B[qs]
+W[sr]
+B[sq]
+Diagram 3 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It is correct for white to start with 1.
+\par Black 2 is the only response.
+\par
+\par Now, it works for white to dansu at 3 on the first line.
+\par Black 4 is absolute and the sequence up to 5 is unavoidable.
+\par
+\par Now, black looks strange. Black cannot play dansu. It is an eye vs. no eye capturing race.
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+2[pr]
+1[qr]
+1[os]
+)
+5
+W[sr]
+B[sq]
+W[qs]
+B[ps]
+W[rs]

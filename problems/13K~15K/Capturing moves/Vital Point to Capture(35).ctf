@@ -1,0 +1,220 @@
+//19
+5
+Vital Point to Capture?(35)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par If this shape appears in the actual game, it is easy to let Black live.
+\par However if White makes use of the shortage of liberties it is simple to capture Black.
+\par
+\par The first move decides everything.
+\par
+\par }
+#
+(
+2[ko]
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[lp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+2[lq]
+1[mq]
+1[nq]
+2[qq]
+2[rq]
+2[lr]
+1[pr]
+1[qr]
+2[rr]
+2[ms]
+1[ns]
+1[os]
+1[qs]
+2[rs]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's severe attack with cut at 1 is \cf1\b aiming at the shortage of liberties\cf0\b0 .
+\par Black has to play at 2 and then breaking the eye with White 3 is a brilliant move. Black can't cut at A, can he?
+\par
+\par So Black is dead.
+\par
+\par
+\par }
+#
+(
+2[ko]
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[lp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+2[lq]
+1[mq]
+1[nq]
+2[qq]
+2[rq]
+2[lr]
+65[mr]
+1[pr]
+1[qr]
+2[rr]
+2[ms]
+1[ns]
+1[os]
+1[qs]
+2[rs]
+)
+3
+W[oq]
+B[pq]
+W[nr]
+Dia. 02 White 2, Good Move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against White \'a1\'e2 if Black 1 could work, it would be nice, but \cf1\b White 2 \cf0\b0 is a \cf1\b good move\cf0\b0 .
+\par
+\par This time there is a shortage of liberties on the right side, so Black can't play at A.
+\par
+\par
+\par }
+#
+(
+2[ko]
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[lp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+2[lq]
+1[mq]
+1[nq]
+6[oq]
+65[pq]
+2[qq]
+2[rq]
+2[lr]
+1[pr]
+1[qr]
+2[rr]
+2[ms]
+1[ns]
+1[os]
+1[qs]
+2[rs]
+)
+2
+B[mr]
+W[or]
+Dia. 03 Wrong Order
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par First White wedge-in at 1 is \cf1\b wrong order\cf0\b0 .
+\par
+\par After Black 2, White plays double dansu but Black lives with 4 and 6.
+\par
+\par White captured the three Black stones but globally it is not satisfying.
+\par This problem shows how important is the order of the moves.
+\par
+\par
+\par }
+#
+(
+2[ko]
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[lp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+2[lq]
+1[mq]
+1[nq]
+2[qq]
+2[rq]
+2[lr]
+1[pr]
+1[qr]
+2[rr]
+2[ms]
+1[ns]
+1[os]
+1[qs]
+2[rs]
+)
+6
+W[nr]
+B[mr]
+W[oq]
+B[or]
+W[pq]
+B[ls]
+Dia. 04 The Opponent's Vital Point
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Attacking with White 1 is meaningless.
+\par After Black connects with 2, White can't capture Black anymore. 2 was the \cf1\b opponent's vital point\cf0\b0  too.
+\par
+\par Black lives up to 4.
+\par
+\par
+\par }
+#
+(
+2[ko]
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[lp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+2[lq]
+1[mq]
+1[nq]
+2[qq]
+2[rq]
+2[lr]
+1[pr]
+1[qr]
+2[rr]
+2[ms]
+1[ns]
+1[os]
+1[qs]
+2[rs]
+)
+4
+W[pq]
+B[oq]
+W[mr]
+B[nr]

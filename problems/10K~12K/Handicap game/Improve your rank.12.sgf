@@ -1,0 +1,65 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qf][fp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][dp][jp][pp][eq]
+;W[mp]
+;B[pn]
+;W[jn]
+;B[ko]
+;W[mn]LB[mp:1][pn:2][jn:3][ko:4][mn:5]C[Improve your rank
+
+Black's turn\b0
+White played 1, Black 2, White 3, Black 4 and now White decided to make a one-space jump.
+How should Black answer?\lang1042\f1
+
+])
+(;CR[fp][fq]AW[qf][jn][mn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][ko][dp][jp][pp][eq]
+;B[kn]
+;W[ml]
+;B[nm]
+;W[mm]
+;B[jm]LB[kn:1][ml:2][nm:3][mm:4][jm:5]CR[fp][fq]C[1st Dia. Correct answer
+
+Black has to play 1. This is the only move!
+If White plays 2 then Black will answer 3,
+this move is to make White heavy.
+After White defends with 4, Black will play 5.
+White can resign already.\lang1042\f1
+
+])
+(;CR[kn]AW[qf][jn][mn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][kn][pn][ko][dp][jp][pp][eq]
+;W[km]
+;B[jm]
+;W[kl]
+;B[in]
+;W[jl]
+;B[im]LB[km:1][jm:2][kl:3][in:4][jl:5][im:6]CR[kn]C[2nd Dia. Continuation
+
+When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  if White plays 1 Black will cut immediately.
+There's no need to be afraid of cutting.
+This fighting is obviously favorable for Black.
+After Black plays 6-\lang1042\f1
+
+])
+(;CR[fp][fq]AW[qf][jl][kl][km][jn][mn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][im][jm][dn][in][kn][pn][ko][dp][jp][pp][eq]
+;W[ml]
+;B[nm]
+;W[mm]
+;B[fm]LB[ml:1][nm:2][mm:3][fm:4]CR[fp][fq]C[3rd Dia. Keep looking
+
+When White plays 1 Black 2 and 4 are good moves. Now White's 2 \lang1042\f1\'a1\'e2\lang1043\f0  stones are very weak. Even if White somehow manages to live, this game is still very good for Black.\lang1042\f1
+
+])
+(;CR[ml]AW[qf][jl][kl][ml][km][jn][mn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][im][jm][dn][in][kn][pn][ko][dp][jp][pp][eq]LB[fn:A]
+;B[fm]
+;W[pl]
+;B[oq]LB[fm:1][pl:2][oq:3][fn:A]CR[ml]C[4th Dia. Keep looking
+
+When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 or A are good options. But after White plays 2 it's rather complicated for Black. This is what White wants. Black 3 is a good move, so the result is good for Black.\lang1042\f1
+
+
+])
+)

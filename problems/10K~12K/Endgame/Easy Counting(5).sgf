@@ -1,0 +1,66 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qn][oo][mp][np][oq][pq][qq][nr][pr]AB[lp][iq][lq][mq][nq][mr][or]LB[ns:A][os:B]LB[ns:A][os:B]C[Easy Counting(5)
+
+
+\b Black to play\b0 (or \b White to play\b0 )
+How much is worth capturing a stone on the second line like this?
+
+It is the same value if Black captures at \b A\b0  or if White captures at \b B\b0 .
+
+Both player's territory are changing so complex counting method should be used.
+
+
+])
+(;AW[qn][oo][mp][np][oq][pq][qq][nr][pr]AB[lp][iq][lq][mq][nq][mr][or]LB[os:B][ps:A]
+;B[ns]LB[ns:1][os:B][ps:A]C[Dia.01 If Black Played
+
+
+First let's check what happens if Black captures with 1.
+
+Later White A-Black B exchange is going to be played.
+
+])
+(;AW[qn][oo][mp][np][oq][pq][qq][pr][ps]AB[lp][iq][lq][mq][nq][mr][or][ns][os]LB[jq:?][kq:?][rq:?][sq:?][ir:?][is:?]LB[jq:?][kq:?][rq:?][sq:?][ir:?][is:?]C[Dia. 02 Comparing the Points
+
+{\colortbl ;\red0\green0\blue255;}
+
+For the convenient counting, borderlines are made with Xs.
+
+\cf1\b Black\cf0\b0  has \cf1\b 9 points\cf0\b0 , \cf1\b White\cf0\b0  has \cf1\b 6 points\cf0\b0 .
+
+
+])
+(;AW[qn][oo][mp][np][oq][pq][qq][nr][pr]AB[lp][iq][lq][mq][nq][mr][or]LB[ms:A][ns:B]
+;W[os]LB[os:1][ms:A][ns:B]C[Dia. 03 If White Plays
+
+{\colortbl ;\red0\green0\blue255;}
+
+If it is White's turn, White \cf1\b also\cf0\b0  captures with 1.
+
+Again A-B exchange is going to be played.
+
+
+])
+(;AW[qn][oo][mp][np][oq][pq][qq][nr][pr][ns][os]AB[lp][iq][lq][mq][nq][mr][ms]LB[jq:?][kq:?][rq:?][sq:?][ir:?][is:?]LB[jq:?][kq:?][rq:?][sq:?][ir:?][is:?]C[Dia. 04 Gote 6 Points
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+The borderlines are made same like in \b Dia. 02\b0 .
+
+Black got 6 points, White made 9 points.
+
+If we count the \b changes\b0  of Black's and White's territory and we \b add\b0  them, it gives the \cf1\b value of the move\cf0\b0 .
+
+After counting it is (9-6)+(9-6)=6 points.
+
+Therefore Black \b A\b0  or White \b B\b0  is worth \cf2\b 6 points\cf0\b0 .
+
+However both are gote, so these moves are gote 6 points endgame moves.
+
+])
+)

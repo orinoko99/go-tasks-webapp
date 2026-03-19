@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[fn][gn][do][eo][ho][cp][hp][dq][hq][iq][lq][mq][br][dr][jr][kr][cs]AB[hn][in][fo][go][io][ko][ep][gp][ip][lp][eq][fq][jq][kq][er][ds][es]LBC[Tiger's Mouth Vital Point
+
+Black to live.
+])
+(;AW[fn][gn][do][eo][ho][cp][hp][dq][hq][iq][lq][mq][br][dr][jr][kr][cs]AB[hn][in][fo][go][io][ko][ep][gp][ip][lp][eq][fq][jq][kq][er][ds][es]
+;B[gr]
+;W[gq]
+;B[ir]
+;W[fp]
+;B[hr]
+;W[go]
+;B[is]LB[gr:1][gq:2][ir:3][fp:4][hr:5][go:6][is:7]C[Success
+
+Black should play at 1, making eye shape with a tiger's mouth. White plays at 2 to make the second eye false, but Black can cut at 3 and live up to 7
+
+])
+(;AW[fn][gn][do][eo][ho][cp][hp][dq][hq][iq][lq][mq][br][dr][jr][kr][cs]AB[hn][in][fo][go][io][ko][ep][gp][ip][lp][eq][fq][jq][kq][er][ds][es]
+;B[ir]
+;W[gr]LB[ir:1][gr:2]C[Failure
+
+If Black first cuts at 1, White will occupy the tiger's mouth vital point at 2 and capture Black.
+
+])
+)

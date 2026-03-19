@@ -1,0 +1,59 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ro][op][qp][rp][sp][pq][nr][pr][qs]AB[qm][rn][po][qo][pp][qq][rq][qr][rs]LBC[First & Third moves
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 White looks like he might be captures but if we attack Black correctly then we can actually capture.
+
+The first and third moves are key.
+
+\lang1042\f0\fs18
+])
+(;AW[ro][op][qp][rp][sp][pq][nr][pr][qs]AB[qm][rn][po][qo][pp][qq][rq][qr][rs]
+;W[sq]
+;B[ps]
+;W[sr]
+;B[rr]
+;W[os]
+;B[sn]LB[sq:1][ps:2][sr:3][rr:4][os:5][sn:6]C[Dia.1 Pae is not the best
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 If we start off by attacking with White 1 looks like a good move, a move that just about anyone would think of.
+
+Black will capture with 2.  White plays 3, then Black 4 is an important move. \cf1\b Pae is the result\cf0\lang1042\b0\f0\fs18 .
+])
+(;AW[ro][op][qp][rp][sp][pq][nr][pr][qs]AB[qm][rn][po][qo][pp][qq][rq][qr][rs]
+;W[sr]
+;B[ps]
+;W[rr]
+;B[sn]
+;W[sq]LB[sr:1][ps:2][rr:3][sn:4][sq:5]C[Dia.2 Correct/Jump
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 White plays 1 on the \cf1\b 2,1 point \cf0\b0 is the maek.  Black takes at 1 and now Black is broken.  White 3 is also a good move to keep Black's liberties down.  Up to 5, it's not a Pae, Black is dead.
+
+\lang1042\f0\fs18
+])
+(;CR[sr]AW[ro][op][qp][rp][sp][pq][nr][pr][sr][qs]AB[qm][rn][po][qo][pp][qq][rq][qr][rs]
+;B[rr]
+;W[ps]LB[rr:1][ps:2]CR[sr]C[Dia.3 Variation
+
+
+\lang1033\f1\fs16 When White plays the placement attack at \lang1042\f0\fs18\'a1\'e2\lang1033\f1\fs16  Black 1 might seem like a move that avoids the shortage of liberties problem but after White 2 Black dies.
+
+\lang1042\f0\fs18
+
+])
+(;AW[ro][op][qp][rp][sp][pq][nr][pr][qs]AB[qm][rn][po][qo][pp][qq][rq][qr][rs]LBC[No diagram name
+
+
+
+])
+)

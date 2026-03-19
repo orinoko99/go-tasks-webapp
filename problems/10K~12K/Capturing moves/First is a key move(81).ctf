@@ -1,0 +1,122 @@
+//19
+4
+First is a key move(81)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\ltrpar\lang1042\f0
+\par First is a key move.
+\par }
+#
+(
+1[qn]
+1[ro]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[mr]
+1[or]
+2[pr]
+6[os]
+)
+0
+Dia.1(Mistake)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Usually,2 to 2 point is a strong attack but \cf1\b in this case, it isn't working.\cf0\b0
+\par
+\par W can live easily.
+\par
+\par }
+#
+(
+1[qn]
+1[ro]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[mr]
+1[or]
+2[pr]
+2[os]
+)
+4
+B[rr]
+W[sr]
+B[rs]
+W[sp]
+Dia.2(Draw)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Playing inside at 1 is also one of the vital point but \cf1\b it isn't working again.\cf0\b0
+\par
+\par W2 is the vital point of life so up to 5, this result is\cf2\b  draw.\cf0\b0
+\par
+\par }
+#
+(
+1[qn]
+1[ro]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[mr]
+1[or]
+2[pr]
+2[os]
+)
+6
+B[rs]
+W[sp]
+B[sr]
+W[rr]
+B[qs]
+W[ps]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B1 is a good attack to reduce W's eye spaces.
+\par
+\par Up to 5, B makes W's eye spaces are flower five which the eye shape of death.
+\par
+\par }
+#
+(
+1[qn]
+1[ro]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[mr]
+1[or]
+2[pr]
+2[os]
+)
+5
+B[sp]
+W[sq]
+B[ps]
+W[qs]
+B[rr]

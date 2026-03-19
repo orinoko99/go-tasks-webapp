@@ -1,0 +1,71 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pn][qn][rn][sn][po][pp][pq][qr][rr]AB[qo][ro][qp][oq][qq][rq][or][pr]LBC[The same format again.
+
+
+\lang1033\f1 It's\b  White\b0 's turn.\f2
+\lang1042\f0
+The same format again!!
+
+This is a capturing race problem.
+])
+(;AW[pn][qn][rn][sn][po][pp][pq][qr][rr]AB[qo][ro][qp][oq][qq][rq][or][pr]
+;W[sp]
+;B[sq]
+;W[so]LB[sp:1][sq:2][so:3]C[Dia.1 (Right answer?)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W have leant that playing inside at 1 is a vital point because we can erase opponent's real eye.
+Up to 3, W has one more liberty.
+\cf1\b
+But this result is not the right answer.\cf0\b0
+
+
+
+])
+(;CR[sp]AW[pn][qn][rn][sn][po][pp][sp][pq][qr][rr]AB[qo][ro][qp][oq][qq][rq][or][pr]
+;B[sr]
+;W[sq]
+;B[rs]LB[sr:1][sq:2][rs:3]CR[sp]C[Dia.2(Ko)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+After W\'a1\'e2, B has \cf1\b another option to play\cf0\b0 (B1)
+
+It will be a \cf2\b ko.
+\cf0\b0
+])
+(;AW[pn][qn][rn][sn][po][pp][sp][pq][qr][rr]AB[qo][ro][qp][oq][qq][rq][or][pr][sr]
+;W[rs]
+;B[ps]
+;W[sq]
+;B[qs]LB[rs:1][ps:2][sq:3][qs:4]C[DIa.3(W is ruined)
+
+{\colortbl ;\red0\green0\blue255;}
+
+How about play at 1??
+\lang1033\f1 It will make the worst situation for W.
+\lang1042\f0
+Up to 4, W's three stone is in \cf1\b snapback.\cf0\b0
+])
+(;AW[pn][qn][rn][sn][po][pp][pq][qr][rr]AB[qo][ro][qp][oq][qq][rq][or][pr]LB[sq:A][qs:B]
+;W[sr]
+;B[sp]
+;W[so]LB[sr:1][sp:2][so:3][sq:A][qs:B]C[DIa.4(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Just descending at 1 is a tesuji.\cf0\b0
+
+After 2, is this an \lang1033\f1 one eye versus no eye\lang1042\f0 ??
+
+Nope! W has 2 more liberties.
+
+
+])
+)

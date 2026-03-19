@@ -1,0 +1,129 @@
+//19
+4
+Resisting Fiercly
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par It looks that White \'a1\'e2 stones are captured but White can resist fiercly.
+\par
+\par }
+#
+(
+2[lp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[mq]
+1[nq]
+1[oq]
+6[pq]
+1[qq]
+2[lr]
+1[mr]
+1[nr]
+6[pr]
+1[qr]
+6[ps]
+)
+0
+Dia. 01 White is Satisfied?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White plays the hane at 1 and after Black answers with 2 White can easily live with 3.
+\par Some people might think this problem was too easy.
+\par
+\par If the sequence is played liked this, Black has to play at 4 and make bik. This would be a very big success for White.
+\par However this variation is \cf1\b fake\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+2[lp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[mq]
+1[nq]
+1[oq]
+2[pq]
+1[qq]
+2[lr]
+1[mr]
+1[nr]
+2[pr]
+1[qr]
+2[ps]
+)
+4
+W[ms]
+B[ns]
+W[ls]
+B[qs]
+Dia. 02 White's Hane
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par After White's hane at \'a1\'e2, Black doesn't block directly but plays the \cf1\b diagonal attachment\cf0\b0  at 1. This is a vital point.
+\par
+\par If it is played like this, White is captured because he can't play from both sides.
+\par
+\par
+\par }
+#
+(
+2[lp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[mq]
+1[nq]
+1[oq]
+2[pq]
+1[qq]
+2[lr]
+1[mr]
+1[nr]
+2[pr]
+1[qr]
+6[ms]
+2[ps]
+)
+1
+B[os]
+Dia. 03 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's attachment at 1 is a great move.
+\par Black 2 is the only answer then White's \cf1\b resistance with a pae\cf0\b0  at 3 is a \cf1\b fierce technique\cf0\b0 .
+\par This is the best result for both players.
+\par
+\par }
+#
+(
+2[lp]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[mq]
+1[nq]
+1[oq]
+2[pq]
+1[qq]
+2[lr]
+1[mr]
+1[nr]
+2[pr]
+1[qr]
+2[ps]
+)
+3
+W[ns]
+B[ms]
+W[or]

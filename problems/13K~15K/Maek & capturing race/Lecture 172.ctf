@@ -1,0 +1,98 @@
+//19
+3
+Capturing Race
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black and White fight a fierce capturing race in the corner. Is there any way for Black to win it?
+\par }
+#
+(
+2[bm]
+2[em]
+2[cn]
+2[bo]
+1[co]
+1[do]
+2[bp]
+1[cp]
+1[fp]
+2[aq]
+1[bq]
+2[cq]
+1[dq]
+2[eq]
+2[gq]
+1[br]
+2[cr]
+2[dr]
+1[bs]
+1[cs]
+2[ds]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black should take liberties from the key stones (the cutting stones) first. Even White captures at 2, Black reduces again the liberties from the key stones and finally wins the capturing race with Black 5.
+\par }
+#
+(
+2[bm]
+2[em]
+2[cn]
+2[bo]
+1[co]
+1[do]
+2[bp]
+1[cp]
+1[fp]
+2[aq]
+1[bq]
+2[cq]
+1[dq]
+2[eq]
+2[gq]
+1[br]
+2[cr]
+2[dr]
+1[bs]
+1[cs]
+2[ds]
+)
+5
+B[er]
+W[dp]
+B[es]
+W[dq]
+B[fq]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Saving the single stone is not a good idea here. White connects and is ahead in liberties.
+\par }
+#
+(
+2[bm]
+2[em]
+2[cn]
+2[bo]
+1[co]
+1[do]
+2[bp]
+1[cp]
+1[fp]
+2[aq]
+1[bq]
+2[cq]
+1[dq]
+2[eq]
+2[gq]
+1[br]
+2[cr]
+2[dr]
+1[bs]
+1[cs]
+2[ds]
+)
+2
+B[dp]
+W[er]

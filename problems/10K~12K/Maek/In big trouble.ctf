@@ -1,0 +1,132 @@
+//19
+4
+Basic capturing race
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par This is the basic capturing race.
+\par
+\par
+\par }
+#
+(
+2[qo]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[sq]
+1[kr]
+1[mr]
+2[nr]
+2[or]
+2[pr]
+1[qr]
+1[rr]
+1[sr]
+2[ms]
+1[ns]
+)
+0
+Dia.1(One eye versus no eye)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Capturing at 1 is a bed move.
+\par Up to 2, this is\cf1\b  the \f1 one eye versus no eye\cf0\b0  so W can't capture B's four stones.\f0
+\par
+\par }
+#
+(
+2[qo]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[sq]
+1[kr]
+1[mr]
+2[nr]
+2[or]
+2[pr]
+1[qr]
+1[rr]
+1[sr]
+2[ms]
+1[ns]
+)
+2
+W[os]
+B[qs]
+DIa.2(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \cf1\b Bending at 1 is a proper move \cf0\b0 to win the capturing race.
+\par
+\par W has one more liberty.
+\par
+\par
+\par }
+#
+(
+2[qo]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[sq]
+1[kr]
+1[mr]
+2[nr]
+2[or]
+2[pr]
+1[qr]
+1[rr]
+1[sr]
+2[ms]
+1[ns]
+)
+3
+W[qs]
+B[ls]
+W[rs]
+Dia.3(An applied problem)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par This is an applied problem.
+\par
+\par
+\par
+\par }
+#
+(
+1[qo]
+1[rp]
+2[kq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[or]
+2[pr]
+2[qr]
+1[rr]
+1[sr]
+2[rs]
+)
+0

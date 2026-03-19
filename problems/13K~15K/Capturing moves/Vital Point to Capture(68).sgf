@@ -1,0 +1,59 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[lo][np][op][pp][qp][rp][mq][sq][mr][sr][ms][qs]AB[nq][oq][pq][qq][rq][nr][rr][ns][ps]LBC[Where is a vital point?(68)
+
+
+\f1 It's\b  White\b0 's turn.\f0
+
+Is this a ko? or be alive?
+])
+(;AW[lo][np][op][pp][qp][rp][mq][sq][mr][sr][ms][qs]AB[nq][oq][pq][qq][rq][nr][rr][ns][ps]LB[ss:A]
+;W[rs]
+;B[qr]
+;W[or]LB[rs:1][qr:2][or:3][ss:A]C[Dia.1(Right move)
+
+{\colortbl ;\red0\green0\blue255;}
+
+
+Saving one stone seems to be a bed choice but it's a right decision.
+
+W3 invades in the middle of B's eye space. It's a \cf1\b playing inside\cf0\b0 .
+
+B can take off W's two stones(A) but W will capture at 1 again.
+
+])
+(;AW[lo][np][op][pp][qp][rp][mq][sq][mr][sr][ms][qs]AB[nq][oq][pq][qq][rq][nr][rr][ns][ps]
+;W[pr]
+;B[or]LB[pr:1][or:2]C[Dia.2(Ko)
+
+{\colortbl ;\red255\green0\blue0;}
+
+This result isn't enough because dansu at 1\cf1\b  makes a ko\cf0\b0 .
+])
+(;AW[lo][np][op][pp][qp][rp][mq][sq][mr][sr][qs]AB[nq][oq][pq][qq][rq][nr][rr][ns][ps]LB[ms:A][rs:B]
+;W[pr]
+;B[or]LB[pr:1][or:2][ms:A][rs:B]C[Dia.3(Reference/Dame)
+
+{\colortbl ;\red0\green0\blue255;}
+
+
+If \cf1\b A was empty,\cf0\b0  the result would be change.
+
+In this cas,e attacking at 1 is the right answer.
+])
+(;AW[lo][np][op][pp][qp][rp][mq][sq][mr][sr][qs]AB[nq][oq][pq][qq][rq][nr][rr][ns][ps]
+;W[rs]
+;B[or]
+;W[qr]
+;B[pr]LB[rs:1][or:2][qr:3][pr:4]C[Dia.4(Continuous dansu)
+
+
+W wants to play the same as before(Dia.1)But B2 is a good move.
+
+In this case, B can dansu at 4.
+])
+)

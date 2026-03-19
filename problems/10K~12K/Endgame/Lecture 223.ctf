@@ -1,0 +1,101 @@
+//19
+3
+Endgame: Most Efficient Move
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Where should Black play next?
+\par }
+#
+(
+2[am]
+2[bm]
+2[cm]
+2[dm]
+1[an]
+1[bn]
+2[dn]
+1[ao]
+1[co]
+2[do]
+1[bp]
+1[dp]
+2[ep]
+2[fp]
+2[hp]
+1[cq]
+1[eq]
+2[gq]
+1[fr]
+1[gr]
+2[hr]
+1[gs]
+2[hs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black should reinforce at 1.
+\par
+\par }
+#
+(
+2[am]
+2[bm]
+2[cm]
+2[dm]
+1[an]
+1[bn]
+2[dn]
+1[ao]
+1[co]
+2[do]
+1[bp]
+1[dp]
+2[ep]
+2[fp]
+2[hp]
+1[cq]
+1[eq]
+2[gq]
+1[fr]
+1[gr]
+2[hr]
+1[gs]
+2[hs]
+)
+1
+B[fq]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black 1 is only a neutral point and doesn't gain any points. White answers at 2 and Black needs to reinforce inside his territory.
+\par
+\par }
+#
+(
+2[am]
+2[bm]
+2[cm]
+2[dm]
+1[an]
+1[bn]
+2[dn]
+1[ao]
+1[co]
+2[do]
+1[bp]
+1[dp]
+2[ep]
+2[fp]
+2[hp]
+1[cq]
+1[eq]
+2[gq]
+1[fr]
+1[gr]
+2[hr]
+1[gs]
+2[hs]
+)
+3
+B[cn]
+W[fq]
+B[er]

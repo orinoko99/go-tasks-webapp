@@ -1,0 +1,48 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[rr]AW[pp][qp][rp][nq][pq][or][os]AB[qq][rq][sq][pr][rr][ps]LBCR[rr]C[Where is a vital point?(82)
+
+
+\f1 It's\b  White\b0 's turn.\f0
+
+B played at \'a1\'e3 to live.
+But it can be suceed!!
+
+You should make a ko.
+
+])
+(;AW[pp][qp][rp][nq][pq][or][os]AB[qq][rq][sq][pr][rr][ps]
+;W[rs]
+;B[ss]LB[rs:1][ss:2]C[Dia.1(Right answer/ko)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Attacking at\cf1\b  2-1 vital point\cf0\b0  is a good move.
+
+B has no choice but ko.
+
+
+])
+(;AW[pp][qp][rp][nq][pq][or][os]AB[qq][rq][sq][pr][rr][ps]
+;W[qs]
+;B[qr]LB[qs:1][qr:2]C[Dia.2(The worst move)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Dansu at 1 is \cf1\b the worst move\cf0\b0 !!
+Now B's group is completely alive.
+])
+(;AW[pp][qp][rp][nq][pq][or][os]AB[qq][rq][sq][pr][ps]
+;B[rs]LB[rs:1]C[Dia.3(B's right move)
+
+{\colortbl ;\red0\green0\blue255;}
+
+One space jumping at 1 is a right move.
+\cf0\b0 B should have played at 1.
+
+])
+)

@@ -1,0 +1,50 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ro][rp][kq][nq][qq][rq][or][pr][rr]AB[qn][rn][oo][qo][so][qp][oq][pq][qr][qs][rs]LBC[Just before dansu.
+
+
+\lang1033\f1 It's\b  Black\b0 's turn.\f2
+\lang1042\f0
+B's three stones are just before dansu.
+
+
+])
+(;AW[ro][rp][kq][nq][qq][rq][or][pr][rr]AB[qn][rn][oo][qo][so][qp][oq][pq][qr][qs][rs]
+;B[sp]
+;W[ps]LB[sp:1][ps:2]C[Dia.1(Beginner?)
+
+
+I think that someone played at 1, he must be a beginner.
+
+After 2, B has nothing to do.
+
+])
+(;CR[qr][qs][rs]AW[ro][rp][kq][nq][qq][rq][or][pr][rr]AB[qn][rn][oo][qo][so][qp][oq][pq][qr][qs][rs]
+;B[np]
+;W[nr]LB[np:1][nr:2]CR[qr][qs][rs]C[Dia.2(What do you want?)
+
+{\colortbl ;\red255\green0\blue0;}
+
+\cf1\b Playing tiger's mouth isn't able to understand.\cf0\b0
+
+B's three stones just passed away.
+
+])
+(;AW[ro][rp][kq][nq][qq][rq][or][pr][rr]AB[qn][rn][oo][qo][so][qp][oq][pq][qr][qs][rs]LB[ps:A]
+;B[nr]
+;W[mr]
+;B[sp]LB[nr:1][mr:2][sp:3][ps:A]C[Dia.3(Right move)
+
+{\colortbl ;\red0\green0\blue255;}
+
+The answer is simple.
+Cutting at 1 is very important!!
+After 2, \cf1\b B's liberty increases from 2 to 3.
+\cf0\b0 And W can't dansu at A.
+
+])
+)

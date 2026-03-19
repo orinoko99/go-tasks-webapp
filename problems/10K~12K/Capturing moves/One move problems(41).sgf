@@ -1,0 +1,63 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[po][qp][rp][sp][mq][oq][pq]AB[qq][rq][pr][rr]LBC[One move problems(41)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 You can capture this group in one move but there are many different lines of play to look at.  In this case, you can't really capture this group but you can make a Pae if you play it right.
+
+\lang1042\f0\fs18
+])
+(;AW[po][qp][rp][sp][mq][oq][pq]AB[qq][rq][pr][rr]
+;W[qs]
+;B[rs]
+;W[or]
+;B[ps]LB[qs:1][rs:2][or:3][ps:4]C[Dia.1 Black is alive
+
+If White jumps in at 2 then he is practically saying "just live Black."  Black just plays 2 and then when White plays 3, he just makes his second eye at 4.  This is too easy on Black.
+\lang1042\f1\fs18
+
+])
+(;AW[po][qp][rp][sp][mq][oq][pq]AB[qq][rq][pr][rr]
+;W[sr]
+;B[sq]
+;W[rs]LB[sr:1][sq:2][rs:3]C[Dia.2 Black takes first
+
+The 2,1 point sure is popular today.  In this case it's the right move and gets the Pae started.  White will dansu at 3 and now Black must fight White for control of the corner.  This is the right idea but not correct because Black takes the Pae first, so White has to look for the first Pae threat.
+\lang1042\f1\fs18
+])
+(;AW[po][qp][rp][sp][mq][oq][pq]AB[qq][rq][pr][rr]
+;W[rs]
+;B[sq]
+;W[qs]
+;B[ss]
+;W[or]
+;B[ps]
+;W[sr]LB[rs:1][sq:2][qs:3][ss:4][or:5][ps:6][sr:7]C[Dia.3 Correct / White takes first
+
+Well let's try White 1.  We still are makinga Pae but the difference here is that White takes the Pae first.  This mean Black has to find a big enough Pae threat, not the other way around.  This is better for White.
+\lang1042\f1\fs18
+
+])
+(;AW[po][qp][rp][sp][mq][oq][pq][rs]AB[qq][rq][pr][rr]
+;B[qs]
+;W[sr]
+;B[or]
+;W[sq]
+;B[ss]
+;W[nr]LB[qs:1][sr:2][or:3][sq:4][ss:5][nr:6]C[Dia.4 Variation
+
+If Black tries 1 he is still going to have to fight the Pae.  White can bend at 2 and dansu at 4, meaning Black must take at 5 to avoid being captured.
+\lang1042\f1\fs18
+
+])
+(;AW[po][qp][rp][sp][mq][oq][pq]AB[qq][rq][pr][rr]LBC[No diagram name
+
+
+
+])
+)

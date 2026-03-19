@@ -1,0 +1,97 @@
+//19
+5
+Star-point Joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par White 1 is a normal move. From which side should Black block? Don't forget to take into consideration Black's \lang1042\f1\'a1\'e3\lang1043\f0  stone.\lang1042\f1
+\par
+\par }
+#
+(
+5[qj]
+1[kp]
+1[pp]
+2[nq]
+)
+1
+W[qq]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is the correct answer due to Black's \lang1042\f1\'a1\'e3\lang1043\f0  stone position. White will play 2 then Black 3 is a good move.
+\par After this-\lang1042\f1
+\par
+\par }
+#
+(
+1[qj]
+1[kp]
+1[pp]
+690[qp]
+2[nq]
+2[qq]
+)
+3
+B[qp]
+W[pq]
+B[op]
+2nd Dia. Black 2 is a good move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 if White plays 1 then Black has to play 2. It's an important move for both sides.\lang1042\f1
+\par
+\par }
+#
+(
+1[qj]
+1[kp]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+2[pq]
+2[qq]
+)
+2
+W[oq]
+B[np]
+3rd Dia. MIstake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a mistake. White will play 2 to 8. Now Black's \lang1042\f1\'a1\'e3\lang1043\f0  stone is in a very weird position.\lang1042\f1
+\par
+\par }
+#
+(
+5[qj]
+1[kp]
+1[pp]
+2[nq]
+2[qq]
+)
+8
+B[pq]
+W[qp]
+B[po]
+W[pr]
+B[or]
+W[qr]
+B[oq]
+W[qn]
+4th Dia. Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If Black doesn't have the \lang1042\f1\'a1\'e3\lang1043\f0  stone Black 1 is a mistake. White will play 6. Black's center influence was erased.\lang1042\f1
+\par
+\par
+\par }
+#
+(
+1[kp]
+1[pp]
+2[nq]
+2[qq]
+)
+6
+B[qp]
+W[pq]
+B[op]
+W[oq]
+B[np]
+W[qj]

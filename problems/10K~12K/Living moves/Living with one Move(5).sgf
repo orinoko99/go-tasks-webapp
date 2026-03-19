@@ -1,0 +1,76 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oo][qo][ro][so][pp][oq][rq][or][os][ps]AB[qp][rp][sp][pq][qq][pr][sr]LBC[Living with one Move(5)
+
+
+\b Black to play\b0 .
+Black's eye-space is very limited.
+There are not so many possibilities for Black, so a complete reading is needed.
+
+Moreover the White stone makes some trouble in Black's area. However it is also not good if Black worries too much about it.
+
+Find the way to live.
+])
+(;AW[oo][qo][ro][so][pp][oq][rq][or][os][ps]AB[qp][rp][sp][pq][qq][pr][sr]
+;B[rr]
+;W[rs]
+;B[qs]LB[rr:1][rs:2][qs:3]C[Dia. 01 Pae is a Failure
+
+
+If Black worries too much about capturing the White stone, he fails in the problem.
+
+White's attachment at 2 is a good attack so Black has to start a pae with 3.
+
+
+])
+(;AW[oo][qo][ro][so][pp][oq][rq][or][os][ps]AB[qp][rp][sp][pq][qq][pr][sr]
+;B[qs]
+;W[rr]
+;B[rs]LB[qs:1][rr:2][rs:3]C[Dia. 02 Live with Many Points
+
+
+How about blocking at 1 and making the biggest eye-space?
+
+If White plays at 2, Black answers with 3 and live with many points.
+
+However...
+])
+(;CR[qs]AW[oo][qo][ro][so][pp][oq][rq][or][os][ps]AB[qp][rp][sp][pq][qq][pr][sr][qs]LB[qr:A]
+;W[rs]
+;B[rr]LB[rs:1][rr:2][qr:A]CR[qs]C[Dia. 03 Pae
+
+
+Against Black \'a1\'e3, White's dansu at 1 is a good attack. Black has to start the pae with 2.
+
+If Black connects at A, White connects at 2 and it is the three space shape so Black is dead.
+
+])
+(;AW[oo][qo][ro][so][pp][oq][rq][or][os][ps]AB[qp][rp][sp][pq][qq][pr][sr]
+;B[qr]
+;W[rs]
+;B[qs]
+;W[rr]LB[qr:1][rs:2][qs:3][rr:4]C[Dia. 04 Illusion
+
+
+Black 1 is an illusion.
+White jumps at 2 and Black is captured.
+
+Probably Black thought if White plays at 3 instead of 2, Black can block with 2 and live.
+])
+(;CR[rq]AW[oo][qo][ro][so][pp][oq][rq][or][os][ps]AB[qp][rp][sp][pq][qq][pr][sr]
+;B[rs]
+;W[qr]
+;B[sq]LB[rs:1][qr:2][sq:3]CR[rq]C[Dia. 05 Correct Answer
+
+
+Black's diagonal move at 1 is correct.
+Black plays at the 1-2 point while controling the White \'a1\'e2 stone as well.
+
+After White 2, Black can live with 3.
+
+])
+)

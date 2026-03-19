@@ -1,0 +1,86 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[op][pp][qp][rp][mq][oq][nr][qr][rr]AB[pq][qq][rq][sq][or][pr]LBC[Living with one Move(3)
+
+
+\b Black to play\b0 .
+
+The title already gives hint, isn't?
+Where is the vital point?
+
+
+])
+(;AW[op][pp][qp][rp][mq][oq][nr][qr][rr]AB[pq][qq][rq][sq][or][pr]LB[ss:A]
+;B[os]
+;W[qs]
+;B[sr]
+;W[rs]LB[os:1][qs:2][sr:3][rs:4][ss:A]C[Dia. 01 Five Space Shape
+
+
+Black 1 is a powerful vital point which increases the eye-space.
+However, in this situation, after White 2 Black can't live.
+
+After Black 3, White 4 is the vital point and it becomes the dead five space shape.
+If Black plays at 4 instead of 3, White takes it with A and Black is dead again.
+
+
+])
+(;CR[sr]AW[op][pp][qp][rp][mq][oq][nr][qr][rr][qs]AB[pq][qq][rq][sq][or][pr][sr][os]LB[ps:B][ss:A]
+;B[rs]LB[rs:1][ps:B][ss:A]CR[sr]C[Dia. 2 If White Plays Elsewhere...
+
+
+What happens if White plays elsewhere after Black \'a1\'e3?
+
+Black 1 is the vital point.
+If White takes it at 1, Black plays dansu at B and lives because White can't play illegal move.
+
+That's why White played at 1 in the previous diagram.
+])
+(;AW[op][pp][qp][rp][mq][oq][nr][qr][rr]AB[pq][qq][rq][sq][or][pr]LB[sr:A]
+;B[sr]
+;W[rs]
+;B[os]
+;W[qs]LB[sr:1][rs:2][os:3][qs:4][sr:A]C[Dia. 03 Black can't Live with 1
+
+
+Black 1 is also the 1-2 point.
+Is it possible to live with this move?
+
+White 2 is the vital point. After Black 3 White 4 is another vital point. It became the same shape like in Dia. 01.
+
+So it is not possible to live with Black 1 either.
+
+
+])
+(;AW[op][pp][qp][rp][mq][oq][nr][qr][rr]AB[pq][qq][rq][sq][or][pr]
+;B[rs]
+;W[sr]
+;B[os]
+;W[qs]
+;B[ps]LB[rs:1][sr:2][os:3][qs:4][ps:5]C[Dia. 04 Vital Point of Living
+
+
+Black has no other way but to play the last 1-2 point at 1.
+After White 2, it is good to expand the eye-space with 3.
+
+Black lived up to 5. It is good that Black has two outside liberties.
+])
+(;CR[rs]AW[op][pp][qp][rp][mq][oq][nr][qr][rr]AB[pq][qq][rq][sq][or][pr][rs]LB[ps:B][ss:A]
+;W[qs]
+;B[sr]LB[qs:1][sr:2][ps:B][ss:A]CR[rs]C[Dia. 05 White 1?
+
+
+Against Black \'a1\'e3, it is not scary if White plays at 1.
+Black can live with 2.
+
+Next, if White takes it with A, Black plays dansu from B and White can't connect.
+
+Black can play at B instead of 2, the result is going to be the same.
+
+
+])
+)

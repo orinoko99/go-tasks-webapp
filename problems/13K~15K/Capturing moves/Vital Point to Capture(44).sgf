@@ -1,0 +1,53 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pp][qp][rp][nq][oq][nr][pr]AB[pq][qq][rq][or][qr][sr]LBC[The Vital Point for Death (44)
+
+
+\b White to Play.\b0
+If it were a real game, white might have been satisfied to take some profit in seonsu.
+
+However, there is a deadly vital point.
+
+Please try not to make a mistake in similar shapes that may appear in your real games.
+])
+(;AW[pp][qp][rp][nq][oq][nr][pr]AB[pq][qq][rq][or][qr][sr]
+;W[rs]LB[rs:1]C[Diagram 1 (Correct)
+
+
+It is a deadly blow for white to destroy black's eyeshape with 1.
+
+This is also the 2-1 vital point. If you consider that black would play here to secure two eyes, then this is not a difficult move to find.
+
+This one move leaves black dead, here is some additional explanation.
+
+After this -
+])
+(;AW[pp][qp][rp][nq][oq][nr][pr][rs]AB[pq][qq][rq][or][qr][sr]LB[os:A][qs:B]
+;B[ps]
+;W[ns]LB[ps:1][ns:2][os:A][qs:B]C[Diagram 2 (Correct Continuation)
+
+
+Black's only resistance is to capture at 1. White calmly descends with 2 and now it becomes apparent that black is dead.
+
+In order to live black has to play both \b\f1 A\b0\f0  and \b\f1 B\b0\f0 .
+
+In other words, black is dead because of matbogi.
+
+
+])
+(;AW[pp][qp][rp][nq][oq][nr][pr]AB[pq][qq][rq][or][qr][sr]
+;W[os]
+;B[rs]LB[os:1][rs:2]C[Diagram 3 (Maybe in a Real Game...)
+
+
+If this were a real game, you might have thought you would get the best result bysimply capturing with 1. Black plays at 2 and lives.
+
+If you want to be strong at life and death, you should always be critical of every move.
+
+Even if a group looks perfectly alive, when you think a little bit harder, chances are, you get more than you initially thought you could.
+])
+)

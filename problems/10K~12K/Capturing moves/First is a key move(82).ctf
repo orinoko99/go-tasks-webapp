@@ -1,0 +1,131 @@
+//19
+4
+First is a key move(82)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\ltrpar\lang1042\f0
+\par
+\par Playing at \'a1\'e2 is mistake.
+\par W should have played at A, it is \cf1\b a proper move.\cf0\b0
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[kq]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+6[qr]
+2[sr]
+65[rs]
+)
+0
+Dia.1(Ko)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Dansu at 1 is one of the beginner's mistake.
+\par W will make a \cf1\b ko.
+\par \cf0\b0
+\par
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[kq]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[qr]
+2[sr]
+)
+2
+B[os]
+W[ps]
+Dia.2(Also ko)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Playing inside at 1 is also not good.
+\par
+\par Up to 4, this result is \cf1\b also a ko.\cf0\b0
+\par
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[kq]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[qr]
+2[sr]
+1[os]
+2[ps]
+65[qs]
+)
+4
+B[rs]
+W[ns]
+B[ms]
+W[mr]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Playing insied at 2 to 1 point is \cf1\b the right answer.\cf0\b0
+\par
+\par Making an eye(W2) seems to be able to live but descent at 3 is a good attack so C spot turns to a false eye.
+\par
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[kq]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+67[pr]
+2[qr]
+2[sr]
+65[os]
+66[qs]
+)
+3
+B[rs]
+W[ps]
+B[ns]

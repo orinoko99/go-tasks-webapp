@@ -1,0 +1,67 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[po][qo][ro][mp][np][op][rp][mq][mr][nr]AB[qp][nq][oq][rq][or][rr][rs]LB[ns:A]
+;W[os]
+;B[ps]LB[os:1][ps:2][ns:A]C[One Move Captures Black (18)
+
+
+\b White to Play.\b0
+\pard\nowidctlpar\qj White makes the endgame play at 1. When black blocks at 2, should white connects at \b\f1 A\b0\f0 ?
+\pard
+In fact, there is a move white can play to capture black. Please find the move.
+
+
+])
+(;CR[qp]AW[po][qo][ro][mp][np][op][rp][mq][mr][nr][os]AB[qp][nq][oq][rq][or][rr][ps][rs]LB[qq:A]
+;W[pq]
+;B[pr]
+;W[qr]
+;B[qs]LB[pq:1][pr:2][qr:3][qs:4][qq:A]CR[qp]C[Diagram 1 (Typical Bad Move)
+
+
+It is a typical bad move for white to play dansu at 1. As soon as black connects at 2, black's group is perfectly alive.
+
+\pard\nowidctlpar\qj Black \'a1\'e3 is positioned perfectly. After black 4 is played, it hurts that white cannot connect at \b\f1 A\b0\f0 .
+])
+(;AW[po][qo][ro][mp][np][op][rp][mq][mr][nr][os]AB[qp][nq][oq][rq][or][rr][ps][rs]
+;W[pr]
+;B[pq]
+;W[qs]
+;B[qr]LB[pr:1][pq:2][qs:3][qr:4]C[Diagram 2 (Impossible)
+
+
+It does not work for white to directly attack black at 1 either. Of course black plays dansu with 2 and up to 4, black lives.
+
+White has merely given black some stones as a present.
+
+There ia move to capture black. Please think carefully and then look at the next diagram.
+])
+(;AW[po][qo][ro][mp][np][op][rp][mq][mr][nr][os]AB[qp][nq][oq][rq][or][rr][ps][rs]LB[pr:A]
+;W[qr]
+;B[qq]
+;W[pq]LB[qr:1][qq:2][pq:3][pr:A]C[Diagram 3 (Correct)
+
+
+The placement of white 1 leaves black helpless.
+
+If black resists at 2, White 3 finishes black off.
+\pard\nowidctlpar\qj Because of a shortage of liberties, black can't play at \b\f1 A\b0\f0 .
+\pard
+Instead of 2, if black plays at 3, white plays at 2 and black is still dead.
+])
+(;AW[po][qo][ro][mp][np][op][rp][mq][mr][nr]AB[qp][nq][oq][rq][or][rr][rs]
+;W[os]
+;B[ps]
+;W[qr]LB[os:1][ps:2][qr:3]C[Diagram 4 (A Difficult Problem)
+
+
+In the beginning, if white 1 and black 2 were not played, it would have been quite a difficult problem.
+You should be at least 5k if you can solve this problem.
+
+Black 1 is played according to the proverb stating, "there is death in a hane" so it is not too difficult, but because you have to read up to 3, it is  a little tricky.
+])
+)

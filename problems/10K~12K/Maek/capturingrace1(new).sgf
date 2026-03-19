@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[co][do][bp][cp][dq][cr][dr]AB[dp][ep][bq][cq][eq][er]LBC[Capturing Race
+
+Black to play and win the capturing race.
+])
+(;AW[co][do][bp][cp][dq][cr][dr]AB[dp][ep][bq][cq][eq][er]
+;B[br]
+;W[bs]
+;B[ds]LB[br:1][bs:2][ds:3]C[Correct
+
+Black should play 1 to increase his liberties while filling White's liberties. This way, Black can win the capturing race.
+
+])
+(;AW[co][do][bp][cp][dq][cr][dr]AB[dp][ep][eq][er]LB[bq:][cq:]
+;B[ds]
+;W[br]LB[ds:1][br:2][bq:][cq:]C[Failure
+
+Don't start to fill the liberties at 1. White extends to 2 and captures two black stones.
+
+])
+)

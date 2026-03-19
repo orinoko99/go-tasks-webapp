@@ -1,0 +1,50 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qm][qn][ko][oo][ro][mp][op][pp][rp][iq][lq][qq][lr][qr]AB[on][pn][po][qo][qp][mq][nq][oq][pq][pr]LBC[Overcome a crisis
+
+
+\lang1033\f1 It's\b  Black\b0 's turn.\f2
+\lang1042\f0
+B has two weak groups.
+You should rescue both of them.
+])
+(;AW[qm][qn][ko][oo][ro][mp][op][pp][rp][iq][lq][qq][lr][qr]AB[on][pn][po][qo][qp][mq][nq][oq][pq][pr]
+;B[np]
+;W[no]
+;B[mo]LB[np:1][no:2][mo:3]C[Dia.1(Double dansu)
+
+
+Many people think about breaking at 1 is the first move because B can dansu both of W'stones.
+
+But B still can't rescue all of them.
+
+Continue the next page.
+])
+(;CR[on][pn][po][qo][qp]AW[qm][qn][ko][no][oo][ro][mp][op][pp][rp][iq][lq][qq][lr][qr]AB[on][pn][mo][po][qo][np][qp][mq][nq][oq][pq][pr]
+;W[nn]
+;B[mn]
+;W[nm]
+;B[lp]LB[nn:1][mn:2][nm:3][lp:4]CR[on][pn][po][qo][qp]C[Dia.2(Big sacrifice)
+
+
+Up to 4, B's one group can escape but five stones are dead.
+
+This result is painful for B.
+
+])
+(;CR[oo][op][pp]AW[qm][qn][ko][oo][ro][mp][op][pp][rp][iq][lq][qq][lr][qr]AB[on][pn][po][qo][qp][mq][nq][oq][pq][pr]
+;B[mo]LB[mo:1]CR[oo][op][pp]C[Dia.3(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+B1 is a clever tesuji.
+W's three stones can't escape.
+
+Now B \cf1\b captures key moves\cf0\b0  and conncets two groups.
+
+])
+)

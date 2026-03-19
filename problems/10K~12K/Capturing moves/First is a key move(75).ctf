@@ -1,0 +1,154 @@
+//19
+4
+First is a key move(75)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+\par
+\par W played at \'a1\'e2.
+\par Actually, this move is mistake.
+\par
+\par B has a chance to kill W!!
+\par
+\par
+\par }
+#
+(
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[hq]
+1[kq]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[kr]
+2[lr]
+2[mr]
+2[qr]
+1[rr]
+6[os]
+1[rs]
+)
+0
+Dia.1(Good move)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B tries to reduce W's eye space but it's slow.
+\par
+\par \cf1\b Connecting at 2 is a good move.\cf0\b0
+\par W has two real eyes.
+\par
+\par }
+#
+(
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[hq]
+1[kq]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[kr]
+2[lr]
+2[mr]
+2[qr]
+1[rr]
+2[os]
+1[rs]
+)
+2
+B[qs]
+W[nr]
+Dia.2(There isn't a next move)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Attaching at 1 looks like a sharp attack but after W2, there isn't a next move.
+\par
+\par Up to 6, W's group is completely alive.
+\par But if W played at A instead of 4, two of W's group would be in self-dansu.
+\par
+\par
+\par }
+#
+(
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[hq]
+1[kq]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[kr]
+2[lr]
+2[mr]
+65[pr]
+2[qr]
+1[rr]
+2[os]
+1[rs]
+)
+6
+B[ps]
+W[qs]
+B[ns]
+W[or]
+B[ls]
+W[nr]
+Dia.3(Right move)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Bending at 1 is a proper move.
+\par
+\par B3 is a good attack so B can capture W's group easily.
+\par
+\par
+\par }
+#
+(
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[hq]
+1[kq]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[kr]
+2[lr]
+2[mr]
+65[nr]
+2[qr]
+1[rr]
+2[os]
+1[rs]
+)
+5
+B[ls]
+W[ms]
+B[nr]
+W[ks]
+B[qs]

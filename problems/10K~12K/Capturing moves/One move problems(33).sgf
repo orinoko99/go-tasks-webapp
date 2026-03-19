@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[os]AW[np][op][pp][kq][lq][mq][qq][rq][rr]AB[nq][oq][mr][pr][qr][os]LBCR[os]C[One move problems(33)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Black has just played the tiger's mouth at \lang1042\f0\fs18\'a1\'e3\lang1033\f1\fs16 .
+
+Some people might think it's alive but in fact it isn't.  Now it's White's chance to attack.
+
+\lang1042\f0\fs18
+])
+(;AW[np][op][pp][kq][lq][mq][qq][rq][rr]AB[nq][oq][mr][pr][qr][os]LB[nr:A][qs:B]
+;W[lr]
+;B[ms]LB[lr:1][ms:2][nr:A][qs:B]C[Dia.1 White 1 fails
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 If White doesn't know that opportunity has come knocking on his door he might play 1 as an endgame move.  The thing is \cf1\b A and B are matbogi \cf0\b0 so there isn't a way to kill now.
+
+If Black plays 2 at A he's still alive.
+\lang1042\f0\fs18
+])
+(;AW[np][op][pp][kq][lq][mq][qq][rq][rr]AB[nq][oq][mr][pr][qr][os]LB[nr:?]
+;W[qs]
+;B[lr]
+;W[kr]
+;B[nr]LB[qs:1][lr:2][kr:3][nr:4][nr:?]C[Dia.2 The jjeotchim fails
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\lang1033\b\f1\fs16 There is death in the jjeotchim! \cf0\b0 may be running through your head but is it true here?  Not so much.  Black extends his eyespace with 2 and lives.  Sorry no prize.
+
+Well, we've narrowed it down.  How can White kill?
+
+\lang1042\f0\fs18
+
+])
+(;AW[np][op][pp][kq][lq][mq][qq][rq][rr]AB[nq][oq][mr][pr][qr][os]
+;W[nr]
+;B[ns]
+;W[lr]
+;B[ms]
+;W[qs]LB[nr:1][ns:2][lr:3][ms:4][qs:5]C[Dia.3 Correct/Cut
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White should\lang1042\f0\fs18  \cf1\lang1033\b\f1\fs16 cut at 1, the vital point\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Black has to block at 2.
+
+White 3 is now seonsu!  Now White can play at 5 to kill Black.
+
+\lang1042\f0\fs18
+])
+(;AW[np][op][pp][kq][lq][mq][qq][rq][rr]AB[nq][oq][mr][pr][qr][os]LBC[No diagram name
+
+
+
+])
+)

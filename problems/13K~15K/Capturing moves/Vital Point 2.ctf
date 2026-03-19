@@ -1,0 +1,125 @@
+//19
+4
+Vital Point 2
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par This problem looks a bit complicated.
+\par
+\par Anyway there is a move to capture Black. If White knows where should Black play to live, the solution of this problem comes automatically.
+\par }
+#
+(
+2[qm]
+2[rn]
+2[po]
+2[qo]
+1[ro]
+2[pp]
+1[qp]
+2[rp]
+2[pq]
+1[qq]
+1[rq]
+2[pr]
+1[qr]
+2[qs]
+1[rs]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White has to start with the \cf1\b placement \cf0\b0 at 1.
+\par
+\par Wherever White plays as the first move, if Black gets to play this move, he is alive.
+\par
+\par The real question is from now.
+\par
+\par
+\par }
+#
+(
+2[qm]
+2[rn]
+2[po]
+2[qo]
+1[ro]
+2[pp]
+1[qp]
+2[rp]
+2[pq]
+1[qq]
+1[rq]
+2[pr]
+1[qr]
+2[qs]
+1[rs]
+)
+1
+W[sr]
+Dia. 02 Follow up
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black has to capture with 1 and then White descends at 2 and \cf1\b Black is dead\cf0\b0 .
+\par
+\par If Black plays at 3, White captures with 4. Moreover if Black plays at 4 instead of 3, White plays dansu with 3 and Black can't live anymore.
+\par }
+#
+(
+2[qm]
+2[rn]
+2[po]
+2[qo]
+1[ro]
+2[pp]
+1[qp]
+2[rp]
+2[pq]
+1[qq]
+1[rq]
+2[pr]
+1[qr]
+2[sr]
+2[qs]
+1[rs]
+)
+4
+B[sp]
+W[sn]
+B[sq]
+W[so]
+Dia. 03 Vital Point for Living
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If White can't see how to capture Black, he takes at 1.
+\par After that Black lives with 2.
+\par If White plays at A instead of 1, Black still lives with 2.
+\par This was the \cf1\b vital point for living\cf0\b0 .
+\par
+\par }
+#
+(
+2[qm]
+2[rn]
+2[po]
+2[qo]
+1[ro]
+2[pp]
+1[qp]
+2[rp]
+65[sp]
+2[pq]
+1[qq]
+1[rq]
+2[pr]
+1[qr]
+2[qs]
+1[rs]
+)
+2
+W[so]
+B[sr]

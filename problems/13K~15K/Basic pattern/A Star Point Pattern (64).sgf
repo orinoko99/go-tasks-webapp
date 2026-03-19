@@ -1,0 +1,51 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pm][qn][qo][nq]AB[on][pn][kp][pp]LB[po:A][op:B]
+;B[qp]
+;W[mp]LB[qp:1][mp:2][po:A][op:B]C[Star point jeongseok (64)
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Now we know that if White plays at A then Black will just move out at B, so White has chosen a different move and instead plays 2.  How should Black respond?
+
+\lang1042\f0\fs18
+])
+(;AW[pm][qn][qo][mp][nq]AB[on][pn][kp][pp][qp]
+;B[op]
+;W[mn]LB[op:1][mn:2]C[Dia.1 Too slow
+
+Black 1 is sloid but a bit slow and has no effect on White.  White can simply jump out with 2 and White feels little to no pressure.  Try and find a more effective move.
+\lang1042\f1\fs18
+
+])
+(;CR[mp][nq]AW[pm][qn][qo][mp][nq]AB[on][pn][kp][pp][qp]
+;B[po]
+;W[qk]LB[po:1][qk:2]CR[mp][nq]C[Dia.2 A naive move
+
+Black could try and be solid and play at 1 but this makes an empty triangle.  White is content to defend at 2.  Black doesnt really have a next move to attack the two White stones which is why Black 1 doesn't do much.
+\lang1042\f1\fs18
+
+])
+(;CR[kp]AW[pm][qn][qo][mp][nq]AB[on][pn][kp][pp][qp]LB[or:?]
+;B[oq]
+;W[or]
+;B[np]
+;W[nr]
+;B[pr]LB[oq:1][or:2][np:3][nr:4][pr:5][or:?]CR[kp]C[Dia.3 Correct/Diagonal
+
+Black should play the diagonal move at 1 to protect the cutting point and put some pressure on White.  Now we see that the marked Black stone is on the vital point of the shape.  White is in for a bitter struggle.
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][qo][nq]AB[on][pn][kp][pp]
+;B[qp]
+;W[mp]LB[qp:1][mp:2]C[No diagram name
+
+
+
+])
+)

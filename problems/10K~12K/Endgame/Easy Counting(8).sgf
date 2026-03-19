@@ -1,0 +1,66 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[no][kp][np][jq][lq][mq][nq]AB[qn][po][lp][mp][oq][pq]
+;B[nr]
+;W[mr]
+;B[or]LB[nr:1][mr:2][or:3]C[Easy Counting(8)
+
+
+The value of capturing a stone on the second line\lang1033\f1 ,\lang1042\f0  and playing hane and connecting on the second line is \lang1033\f1 the \lang1042\f0 same. Both are worth 6 points.
+
+\lang1033\f1 Here is\lang1042\f0  another \b hane and connection\b0  on the \b second line\b0 .
+What is the value of Black 1\lang1033\f1  and\lang1042\f0  3?
+The value of the hane and connection has changed, why is that?
+
+])
+(;AW[no][kp][np][jq][lq][mq][nq][mr]AB[qn][po][lp][mp][oq][pq][nr][or]LB[qq:?][rq:?][sq:?][jr:?][js:?][ms:B][ns:A]LB[qq:?][rq:?][sq:?][jr:?][js:?][ms:B][ns:A]C[Dia. 01 White 5 Points, Black 9 Points
+
+{\colortbl ;\red0\green0\blue255;}
+
+After Black's hane and connection, it is counted as\lang1033\f1  though\lang1042\f0  Black A and White B\lang1033\f1  were\lang1042\f0  played.
+
+The border\lang1033\f1 -\lang1042\f0 lines are made by Xs again.
+
+\cf1\b White\cf0\b0  has \cf1\b 5 points\cf0\b0 , \cf1\b Black\cf0\b0  has \cf1\b 9 points\cf0\b0  inside the Xs.
+])
+(;AW[no][kp][np][jq][lq][mq][nq]AB[qn][po][lp][mp][oq][pq]LB[os:B][ps:A]
+;W[or]
+;B[pr]
+;W[nr]LB[or:1][pr:2][nr:3][os:B][ps:A]C[Dia. 02 If White Plays
+
+
+White played the hane and connection with 1 and 3.
+
+Now it can't be counted as\lang1033\f1  though\lang1042\f0  Black plays at A and White plays at B.
+This case is different because Black\lang1033\f1 's \lang1042\f0 hane on the first line is got\lang1033\f1 e, while\lang1042\f0  White\lang1033\f1 's\lang1042\f0  hane is sente.
+
+
+])
+(;AW[no][kp][np][jq][lq][mq][nq][nr][or]AB[qn][po][lp][mp][oq][pq][pr]
+;W[ps]
+;B[qs]
+;W[os]
+;B[qr]LB[ps:1][qs:2][os:3][qr:4]C[Dia. 03 White's Right
+
+{\colortbl ;\red255\green0\blue0;}
+
+White has the right to play\lang1033\f1  the\lang1042\f0  hane and connection with 1 and 3, because it is sente.
+
+After playing some endgame moves, the one who can play the next move in sente has the \cf1\b right to play it\cf0\b0 .
+
+It is very important\lang1033\f1  when\lang1042\f0  counting in the endgame.
+])
+(;AW[no][kp][np][jq][lq][mq][nq][nr][or][os][ps]AB[qn][po][lp][mp][oq][pq][pr][qr][qs]LB[qq:?][rq:?][sq:?][jr:?][js:?]LB[qq:?][rq:?][sq:?][jr:?][js:?]C[Dia. 04 8 Points
+
+{\colortbl ;\red255\green0\blue0;}
+
+White has 8 points, Black has 4 points.
+
+Therefore\lang1033\f1 ,\lang1042\f0  the value of the hane and connection \lang1033\f1 from\lang1042\f0  the \b main diagram\b0  is
+(8-5)+(9-4)=\cf1\b 8 points\cf0\b0 .
+])
+)

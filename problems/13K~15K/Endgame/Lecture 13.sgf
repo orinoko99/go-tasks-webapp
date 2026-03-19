@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dp][ep][fp][ip][dq][fq][jq][dr][fr]AB[cn][cp][cq][eq][cr][er][gr][ds]LBC[Black's best endgame
+
+
+What's Black's most efficient way to play? Find Black's best endgame move.
+])
+(;AW[dp][ep][fp][ip][dq][fq][jq][dr][fr]AB[cn][cp][cq][eq][cr][er][gr][ds]
+;B[fs]
+;W[es]
+;B[er]LB[fs:1][es:2][er:3]C[Correct
+
+
+Sacrifce two stones to gain more. Black 1 is the endgame tesuji to gain most points here.
+])
+(;AW[dp][ep][fp][ip][dq][fq][jq][dr][fr]AB[cn][cp][cq][eq][cr][er][gr][ds]
+;B[es]
+;W[fs]
+;B[cs]LB[es:1][fs:2][cs:3]C[Wrong
+
+
+If Black saves his two stones, White will happily atari at 2 and complete his territory neatly.
+])
+)

@@ -1,0 +1,60 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[no][op]AW[no][ro][pp][qp][nq][oq][rq][or]AB[qk][lo][op][lq][pq][qq][pr][rr][sr][ps]LBCR[no][op]C[Can escape?(3)
+
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+\lang1033\f1 It's\b  Black\b0 's turn.\f2
+\lang1042\f0
+B can escape? or not?
+])
+(;AW[no][ro][pp][qp][nq][oq][rq][or]AB[qk][lo][op][lq][pq][qq][pr][rr][sr][ps]LB[np:A]
+;B[oo]
+;W[nn]
+;B[on]
+;W[om]
+;B[pn]LB[oo:1][nn:2][on:3][om:4][pn:5][np:A]C[DIa.1(W is in trouble)
+
+{\colortbl ;\red255\green0\blue0;}
+
+B tries to escape.
+If W stepped back like W2, B would be able to run away and also a weakpoint(A)is left to W.
+
+Up to 5,\cf1\b  W is in trouble.\cf0\b0
+
+])
+(;CR[oo]AW[no][ro][pp][qp][nq][oq][rq][or]AB[qk][lo][oo][op][lq][pq][qq][pr][rr][sr][ps]
+;W[on]
+;B[po]
+;W[np]
+;B[pn]LB[on:1][po:2][np:3][pn:4]CR[oo]C[DIa.3(Can defend the weak point but)
+
+{\colortbl ;\red255\green0\blue0;}
+
+After B\'a1\'e3, W must play at 1.
+
+W3 can defend the weak point but \cf1\b It's not a proper move.
+\cf0\b0 Because W can't capture B's four stones and both of W's groups isn't alive,
+
+])
+(;AW[on][no][ro][pp][qp][nq][oq][rq][or]AB[qk][lo][oo][po][op][lq][pq][qq][pr][rr][sr][ps]
+;W[pn]
+;B[qo]
+;W[rp]
+;B[qn]
+;W[qm]
+;B[rn]
+;W[rm]LB[pn:1][qo:2][rp:3][qn:4][qm:5][rn:6][rm:7]C[Dia.3(Loose ladder)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Blocking at 1 is the right move to attack B stones.
+
+Up to 7\cf1\b , B's group is in loose ladder.
+\cf0\b0
+])
+)

@@ -1,0 +1,172 @@
+//19
+5
+How should Black play?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\froman\fprq2\fcharset129 \'c7\'d1\'c4\'c4\'b5\'b8\'bf\'f2;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par When White played\cf1\f1\fs20  \'a1\'e2\f0  Black answered 1. But this move makes Black's \f1\'a1\'e3\f0  stone weaker. It's possible to sacrifice it. But if Black want's to save it, how should Black play?\cf0\lang1042\f2\fs18
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+6[jn]
+1[pn]
+1[dp]
+5[jp]
+2[mp]
+1[pp]
+2[fq]
+)
+2
+B[eq]
+W[fp]
+1st Dia. If Black makes a sacrifice
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If Black wants to give up that stone Black has to play this sequence. But I don't recommend playing like this, because White gets too much territory. And Black still has some weaknesses on the left side.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+690[mn]
+1[pn]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+)
+8
+B[mn]
+W[lo]
+B[nq]
+W[mq]
+B[mr]
+W[lr]
+B[nr]
+W[fm]
+2nd Dia. Keep looking
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White's 2 \lang1042\f1\'a1\'e2\lang1043\f0  stones are strong, so Black should play 1, White will answer 2. Then Black plays 3 and 5.
+\par This result is good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+6[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+6[fq]
+)
+5
+B[ko]
+W[mn]
+B[kn]
+W[km]
+B[jm]
+3rd Dia. Bad for White
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  if White answers 1 Black will play 2, it's a good move.
+\par Now White's 2 \lang1042\f1\'a1\'e2 \lang1043\f0 stones are in danger.
+\par This result is good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+5[kn]
+6[mn]
+1[pn]
+1[ko]
+1[dp]
+2[fp]
+1[jp]
+6[mp]
+1[pp]
+1[eq]
+2[fq]
+)
+2
+W[jl]
+B[km]
+4th Dia. White's wish
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is White's wish. If both players follow this sequence then the result is good for White.
+\par Later White can play A or B, it's very painful for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+65[dl]
+66[pl]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+)
+8
+B[hq]
+W[ho]
+B[lq]
+W[mq]
+B[mr]
+W[nr]
+B[lr]
+W[oq]

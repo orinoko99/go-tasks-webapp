@@ -1,0 +1,65 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[op][pp][qp][rp][nq][oq][pq][qq][rq][rr][rs]AW[pm][po][qo][ro][op][sp][nq][oq][pq][qq][sq][sr]AB[no][oo][mp][pp][qp][rp][mq][rq][mr][rr][rs]LBCR[op][pp][qp][rp][nq][oq][pq][qq][rq][rr][rs]C[Capturing Race doesn't Work
+
+
+\b Black to play\b0 .
+Black six \'a1\'e3 stones have only three liberties.
+Therefore the capturing race doesn't work against the White \'a1\'e2 stones.
+
+However Black has a nice technique to save his stones.
+
+
+
+])
+(;AW[pm][po][qo][ro][op][sp][nq][oq][pq][qq][sq][sr]AB[no][oo][mp][pp][qp][rp][mq][rq][mr][rr][rs]
+;B[nr]
+;W[qr]LB[nr:1][qr:2]C[Dia. 01 Useless
+
+{\colortbl ;\red255\green0\blue0;}
+
+Black 1 gives up his stones in the corner. It feels like Black doesn't even want to try anything, because the capturing race doesn't work.
+
+White plays at 2 and Black is captured.
+This variation \cf1\b worths nothing\cf0\b0 .
+
+
+])
+(;AW[pm][po][qo][ro][op][sp][nq][oq][pq][qq][sq][sr]AB[no][oo][mp][pp][qp][rp][mq][rq][mr][rr][rs]
+;B[os]
+;W[qr]
+;B[qs]
+;W[ps]
+;B[pr]
+;W[or]LB[os:1][qr:2][qs:3][ps:4][pr:5][or:6]C[Dia. 02 Pae
+
+{\colortbl ;\red255\green0\blue0;}
+
+Black 1 is slightly better, but White tries to cut with 2 and after Black 3, White's throw-in move at 4 is powerful.
+
+It becomes \cf1\b pae \cf0\b0 after Black 5 and White 6.
+Is this the best sequence? No, Black has a better move.
+
+
+])
+(;AW[pm][po][qo][ro][op][sp][nq][oq][pq][qq][sq][sr]AB[no][oo][mp][pp][qp][rp][mq][rq][mr][rr][rs]
+;B[ps]
+;W[os]
+;B[or]
+;W[pr]
+;B[ns]LB[ps:1][os:2][or:3][pr:4][ns:5]C[Dia. 03 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b Black's one-space jump at 1\cf0\b0  is the correct answer.
+
+The capturing race doesn't work so Black has to find a maek which connects his groups.
+
+The sequence up to 5 is the proof of the connection.
+
+])
+)

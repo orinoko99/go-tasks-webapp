@@ -1,0 +1,163 @@
+//19
+5
+How should Black play?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par White just played 1. The goal of this move is to play B when Black answers A.
+\par So Black decided to play 2, it's a good move. White thinks his 2 \lang1042\f1\'a1\'e2\lang1043\f0  stones are light so White played 3.
+\par How should Black play now?\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[pg]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+66[jn]
+65[pn]
+1[dp]
+6[fp]
+1[jp]
+5[pp]
+1[eq]
+6[fq]
+)
+3
+W[mp]
+B[hp]
+W[qn]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is the correct answer. I recommend you to always play this move in this situation.
+\par After this-\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[pg]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[qn]
+1[dp]
+2[fp]
+1[hp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+)
+1
+B[oo]
+2nd Dia. Good for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If White plays 1 Black will answer 2. Now White's \lang1042\f1\'a1\'e2\lang1043\f0  and \lang1042\f1\'a1\'e0\lang1043\f0  stones are weak.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[pg]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+6[qn]
+1[oo]
+1[dp]
+12[fp]
+1[hp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+12[fq]
+)
+2
+W[mn]
+B[pm]
+3rd DIa. Keep looking
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If White plays 1 Black 2 is the correct answer.
+\par After this-\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[pg]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[qn]
+1[oo]
+1[dp]
+2[fp]
+1[hp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+693[qq]
+)
+2
+W[qq]
+B[qp]
+4th Dia. Good for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When White plays 1 BLack 2 and 4 are good answers. If White plays A Black will play B. The result is good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[pg]
+1[dj]
+1[jj]
+1[pj]
+66[hm]
+1[dn]
+2[qn]
+65[go]
+1[oo]
+1[dp]
+2[fp]
+1[hp]
+1[jp]
+2[mp]
+1[pp]
+1[qp]
+1[eq]
+2[fq]
+2[qq]
+)
+6
+W[rp]
+B[pq]
+W[rr]
+B[qr]
+W[rq]
+B[fn]

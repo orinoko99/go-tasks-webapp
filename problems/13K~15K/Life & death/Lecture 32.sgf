@@ -1,0 +1,29 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[bp][bq][ar][cr][dr]AB[cn][bo][cp][cq][dq][fq][er]LBC[Capture White
+
+
+Where should Black play to capture White?
+])
+(;AW[bp][bq][ar][cr][dr]AB[cn][bo][cp][cq][dq][fq][er]
+;B[bs]
+;W[ap]
+;B[ds]
+;W[br]
+;B[cs]LB[bs:1][ap:2][ds:3][br:4][cs:5]C[Correct
+
+
+First Black should play inside at the vital point at 1. If White tries to live at 2, Black will connect at 3. Due to jachung White can't cut at 5.
+])
+(;AW[bp][bq][ar][cr][dr]AB[cn][bo][cp][cq][dq][fq][er]
+;B[ds]
+;W[bs]LB[ds:1][bs:2]C[Wrong
+
+
+"There is death in the hane" is a famous Baduk proverb but here it's of no help. White easily lives at 2.
+])
+)

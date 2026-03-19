@@ -1,0 +1,131 @@
+//19
+4
+Actual Game
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The tesuji you need to find is often used in actual games. Black to play.
+\par }
+#
+(
+1[lb]
+1[qb]
+2[rb]
+1[kc]
+2[mc]
+2[nc]
+2[oc]
+2[pc]
+1[qc]
+2[rc]
+1[ld]
+1[md]
+1[od]
+2[pd]
+2[qd]
+1[rd]
+1[ne]
+1[pe]
+1[qe]
+1[re]
+)
+0
+Failure
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The hane at 1 fails because White will block at 2 and capture at 4. When Black tries to reduce the eye space with the large knight's jump at 5, White counterattacks at 6. Black has no move to kill White.
+\par
+\par }
+#
+(
+1[lb]
+1[qb]
+2[rb]
+1[kc]
+2[mc]
+2[nc]
+2[oc]
+2[pc]
+1[qc]
+2[rc]
+1[ld]
+1[md]
+1[od]
+2[pd]
+2[qd]
+1[rd]
+1[ne]
+1[pe]
+1[qe]
+1[re]
+)
+6
+B[sc]
+W[sb]
+B[ra]
+W[sd]
+B[oa]
+W[na]
+Success
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The belly attachment is the tesuji needed here. White resists at 2 and a ko will start at 3.
+\par
+\par }
+#
+(
+1[lb]
+1[qb]
+2[rb]
+1[kc]
+2[mc]
+2[nc]
+2[oc]
+2[pc]
+1[qc]
+2[rc]
+1[ld]
+1[md]
+1[od]
+2[pd]
+2[qd]
+1[rd]
+1[ne]
+1[pe]
+1[qe]
+1[re]
+)
+3
+B[sb]
+W[sc]
+B[ra]
+Variation
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 If White responds at 2, Black will atari at 3 and then steal the second eye at 5.
+\par
+\par }
+#
+(
+1[lb]
+1[qb]
+2[rb]
+1[kc]
+2[mc]
+2[nc]
+2[oc]
+2[pc]
+1[qc]
+2[rc]
+1[ld]
+1[md]
+1[od]
+2[pd]
+2[qd]
+1[rd]
+1[ne]
+1[pe]
+1[qe]
+1[re]
+)
+5
+B[sb]
+W[pb]
+B[sc]
+W[qa]
+B[oa]

@@ -1,0 +1,145 @@
+//19
+4
+Vital point?(64)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \f1 It's\b  White\b0 's turn.\f0
+\par
+\par B seems to have a huge space.
+\par But you can find a B's weakpoint.
+\par }
+#
+(
+2[mp]
+2[np]
+2[op]
+2[pp]
+2[kq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[kr]
+1[lr]
+1[qr]
+2[rr]
+2[ks]
+1[ls]
+1[ns]
+1[qs]
+)
+0
+Dia.1(Right move/Dansu first)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Dansu at 1 is\cf1\b  importent sequence\cf0\b0 .
+\par W shouldn't miss this kind of move.\cf1\b
+\par \cf0\b0 W3 is a proper move.
+\par
+\par If B played at A, W would cut at B.
+\par Both of B's group can't dansu W's stone.
+\par }
+#
+(
+2[mp]
+2[np]
+2[op]
+2[pp]
+2[kq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[kr]
+1[lr]
+65[nr]
+66[pr]
+1[qr]
+2[rr]
+2[ks]
+1[ls]
+1[ns]
+1[qs]
+)
+3
+W[mr]
+B[ms]
+W[os]
+Dia.2(Beginner's mistakes)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Beginners usually make a mistake like blocking at 1.
+\par
+\par Then B can be alive bigger and esaily.
+\par }
+#
+(
+2[mp]
+2[np]
+2[op]
+2[pp]
+2[kq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[kr]
+1[lr]
+1[qr]
+2[rr]
+2[ks]
+1[ls]
+1[ns]
+1[qs]
+)
+2
+W[rs]
+B[or]
+Dia.3 (Inexperienced)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Attaching at 1 without Dansu at 2 is a inexperienced move.
+\par
+\par B2 is a\cf1\b  vital point.
+\par \cf0\b0
+\par Up to 4 W can't capture B's group.
+\par }
+#
+(
+2[mp]
+2[np]
+2[op]
+2[pp]
+2[kq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[kr]
+1[lr]
+1[qr]
+2[rr]
+2[ks]
+1[ls]
+1[ns]
+1[qs]
+)
+4
+W[os]
+B[mr]
+W[pr]
+B[or]

@@ -1,0 +1,76 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[op][oq][or]AW[pn][po][ro][op][qp][kq][oq][rq][or][sr]AB[no][oo][pp][pq][qq][pr][rr][ps][rs]LBCR[op][oq][or]C[Critical Situation
+
+
+\b Black to play\b0 .
+Black is divided into two parts.
+However if he can capture the White \'a1\'e2 stones, he can overcome this critical situation.
+
+Where is the maek?
+
+Pay attention that Black doesn't have a lot of liberties in the corner.
+])
+(;AW[pn][po][ro][op][qp][kq][oq][rq][or][sr]AB[no][oo][pp][pq][qq][pr][rr][ps][rs]
+;B[nq]
+;W[nr]
+;B[mr]
+;W[mq]LB[nq:1][nr:2][mr:3][mq:4]C[Dia. 01 Failure
+
+
+Black's attachment at 1 doesn't help at all.
+If White goes out with 2, Black can't find any solution.
+
+After Black 3, White cuts with 4 and Black is hopeless.
+
+
+])
+(;AW[pn][po][ro][op][qp][kq][oq][rq][or][sr]AB[no][oo][pp][pq][qq][pr][rr][ps][rs]LB[ns:A][os:B]
+;B[mq]
+;W[mr]
+;B[nr]
+;W[nq]
+;B[np]LB[mq:1][mr:2][nr:3][nq:4][np:5][ns:A][os:B]C[Dia. 02 Correct Answer?
+
+
+Black's knight's move is a powerful maek. If White plays at 2, Black's wedge-in move at 3 is good. After White 4, Black plays at 5 and the continuous dansu works.
+
+Is this the solution then?
+No. There is a problem with this sequence.
+
+
+])
+(;CR[mq]AW[pn][po][ro][op][qp][kq][oq][rq][or][sr]AB[no][oo][pp][mq][pq][qq][pr][rr][ps][rs]
+;W[os]
+;B[nr]
+;W[qr]
+;B[qs]
+;W[sq]
+;B[np]
+;W[ss]LB[os:1][nr:2][qr:3][qs:4][sq:5][np:6][ss:7]CR[mq]C[Dia. 03 Not Enough Liberties
+
+
+Against Black \'a1\'e3, White ignores it and tries to capture the corner.
+
+White 1 is the only move.
+Even if Black plays at 2, White plys at 3 and 5 and wins the capturing race by one move. Therefore Black can't make a loosen attack.
+])
+(;AW[pn][po][ro][op][qp][kq][oq][rq][or][sr]AB[no][oo][pp][pq][qq][pr][rr][ps][rs]
+;B[nr]
+;W[nq]
+;B[mq]
+;W[mr]
+;B[np]LB[nr:1][nq:2][mq:3][mr:4][np:5]C[Dia. 04 Correct Answer
+
+
+Black's attachment at 1 is a severe maek.
+
+White tries to escape, since he can't win the capturing race, but White 2 and 4 can't help. Black captures White with a squeeze ladder. It became the same result like in \b Dia. 02\b0 .
+
+
+])
+)

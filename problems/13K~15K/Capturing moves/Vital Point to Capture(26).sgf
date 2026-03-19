@@ -1,0 +1,74 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[ps]AW[mo][op][pp][qp][rp][nq][sq][nr][ns]AB[oq][pq][qq][rq][rr][sr][ps]LBCR[ps]C[Vital Point to Capture?(26)
+
+
+\b White to play\b0 .
+Black just jumped at \'a1\'e3. Black thinks he lived with this move however it was a bad move.
+
+White got a chance!
+
+])
+(;AW[mo][op][pp][qp][rp][nq][sq][nr][ns]AB[oq][pq][qq][rq][rr][sr][ps]
+;W[qs]
+;B[or]
+;W[os]
+;B[qr]LB[qs:1][or:2][os:3][qr:4]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's side attachment at 1 is a sharp attack.
+
+Black 2 is the strongest way to resist and after White 3, Black makes \cf1\b pae\cf0\b0  with 4. This is the \cf1\b best result for both players \cf0\b0 after Black's one-space jump at the main diagram.
+
+
+
+])
+(;AW[mo][op][pp][qp][rp][nq][sq][nr][ns]AB[oq][pq][qq][rq][rr][sr][ps]LB[or:A]
+;W[os]
+;B[pr]LB[os:1][pr:2][or:A]C[Dia. 02 Meaningless
+
+{\colortbl ;\red255\green0\blue0;}
+
+White 1 is a \cf1\b meaningless\cf0\b0  move.
+Even if someone plays this move as a pae threat it is bad. It is better not to play at all.
+
+Black connects at 2 and lives easily.
+Playing at A instead of 1 would be also bad.
+
+])
+(;AW[mo][op][pp][qp][rp][nq][sq][nr][ns]AB[oq][pq][qq][rq][rr][sr]
+;B[qs]
+;W[or]
+;B[pr]LB[qs:1][or:2][pr:3]C[Dia. 03 Black's Correct Move
+
+{\colortbl ;\red0\green0\blue255;}
+
+From the beginning, Black's diagonal move at 1 was the \cf1\b correct move\cf0\b0 .
+Black lives up to 3.
+
+Black tried to live with more points but was punished by White with a severe attack.
+
+])
+(;AW[mo][op][pp][qp][rp][nq][sq][nr][ns]AB[oq][pq][qq][rq][rr][sr]
+;B[or]
+;W[qs]
+;B[os]
+;W[rs]
+;B[qr]
+;W[ps]LB[or:1][qs:2][os:3][rs:4][qr:5][ps:6]C[Dia. 04 Bik
+
+
+Black can also live with 1.
+White's placement at 2 is severe, but Black can answer with 3.
+Black lives with sente bik up to 6.
+
+However it is not as good as living with 3 points in the previous diagram.
+
+
+])
+)

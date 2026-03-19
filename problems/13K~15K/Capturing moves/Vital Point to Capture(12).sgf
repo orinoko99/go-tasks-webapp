@@ -1,0 +1,73 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pp][qp][rp][mq][nq][oq][rq][mr][ms]AB[pq][qq][nr][or][rr][sr][rs]LBC[Vital Point to Capture?(12)
+
+
+\b White to play\b0 .
+There is one eye in the corner.
+So White only has to destroy the eye on the left.
+One move decides this life and death problem.
+
+
+])
+(;AW[pp][qp][rp][mq][nq][oq][rq][mr][ms]AB[pq][qq][nr][or][rr][sr][rs]LB[os:A]
+;W[ps]
+;B[pr]
+;W[ns]LB[ps:1][pr:2][ns:3][os:A]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White can destroy the eye with 1.
+It is an attack which \cf1\b aims\cf0\b0  at Black's \cf1\b shortage of liberties\cf0\b0 .
+
+After Black 2, White connects with 3 and Black is captured.
+If White plays at A instead of 3, Black is still captured.
+
+])
+(;AW[pp][qp][rp][mq][nq][oq][rq][mr][ms]AB[pq][qq][nr][or][rr][sr][rs]
+;W[ns]
+;B[pr]
+;W[ps]LB[ns:1][pr:2][ps:3]C[Dia. 02 Big Illusion
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+White might think that playing at 1 is good too. After Black connects at 2, White attaches at 3 and it becomes the same with the correct answer in \b Dia. 01\b0 .
+
+However this is a \cf1\b big illusion\cf0\b0 .
+
+Black can play at 3 instead of 2, then he \cf2\b lives\cf0\b0 .
+])
+(;AW[pp][qp][rp][mq][nq][oq][rq][mr][ms]AB[pq][qq][nr][or][rr][sr][rs]
+;W[os]
+;B[ps]
+;W[ns]
+;B[pr]LB[os:1][ps:2][ns:3][pr:4]C[Dia. 03 Only Endgame
+
+{\colortbl ;\red255\green0\blue0;}
+
+White's attachment at 1 is \cf1\b only\cf0\b0  an \cf1\b endgame move\cf0\b0 .
+If Black plays at 2, he can live up to 4.
+
+
+
+])
+(;AW[pp][qp][rp][mq][nq][oq][rq][mr][ms]AB[pq][qq][nr][or][rr][sr][rs]LB[sq:A]
+;W[pr]
+;B[qr]
+;W[ps]
+;B[qs]LB[pr:1][qr:2][ps:3][qs:4][sq:A]C[Dia. 04 Confused?
+
+{\colortbl ;\red255\green0\blue0;}
+
+People who thought about White 1 are probably \cf1\b confused\cf0\b0  with another situation.
+
+Black lives easily with many points up to 4.
+
+If there is a White stone at A, White 1 would be a great way to attack.
+
+])
+)

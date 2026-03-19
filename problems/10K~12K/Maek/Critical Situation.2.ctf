@@ -1,0 +1,189 @@
+//19
+5
+Critical Situation
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 .
+\par Black is divided into two parts.
+\par However if he can capture the White \'a1\'e2 stones, he can overcome this critical situation.
+\par
+\par Where is the maek?
+\par
+\par Pay attention that Black doesn't have a lot of liberties in the corner.
+\par }
+#
+(
+2[pn]
+1[no]
+1[oo]
+2[po]
+2[ro]
+6[op]
+1[pp]
+2[qp]
+2[kq]
+6[oq]
+1[pq]
+1[qq]
+2[rq]
+6[or]
+1[pr]
+1[rr]
+2[sr]
+1[ps]
+1[rs]
+)
+0
+Dia. 01 Failure
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's attachment at 1 doesn't help at all.
+\par If White goes out with 2, Black can't find any solution.
+\par
+\par After Black 3, White cuts with 4 and Black is hopeless.
+\par
+\par
+\par }
+#
+(
+2[pn]
+1[no]
+1[oo]
+2[po]
+2[ro]
+2[op]
+1[pp]
+2[qp]
+2[kq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[or]
+1[pr]
+1[rr]
+2[sr]
+1[ps]
+1[rs]
+)
+4
+B[nq]
+W[nr]
+B[mr]
+W[mq]
+Dia. 02 Correct Answer?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's knight's move is a powerful maek. If White plays at 2, Black's wedge-in move at 3 is good. After White 4, Black plays at 5 and the continuous dansu works.
+\par
+\par Is this the solution then?
+\par No. There is a problem with this sequence.
+\par
+\par
+\par }
+#
+(
+2[pn]
+1[no]
+1[oo]
+2[po]
+2[ro]
+2[op]
+1[pp]
+2[qp]
+2[kq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[or]
+1[pr]
+1[rr]
+2[sr]
+65[ns]
+66[os]
+1[ps]
+1[rs]
+)
+5
+B[mq]
+W[mr]
+B[nr]
+W[nq]
+B[np]
+Dia. 03 Not Enough Liberties
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against Black \'a1\'e3, White ignores it and tries to capture the corner.
+\par
+\par White 1 is the only move.
+\par Even if Black plays at 2, White plys at 3 and 5 and wins the capturing race by one move. Therefore Black can't make a loosen attack.
+\par }
+#
+(
+2[pn]
+1[no]
+1[oo]
+2[po]
+2[ro]
+2[op]
+1[pp]
+2[qp]
+2[kq]
+5[mq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[or]
+1[pr]
+1[rr]
+2[sr]
+1[ps]
+1[rs]
+)
+7
+W[os]
+B[nr]
+W[qr]
+B[qs]
+W[sq]
+B[np]
+W[ss]
+Dia. 04 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's attachment at 1 is a severe maek.
+\par
+\par White tries to escape, since he can't win the capturing race, but White 2 and 4 can't help. Black captures White with a squeeze ladder. It became the same result like in \b Dia. 02\b0 .
+\par
+\par
+\par }
+#
+(
+2[pn]
+1[no]
+1[oo]
+2[po]
+2[ro]
+2[op]
+1[pp]
+2[qp]
+2[kq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[or]
+1[pr]
+1[rr]
+2[sr]
+1[ps]
+1[rs]
+)
+5
+B[nr]
+W[nq]
+B[mq]
+W[mr]
+B[np]

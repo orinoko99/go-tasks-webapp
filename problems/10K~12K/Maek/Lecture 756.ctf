@@ -1,0 +1,113 @@
+//19
+3
+Two versus Three
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black is behind by one liberty. Can he still win the capturing race?
+\par }
+#
+(
+2[bn]
+2[ao]
+2[jo]
+1[ap]
+2[bp]
+2[cp]
+2[dp]
+1[aq]
+1[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+1[gq]
+1[hq]
+2[jq]
+1[br]
+1[cr]
+2[dr]
+2[er]
+2[fr]
+2[gr]
+1[hr]
+2[ir]
+2[cs]
+1[gs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black should first throw in at 1 and then make an eye at 3. Now it's one eye versus no eye and Black won the capturing race.
+\par
+\par }
+#
+(
+2[bn]
+2[ao]
+2[jo]
+1[ap]
+2[bp]
+2[cp]
+2[dp]
+1[aq]
+1[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+1[gq]
+1[hq]
+2[jq]
+1[br]
+1[cr]
+2[dr]
+2[er]
+2[fr]
+2[gr]
+1[hr]
+2[ir]
+2[cs]
+1[gs]
+)
+3
+B[ds]
+W[es]
+B[as]
+Failure
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 If Black makes an eye immediately at 1, White will play 2 in sente and then make an eye at 4. At the end it's a bik/seki.
+\par
+\par }
+#
+(
+2[bn]
+2[ao]
+2[jo]
+1[ap]
+2[bp]
+2[cp]
+2[dp]
+1[aq]
+1[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+1[gq]
+1[hq]
+2[jq]
+1[br]
+1[cr]
+2[dr]
+2[er]
+2[fr]
+2[gr]
+1[hr]
+2[ir]
+2[cs]
+1[gs]
+)
+4
+B[as]
+W[fs]
+B[hs]
+W[ds]

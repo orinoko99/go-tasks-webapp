@@ -1,0 +1,101 @@
+//19
+3
+Which one to Save?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 When White played the double atari at x, Black needs carefully to consider which stone to save.
+\par }
+#
+(
+1[cn]
+1[fn]
+1[do]
+1[ho]
+1[bp]
+1[cp]
+2[dp]
+1[ep]
+8[fp]
+1[bq]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+1[ar]
+2[br]
+2[cr]
+2[er]
+2[fr]
+1[gr]
+1[ds]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black should save at 1 because this is the weak side in Black's formation. Even if White captures at 2, Black can block at 3 and capture the whole white group.
+\par }
+#
+(
+1[cn]
+1[fn]
+1[do]
+1[ho]
+1[bp]
+1[cp]
+2[dp]
+1[ep]
+2[fp]
+1[bq]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+1[ar]
+2[br]
+2[cr]
+2[er]
+2[fr]
+1[gr]
+1[ds]
+)
+3
+B[gq]
+W[eo]
+B[en]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Saving at 1 is not good because White can escape up to 8.
+\par }
+#
+(
+1[cn]
+1[fn]
+1[do]
+1[ho]
+1[bp]
+1[cp]
+2[dp]
+1[ep]
+2[fp]
+1[bq]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+1[ar]
+2[br]
+2[cr]
+2[er]
+2[fr]
+1[gr]
+1[ds]
+)
+8
+B[eo]
+W[gq]
+B[hr]
+W[hq]
+B[iq]
+W[ip]
+B[jq]
+W[hp]

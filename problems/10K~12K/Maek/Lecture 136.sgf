@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[bp][fp][bq][dq][eq][fq][ar][cr][as][cs]AB[dn][ao][bo][ap][cp][dp][ep][cq][dr]LBC[Maek (Tesuji)
+
+Black needs a maek (tesuji) to capture some white stones. Where is it?
+])
+(;AW[bp][fp][bq][dq][eq][fq][ar][cr][as][cs]AB[dn][ao][bo][ap][cp][dp][ep][cq][dr]
+;B[aq]
+;W[er]
+;B[br]
+;W[ds]
+;B[bs]LB[aq:1][er:2][br:3][ds:4][bs:5]C[Correct
+
+
+Simply playing atari from the outside is the best move. White will capture at 2 and 4 and Black can succeed up to 5.
+])
+(;AW[bp][fp][bq][dq][eq][fq][ar][cr][as][cs]AB[dn][ao][bo][ap][cp][dp][ep][cq][dr]
+;B[br]
+;W[bs]
+;B[aq]
+;W[er]
+;B[br]
+;W[bq]LB[br:1][bs:2][aq:3][er:4][br:5][bq:6]C[Wrong
+
+
+Any other move like the throw-in at 1 here won't work. Just capturing two stones is not enough.
+])
+)

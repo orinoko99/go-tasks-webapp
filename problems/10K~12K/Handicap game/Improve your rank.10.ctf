@@ -1,0 +1,235 @@
+//19
+6
+Improve your rank
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is a good answer. White just played 2.
+\par How should Black answer?\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[pj]
+1[dn]
+6[jn]
+1[pn]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+)
+2
+B[ko]
+W[pq]
+1st Dia. Keep looking
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When Black plays 1, White will play 2,4 and 6. Black is in trouble.
+\par I don't recommend this result for Black, especially in a handicap game.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[ko]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+2[pq]
+)
+6
+B[qq]
+W[op]
+B[po]
+W[kn]
+B[lo]
+W[nn]
+2nd Dia. Dangerous for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If Black plays 1 and 3. White will answer 4 and 6.
+\par As the sequence shows this is very dangerous for Black.
+\par In an even game this result would be good for Black, but since this is a handicap game this fight is favorable for White.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[pj]
+1[dn]
+2[jn]
+2[kn]
+2[nn]
+1[pn]
+1[ko]
+1[lo]
+1[po]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+2[op]
+1[pp]
+1[eq]
+2[fq]
+2[pq]
+1[qq]
+)
+8
+B[mo]
+W[no]
+B[lm]
+W[ln]
+B[mn]
+W[mm]
+B[nm]
+W[ml]
+3rd Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When White plays \lang1042\f1\'a1\'e2\lang1043\f0 , Black 1 is the correct answer. White has to answer 2. Then Black will play 3.
+\par This is a simple but good sequence.
+\par If White plays 6 somewhere else-\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[ko]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+6[pq]
+)
+7
+B[op]
+W[oq]
+B[nq]
+W[np]
+B[mq]
+W[qq]
+B[lp]
+4th Dia. Black 4 is a good move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If White plays 1, Black will answer 2.
+\par As the sequence shows this result is very good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[ko]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+2[np]
+1[op]
+1[pp]
+1[eq]
+2[fq]
+1[mq]
+1[nq]
+2[oq]
+2[pq]
+65[kr]
+)
+6
+W[lq]
+B[lr]
+W[kq]
+B[lp]
+W[kr]
+B[mo]
+5th Dia. Empty ladder
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If White plays 1, Black will play 2 to 6.
+\par White dies.
+\par White should play as in the third diagram.\lang1042\f1
+\par
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[ko]
+1[dp]
+2[fp]
+1[jp]
+1[lp]
+2[mp]
+2[np]
+1[op]
+1[pp]
+1[eq]
+2[fq]
+2[kq]
+2[lq]
+1[mq]
+1[nq]
+2[oq]
+2[pq]
+1[lr]
+)
+6
+W[mn]
+B[kr]
+W[jq]
+B[iq]
+W[jr]
+B[ir]

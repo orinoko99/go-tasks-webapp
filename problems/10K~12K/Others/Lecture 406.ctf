@@ -1,0 +1,106 @@
+//19
+3
+Where to Capture
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Where should Black play next to save his six stones on the bottom?
+\par }
+#
+(
+2[cn]
+2[co]
+1[eo]
+1[io]
+2[ep]
+1[fp]
+1[gp]
+2[bq]
+2[cq]
+2[dq]
+1[eq]
+2[fq]
+2[gq]
+2[hq]
+2[jq]
+2[ar]
+1[br]
+1[cr]
+1[dr]
+1[er]
+2[fr]
+1[bs]
+2[cs]
+2[ds]
+2[es]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black should capture the key stones, the cutting stone at 1.
+\par
+\par }
+#
+(
+2[cn]
+2[co]
+1[eo]
+1[io]
+2[ep]
+1[fp]
+1[gp]
+2[bq]
+2[cq]
+2[dq]
+1[eq]
+2[fq]
+2[gq]
+2[hq]
+2[jq]
+2[ar]
+1[br]
+1[cr]
+1[dr]
+1[er]
+2[fr]
+1[bs]
+2[cs]
+2[ds]
+2[es]
+)
+1
+B[dp]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Capturing more but unimportant stones at 1 is not such a good idea because White will connect at 2 and Black will lose all his stones.
+\par
+\par }
+#
+(
+2[cn]
+2[co]
+1[eo]
+1[io]
+2[ep]
+1[fp]
+1[gp]
+2[bq]
+2[cq]
+2[dq]
+7[eq]
+2[fq]
+2[gq]
+2[hq]
+2[jq]
+2[ar]
+7[br]
+7[cr]
+7[dr]
+7[er]
+2[fr]
+7[bs]
+2[cs]
+2[ds]
+2[es]
+)
+2
+B[fs]
+W[dp]

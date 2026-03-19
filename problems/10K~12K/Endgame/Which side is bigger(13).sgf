@@ -1,0 +1,79 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ck][qm][bo][co][do][eo][oo][po][ap][pp][rp][sp][bq][cq][pq][qq][cr][pr][rr]AB[no][dp][ep][fp][kp][np][op][aq][dq][hq][oq][rq][sq][ar][br][dr][or][qr][cs][ds][ps][qs][rs]LB[sr:B][bs:A]LB[sr:B][bs:A]C[Which side is bigger?(13)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Which side is bigger \b A\b0  or \b B\b0 ?
+
+Think about it from both Black and White's perspective to decide which is bigger.  Also calculate how much each side is.\lang1042\f0\fs18
+
+\cf1 1)\cf0\lang1033\b\f1\fs16 A\cf2\b0  is bigger.\lang1042\f0\fs18    \cf1
+2)\cf0\lang1033\b\f1\fs16 B \cf2\b0 is bigger.\lang1042\f0\fs18   \cf0
+\cf1 3)\cf2\lang1033\f1\fs16 They're the same.\lang1042\f0\fs18
+\cf1
+\cf2
+\cf1
+\cf0
+])
+(;CR[aq][ar][br]AW[ck][qm][bo][co][do][eo][oo][po][ap][pp][rp][sp][bq][cq][pq][qq][cr][pr][rr]AB[no][dp][ep][fp][kp][np][op][aq][dq][hq][oq][rq][sq][ar][br][dr][or][qr][cs][ds][ps][qs][rs]LB[as:?]
+;W[bs]LB[bs:1][as:?]CR[aq][ar][br]C[Dia.1 How big is A?
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Let's start by calculating how big the left side \lang1042\f0\fs18 (\lang1033\b\f1\fs16 A\lang1042\b0\f0\fs18 )\lang1033\f1\fs16  is.
+
+White plays 1 and captures the \lang1042\f0\fs18\'a1\'e3 \lang1033\f1\fs16 marked stones.
+
+White gets an additional point of territory at the X marked spot, so all in all, White gets \cf1\b 7 points in husu\cf0\lang1042\b0\f0\fs18 .
+])
+(;AW[ck][qm][bo][co][do][eo][oo][po][ap][pp][rp][sp][bq][cq][pq][qq][cr][pr][rr]AB[no][dp][ep][fp][kp][np][op][aq][dq][hq][oq][rq][sq][ar][br][dr][or][qr][cs][ds][ps][qs][rs]
+;B[bs]LB[bs:1]C[Dia.2 8 points
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 This one is really easy.  If Black connects he gets a point.
+
+So this move is worth:\lang1042\f0\fs18
+7+1=\cf1\b 8\lang1033\f1\fs16  points\cf0\lang1042\b0\f0\fs18 .
+
+\lang1033\b\f1\fs16 The left side, A, is \cf1 8 points in husu\cf0\lang1042\b0\f0\fs18 .
+
+
+
+])
+(;AW[ck][qm][bo][co][do][eo][oo][po][ap][pp][rp][sp][bq][cq][pq][qq][cr][pr][rr]AB[no][dp][ep][fp][kp][np][op][aq][dq][hq][oq][rq][sq][ar][br][dr][or][qr][cs][ds][ps][qs][rs]
+;W[sr]LB[sr:1]C[Dia.3 How big is B?
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 This time let's look at the right side \lang1042\f0\fs18 (\lang1033\b\f1\fs16 B\lang1042\b0\f0\fs18 )\lang1033\f1\fs16  and see how big it is.
+
+If White captures he gets \cf1\b 4 points\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Two points for the captured stones and two points of territory.
+\lang1042\f0\fs18
+
+
+])
+(;AW[ck][qm][bo][co][do][eo][oo][po][ap][pp][rp][sp][bq][cq][pq][qq][cr][pr][rr]AB[no][dp][ep][fp][kp][np][op][aq][dq][hq][oq][rq][sq][ar][br][dr][or][qr][cs][ds][ps][qs][rs]
+;B[sr]LB[sr:1]C[Dia.4 8 points in husu
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 Figuring out things from Black's perspective is a cinch.  Black takes a stone and gets 2 points of territory, plus an additional point at X, so
+
+\b The right side, B, is worth \lang1042\b0\f0\fs18 4+4=\cf1\b 8\lang1033\f1\fs16  points in husu\cf0\lang1042\b0\f0\fs18 .
+
+
+\lang1033\f1\fs16 The answer is \cf2\lang1042\f0\fs18 3)\cf1\lang1033\f1\fs16 They're the same\cf0\lang1042\f0\fs18 .
+])
+(;AW[ck][qm][bo][co][do][eo][oo][po][ap][pp][rp][sp][bq][cq][pq][qq][cr][pr][rr]AB[no][dp][ep][fp][kp][np][op][aq][dq][hq][oq][rq][sq][ar][br][dr][or][qr][cs][ds][ps][qs][rs]LBC[No diagram name
+
+
+
+])
+)

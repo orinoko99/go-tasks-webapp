@@ -1,0 +1,68 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oq][pq][qq][nr][rr][sr]AB[op][pp][qp][rp][mq][rq][mr][qr]
+;B[nq]
+;W[os]LB[nq:1][os:2]C[One Move Captures White (6)
+
+
+\b Black to Play.\b0
+To  begin with, white's group in the corner is perfectly alive.
+
+Then,
+
+Black plays at 1 and white makes a hanging connection with 2.
+Something is wrong. White has made a mistake meaning there is a chance for black.
+])
+(;AW[oq][pq][qq][nr][rr][sr][os]AB[op][pp][qp][rp][mq][nq][rq][mr][qr]
+;B[pr]
+;W[or]LB[pr:1][or:2]C[Diagram 1 (Black Mistake)
+
+
+Now it is black's turn to make a mistake by playing dansu at 1. It is like a mistake competition. White connects at 2 and that's it.
+
+Some might think this is natural.
+However, there is a move to capture white.
+])
+(;AW[oq][pq][qq][nr][rr][sr][os]AB[op][pp][qp][rp][mq][nq][rq][mr][qr]LB[ns:B][ss:A]
+;B[rs]
+;W[pr]
+;B[qs]
+;W[ps]
+;B[ms]LB[rs:1][pr:2][qs:3][ps:4][ms:5][ns:B][ss:A]C[Diagram 2 (Ineffective)
+
+
+What if black hanes at 1?
+This lacks effectiveness. White plays dansu at 2 and there is no move left.
+
+Even if black connects at 3, white plays dansu at 4 and lives.
+
+\pard\nowidctlpar\qj However, it is worth mentioning that it is now seonsu for black to descent at 5. If white doesn't play at \b\f1 A\b0\f0 , black plays at \b\f1 B\b0\f0  killing white.
+\pard
+])
+(;CR[oq][pq][qq]AW[oq][pq][qq][nr][rr][sr][os]AB[op][pp][qp][rp][mq][nq][rq][mr][qr]LB[or:A][ps:A]
+;B[ps]LB[ps:1][or:A][ps:A]CR[oq][pq][qq]C[Diagram 3 (Correct)
+
+
+Black's diagonal move is a vital point that is not easy to find unless you know of it. It aims at capturing the three white \'a1\'e2 stones.
+
+Actually, it is not just the three white stones but white's whole group.
+\pard\nowidctlpar\qj Now even if white connects at \b\f1 A\b0\f0 , the group is dead.
+])
+(;CR[nq]AW[oq][pq][qq][nr][rr][sr]AB[op][pp][qp][rp][mq][nq][rq][mr][qr]LB[pr:A][ps:B][qs:C]
+;W[or]LB[or:1][pr:A][ps:B][qs:C]CR[nq]C[Diagram 4 (White's Correct Move)
+
+
+When black plays at \'a1\'e3, where should white play?
+
+Is it white 1? No, white gets into trouble again.
+
+\pard\nowidctlpar\qj The life-saving moves for white are \b\f1 A\b0\f0 , \b\f1 B\b0\f0 , or \b\f1 C\b0\f0 .
+\pard
+Please check for yourself.
+
+])
+)

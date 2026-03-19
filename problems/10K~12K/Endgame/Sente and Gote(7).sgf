@@ -1,0 +1,94 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nn][qn][no][mp][op][qp][oq][or]AB[lo][mo][jp][lp][np][iq][nq][nr]LB[ns:B][os:A]LB[ns:B][os:A]C[Sente and Gote(7)
+
+
+\b What is the value of the hane and connection on the first line?
+
+\b0 Against Black's hane at \b A\b0  and against White's hane at \b B\b0 , the answers are different.
+
+
+])
+(;AW[nn][qn][no][mp][op][qp][oq][or]AB[lo][mo][jp][lp][np][iq][nq][nr]
+;B[os]
+;W[ps]
+;B[ns]
+;W[pr]LB[os:1][ps:2][ns:3][pr:4]C[Dia. 01 Double Sente
+
+{\colortbl ;\red0\green0\blue255;}
+
+After Black 1 and 3, White ends up with gote with 4. So it is a sente endgame for Black.
+
+If White would play the hane, it would be sente for White as well, so it is a double sente. These double sente moves \cf1\b should be played first \cf0\b0 in the endgame.
+
+
+])
+(;AW[nn][qn][no][mp][op][qp][oq][or][pr][ps]AB[lo][mo][jp][lp][np][iq][nq][nr][ns][os]LB[kp:?][pp:?][rp:?][sp:?][ir:?][is:?]LB[kp:?][pp:?][rp:?][sp:?][ir:?][is:?]C[Dia. 02 Borderline
+
+
+As always the borderlines are made by Xs.
+Black has 14 points and White has 10 points.
+
+At first it is good to count the territory one by one point. Later if you become expert in counting it is possible to count like two, four, six, etc...
+
+])
+(;AW[nn][qn][no][mp][op][qp][oq][or]AB[lo][mo][jp][lp][np][iq][nq][nr]
+;W[ns]
+;B[mr]
+;W[ms]
+;B[ls]
+;W[os]
+;B[lr]LB[ns:1][mr:2][ms:3][ls:4][os:5][lr:6]C[Dia. 03 Also Sente for White
+
+{\colortbl ;\red0\green0\blue255;}
+
+As it was said before, even if White plays it is also sente.
+Moreover, against White 1 Black can't block directly.
+
+After Black pulls back with 2, White can go one more at 3.
+This time it is \cf1\b White's sente endgame\cf0\b0  up to 6.
+
+
+
+])
+(;AW[nn][qn][no][mp][op][qp][oq][or][ms][ns][os]AB[lo][mo][jp][lp][np][iq][nq][lr][mr][nr][ls]LB[kp:?][pp:?][rp:?][sp:?][ir:?][is:?]LB[kp:?][pp:?][rp:?][sp:?][ir:?][is:?]C[Dia. 04 Double Sente, 6 Points
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+It is the same shape like in the previous diagram and the borderlines are made with Xs.
+
+Black has 10 points, White has 12 points.
+
+After counting it is
+(14-10)+(12-10)=\cf1\b 6 points\cf0\b0 .
+Therefore, this endgame on the first line is \cf2\b double sente\cf0\b0  and worth\cf2\b  6 points\cf0\b0 .
+
+
+])
+(;AW[nn][qn][no][mp][op][qp][oq][or]AB[lo][mo][jp][lp][np][iq][nq][nr]
+;W[mr]
+;B[mq]
+;W[ns]
+;B[lr]
+;W[ms]
+;B[ls]
+;W[os]LB[mr:1][mq:2][ns:3][lr:4][ms:5][ls:6][os:7]C[Dia. 05 Gote
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+White can play the side attachment at 1.
+It is a \cf1\b 7 points gote endgame\cf0\b0 .
+
+\cf2\b Which is better, sente 6 points or gote 7 points?
+\cf0\b0
+The answer is obvious. It is strange to end up in gote just for one extra point.
+
+However, if there is no other endgame left, the best sequence is from White 1 to 7.
+
+
+])
+)

@@ -1,0 +1,170 @@
+//19
+5
+Where is a vital point?(89)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \f1 It's\b  Black\b0 's turn.\f0
+\par
+\par W captured at 1.
+\par It's a careless move.
+\par So B can have a chance to kill W's group!!
+\par
+\par }
+#
+(
+1[lp]
+1[qp]
+1[rp]
+1[sp]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+1[sq]
+1[lr]
+2[nr]
+2[or]
+2[pr]
+1[qr]
+2[rr]
+1[ps]
+)
+1
+W[qs]
+Dia.1(Right answer)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par
+\par Throw in at 1 is a \f1 brilliant move.
+\par So W\cf1\b  can't avoid a ko\cf0\b0 .
+\par \f0
+\par Continue the next page.
+\par
+\par }
+#
+(
+1[lp]
+1[qp]
+1[rp]
+1[sp]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+1[sq]
+1[lr]
+2[nr]
+2[or]
+2[pr]
+2[rr]
+1[ps]
+2[qs]
+)
+3
+B[rs]
+W[ss]
+B[sr]
+Dia.2(Continue)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par W must take off the one stone(W1).
+\par
+\par And B makes a ko.(B2)
+\par
+\par }
+#
+(
+1[lp]
+1[qp]
+1[rp]
+1[sp]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+1[sq]
+1[lr]
+2[nr]
+2[or]
+2[pr]
+2[rr]
+1[sr]
+1[ps]
+2[qs]
+2[ss]
+)
+2
+W[os]
+B[rs]
+Dia.3(Enemy's vital point)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par W would be able to live, if B crept at 1.
+\par W2 is a\cf1\b  enemy's vital point\cf0\b0 .
+\par }
+#
+(
+1[lp]
+1[qp]
+1[rp]
+1[sp]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+1[sq]
+1[lr]
+2[nr]
+2[or]
+2[pr]
+2[rr]
+1[ps]
+2[qs]
+)
+2
+B[sr]
+W[rs]
+DIa.4(The right move of W)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \cf1\b W must have descended at 1.\cf0\b0
+\par
+\par Then W's group is complitely alive!!
+\par
+\par }
+#
+(
+1[lp]
+1[qp]
+1[rp]
+1[sp]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+1[sq]
+1[lr]
+2[nr]
+2[or]
+2[pr]
+1[qr]
+2[rr]
+1[ps]
+)
+3
+W[rs]
+B[sr]
+W[qs]

@@ -1,0 +1,58 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[nq][oq][pq]AW[mm][ln][lp][oq][pq][rq][sq][lr][qr][sr][rs]AB[ql][pp][qp][rp][sp][nq][qq][or][pr]LBCR[nq][oq][pq]C[Can escape?(4)
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+W's two stones can escape??
+])
+(;CR[oq][pq]AW[mm][ln][lp][oq][pq][rq][sq][lr][qr][sr][rs]AB[ql][pp][qp][rp][sp][nq][qq][or][pr]
+;W[qn]
+;B[pn]LB[qn:1][pn:2]CR[oq][pq]C[Dia.1(Thank you move)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W thought about two stones can't escape so he tried to use them(W1)
+But it's a\cf1\b  thank you move.
+\cf0\b0
+After B2, there is no more chance to escape.
+
+
+])
+(;AW[mm][ln][lp][oq][pq][rq][sq][lr][qr][sr][rs]AB[ql][pp][qp][rp][sp][nq][qq][or][pr]
+;W[pn]
+;B[no]
+;W[om]
+;B[qm]LB[pn:1][no:2][om:3][qm:4]C[DIa.2(Nothing to do)
+
+{\colortbl ;\red0\green0\blue255;}
+
+How about invaid at 1?
+
+B2 is a \cf1\b calm answer\cf0\b0  so W had nothing to do.
+
+])
+(;CR[pp][qp][rp][sp][qq]AW[mm][ln][lp][oq][pq][rq][sq][lr][qr][sr][rs]AB[ql][pp][qp][rp][sp][nq][qq][or][pr]
+;W[op]
+;B[no]
+;W[oo]
+;B[on]
+;W[po]
+;B[np]
+;W[qo]LB[op:1][no:2][oo:3][on:4][po:5][np:6][qo:7]CR[pp][qp][rp][sp][qq]C[DIa.3(W can escape)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf0\b0
+Going out at 1 can be possible because B's three stones have a weakpoint so B has to play at 6.
+
+Up to 7, B five stones are in trouble.
+
+\cf1\b W can escape!!\cf0\b0
+])
+)

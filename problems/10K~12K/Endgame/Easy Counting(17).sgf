@@ -1,0 +1,62 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ko][hq][kq][lq][mq][lr][nr][or][pr]AB[qn][no][mp][nq][oq][pq][qq][mr][qr][os][ps]LB[ms:A][ns:B]LB[ms:A][ns:B]C[Easy Counting(17)
+
+
+\b Black to play\b0 (or \b White to play\b0 ).
+One stone vs. three stone.
+If White plays he captures with \b A\b0 , if Black plays he captures with \b B\b0 .
+
+The value of these moves are same.
+
+
+])
+(;AW[ko][hq][kq][lq][mq][lr][nr][or][pr]AB[qn][no][mp][nq][oq][pq][qq][mr][qr][os][ps]
+;W[ms]
+;B[qs]
+;W[ns]LB[ms:1][qs:2][ns:3]C[Dia. 01 If White Plays
+
+
+Let's see how many points each player has if White captures with 1.
+
+Black 2 and White 3 are natural points, they are played for convenient counting.
+
+
+])
+(;AW[ko][hq][kq][lq][mq][lr][nr][or][pr][ms][ns]AB[qn][no][mp][nq][oq][pq][qq][qr][os][ps][qs]LB[iq:?][jq:?][rq:?][sq:?][hr:?][hs:?]LB[iq:?][jq:?][rq:?][sq:?][hr:?][hs:?]C[Dia. 02 Black 4 Points, White 9 Points
+
+{\colortbl ;\red0\green0\blue255;}
+
+As always the borderlines are made by Xs.
+
+\cf1\b Black\cf0\b0  has \cf1\b 4 points\cf0\b0 , \cf1\b White\cf0\b0  has \cf1\b 9 points\cf0\b0 .
+
+])
+(;AW[ko][hq][kq][lq][mq][lr][nr][or][pr]AB[qn][no][mp][nq][oq][pq][qq][mr][qr][os][ps]LB[ls:A][ms:B]
+;B[ns]LB[ns:1][ls:A][ms:B]C[Dia. 03 If Black Plays
+
+
+After Black captures with 1, later it is counted as though White is going to have a stone at A and Black at B.
+
+
+])
+(;AW[ko][hq][kq][lq][mq][lr][ls]AB[qn][no][mp][nq][oq][pq][qq][mr][qr][ms][ns][os][ps]LB[iq:?][jq:?][rq:?][sq:?][hr:?][hs:?]LB[iq:?][jq:?][rq:?][sq:?][hr:?][hs:?]C[Dia.04 Gote 10 Points
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+Borderlines are made again. \cf1\b Black\cf0\b0  has \cf1\b 11 points\cf0\b0  and \cf1\b White\cf0\b0  has \cf1\b 6 points\cf0\b0 .
+
+After counting it is
+(11-4)+(9-6)=\cf2\b 10 points\cf0\b0 .
+
+Therefore either Black or White captures, it is worth gote \cf1\b 10 points\cf0\b0 .
+
+
+
+
+])
+)

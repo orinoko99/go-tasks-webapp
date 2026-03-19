@@ -1,0 +1,42 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[kb][rb][kc][lc][oc][pc][qc][md][od][rd][me][oe][qe][re][mf][mg][ng][og][pg][qg]AB[lb][mb][ob][mc][nc][nd][pd][qd][ne][pe][nf][of][pf]LBC[Life
+
+Black to play and live.
+])
+(;AW[kb][rb][kc][lc][oc][pc][qc][md][od][rd][me][oe][qe][re][mf][mg][ng][og][pg][qg]AB[lb][mb][ob][mc][nc][nd][pd][qd][ne][pe][nf][of][pf]
+;B[pb]
+;W[na]
+;B[qb]
+;W[rc]
+;B[qa]
+;W[oa]LB[pb:1][na:2][qb:3][rc:4][qa:5][oa:6]C[Failure
+
+Black can't live by extending at 1 because White will occupy the vital point at 2.
+
+])
+(;AW[kb][rb][kc][lc][oc][pc][qc][md][od][rd][me][oe][qe][re][mf][mg][ng][og][pg][qg]AB[lb][mb][ob][mc][nc][nd][pd][qd][ne][pe][nf][of][pf]
+;B[na]
+;W[pb]
+;B[la]LB[na:1][pb:2][la:3]C[Success
+
+Black 1 is the only move to live.When White blocks at 2, Black makes the second eye at 3.
+
+])
+(;AW[kb][rb][kc][lc][oc][pc][qc][md][od][rd][me][oe][qe][re][mf][mg][ng][og][pg][qg]AB[lb][mb][ob][mc][nc][nd][pd][qd][ne][pe][nf][of][pf]
+;B[na]
+;W[la]
+;B[pb]
+;W[pa]
+;B[qb]
+;W[rc]
+;B[qa]LB[na:1][la:2][pb:3][pa:4][qb:5][rc:6][qa:7]C[Variation
+
+
+If White responds at 2, Black will make the second eye at 3. White can't kill at 4 because Black will atari at 5.
+])
+)

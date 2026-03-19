@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dp][ep][dq][fq][gq][hq][jq][lq][dr][gr][ir][jr][gs]AB[co][do][eo][bp][fp][gp][hp][ip][eq][iq][br][er][hr][hs]LBC[How to Reduce Liberties
+
+Black to capture White.
+])
+(;AW[dp][ep][dq][fq][gq][hq][jq][lq][dr][gr][ir][jr][gs]AB[co][do][eo][bp][fp][gp][hp][ip][eq][iq][br][er][hr][hs]LB[fr:B][fs:A][is:C]
+;B[ds]
+;W[cs]
+;B[es]
+;W[cr]
+;B[bs]LB[ds:1][cs:2][es:3][cr:4][bs:5][fr:B][fs:A][is:C]C[Correct
+
+Black should play the hane at 1 and then connect at 3. Due to jachung White can't atari at A or B but has to capture at C first. Black can capture first.
+
+])
+(;AW[dp][ep][dq][fq][gq][hq][jq][lq][dr][gr][ir][jr][gs]AB[co][do][eo][bp][fp][gp][hp][ip][eq][iq][br][er][hr][hs]
+;B[es]
+;W[ds]
+;B[cs]
+;W[is]
+;B[cr]
+;W[fr]LB[es:1][ds:2][cs:3][is:4][cr:5][fr:6]C[Wrong
+
+Descending to 1 fails because White is ahead in liberties.
+
+])
+)

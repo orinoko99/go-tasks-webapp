@@ -1,0 +1,133 @@
+//19
+4
+Can be alive by one move(88)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\ltrpar\lang1042\f0
+\par You should sacrifice!!
+\par
+\par }
+#
+(
+2[no]
+2[np]
+2[pp]
+2[qp]
+2[rp]
+2[lq]
+2[nq]
+1[oq]
+1[pq]
+2[qq]
+1[rq]
+2[mr]
+1[nr]
+1[qr]
+2[rr]
+1[sr]
+1[qs]
+2[rs]
+)
+0
+Dia.1(Easy to capture)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Beginners usually make this kind of mistake.
+\par
+\par After 2, B has nothing to do.
+\par
+\par }
+#
+(
+2[no]
+2[np]
+2[pp]
+2[qp]
+2[rp]
+2[lq]
+2[nq]
+1[oq]
+1[pq]
+2[qq]
+1[rq]
+2[mr]
+1[nr]
+1[qr]
+2[rr]
+1[sr]
+1[qs]
+2[rs]
+)
+2
+B[ss]
+W[or]
+Dia.2(Severe)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Connecting at 1 wants W plays at A but it is B's wish.
+\par
+\par \cf1\b Playing inside at 2 is severe.\cf0\b0
+\par B is dead.
+\par }
+#
+(
+2[no]
+2[np]
+2[pp]
+2[qp]
+2[rp]
+2[lq]
+2[nq]
+1[oq]
+1[pq]
+2[qq]
+1[rq]
+65[sq]
+2[mr]
+1[nr]
+1[qr]
+2[rr]
+1[sr]
+1[qs]
+2[rs]
+)
+2
+B[pr]
+W[os]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \cf1\b Tiger's mouth at 1\cf0\b0  is a proper move.
+\par
+\par Up to 3, B's two stones are dead but another group can live.
+\par
+\par }
+#
+(
+2[no]
+2[np]
+2[pp]
+2[qp]
+2[rp]
+2[lq]
+2[nq]
+1[oq]
+1[pq]
+2[qq]
+1[rq]
+2[mr]
+1[nr]
+1[qr]
+2[rr]
+1[sr]
+1[qs]
+2[rs]
+65[ss]
+)
+3
+B[os]
+W[sq]
+B[pr]

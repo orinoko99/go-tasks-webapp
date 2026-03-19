@@ -1,0 +1,130 @@
+//19
+4
+Basic skill
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+\par
+\par B might be able to attack W's three stones.
+\par What's the best result??
+\par
+\par
+\par }
+#
+(
+1[ql]
+2[no]
+1[oo]
+1[qo]
+1[ro]
+1[so]
+2[mp]
+1[pp]
+2[rp]
+1[sp]
+1[oq]
+2[pq]
+2[qq]
+2[nr]
+2[or]
+1[pr]
+)
+0
+DIa.1(Endgame)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Playing at 2 to 2 is a very good endgame but this isn't about endgame problem.
+\par
+\par }
+#
+(
+1[ql]
+2[no]
+1[oo]
+1[qo]
+1[ro]
+1[so]
+2[mp]
+1[pp]
+2[rp]
+1[sp]
+1[oq]
+2[pq]
+2[qq]
+2[nr]
+2[or]
+1[pr]
+)
+3
+B[rr]
+W[qr]
+B[rq]
+DIa.2(The lack of liberties)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B1 is the right answer but dansu at 3 is a huge mistake.
+\par
+\par After 4, W has two more liberties.
+\par
+\par }
+#
+(
+1[ql]
+2[no]
+1[oo]
+1[qo]
+1[ro]
+1[so]
+2[mp]
+1[pp]
+2[rp]
+1[sp]
+1[oq]
+2[pq]
+2[qq]
+2[nr]
+2[or]
+1[pr]
+)
+4
+B[qr]
+W[rr]
+B[qp]
+W[rq]
+DIa.3(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Throw in at 1 is the right answer.
+\par B can make W's group is in \lang1033\f1 Chokchoksu.
+\par
+\par This is\cf1\b  the tesuji of chokchoksu. \f2
+\par \cf0\lang1042\b0\f0
+\par
+\par
+\par }
+#
+(
+1[ql]
+2[no]
+1[oo]
+1[qo]
+1[ro]
+1[so]
+2[mp]
+1[pp]
+2[rp]
+1[sp]
+1[oq]
+2[pq]
+2[qq]
+2[nr]
+2[or]
+1[pr]
+1[qr]
+2[rr]
+)
+3
+B[rq]
+W[sq]
+B[qp]

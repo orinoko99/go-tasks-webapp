@@ -1,0 +1,174 @@
+//19
+4
+Where is a vital point?(62)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It's\b  White\b0 's turn.
+\par
+\par B plays at \'a1\'e3 to be alive.
+\par but it's very big mistake.
+\par
+\par }
+#
+(
+2[on]
+2[pn]
+2[qn]
+2[rn]
+2[no]
+1[oo]
+1[po]
+1[qo]
+2[np]
+1[op]
+1[qp]
+2[rp]
+2[lq]
+2[mq]
+2[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[qr]
+2[rr]
+2[ls]
+5[ps]
+2[rs]
+)
+0
+Dia.1(Right answer)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Attaching at 1 is a right move.
+\par
+\par There is no way to live for Black.
+\par
+\par
+\par }
+#
+(
+2[on]
+2[pn]
+2[qn]
+2[rn]
+2[no]
+1[oo]
+1[po]
+1[qo]
+2[np]
+1[op]
+1[qp]
+2[rp]
+2[lq]
+2[mq]
+2[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[qr]
+2[rr]
+2[ls]
+1[ps]
+2[rs]
+)
+3
+W[ns]
+B[or]
+W[ms]
+Dia.2(Ko)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Dansu at 1 wants B to connect at A
+\par and W can capture black's group to play at B.
+\par
+\par But if Black just connects at 2 It would be ko.
+\par
+\par }
+#
+(
+2[on]
+2[pn]
+2[qn]
+2[rn]
+2[no]
+1[oo]
+1[po]
+1[qo]
+2[np]
+1[op]
+1[qp]
+2[rp]
+2[lq]
+2[mq]
+2[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+65[pr]
+1[qr]
+2[rr]
+2[ls]
+66[ns]
+1[ps]
+2[rs]
+)
+2
+W[qs]
+B[or]
+Dia.3(Death?)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Up to 3 seems to be a vital point.
+\par But it's a\cf1\b  misreading\cf0\b0 .
+\par
+\par Black would be alive if\cf2\b  \cf0\b0 it\cf2\b  decends\cf0\b0  at 3 Instead of 2.
+\par
+\par
+\par }
+#
+(
+2[on]
+2[pn]
+2[qn]
+2[rn]
+2[no]
+1[oo]
+1[po]
+1[qo]
+2[np]
+1[op]
+1[qp]
+2[rp]
+2[lq]
+2[mq]
+2[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[qr]
+2[rr]
+2[ls]
+1[ps]
+2[rs]
+)
+3
+W[or]
+B[os]
+W[ns]

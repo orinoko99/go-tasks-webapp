@@ -1,0 +1,50 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ro][pp][qp][mq][nq][oq][rq][sq][lr][ps]AB[pq][qq][nr][or][rr][sr][ns]LBC[One move problems(47)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Black has quite a bit of eye space.  Reduce his eye space so that he dies.  The key move is the third move in the sequence.
+
+\lang1042\f0\fs18
+
+])
+(;AW[ro][pp][qp][mq][nq][oq][rq][sq][lr][ps]AB[pq][qq][nr][or][rr][sr][ns]
+;W[rs]
+;B[qr]
+;W[qs]
+;B[pr]LB[rs:1][qr:2][qs:3][pr:4]C[Dia.1 The 2,1 point
+
+The 2,1 point in this case doesn't help us as it doesn't kill off Black.  Black will connect at 2 and then at 4, so that he lives in Bik (mutual life).  The 2,1 point can't always come to the rescue.
+\lang1042\f1\fs18
+
+])
+(;AW[ro][pp][qp][mq][nq][oq][rq][sq][lr][ps]AB[pq][qq][nr][or][rr][sr][ns]LB[qs:A]
+;W[qr]
+;B[pr]
+;W[rs]LB[qr:1][pr:2][rs:3][qs:A]C[Dia.2 Pae is a failure
+
+White 1 is a good start and of course Black will dansu at 2.  The problem is White 3 starts a Pae, and that's not what we're going for here.  White can unconditionally capture Black.
+\lang1042\f1\fs18
+
+
+])
+(;AW[ro][pp][qp][mq][nq][oq][rq][sq][lr][qr][ps]AB[pq][qq][nr][or][pr][rr][sr][ns]LB[ss:A]
+;W[qs]
+;B[os]
+;W[rs]LB[qs:1][os:2][rs:3][ss:A]C[Dia.3 Correct / Connect
+
+Instead of starting a Pae White should connect at 1.  Black doesn't have enough liberties to make an eye on the inside so he has to played 2.  White will play 3, and this is a dead shape for Black.  If he captures at A White will just kill him.
+\lang1042\f1\fs18
+
+])
+(;AW[ro][pp][qp][mq][nq][oq][rq][sq][lr][ps]AB[pq][qq][nr][or][rr][sr][ns]LBC[No diagram name
+
+
+
+])
+)

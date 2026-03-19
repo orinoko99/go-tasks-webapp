@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[bo][co][bp][cq][dq][cr][er]AB[cp][dp][ep][bq][eq][dr][fr]LBC[Strongest Sequence
+
+Black to play. What's his best endgame sequence in the corner?
+])
+(;AW[bo][co][bp][cq][dq][cr][er]AB[cp][dp][ep][bq][eq][dr][fr]
+;B[br]
+;W[ds]
+;B[bs]
+;W[cs]
+;B[fs]LB[br:1][ds:2][bs:3][cs:4][fs:5]C[Success
+
+Black should block at 1. When White captures at 2, descending at 3 is good. Even if White connects at 4, Black will descend at 5 to win the capturing race in the corner.
+
+])
+(;AW[bo][co][bp][cq][dq][cr][er]AB[cp][dp][ep][bq][eq][dr][fr]
+;B[es]
+;W[br]LB[es:1][br:2]C[Failure
+
+
+Capturing at 1 fails because White will turn at 2 to save his stones.
+])
+)

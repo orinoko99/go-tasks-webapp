@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[po][qo][lp][qp][kq][mq][pq][mr][qr][rr]AB[mo][oo][mp][op][pp][lq][qq][rq]LBC[How to Cut
+
+How should Black play in order to cut the white stones?
+])
+(;AW[po][qo][lp][qp][kq][mq][pq][mr][qr][rr]AB[mo][oo][mp][op][pp][lq][qq][rq]
+;B[pr]
+;W[oq]
+;B[nq]
+;W[or]
+;B[nr]
+;W[ps]
+;B[lr]LB[pr:1][oq:2][nq:3][or:4][nr:5][ps:6][lr:7]C[Correct
+
+The most efficient way to cut white is by first sacrificing a stone at 1 and then pushing through at 3 and 5. After 6, Black can capture two stones at 7.
+
+])
+(;AW[po][qo][lp][qp][kq][mq][pq][mr][qr][rr]AB[mo][oo][mp][op][pp][lq][qq][rq]
+;B[oq]
+;W[pr]
+;B[or]LB[oq:1][pr:2][or:3]C[Wrong
+
+Pushing through with 1 and 3 is less effective. Black succeeded in cutting but his group is still weak. Compare with the solution to see the difference.
+
+])
+)

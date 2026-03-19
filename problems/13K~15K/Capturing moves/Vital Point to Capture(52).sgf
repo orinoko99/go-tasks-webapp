@@ -1,0 +1,63 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qo][np][op][pp][rp][nq][sq][nr][ns]AB[pq][rq][or][rr][sr][os]LBC[How to kill? (52)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 So, where should we play to kill Black?  Can we kill Black, or will it be pae?  You decide.
+
+\lang1042\f0\fs18
+
+])
+(;AW[qo][np][op][pp][rp][nq][sq][nr][ns]AB[pq][rq][or][rr][sr][os]
+;W[qr]
+;B[qq]
+;W[rs]
+;B[oq]
+;W[ps]LB[qr:1][qq:2][rs:3][oq:4][ps:5]C[Dia.1 Correct
+
+White should start off with 1.  Black has to keep White disconnected with 2, but then White will play 3!  Black can try to strengthen his shape wiht 4 but White will play 5 and as we can see Black is dead.  \lang1042\f1\fs18
+
+])
+(;CR[rs]AW[qo][np][op][pp][rp][nq][sq][nr][qr][ns][rs]AB[pq][qq][rq][or][rr][sr][os]LB[qs:A]
+;B[ps]
+;W[oq]LB[ps:1][oq:2][qs:A]CR[rs]C[Dia.2 No mutual life
+
+Black may think that he can make Bik if he plays at 1 but the problem is when White plays 2, Black cannot play at A, leaving Black out of luck.
+\lang1042\f1\fs18
+
+])
+(;AW[qo][np][op][pp][rp][nq][sq][nr][ns]AB[pq][rq][or][rr][sr][os]
+;W[rs]
+;B[qr]
+;W[oq]
+;B[qs]
+;W[pr]
+;B[ps]
+;W[qq]LB[rs:1][qr:2][oq:3][qs:4][pr:5][ps:6][qq:7]C[Dia.3 Give-away
+
+White 1 might look like the vital spot but you're just giving Black a chance to live where there was none.  The sequence continues up to White 5 where White must throw in to start the Pae at 7.
+\lang1042\f1\fs18
+
+])
+(;AW[qo][np][op][pp][rp][nq][sq][nr][ns]AB[pq][rq][or][rr][sr][os]
+;W[qq]
+;B[qr]
+;W[pr]
+;B[ps]
+;W[oq]LB[qq:1][qr:2][pr:3][ps:4][oq:5]C[Dia.4 Still Pae
+
+If you just throw in directly with 1 it's still Pae.  The shape is similar to the previous one and the life and death of this group will be decided in a Pae.  However, White should kill Black outright so this is not acceptable.
+\lang1042\f1\fs18
+
+])
+(;AW[qo][np][op][pp][rp][nq][sq][nr][ns]AB[pq][rq][or][rr][sr][os]LBC[No diagram name
+
+
+
+])
+)

@@ -1,0 +1,75 @@
+//19
+3
+Black to capture White
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par This is a very basic shape that often appears in actual game. Can you capture White?
+\par }
+#
+(
+1[bn]
+1[bo]
+1[do]
+2[bp]
+1[cp]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+2[dr]
+1[er]
+2[cs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Making a Ko is the best Black can achieve. Beware of the correct sequence starting with Black 1.
+\par }
+#
+(
+1[bn]
+1[bo]
+1[do]
+2[bp]
+1[cp]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+2[dr]
+1[er]
+2[cs]
+)
+6
+B[ar]
+W[br]
+B[es]
+W[ds]
+B[bs]
+W[as]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Oh, what a pity! Black had a good idea but started with the wrong move. White promptly takes advantage of Black's mistakes and happily lives up to White 4.
+\par }
+#
+(
+1[bn]
+1[bo]
+1[do]
+2[bp]
+1[cp]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+2[dr]
+1[er]
+2[cs]
+)
+4
+B[es]
+W[ar]
+B[ap]
+W[bs]

@@ -1,0 +1,50 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oo][qo][ro][so][sp][oq][pq][or][os]AB[rp][qq][sq][pr][qr][ps]LBC[One move problem (48)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Black has a rather flexible shape so finding the right way to attack is no easy task.  Pae is not good enough, you can capture it unconditionally.
+
+\lang1042\f0\fs18
+])
+(;AW[oo][qo][ro][so][sp][oq][pq][or][os]AB[rp][qq][sq][pr][qr][ps]
+;W[qp]
+;B[rs]
+;W[rq]
+;B[sr]LB[qp:1][rs:2][rq:3][sr:4]C[Dia.1 An unsuccesful attack
+
+White 1 is a fruitless attack.  Black can make an eye at 2 and since White 3 can't make Black's eye false because it lacks liberties, Black is alive.  \lang1042\f1\fs18
+
+])
+(;AW[oo][qo][ro][so][sp][oq][pq][or][os]AB[rp][qq][sq][pr][qr][ps]
+;W[rr]
+;B[rs]
+;W[sr]
+;B[rq]LB[rr:1][rs:2][sr:3][rq:4]C[2µµ(Èæ2, È£¼ö)
+
+White 1 is a good way to attack in a lot of other shapes but here it fails.  Black 2 is a good move.  White plays 3, and Black 4 and Black is clearly alive.  So, after all that, we should be able to arrive at an answer.
+\lang1042\f1\fs18
+
+])
+(;AW[oo][qo][ro][so][sp][oq][pq][or][os]AB[rp][qq][sq][pr][qr][ps]LB[rq:A][sr:B]
+;W[rs]
+;B[rr]
+;W[qp]
+;B[ss]LB[rs:1][rr:2][qp:3][ss:4][rq:A][sr:B]C[Dia.3 Correct / Dead in double pae
+
+This shape is interesting because usually double Pae is difficult for beginners.  If Black could've played on that spot he'd be alive.  White 1 is therefore a severe move.  White takes away an eye with 3, and Black throws in with 4 to start the Pae.
+
+But!  White can take at A.  If Black finds a pae threat it doesn't so much matter, because then White will take at B.  This means Black is dead in double pae.
+\lang1042\f1\fs18
+])
+(;AW[oo][qo][ro][so][sp][oq][pq][or][os]AB[rp][qq][sq][pr][qr][ps]LBC[No diagram name
+
+
+
+])
+)

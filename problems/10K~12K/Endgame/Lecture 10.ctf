@@ -1,0 +1,82 @@
+//19
+3
+Endgame
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 What's the best endgame move for Black?
+\par }
+#
+(
+1[ao]
+1[bo]
+2[ap]
+2[bp]
+1[cp]
+1[dp]
+1[ep]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+2[br]
+2[dr]
+1[er]
+1[fr]
+)
+0
+Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The large diagonal vital point threatens to capture in a snapback, so White needs to connect at 2. Next, playing at the vital point at 3 and connecting at 5 is correct. The result is a bik/seki.
+\par }
+#
+(
+1[ao]
+1[bo]
+2[ap]
+2[bp]
+1[cp]
+1[dp]
+1[ep]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+2[br]
+2[dr]
+1[er]
+1[fr]
+)
+5
+B[ar]
+W[bq]
+B[cs]
+W[ds]
+B[bs]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The hane at 1 is not enough. White blocks at 2 and lives at 4.
+\par }
+#
+(
+1[ao]
+1[bo]
+2[ap]
+2[bp]
+1[cp]
+1[dp]
+1[ep]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+2[br]
+2[dr]
+1[er]
+1[fr]
+)
+4
+B[ds]
+W[cs]
+B[es]
+W[ar]

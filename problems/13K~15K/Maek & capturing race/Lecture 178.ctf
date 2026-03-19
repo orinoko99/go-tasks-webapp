@@ -1,0 +1,99 @@
+//19
+3
+Black's best answer
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 How should Black response to White's cut?
+\par }
+#
+(
+2[cn]
+2[en]
+2[fn]
+2[gn]
+2[bo]
+2[eo]
+1[fo]
+1[go]
+2[ho]
+1[bp]
+2[cp]
+2[dp]
+1[ep]
+1[gp]
+2[hp]
+1[bq]
+1[cq]
+1[dq]
+2[eq]
+1[gq]
+2[hq]
+)
+3
+W[``]
+W[``]
+W[``]
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Go around at 1 is the best way to handle White's cut. If White takes at 2, Black descends to 3.
+\par }
+#
+(
+2[cn]
+2[en]
+2[fn]
+2[gn]
+2[bo]
+2[eo]
+1[fo]
+1[go]
+2[ho]
+1[bp]
+2[cp]
+2[dp]
+1[ep]
+1[gp]
+2[hp]
+1[bq]
+1[cq]
+1[dq]
+2[eq]
+1[gq]
+2[hq]
+)
+3
+B[er]
+W[fp]
+B[gr]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Don't save this single stone! White goes round at 2 and captures many black stones.
+\par }
+#
+(
+2[cn]
+2[en]
+2[fn]
+2[gn]
+2[bo]
+2[eo]
+1[fo]
+1[go]
+2[ho]
+1[bp]
+2[cp]
+2[dp]
+1[ep]
+1[gp]
+2[hp]
+1[bq]
+1[cq]
+1[dq]
+2[eq]
+1[gq]
+2[hq]
+)
+2
+B[fp]
+W[gr]

@@ -1,0 +1,205 @@
+//19
+6
+Living with one Move(3)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 .
+\par
+\par The title already gives hint, isn't?
+\par Where is the vital point?
+\par
+\par
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+2[rr]
+)
+0
+Dia. 01 Five Space Shape
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black 1 is a powerful vital point which increases the eye-space.
+\par However, in this situation, after White 2 Black can't live.
+\par
+\par After Black 3, White 4 is the vital point and it becomes the dead five space shape.
+\par If Black plays at 4 instead of 3, White takes it with A and Black is dead again.
+\par
+\par
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+2[rr]
+65[ss]
+)
+4
+B[os]
+W[qs]
+B[sr]
+W[rs]
+Dia. 2 If White Plays Elsewhere...
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par What happens if White plays elsewhere after Black \'a1\'e3?
+\par
+\par Black 1 is the vital point.
+\par If White takes it at 1, Black plays dansu at B and lives because White can't play illegal move.
+\par
+\par That's why White played at 1 in the previous diagram.
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+2[rr]
+5[sr]
+1[os]
+66[ps]
+2[qs]
+65[ss]
+)
+1
+B[rs]
+Dia. 03 Black can't Live with 1
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black 1 is also the 1-2 point.
+\par Is it possible to live with this move?
+\par
+\par White 2 is the vital point. After Black 3 White 4 is another vital point. It became the same shape like in Dia. 01.
+\par
+\par So it is not possible to live with Black 1 either.
+\par
+\par
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+2[rr]
+65[sr]
+)
+4
+B[sr]
+W[rs]
+B[os]
+W[qs]
+Dia. 04 Vital Point of Living
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black has no other way but to play the last 1-2 point at 1.
+\par After White 2, it is good to expand the eye-space with 3.
+\par
+\par Black lived up to 5. It is good that Black has two outside liberties.
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+2[rr]
+)
+5
+B[rs]
+W[sr]
+B[os]
+W[qs]
+B[ps]
+Dia. 05 White 1?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against Black \'a1\'e3, it is not scary if White plays at 1.
+\par Black can live with 2.
+\par
+\par Next, if White takes it with A, Black plays dansu from B and White can't connect.
+\par
+\par Black can play at B instead of 2, the result is going to be the same.
+\par
+\par
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+2[rr]
+66[ps]
+5[rs]
+65[ss]
+)
+2
+W[qs]
+B[sr]

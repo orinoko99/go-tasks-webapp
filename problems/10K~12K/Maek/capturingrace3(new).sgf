@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cn][co][bp][dp][aq][bq][dq][eq][ar][er][es]AB[do][eo][cp][fp][cq][fq][br][cr][dr][gr][bs][ds]LBC[Capturing Race
+
+Black to play and win the capturing race.
+])
+(;AW[cn][co][bp][dp][aq][bq][dq][eq][ar][er][es]AB[do][eo][cp][fp][cq][fq][br][cr][dr][gr][bs][ds]LB[as:a]
+;B[bo]
+;W[bn]
+;B[fr]
+;W[ao]
+;B[fs]LB[bo:1][bn:2][fr:3][ao:4][fs:5][as:a]C[Correct
+
+Black should sacrifice one stone at 1 in order to increase his liberties. Even if White captures this stones with 2, Black can win the capturing race with 3. After that, White can't enter at a because he's short of liberties. Black 5 shows that Black has one more liberty than White.
+
+])
+(;CR[cp][cq][br][cr][dr][bs][ds]AW[cn][co][bp][dp][aq][bq][dq][eq][ar][er][es]AB[do][eo][cp][fp][cq][fq][br][cr][dr][gr][bs][ds]
+;B[fr]
+;W[as]LB[fr:1][as:2]CR[cp][cq][br][cr][dr][bs][ds]C[Failure
+
+Immediately filling liberties at 1 fails because White will put the Black stones in atari with 2.
+
+])
+)

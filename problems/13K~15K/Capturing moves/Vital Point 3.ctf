@@ -1,0 +1,146 @@
+//19
+4
+Vital Point 3
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Checking in an instant, it seems Black is alive.
+\par
+\par However there is a vital point of this life and death problem.
+\par If White finds the first move, he can capture Black.
+\par Pae is a failure.
+\par }
+#
+(
+2[oo]
+2[qo]
+2[ro]
+2[so]
+1[pp]
+2[qp]
+1[rp]
+1[sp]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+2[sq]
+2[or]
+1[pr]
+1[rr]
+1[ps]
+2[rs]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Blocking from the outside with White 1 is the vital point to capture.
+\par It is hard to find this kind of move during an actual game.
+\par
+\par Black has to connect at 2 and then White 3 is a good move so Black is dead.
+\par }
+#
+(
+2[oo]
+2[qo]
+2[ro]
+2[so]
+1[pp]
+2[qp]
+1[rp]
+1[sp]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+2[sq]
+2[or]
+1[pr]
+1[rr]
+1[ps]
+2[rs]
+)
+3
+W[os]
+B[qr]
+W[sr]
+Dia. 02 Bend Four in the Corner
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par This is the proof of Black's death.
+\par If Black plays, the only move is to capture with 1.
+\par
+\par After that White takes with 2.
+\par It becomes the \cf1\b bend four in the corner\cf0\b0  shape.
+\par
+\par
+\par
+\par }
+#
+(
+2[oo]
+2[qo]
+2[ro]
+2[so]
+1[pp]
+2[qp]
+1[rp]
+1[sp]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+2[sq]
+2[or]
+1[pr]
+1[qr]
+1[rr]
+2[sr]
+2[os]
+1[ps]
+2[rs]
+)
+2
+B[ss]
+W[sr]
+Dia. 03 Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Attacking from White 1 is \cf1\b impatient\cf0\b0 .
+\par Black 2 and White 3 are only moves.
+\par After that if Black plays at 4, White makes pae with 5.
+\par
+\par This was a \cf1\b wrong sequence\cf0\b0 .
+\par Starting the attack from 5 is the right order.
+\par
+\par }
+#
+(
+2[oo]
+2[qo]
+2[ro]
+2[so]
+1[pp]
+2[qp]
+1[rp]
+1[sp]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+2[sq]
+2[or]
+1[pr]
+1[rr]
+1[ps]
+2[rs]
+)
+5
+W[sr]
+B[ss]
+W[sr]
+B[qs]
+W[os]

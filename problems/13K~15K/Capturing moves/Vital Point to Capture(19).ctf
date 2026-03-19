@@ -1,0 +1,127 @@
+//19
+4
+Vital Point to Capture?(19)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 .
+\par Do you think White's eye-space is big? You do? I see.
+\par
+\par But actually if Black finds the right vital point White is going to die.
+\par }
+#
+(
+1[oo]
+1[qo]
+1[ro]
+2[pp]
+1[qp]
+2[rp]
+2[sp]
+1[oq]
+1[pq]
+2[qq]
+1[or]
+2[pr]
+2[qr]
+2[rs]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's \cf1\b placement \cf0\b0 at 1 is a \cf1\b severe move\cf0\b0 .
+\par
+\par It is looking at the snapback at A.
+\par
+\par If White plays at 2, Black blocks with 3 which is a calm move.
+\par
+\par A and B are miai so White can't live anymore.
+\par
+\par
+\par }
+#
+(
+1[oo]
+1[qo]
+1[ro]
+2[pp]
+1[qp]
+2[rp]
+2[sp]
+1[oq]
+1[pq]
+2[qq]
+65[rq]
+1[or]
+2[pr]
+2[qr]
+66[ps]
+2[rs]
+)
+3
+B[sr]
+W[rr]
+B[so]
+Dia. 02 Variation
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against Black's placement at \'a1\'e3, even if White makes an eye with 1, Black's cut at 2 works so White can't live.
+\par
+\par After Black \'a1\'e3, there is no solution for White.
+\par
+\par
+\par }
+#
+(
+1[oo]
+1[qo]
+1[ro]
+2[pp]
+1[qp]
+2[rp]
+2[sp]
+1[oq]
+1[pq]
+2[qq]
+1[or]
+2[pr]
+2[qr]
+5[sr]
+2[rs]
+)
+4
+W[ps]
+B[rq]
+W[rr]
+B[so]
+Dia. 03 Opponent's Vital Point
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's block at 1 ignores the question of the life and death problem.
+\par White is satisfied after living with 2.
+\par
+\par If Black plays hane at A instead of 1, Black lives again with 2. The 1-2 point was the vital point in this case. Moreover "\cf1\b the opponent's vital point is my vital point proverb\cf0\b0 " was useful again.
+\par
+\par }
+#
+(
+1[oo]
+1[qo]
+1[ro]
+2[pp]
+1[qp]
+2[rp]
+2[sp]
+1[oq]
+1[pq]
+2[qq]
+1[or]
+2[pr]
+2[qr]
+2[rs]
+)
+2
+B[so]
+W[sr]

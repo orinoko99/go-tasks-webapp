@@ -1,0 +1,80 @@
+//19
+3
+Haengma
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 How should Black respond to White's knight's move at x?
+\par }
+#
+(
+2[cn]
+2[en]
+2[eo]
+1[fo]
+1[ho]
+2[bp]
+2[cp]
+2[dp]
+1[ep]
+1[fp]
+1[bq]
+1[cq]
+1[dq]
+2[hq]
+2[jq]
+8[fr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black should respond at 1 and 3. This way Black is alive in the corner.
+\par }
+#
+(
+2[cn]
+2[en]
+2[eo]
+1[fo]
+1[ho]
+2[bp]
+2[cp]
+2[dp]
+1[ep]
+1[fp]
+1[bq]
+1[cq]
+1[dq]
+2[hq]
+2[jq]
+2[fr]
+)
+3
+B[er]
+W[fq]
+B[eq]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Responding at 1 is not good because White will push at 2 reducing Black's eye space to one eye. This way White can aim at attacking the whole Black group.
+\par }
+#
+(
+2[cn]
+2[en]
+2[eo]
+1[fo]
+1[ho]
+2[bp]
+2[cp]
+2[dp]
+1[ep]
+1[fp]
+1[bq]
+1[cq]
+1[dq]
+2[hq]
+2[jq]
+2[fr]
+)
+3
+B[eq]
+W[er]
+B[dr]

@@ -1,0 +1,46 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[om][qm][pn][rn][sn][no][oo][pp][rp][pq][rq]AB[po][qo][ro][so][op][oq][pr][qr][rr][sr]LBC[Easy capturing race?
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+It seems to be easy but there is some tricks.
+])
+(;AW[om][qm][pn][rn][sn][no][oo][pp][rp][pq][rq]AB[po][qo][ro][so][op][oq][pr][qr][rr][sr]LB[sp:A]
+;W[qp]
+;B[sq]LB[qp:1][sq:2][sp:A]C[DIa.1(Self-dansu)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W1 is a\cf1\b  self-dansu move\cf0\b0 .
+
+W tried to reduce B's liberties but also reduced his own liberty and B can connect another group(B2).
+
+])
+(;AW[om][qm][pn][rn][sn][no][oo][pp][rp][pq][rq]AB[po][qo][ro][so][op][oq][pr][qr][rr][sr]LB[qp:A]
+;W[sp]
+;B[qq]LB[sp:1][qq:2][qp:A]C[Dia.2(Same thing)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Reduction at 1 is also \cf1\b self-dansu move\cf0\b0 .
+
+Two stones will be dead.
+])
+(;CR[po][qo][ro][so]AW[om][qm][pn][rn][sn][no][oo][pp][rp][pq][rq]AB[po][qo][ro][so][op][oq][pr][qr][rr][sr]
+;W[qn]LB[qn:1]CR[po][qo][ro][so]C[DIa.3(Right answer)
+
+
+You should remember that the basic rule of capturing race which to reduce from outside.
+
+So W1 is the right answer.
+
+
+
+])
+)

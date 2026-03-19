@@ -1,0 +1,27 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[co][bp][dp][fp][bq][cq][fq][dr][er][gr][cs]AB[bo][eo][ap][ep][dq][eq][br][cr]LBC[Capturing Race
+
+Black to win the capturing race. Where should he play?
+])
+(;AW[co][bp][dp][fp][bq][cq][fq][dr][er][gr][cs]AB[bo][eo][ap][ep][dq][eq][br][cr]
+;B[aq]
+;W[cp]
+;B[cn]LB[aq:1][cp:2][cn:3]C[Correct Answer
+
+
+Spinning around at 1 is the best move for Black. If White tries to save all his stones, he will end up being captured completely.
+])
+(;AW[co][bp][dp][fp][bq][cq][fq][dr][er][gr][cs]AB[bo][eo][ap][ep][dq][eq][br][cr]
+;B[do]
+;W[ar]
+;B[cp]LB[do:1][ar:2][cp:3]C[Wrong
+
+
+Starting from the outside gives Black great influence but he fails to capture the corner. White wins the capturing race.
+])
+)

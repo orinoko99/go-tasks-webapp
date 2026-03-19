@@ -1,0 +1,62 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[lo][np][op][pp][qp][rp][sp][mq][mr][or][ms]AB[nq][oq][pq][rq][nr][qr][ns][os][ps]LBC[One Move Captures Black (16)
+
+
+\b White to Play.\b0
+Black appears to be perfectly alive.
+
+However, black is short on liberties!
+If you exploit this, you can catch this big group of black's.
+])
+(;AW[lo][np][op][pp][qp][rp][sp][mq][mr][or][ms]AB[nq][oq][pq][rq][nr][qr][ns][os][ps]
+;W[sq]
+;B[sr]
+;W[qq]
+;B[rr]LB[sq:1][sr:2][qq:3][rr:4]C[Diagram 1 (Endgame Moves)
+
+
+White 1 and 3 are seonsu, but they are only endgame moves.
+
+If this were a real game, you might have not even noticed you made a mistake.
+])
+(;AW[lo][np][op][pp][qp][rp][sp][mq][mr][or][ms]AB[nq][oq][pq][rq][nr][qr][ns][os][ps]
+;W[sr]
+;B[sq]
+;W[rr]
+;B[qq]
+;W[rs]LB[sr:1][sq:2][rr:3][qq:4][rs:5]C[Diagram 2 (Pik)
+
+
+White 1 is thoughtful. However, though it may be a creative idea, there is no move to capture black.
+
+Up to 5, black lives in pik.
+
+])
+(;AW[lo][np][op][pp][qp][rp][sp][mq][mr][or][ms]AB[nq][oq][pq][rq][nr][qr][ns][os][ps]LB[ss:A]
+;W[rr]
+;B[sr]
+;W[rs]
+;B[qs]
+;W[qq]LB[rr:1][sr:2][rs:3][qs:4][qq:5][ss:A]C[Diagram 3 (Correct)
+
+
+White's attachment at the 2-2 point is ingenious. If black plays at 2, white slips away with 3.
+
+If black plays at 4, white plays dansu at 5 and something about black's shape looks wrong...
+
+\pard\nowidctlpar\qj After black captures white at \b\f1 A\b0\f0  -
+])
+(;AW[lo][np][op][pp][qp][rp][sp][mq][qq][mr][or][ms]AB[nq][oq][pq][rq][nr][qr][sr][ns][os][ps][qs][ss]
+;W[rr]LB[rr:1]C[Diagram 4 (Correct Continuation)
+
+
+Now, a beginner can solve this problem. White throws-in with 1 and black is dead.
+
+Black's shortage of liberties was fatal.
+])
+)

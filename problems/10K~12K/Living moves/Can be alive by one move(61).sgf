@@ -1,0 +1,74 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[rp][qq][rq][pr][os]AB[qn][ro][pp][qp][pq][nr][or]LBC[Can be alive by one move(61)
+
+
+\lang1033\f1 It's\b  White\b0 's turn.\lang1042\f0
+
+You can't make a ko.
+
+])
+(;AW[rp][qq][rq][pr][os]AB[qn][ro][pp][qp][pq][nr][or]LB[qs:A]
+;W[rr]
+;B[qs]
+;W[ps]
+;B[rs]
+;W[sp]
+;B[sr]
+;W[qr]
+;B[ns]LB[rr:1][qs:2][ps:3][rs:4][sp:5][sr:6][qr:7][ns:8][qs:A]C[Dia.1(Can't be alive)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b 2 to 2 point\cf0\b0  is usually good vital point but in this case, it is a bed move.
+
+Up to 8, this result is \cf1\b the death of bent four in the corner.\cf0\b0
+
+])
+(;CR[rr]AW[rp][qq][rq][pr][rr][os]AB[qn][ro][pp][qp][pq][nr][or]
+;B[ns]
+;W[qs]LB[ns:1][qs:2]CR[rr]C[Dia.2(Ko)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+After \'a1\'e2,dansu at 1 is a\cf1\b  hasty\cf0\b0  move because W can make a\cf2\b  ko.
+\cf0\b0
+])
+(;AW[rp][qq][rq][pr][os]AB[qn][ro][pp][qp][pq][nr][or]
+;W[qs]
+;B[sr]
+;W[rr]
+;B[ns]
+;W[ps]
+;B[rs]LB[qs:1][sr:2][rr:3][ns:4][ps:5][rs:6]C[Dia.3(Ko)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+Tiger's mouth at 1 looks a proper move.
+
+But playing inside at 2 to 1 point is a good attack.
+
+Up to 6, this result is also a\cf1\b  ko.
+\cf2 It's not enough for W.\cf1
+\cf0\b0
+
+])
+(;AW[rp][qq][rq][pr][os]AB[qn][ro][pp][qp][pq][nr][or]
+;W[rs]
+;B[qr]
+;W[ps]
+;B[sp]
+;W[sr]LB[rs:1][qr:2][ps:3][sp:4][sr:5]C[Dia.4(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+One space jump at 2 to 1 point is\cf1\b  the only way to live.\cf0\b0
+
+Up to 5, W can be alive!!
+
+])
+)

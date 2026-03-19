@@ -1,0 +1,51 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[qr]AW[qo][ro][np][op][pp][sp][nq][nr][qr][os]AB[qp][oq][qq][sq][or][rr][qs]LBCR[qr]C[The Vital Point for Death (42)
+
+
+\b White to Play.\b0
+Surrounding the sole white \'a1\'e2 stone, black's position has a vital weakpoint.
+
+The first move is obvious. The third move is the decisive blow.
+])
+(;AW[qo][ro][np][op][pp][sp][nq][nr][qr][os]AB[qp][oq][qq][sq][or][rr][qs]
+;W[pr]LB[pr:1]C[Diagram 1 (Correct)
+
+
+White quietly extends at 1 first.
+
+If white played anywhere else, black would capture this stone and live, so this is the only move.
+
+Next -
+])
+(;AW[qo][ro][np][op][pp][sp][nq][nr][pr][qr][os]AB[qp][oq][qq][sq][or][rr][qs]LB[rp:A][sr:C][ps:B]
+;B[pq]
+;W[rq]LB[pq:1][rq:2][rp:A][sr:C][ps:B]C[Diagram 2 (making use of a snapback shape 환격의 응용)
+
+
+B1 is also the only move.
+
+Now, it is the decisive move for white to throw-in with 2. It is the vital point, creating a snapback shape.
+
+Black cannot capture at \b\f1 A\b0\f0  so black has to capture the white stones at \b\f1 B\b0\f0 . Then, white plays at \b\f1 C\b0\f0  and that's it.
+
+Black is dead!
+])
+(;AW[qo][ro][np][op][pp][sp][nq][nr][qr][os]AB[qp][oq][qq][sq][or][rr][qs]
+;W[rp]
+;B[rq]
+;W[pr]
+;B[pq]LB[rp:1][rq:2][pr:3][pq:4]C[Diagram 3 (Black Alive)
+
+
+You cannot capture black with a move such as white1.
+
+As soon as black connects with 2, the black group is perfectly alive.
+
+Even if white extends to 3 now, black plays dansu at 4 and the white stones are merely a present for black.
+])
+)

@@ -1,0 +1,130 @@
+//19
+4
+Can be alive by one move(68)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\f0\fs18
+\par \pard\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\lang1042\f0
+\par W's one stone(\'a1\'e2)bothers B group.
+\par }
+#
+(
+2[qo]
+2[ro]
+2[so]
+2[op]
+2[pp]
+1[rp]
+2[sp]
+2[oq]
+1[pq]
+1[sq]
+2[or]
+1[pr]
+1[sr]
+2[os]
+1[ps]
+6[qs]
+)
+0
+Dia.1(Captured easily)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\f0\fs18
+\par \cf1\b B1 is captured easily by W2.\cf0\b0
+\par
+\par }
+#
+(
+2[qo]
+2[ro]
+2[so]
+2[op]
+2[pp]
+1[rp]
+2[sp]
+2[oq]
+1[pq]
+1[sq]
+2[or]
+1[pr]
+1[sr]
+2[os]
+1[ps]
+2[qs]
+)
+4
+B[qr]
+W[rs]
+B[rr]
+W[qp]
+Dia.2(Also can't live)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\f0\fs18
+\par \cf1\b Turning at 1 also can't live.
+\par \cf0\b0
+\par W2 and 4 is a good attack.
+\par Playing at 4 instead of 2 is also possible.
+\par
+\par }
+#
+(
+2[qo]
+2[ro]
+2[so]
+2[op]
+2[pp]
+1[rp]
+2[sp]
+2[oq]
+1[pq]
+1[sq]
+2[or]
+1[pr]
+1[sr]
+2[os]
+1[ps]
+2[qs]
+)
+4
+B[rr]
+W[qq]
+B[qr]
+W[rs]
+Dia.3 (Right answer)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\f0\fs18
+\par Diagonal at 1 is the vital point of life.
+\par
+\par \cf1\b 2 to 1 point\cf0\b0  is very useful.
+\par
+\par }
+#
+(
+2[qo]
+2[ro]
+2[so]
+2[op]
+2[pp]
+1[rp]
+2[sp]
+2[oq]
+1[pq]
+1[sq]
+2[or]
+1[pr]
+1[sr]
+2[os]
+1[ps]
+2[qs]
+)
+3
+B[rs]
+W[qq]
+B[qr]

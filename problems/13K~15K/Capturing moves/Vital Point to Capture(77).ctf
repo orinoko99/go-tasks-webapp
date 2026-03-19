@@ -1,0 +1,173 @@
+//19
+4
+Where is a vital point?(77)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\f0\fs18 It's\b  White\b0 's turn.
+\par
+\par B seems to be weak but it's quite solid shape.\cf1\f1
+\par
+\par You should try to make B in self-dansu.
+\par
+\par
+\par }
+#
+(
+2[lo]
+2[mo]
+2[no]
+2[oo]
+2[po]
+2[lp]
+1[mp]
+1[np]
+1[op]
+2[pp]
+2[lq]
+1[mq]
+1[pq]
+2[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[qr]
+1[rr]
+2[sr]
+2[ls]
+2[ms]
+1[rs]
+)
+0
+Dia.1(Right answer)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\cf1\f0\fs18
+\par You must start from dansu at W1 first.
+\par It is the only weakpoint for B.
+\par
+\par Descending at 3 would be able to make B in \cf2\b self-dansu\cf1\b0 .
+\par
+\par I'm sorry for B can't play at A!
+\par }
+#
+(
+2[lo]
+2[mo]
+2[no]
+2[oo]
+2[po]
+2[lp]
+1[mp]
+1[np]
+1[op]
+2[pp]
+2[lq]
+1[mq]
+1[pq]
+2[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+65[or]
+1[qr]
+1[rr]
+2[sr]
+2[ls]
+2[ms]
+1[rs]
+)
+5
+W[pr]
+B[oq]
+W[ps]
+B[os]
+W[ns]
+Dia.2(Step back)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\cf1\f0\fs18
+\par
+\par W1 also tries to make a self- dansu if B cut W's one stone, but B has a measure which just takes a step back(B2).
+\par
+\par B can be alive esaily!
+\par }
+#
+(
+2[lo]
+2[mo]
+2[no]
+2[oo]
+2[po]
+2[lp]
+1[mp]
+1[np]
+1[op]
+2[pp]
+2[lq]
+1[mq]
+1[pq]
+2[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[qr]
+1[rr]
+2[sr]
+2[ls]
+2[ms]
+1[rs]
+)
+4
+W[os]
+B[or]
+W[ns]
+B[ps]
+Dia.3(Ko)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\cf1\f0\fs18
+\par
+\par Attaching at 1 is a quite sharp move.
+\par But up to 5, W\cf2\b  just made a ko\cf1\b0 ..
+\par
+\par }
+#
+(
+2[lo]
+2[mo]
+2[no]
+2[oo]
+2[po]
+2[lp]
+1[mp]
+1[np]
+1[op]
+2[pp]
+2[lq]
+1[mq]
+1[pq]
+2[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[qr]
+1[rr]
+2[sr]
+2[ls]
+2[ms]
+1[rs]
+)
+5
+W[or]
+B[pr]
+W[ns]
+B[oq]
+W[ps]

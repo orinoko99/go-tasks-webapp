@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[do][eo][fo][ap][bp][cp][cq][eq][hq][br][er]AB[cl][dm][dn][ao][bo][co][dp][dq][cr][dr]LBC[Maek to Capture
+
+Black needs a maek (tesuji) to capture White.
+])
+(;AW[do][eo][fo][ap][bp][cp][cq][eq][hq][br][er]AB[cl][dm][dn][ao][bo][co][dp][dq][cr][dr]
+;B[ar]
+;W[bq]
+;B[bs]LB[ar:1][bq:2][bs:3]C[Correct
+
+
+The attachment at 1 is the vital point here, making the places at 2 and 3 miai. If White plays at 2, Black answers at 3 and vice versa.
+])
+(;AW[do][eo][fo][ap][bp][cp][cq][eq][hq][br][er]AB[cl][dm][dn][ao][bo][co][dp][dq][cr][dr]
+;B[bs]
+;W[ar]
+;B[bq]
+;W[aq]
+;B[cs]
+;W[ep]LB[bs:1][ar:2][bq:3][aq:4][cs:5][ep:6]C[Wrong
+
+
+The hane doesn't work because White can make an eye at 2. One eye versus no eye, Black fails.
+])
+)

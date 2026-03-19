@@ -1,0 +1,48 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[bn][cn][bo][bp][hp][ip][gq][jq][gr]AB[co][go][cp][gp][bq][cq][fq][hq]LBC[Capturing Technique
+
+Black to capture White.
+])
+(;AW[bn][cn][bo][bp][hp][ip][gq][jq][gr]AB[co][go][cp][gp][bq][cq][fq][hq]
+;B[hr]
+;W[fr]
+;B[er]
+;W[eq]
+;B[gs]
+;W[fp]
+;B[fs]
+;W[fq]
+;B[fo]
+;W[dr]
+;B[dq]
+;W[es]
+;B[hs]
+;W[eo]
+;B[dp]
+;W[ep]
+;B[en]
+;W[cr]
+;B[do]
+;W[er]
+;B[br]LB[hr:1][fr:2][er:3][eq:4][gs:5][fp:6][fs:7][fq:8][fo:9][dr:10][dq:11][es:12][hs:13][eo:14][dp:15][ep:16][en:17][cr:18][do:19][er:20][br:21]C[Correct
+
+
+Black should block at 1 and then cut at 3. When White captures, Black goes around at 5. This way Black can squeeze White and capture up to 21.
+])
+(;AW[bn][cn][bo][bp][hp][ip][gq][jq][gr]AB[co][go][cp][gp][bq][cq][fq][hq]
+;B[hr]
+;W[fr]
+;B[eq]
+;W[iq]
+;B[er]
+;W[ir]LB[hr:1][fr:2][eq:3][iq:4][er:5][ir:6]C[Wrong
+
+Giving way at 3 fails. White wins the capturing race.
+
+])
+)

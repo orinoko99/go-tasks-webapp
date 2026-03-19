@@ -1,0 +1,76 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ck][cn][do][eo][bp][cp][np][op][pp][qp][rp][aq][cq][lq][qq][sq][ar][cr][qr][rs]AB[qk][oo][po][qo][ro][so][dp][ep][fp][sp][bq][dq][hq][jq][rq][br][dr][rr][cs][ds]LB[sr:B][bs:A]LB[sr:B][bs:A]C[Which side is bigger?(14)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+Which side is bigger \b A\b0  or \b B\b0 ?
+
+Think about it from both Black and White's perspective to decide which is bigger.  Also calculate how much each side is.\lang1042\f1\fs18
+
+\cf1 1)\cf0\lang1033\b\f0\fs16 A\cf2\b0  is bigger.\lang1042\f1\fs18    \cf1
+2)\cf0\lang1033\b\f0\fs16 B \cf2\b0 is bigger.\lang1042\f1\fs18   \cf0
+\cf1 3)\cf2\lang1033\f0\fs16 They're the same.\lang1042\f1\fs18
+\cf1
+\cf2
+\cf1
+\cf0
+])
+(;AW[ck][cn][do][eo][bp][cp][np][op][pp][qp][rp][aq][cq][lq][qq][sq][ar][cr][qr][rs]AB[qk][oo][po][qo][ro][so][dp][ep][fp][sp][bq][dq][hq][jq][rq][br][dr][rr][cs][ds]LB[ap:?][as:?]
+;W[bs]LB[bs:1][ap:?][as:?]C[Dia.1 How big is A?
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 First, we'll calculate how big the left side \lang1042\f0\fs18 (\lang1033\b\f1\fs16 A\lang1042\b0\f0\fs18 )\lang1033\f1\fs16  is.
+
+White captures with 1 and gets two stones, the two points of territory marked with an X, plus two additional points.\lang1042\f0\fs18
+
+2X2+2=\cf1\b 6\lang1033\f1\fs16  points\cf0\lang1042\b0\f0\fs18 .
+])
+(;AW[ck][cn][do][eo][bp][cp][np][op][pp][qp][rp][aq][cq][lq][qq][sq][ar][cr][qr][rs]AB[qk][oo][po][qo][ro][so][dp][ep][fp][sp][bq][dq][hq][jq][rq][br][dr][rr][cs][ds]
+;B[bs]LB[bs:1]C[Dia.2 6 points in husu
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Black connects at 1 and saves all of his stones.  Nothing to calculate here really.
+
+So, this is worth:\lang1042\f0\fs18
+6+0=\cf1\b 6\lang1033\f1\fs16  points\cf0\lang1042\b0\f0\fs18 .
+\lang1033\b\f1\fs16 This means that the left side,\lang1042\b0\f0\fs18  \lang1033\b\f1\fs16 A, is worht \cf1 6 points in husu\cf0\lang1042\b0\f0\fs18 .
+
+
+
+])
+(;AW[ck][cn][do][eo][bp][cp][np][op][pp][qp][rp][aq][cq][lq][qq][sq][ar][cr][qr][rs]AB[qk][oo][po][qo][ro][so][dp][ep][fp][sp][bq][dq][hq][jq][rq][br][dr][rr][cs][ds]LB[qs:?][ss:?]
+;W[sr]LB[sr:1][qs:?][ss:?]C[Dia.3 How big is B?
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Let's see how big the right side \lang1042\f0\fs18 (\lang1033\b\f1\fs16 B\lang1042\b0\f0\fs18 )\lang1033\f1\fs16  really is.
+
+If White goes first then he captures with 1, gaining two points at the X marked spots and two points in territory.
+\lang1042\f0\fs18
+\lang1033\f1\fs16 White gets \cf1\lang1042\b\f0\fs18 6\lang1033\f1\fs16  points\cf0\lang1042\b0\f0\fs18 .
+
+])
+(;AW[ck][cn][do][eo][bp][cp][np][op][pp][qp][rp][aq][cq][lq][qq][sq][ar][cr][qr][rs]AB[qk][oo][po][qo][ro][so][dp][ep][fp][sp][bq][dq][hq][jq][rq][br][dr][rr][cs][ds]LB[sr:?]
+;B[sr]LB[sr:1][sr:?]C[Dia.4 7 points in husu
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 Again, from Black's perspective this calculation is pretty easy.  Black gets a point for the captured stone.
+
+\b The right side, B, is worth \lang1042\b0\f0\fs18 6+1=\cf1\b 7\lang1033\f1\fs16  points\cf0\lang1042\b0\f0\fs18 .
+\'c8\'c4\'bc\'f6 7\'c1\'fd\'c2\'a5\'b8\'ae\'bf\'b4\'bd\'c0\'b4\'cf\'b4\'d9.
+
+\lang1033\f1\fs16 The answer is\lang1042\f0\fs18  \cf2 2)\cf0\lang1033\b\f1\fs16 B\cf1\b0  is bigger \b by 1 point\cf0\lang1042\b0\f0\fs18 .
+])
+(;AW[ck][cn][do][eo][bp][cp][np][op][pp][qp][rp][aq][cq][lq][qq][sq][ar][cr][qr][rs]AB[qk][oo][po][qo][ro][so][dp][ep][fp][sp][bq][dq][hq][jq][rq][br][dr][rr][cs][ds]LBC[No diagram name
+
+
+
+])
+)

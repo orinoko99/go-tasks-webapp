@@ -1,0 +1,100 @@
+//19
+3
+Maek to Capture
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black needs a maek (tesuji) to capture White.
+\par }
+#
+(
+1[cl]
+1[dm]
+1[dn]
+1[ao]
+1[bo]
+1[co]
+2[do]
+2[eo]
+2[fo]
+2[ap]
+2[bp]
+2[cp]
+1[dp]
+2[cq]
+1[dq]
+2[eq]
+2[hq]
+2[br]
+1[cr]
+1[dr]
+2[er]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The attachment at 1 is the vital point here, making the places at 2 and 3 miai. If White plays at 2, Black answers at 3 and vice versa.
+\par }
+#
+(
+1[cl]
+1[dm]
+1[dn]
+1[ao]
+1[bo]
+1[co]
+2[do]
+2[eo]
+2[fo]
+2[ap]
+2[bp]
+2[cp]
+1[dp]
+2[cq]
+1[dq]
+2[eq]
+2[hq]
+2[br]
+1[cr]
+1[dr]
+2[er]
+)
+3
+B[ar]
+W[bq]
+B[bs]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The hane doesn't work because White can make an eye at 2. One eye versus no eye, Black fails.
+\par }
+#
+(
+1[cl]
+1[dm]
+1[dn]
+1[ao]
+1[bo]
+1[co]
+2[do]
+2[eo]
+2[fo]
+2[ap]
+2[bp]
+2[cp]
+1[dp]
+2[cq]
+1[dq]
+2[eq]
+2[hq]
+2[br]
+1[cr]
+1[dr]
+2[er]
+)
+6
+B[bs]
+W[ar]
+B[bq]
+W[aq]
+B[cs]
+W[ep]

@@ -1,0 +1,59 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[sr][rs]AW[np][pp][qp][rp][sp][oq][nr][sr][ns][rs]AB[rq][sq][or][qr][os][qs]LBCR[sr][rs]C[One move problems(37)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 The two \lang1042\f0\fs18\'a1\'e2\lang1033\f1\fs16  marked White stones are captured, I don't even need to say that.  But, there is a way to use them if you find the vital point.
+
+\lang1042\f0\fs18
+])
+(;AW[np][pp][qp][rp][sp][oq][nr][sr][ns][rs]AB[rq][sq][or][qr][os][qs]
+;W[pr]
+;B[rr]
+;W[ps]
+;B[ss]LB[pr:1][rr:2][ps:3][ss:4]C[Dia.1 In a real game
+
+
+\lang1033\f1\fs16 If White simply plays at 1 then Black will play 2 and live.
+
+In a real game we don't want to let our opponent just go like this, and think of a way to kill.
+\lang1042\f0\fs18
+
+])
+(;AW[np][pp][qp][rp][sp][oq][nr][sr][ns][rs]AB[rq][sq][or][qr][os][qs]LB[ss:A]
+;W[rr]LB[rr:1][ss:A]C[Dia.2 Correct
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White adds one more stone with 1 which of course dies but creates a \cf1\b 3 space dead shape\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 This is a severe move and the vital point of the shape.
+
+If Black captures at A, well, we'll go over that in the next diagram.
+\lang1042\f0\fs18
+
+])
+(;CR[rq][sq]AW[np][pp][qp][rp][sp][oq][nr][ns]AB[rq][sq][or][qr][os][qs][ss]
+;W[rr]
+;B[qq]
+;W[pr]LB[rr:1][qq:2][pr:3]CR[rq][sq]C[Dia.3 Continuation
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 If we look at the continuation, White will play 1, \cf1\b the placement attack\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Now the two\lang1042\f0\fs18  \'a1\'e3\lang1033\f1\fs16  marked stones are in danger of being captures os Black must protect with 2.
+
+Then, White can just take away the second eye with 3 and call it a day.
+
+\lang1042\f0\fs18
+])
+(;AW[np][pp][qp][rp][sp][oq][nr][sr][ns][rs]AB[rq][sq][or][qr][os][qs]LBC[No diagram name
+
+
+
+])
+)

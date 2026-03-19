@@ -1,0 +1,193 @@
+//19
+5
+First is a key move(77)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+\par
+\par First is a key move!
+\par }
+#
+(
+1[mo]
+1[no]
+1[oo]
+1[po]
+1[ro]
+1[mp]
+2[np]
+2[op]
+2[pp]
+1[qp]
+1[mq]
+2[nq]
+2[pq]
+2[qq]
+1[rq]
+1[mr]
+2[nr]
+2[rr]
+1[ms]
+1[ns]
+2[os]
+)
+0
+Dia.1(Ko)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B1 tries to avoid dansu at A.
+\par But W2 is a good attack so up to 4, it is a \cf1\b ko.\cf0\b0
+\par The ko isn't the right answer.
+\par }
+#
+(
+1[mo]
+1[no]
+1[oo]
+1[po]
+1[ro]
+1[mp]
+2[np]
+2[op]
+2[pp]
+1[qp]
+1[mq]
+2[nq]
+2[pq]
+2[qq]
+1[rq]
+65[sq]
+1[mr]
+2[nr]
+2[rr]
+1[ms]
+1[ns]
+2[os]
+)
+4
+B[sr]
+W[pr]
+B[rs]
+W[qs]
+Dia.2(W can be alive)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par How about cutting at 1?
+\par It looks like a good move but after 2, B has nothing to do.
+\par And making a ko(A) is painful for B.
+\par
+\par Continue the next page_
+\par }
+#
+(
+1[mo]
+1[no]
+1[oo]
+1[po]
+1[ro]
+1[mp]
+2[np]
+2[op]
+2[pp]
+1[qp]
+65[sp]
+1[mq]
+2[nq]
+2[pq]
+2[qq]
+1[rq]
+1[mr]
+2[nr]
+2[rr]
+1[ms]
+1[ns]
+2[os]
+)
+4
+B[or]
+W[sq]
+B[rp]
+W[ps]
+Dia.3(Life)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B tries to attack W's group but up to 6, it doesn't work.
+\par
+\par }
+#
+(
+1[mo]
+1[no]
+1[oo]
+1[po]
+1[ro]
+1[mp]
+2[np]
+2[op]
+2[pp]
+1[qp]
+1[rp]
+1[mq]
+2[nq]
+2[pq]
+2[qq]
+1[rq]
+2[sq]
+1[mr]
+2[nr]
+1[or]
+2[rr]
+1[ms]
+1[ns]
+2[os]
+2[ps]
+65[qs]
+)
+6
+B[sr]
+W[ss]
+B[sp]
+W[pr]
+B[sr]
+W[rs]
+Dia.4(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par The right answer is dansu at 1.
+\par W2 isn't working in this case.
+\par
+\par Up to 5, this is\cf1\b  the death of double self-dansu.\cf0\b0
+\par
+\par }
+#
+(
+1[mo]
+1[no]
+1[oo]
+1[po]
+1[ro]
+1[mp]
+2[np]
+2[op]
+2[pp]
+1[qp]
+1[mq]
+2[nq]
+2[pq]
+2[qq]
+1[rq]
+1[mr]
+2[nr]
+2[rr]
+1[ms]
+1[ns]
+2[os]
+)
+5
+B[ps]
+W[sq]
+B[rp]
+W[or]
+B[qr]

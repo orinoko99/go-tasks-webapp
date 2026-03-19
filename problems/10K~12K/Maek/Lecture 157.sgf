@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ck][cm][bn][bo][bp][cp][dq][eq][dr][bs][ds]AB[cn][dn][do][ap][dp][fp][bq][cq][fq][cr][fr][cs]LBC[Capture White
+
+Where should Black play to capture White?
+])
+(;AW[ck][cm][bn][bo][bp][cp][dq][eq][dr][bs][ds]AB[cn][dn][do][ap][dp][fp][bq][cq][fq][cr][fr][cs]
+;B[br]
+;W[ar]
+;B[as]LB[br:1][ar:2][as:3]C[Correct
+
+
+The best Black can do is making a pae (ko) with 1 and 3.
+])
+(;AW[ck][cm][bn][bo][bp][cp][dq][eq][dr][bs][ds]AB[cn][dn][do][ap][dp][fp][bq][cq][fq][cr][fr][cs]
+;B[ep]
+;W[br]
+;B[aq]
+;W[ao]LB[ep:1][br:2][aq:3][ao:4]C[Wrong
+
+
+Filling the liberties from the outside fails. White wins the capturing race.
+])
+)

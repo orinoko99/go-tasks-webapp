@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[io][bp][dp][ep][fp][bq][cq][gq][hq][ar][cr][hr][cs][gs]AB[bo][co][cp][gp][dq][eq][fq][dr][fr][gr][es]LBC[Only one Eye
+
+Black has only one eye. Can the stones be saved nevertheless?
+])
+(;AW[io][bp][dp][ep][fp][bq][cq][gq][hq][ar][cr][hr][cs][gs]AB[bo][co][cp][gp][dq][eq][fq][dr][fr][gr][es]
+;B[go]
+;W[en]
+;B[eo]
+;W[do]
+;B[dn]
+;W[fo]
+;B[fn]LB[go:1][en:2][eo:3][do:4][dn:5][fo:6][fn:7]C[Correct
+
+Black can make a crane's nest at 1 to capture the white cutting stones.
+
+])
+(;AW[io][bp][dp][ep][fp][bq][cq][gq][hq][ar][cr][hr][cs][gs]AB[bo][co][cp][gp][dq][eq][fq][dr][fr][gr][es]
+;B[fo]
+;W[go]
+;B[eo]
+;W[hp]LB[fo:1][go:2][eo:3][hp:4]C[Wrong
+
+Directly taking a liberty fails because of the weakness at 2.
+
+])
+)

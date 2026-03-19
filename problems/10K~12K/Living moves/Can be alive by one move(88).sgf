@@ -1,0 +1,48 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[no][np][pp][qp][rp][lq][nq][qq][mr][rr][rs]AB[oq][pq][rq][nr][qr][sr][qs]LBC[Can be alive by one move(88)
+
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\lang1042\f0
+You should sacrifice!!
+
+])
+(;AW[no][np][pp][qp][rp][lq][nq][qq][mr][rr][rs]AB[oq][pq][rq][nr][qr][sr][qs]
+;B[ss]
+;W[or]LB[ss:1][or:2]C[Dia.1(Easy to capture)
+
+
+Beginners usually make this kind of mistake.
+
+After 2, B has nothing to do.
+
+])
+(;AW[no][np][pp][qp][rp][lq][nq][qq][mr][rr][rs]AB[oq][pq][rq][nr][qr][sr][qs]LB[sq:A]
+;B[pr]
+;W[os]LB[pr:1][os:2][sq:A]C[Dia.2(Severe)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Connecting at 1 wants W plays at A but it is B's wish.
+
+\cf1\b Playing inside at 2 is severe.\cf0\b0
+B is dead.
+])
+(;AW[no][np][pp][qp][rp][lq][nq][qq][mr][rr][rs]AB[oq][pq][rq][nr][qr][sr][qs]LB[ss:A]
+;B[os]
+;W[sq]
+;B[pr]LB[os:1][sq:2][pr:3][ss:A]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b Tiger's mouth at 1\cf0\b0  is a proper move.
+
+Up to 3, B's two stones are dead but another group can live.
+
+])
+)

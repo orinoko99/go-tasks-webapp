@@ -1,0 +1,53 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[no][oo][po][np][pp][nq][pq][qr][rr][os][rs]AB[qm][nn][on][pn][mo][qo][mp][qp][mq][qq][rq][mr][sr][ms]LBC[Where is a vital point?(67)
+
+
+\f1 It's\b  Black\b0 's turn.\f0
+
+W seems to be perfectly alive.
+
+But there is a weakpoint.
+Let's figure it out.
+
+])
+(;AW[no][oo][po][np][pp][nq][pq][qr][rr][os][rs]AB[qm][nn][on][pn][mo][qo][mp][qp][mq][qq][rq][mr][sr][ms]
+;B[or]LB[or:1]C[Dia.1(Right move)
+
+{\colortbl ;\red0\green0\blue255;}
+
+
+Attaching at 1 is \cf1\b an excellent attack.
+\cf0\b0
+
+])
+(;AW[no][oo][po][np][pp][nq][pq][qr][rr][os][rs]AB[qm][nn][on][pn][mo][qo][mp][qp][mq][qq][rq][mr][or][sr][ms]LB[oq:A][qs:B]
+;W[nr]
+;B[ps]
+;W[ns]
+;B[pr]LB[nr:1][ps:2][ns:3][pr:4][oq:A][qs:B]C[Dia.2(Double self Dansu)
+
+{\colortbl ;\red0\green0\blue255;}
+
+W1 is the only answer in this case.
+But cutting at 4 is a final blow.
+
+W can't play A and B.
+It's a\cf1\b  double self dansu.
+])
+(;AW[no][oo][po][np][pp][nq][pq][qr][rr][os][rs]AB[qm][nn][on][pn][mo][qo][mp][qp][mq][qq][rq][mr][sr][ms]LB[or:A]
+;B[or]
+;W[nr]
+;B[ns]
+;W[ps]LB[or:1][nr:2][ns:3][ps:4][or:A]C[Dia.3(White can be alive)
+
+
+Answering the other side(3) is a wrong direction.
+
+W can be alive.
+])
+)

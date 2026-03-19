@@ -1,0 +1,146 @@
+//19
+4
+Give up??
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par B seems to be able to live.
+\par But there is a tesuji.
+\par Don't give up!
+\par
+\par }
+#
+(
+2[po]
+2[qo]
+1[mp]
+1[np]
+1[op]
+2[pp]
+1[qp]
+2[rp]
+1[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+1[mr]
+2[nr]
+1[qr]
+2[rr]
+2[ns]
+1[os]
+1[rs]
+)
+0
+Dia.1(Wrong choice)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Dansu at 1 comes to your mind first.
+\par
+\par But after B2, W has no way to live.
+\par
+\par }
+#
+(
+2[po]
+2[qo]
+1[mp]
+1[np]
+1[op]
+2[pp]
+1[qp]
+2[rp]
+1[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+1[mr]
+2[nr]
+1[qr]
+2[rr]
+2[ns]
+1[os]
+1[rs]
+)
+4
+W[pr]
+B[qs]
+W[or]
+B[ms]
+Dia.2(Wrong choice2)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W1 is also the wrong choice.
+\par
+\par B can capture W's five stone easily.
+\par
+\par }
+#
+(
+2[po]
+2[qo]
+1[mp]
+1[np]
+1[op]
+2[pp]
+1[qp]
+2[rp]
+1[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+1[mr]
+2[nr]
+1[qr]
+2[rr]
+2[ns]
+1[os]
+1[rs]
+)
+2
+W[or]
+B[ps]
+DIa.3(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par In this case, \cf1\b dansu at inside is a good tesuji.\cf0\b0
+\par
+\par Up to 3, this result is the\cf1\b  \f1 one eye versus no eye.\cf0\b0\fs24
+\par \f0\fs18
+\par }
+#
+(
+2[po]
+2[qo]
+1[mp]
+1[np]
+1[op]
+2[pp]
+1[qp]
+2[rp]
+1[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+1[mr]
+2[nr]
+1[qr]
+2[rr]
+2[ns]
+1[os]
+1[rs]
+)
+3
+W[ps]
+B[qs]
+W[or]

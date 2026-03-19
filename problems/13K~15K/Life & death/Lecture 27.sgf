@@ -1,0 +1,20 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ap][bp][aq][cq][br][dr][ds]AB[ao][bo][co][cp][dq][eq][er][es]LBC[Capture White
+
+
+What's Black's best move to capture White?
+])
+(;AW[ap][bp][aq][cq][br][dr][ds]AB[ao][bo][co][cp][dq][eq][er][es]
+;B[bs]
+;W[cr]
+;B[ar]
+;W[as]LB[bs:1][cr:2][ar:3][as:4]C[Correct
+
+Black 1 is the only move. White can't help but connects at 2 to prevent a snapback. Next, Black throws in at 3 to make a pae (ko).
+])
+)

@@ -1,0 +1,52 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pn][rn][qo][op][pp][oq][rq][sq][or][qr][rr]AB[qp][rp][sp][pq][qq][pr][ps]LBC[Can be alive by one move(87)
+
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\lang1042\f0
+How to capture W's four stones are important.
+
+])
+(;AW[pn][rn][qo][op][pp][oq][rq][sq][or][qr][rr]AB[qp][rp][sp][pq][qq][pr][ps]LB[ro:?][so:?][os:?]
+;B[rs]
+;W[sr]LB[rs:1][sr:2][ro:?][so:?][os:?]C[Dia.1(Flower five)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Attaching at 1 seems to be a vital point but it's just your reading.
+
+W2 is an excellent move so B is\cf1\b  dead by flower five.\cf0\b0
+
+])
+(;AW[pn][rn][qo][op][pp][oq][rq][sq][or][qr][rr]AB[qp][rp][sp][pq][qq][pr][ps]LB[qs:?]
+;B[qs]
+;W[sr]LB[qs:1][sr:2][qs:?]C[Dia.2(The same as before)
+
+{\colortbl ;\red255\green0\blue0;}
+
+\cf1\b B1 is the same as before.\cf0\b0
+
+W2 is the vital point!!
+
+])
+(;AW[pn][rn][qo][op][pp][oq][rq][sq][or][qr][rr]AB[qp][rp][sp][pq][qq][pr][ps]
+;B[sr]
+;W[ss]
+;B[qs]
+;W[os]
+;B[rs]LB[sr:1][ss:2][qs:3][os:4][rs:5]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+B1 is \cf1\b the enemy's vital point\cf0\b0  so W can't make flower five.
+
+Up to 5, W has nothing to do.
+
+
+])
+)

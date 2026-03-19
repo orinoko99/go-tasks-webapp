@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[fo][go][ep][gp][dq][eq][gq][dr][gr]AB[cn][en][eo][cp][fp][cq][fq][cr][fr][cs]LBC[Maek to Win the Capturing Race
+
+It is Black's turn. Where to play?
+])
+(;AW[fo][go][ep][gp][dq][eq][gq][dr][gr]AB[cn][en][eo][cp][fp][cq][fq][cr][fr][cs]LB[ds:A]
+;B[es]
+;W[er]
+;B[fs]LB[es:1][er:2][fs:3][ds:A]C[Correct
+
+The diagonal move is a nice maek/tesuji to capture White. After 3 White can't atari at A because of jachung, i.e. White would take his own liberty.
+
+])
+(;AW[fo][go][ep][gp][dq][eq][gq][dr][gr]AB[cn][en][eo][cp][fp][cq][fq][cr][fr][cs]
+;B[ds]
+;W[fs]LB[ds:1][fs:2]C[Wrong
+
+Turning at 1 makes it easy for White. After the atari at 2, Black realizes his mistake.
+
+])
+)

@@ -1,0 +1,72 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mp][op][kq][mq][oq][rq][sq][pr][qr][rs][ss]AB[ql][qn][po][pp][pq][qq][nr][or][ps]LBC[Three Moves in the Corner
+
+
+\b Black to play\b0 .
+It is a capturing race between White's six stones in the corner and Black's three stones on the left.
+
+It looks difficult for Black, but if Black can find the maek to reduce White's liberties in the corner, he can win.
+
+
+])
+(;AW[mp][op][kq][mq][oq][rq][sq][pr][qr][rs][ss]AB[ql][qn][po][pp][pq][qq][nr][or][ps]
+;B[rp]
+;W[mr]
+;B[sp]LB[rp:1][mr:2][sp:3]C[Dia. 01 Eye vs. no eye
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+Black's hane at 1 \cf1\b misses the good chance\cf0\b0 .
+White blocks at 2 and wins the capturing race.
+It became\cf2\b  eye vs. no eye\cf0\b0  situation.
+Moreover Black 3 becomes gote.
+
+
+])
+(;AW[mp][op][kq][mq][oq][rq][sq][pr][qr][rs][ss]AB[ql][qn][po][pp][pq][qq][nr][or][ps]
+;B[os]
+;W[rr]
+;B[rp]
+;W[mr]
+;B[sp]
+;W[nq]LB[os:1][rr:2][rp:3][mr:4][sp:5][nq:6]C[Dia. 02 Not Enough Liberties
+
+
+Black 1 looks slightly better, but White 2 is the vital point of this capturing race.
+
+After the sequence from 3 to 6, Black doesn't have enough liberties and it is eye vs. no eye situation again.
+
+])
+(;AW[mp][op][kq][mq][oq][rq][sq][pr][qr][rs][ss]AB[ql][qn][po][pp][pq][qq][nr][or][ps]
+;B[rr]
+;W[sr]
+;B[os]
+;W[qs]
+;B[rp]LB[rr:1][sr:2][os:3][qs:4][rp:5]C[Dia. 03 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black's \cf1\b throw-in\cf0\b0  at 1 is the move to reduce White's liberties.
+
+\cf1\b The opponent's vital point is my vital point\cf0\b0  proverb is very useful again.
+
+After White 2, Black plays at 3 and White has only three liberties left, so White is one move behind.
+])
+(;AW[mp][op][kq][mq][oq][rq][sq][pr][qr][sr][rs][ss]AB[ql][qn][po][pp][pq][qq][nr][or][os][ps]
+;W[rp]
+;B[qs]
+;W[rr]
+;B[ro]LB[rp:1][qs:2][rr:3][ro:4]C[Dia. 04 Variation
+
+{\colortbl ;\red0\green0\blue255;}
+
+White 1 doesn't help. Black plays dansu at 2 and White is \cf1\b short of liberties\cf0\b0 .
+
+
+])
+)

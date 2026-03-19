@@ -1,0 +1,63 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pr]AW[ro][mp][np][op][pp][mq][qq][rq][mr][pr]AB[lp][iq][lq][nq][oq][pq][lr][nr][qr][rr][ls][ms]LBCR[pr]C[Using shortage of liberties
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Black has the \lang1042\f0\fs18\'a1\'e2\lang1033\f1\fs16  marked stone on the inside and it's actually going to caues him a lot of damage if White gets to play.
+
+Black has a problem with liberties, we just need to know how to set it up.
+
+\lang1042\f0\fs18
+])
+(;AW[ro][mp][np][op][pp][mq][qq][rq][mr][pr]AB[lp][iq][lq][nq][oq][pq][lr][nr][qr][rr][ls][ms]
+;W[qs]
+;B[rs]
+;W[os]
+;B[ns]
+;W[sr]LB[qs:1][rs:2][os:3][ns:4][sr:5]C[Dia.1 Good reading
+
+
+\lang1033\f1\fs16 White jjeotchim's at 1 and then Black will dansu at 2.  White 3 is seonsu and then White can dansu with 5 to start a Pae.  This is fairly good reading.
+
+There might be a better way, we'll just have to keep reading.
+
+\lang1042\f0\fs18
+])
+(;CR[qs]AW[ro][mp][np][op][pp][mq][qq][rq][mr][pr][qs]AB[lp][iq][lq][nq][oq][pq][lr][nr][qr][rr][ls][ms]LB[or:?]
+;B[or]
+;W[os]
+;B[ns]LB[or:1][os:2][ns:3][or:?]CR[qs]C[Dia.2 Nothing White can do
+
+
+\lang1033\f1\fs16 The problem is Black will not play what White wants.
+When White plays the \lang1042\f0\fs18\'a1\'e2\lang1033\f1\fs16  marked stone Black will play 1.
+
+Now what does White do?  2 doesn't work because Black plays at 3 and captures White's stones.
+
+\lang1042\f0\fs18
+
+])
+(;AW[ro][mp][np][op][pp][mq][qq][rq][mr][pr]AB[lp][iq][lq][nq][oq][pq][lr][nr][qr][rr][ls][ms]LB[qs:A]
+;W[ps]
+;B[os]
+;W[sr]LB[ps:1][os:2][sr:3][qs:A]C[Dia.3 Correct/Descend
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White should descend at 1 \lang1042\f0\fs18  \cf1\lang1033\b\f1\fs16 a calm and collected move and the maek for this position\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Now Black doesn't have the liberties to capture White and White snags two stones in the corner.
+
+If Black plays 2 at 3 then White wins the capturing race.  White will play A and Black is still dead.\lang1042\f0\fs18
+
+])
+(;AW[ro][mp][np][op][pp][mq][qq][rq][mr][pr]AB[lp][iq][lq][nq][oq][pq][lr][nr][qr][rr][ls][ms]LBC[No diagram name
+
+
+
+])
+)

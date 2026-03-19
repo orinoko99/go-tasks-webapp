@@ -1,0 +1,159 @@
+//19
+5
+Vital Point to Capture?(20)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par It can be difficult if you can't solve it immediately.
+\par
+\par Find the vital point to capture Black.
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+2[mq]
+1[rq]
+1[qr]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's attachment at 1 is the vital point. It is at the \cf1\b center of the three stones\cf0\b0 .
+\par This move is aiming at Black's shortage of liberties.
+\par
+\par After Black 2, White's wedge-in at 3 move works, so Black can't live.
+\par
+\par Black can't play dansu at 5, because of  the shortage of liberties.
+\par
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+2[mq]
+1[rq]
+1[qr]
+)
+5
+W[pr]
+B[or]
+W[oq]
+B[ps]
+W[pq]
+Dia. 02 Another Solution?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par There might be some people who think it is also possible to capture Black with White 1.
+\par
+\par If Black answers at 2, White's wedge-in at 3 works again and the result is same with \b Dia. 01\b0 . Again, Black can't play at A.
+\par
+\par
+\par
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+2[mq]
+65[pq]
+1[rq]
+1[qr]
+)
+3
+W[oq]
+B[or]
+W[pr]
+Dia. 03 Black 1, Good
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against White \'a1\'e2, Black 1 is a good move.
+\par The useful proverb is here again: \cf1\b The opponent's vital point is my vital point!\cf0\b0
+\par
+\par After White 2, Black lives with 3.
+\par White can capture the three \'a1\'e3 stones, but it is \cf2\b not enough\cf0\b0 .
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[np]
+5[op]
+5[pp]
+5[qp]
+2[rp]
+2[mq]
+6[oq]
+1[rq]
+1[qr]
+)
+3
+B[pr]
+W[pq]
+B[rs]
+Dia. 01 Black 1 is Greedy
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's connection at 1 is a greedy move. After White blocks at 2, Black doesn't have enough space to live.
+\par After Black 3, White kills with 4.
+\par
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+2[mq]
+2[oq]
+2[pq]
+1[rq]
+1[pr]
+1[qr]
+)
+4
+B[qq]
+W[or]
+B[rs]
+W[sr]

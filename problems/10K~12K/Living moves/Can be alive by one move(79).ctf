@@ -1,0 +1,165 @@
+//19
+5
+Can be alive by one move(79)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par \lang1033\f1 First move is important.\lang1042\f0
+\par }
+#
+(
+1[oo]
+1[ro]
+1[pp]
+1[rp]
+2[sp]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[rr]
+1[ns]
+2[ps]
+)
+0
+Dia.1(Bent four)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Capturing at 1 is common move.
+\par
+\par After 2, W can make \cf1\b bent four \cf0\b0 which the eye shape of life.
+\par
+\par But it is W's wish!!
+\par
+\par }
+#
+(
+1[oo]
+1[ro]
+1[pp]
+1[rp]
+2[sp]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[rr]
+1[ns]
+2[ps]
+)
+3
+W[sr]
+B[os]
+W[pr]
+Dia.2(Ko)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par How about throw in??
+\par
+\par Then W can make a \cf1\b ko.\cf0\b0
+\par But this result is also W's wish.
+\par
+\par }
+#
+(
+1[oo]
+1[ro]
+1[pp]
+1[rp]
+2[sp]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[nr]
+2[or]
+2[rr]
+2[sr]
+1[ns]
+2[ps]
+)
+4
+B[pr]
+W[qr]
+B[os]
+W[rs]
+Dia.3(Good attack)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B1 is \cf1\b a good attack\cf0\b0  to kill W's group.
+\par
+\par W tries to make two eyes but throw in at 3 is also good attack.
+\par
+\par }
+#
+(
+1[oo]
+1[ro]
+1[pp]
+1[rp]
+2[sp]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[nr]
+2[or]
+2[rr]
+2[sr]
+1[ns]
+2[ps]
+)
+3
+B[rs]
+W[qs]
+B[pr]
+Dia.4 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par In this case, the enemy's vital point isn't working.
+\par \cf1\b
+\par W1 is the only way to live.\cf0\b0
+\par
+\par This is\cf1\b  the basic life and death \cf0\b0 which you must know.
+\par
+\par }
+#
+(
+1[oo]
+1[ro]
+1[pp]
+1[rp]
+2[sp]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[rr]
+1[ns]
+2[ps]
+)
+5
+W[qs]
+B[so]
+W[sr]
+B[os]
+W[pr]

@@ -1,0 +1,94 @@
+//19
+3
+Despite Lack of Liberties
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Can Black win the capturing race?
+\par }
+#
+(
+1[go]
+1[ep]
+1[fp]
+2[gp]
+2[hp]
+1[cq]
+1[dq]
+2[fq]
+1[gq]
+2[iq]
+1[jq]
+1[kq]
+1[cr]
+2[dr]
+2[er]
+2[fr]
+1[gr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The diagonal move is an excellent maek/tesuji in this situation. White might cut at 2 and 4 but then Black can fill the liberties at the outside. After 9 White is caught in double jachung, that means he can't approach neither at A nor at B.
+\par
+\par }
+#
+(
+1[go]
+1[ep]
+1[fp]
+2[gp]
+2[hp]
+1[cq]
+1[dq]
+2[fq]
+1[gq]
+2[iq]
+1[jq]
+1[kq]
+1[cr]
+2[dr]
+2[er]
+2[fr]
+1[gr]
+65[hr]
+66[gs]
+)
+9
+B[hs]
+W[ir]
+B[jr]
+W[is]
+B[ip]
+W[hq]
+B[ho]
+W[fs]
+B[ds]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Simply reducing liberties at 1 and 3 fails because White is ahead in liberties.
+\par
+\par }
+#
+(
+1[go]
+1[ep]
+1[fp]
+2[gp]
+2[hp]
+1[cq]
+1[dq]
+2[fq]
+1[gq]
+2[iq]
+1[jq]
+1[kq]
+1[cr]
+2[dr]
+2[er]
+2[fr]
+1[gr]
+)
+4
+B[ds]
+W[hr]
+B[es]
+W[gs]

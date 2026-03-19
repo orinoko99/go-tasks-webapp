@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[an][bn][cn][do][dp][aq][bq][cq][dq]AB[bm][cm][dn][en][eo][ep][eq][ar][br][cr][dr]LBC[Black to kill
+
+
+Where should Black play to capture the white group?
+])
+(;AW[an][bn][cn][do][dp][aq][bq][cq][dq]AB[bm][cm][dn][en][eo][ep][eq][ar][br][cr][dr]
+;B[bp]
+;W[bo]
+;B[ap]
+;W[co]LB[bp:1][bo:2][ap:3][co:4]C[Correct
+
+
+Black 1 is the vital point. Even White tries to live at White 2, Black can extend to 3, threatening a snapback at 4.
+])
+(;AW[an][bn][cn][do][dp][aq][bq][cq][dq]AB[bm][cm][dn][en][eo][ep][eq][ar][br][cr][dr]
+;B[bo]
+;W[bp]
+;B[co]
+;W[ao]LB[bo:1][bp:2][co:3][ao:4]C[Wrong
+
+
+This is the wrong side. White plays at 2 making miai at 3 and 4. That is, if Black plays 3, White lives at 4 and vice versa.
+])
+)

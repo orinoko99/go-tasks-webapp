@@ -1,0 +1,80 @@
+//19
+3
+Black to Cut
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Where should Black play to cut some white stones?
+\par }
+#
+(
+1[co]
+1[dp]
+1[ep]
+1[fp]
+2[ip]
+1[bq]
+1[cq]
+2[dq]
+2[eq]
+1[gq]
+2[br]
+2[cr]
+2[gr]
+2[hr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The double hane at 1 and 3 followed by the connection at 5 is the only way to cut.
+\par }
+#
+(
+1[co]
+1[dp]
+1[ep]
+1[fp]
+2[ip]
+1[bq]
+1[cq]
+2[dq]
+2[eq]
+1[gq]
+2[br]
+2[cr]
+2[gr]
+2[hr]
+)
+5
+B[fr]
+W[er]
+B[es]
+W[ds]
+B[fs]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Don't connect at 3 or White will happily get away with it.
+\par }
+#
+(
+1[co]
+1[dp]
+1[ep]
+1[fp]
+2[ip]
+1[bq]
+1[cq]
+2[dq]
+2[eq]
+1[gq]
+2[br]
+2[cr]
+2[gr]
+2[hr]
+)
+4
+B[fr]
+W[er]
+B[fq]
+W[fs]

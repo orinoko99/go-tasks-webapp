@@ -1,0 +1,66 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[qq]AW[om][pn][lp][mp][nq][qq]AB[on][oo][kp][pp][jq][lq]
+;B[qp]
+;W[pq]LB[qp:1][pq:2]CR[qq]C[Star-point Joseki
+
+Black's turn\b0
+When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is a mistake. White will play 2.
+We've already studied that before.
+How should Black play instead? \lang1042\f1
+
+
+])
+(;AW[om][pn][lp][mp][nq][qq]AB[on][oo][kp][pp][jq][lq]
+;B[pm]
+;W[pq]
+;B[pl]LB[pm:1][pq:2][pl:3]C[1st Dia. Joseki
+
+Black 1 is a good move. White will play 2 and Black 3 is a joseki.
+This joseki is complicated, Black playing 2 instead of 1 leads to an easier variation.\lang1042\f1
+
+])
+(;AW[lp][mp][nq]AB[kp][pp][lq]
+;B[pn]
+;W[kq]LB[pn:1][kq:2]C[2nd Dia. Another option
+
+Black can also play 1 then White will answer 2.
+After this-\lang1042\f1
+
+])
+(;AW[lp][mp][kq][nq]AB[pn][kp][pp][lq]LB[oq:A]
+;B[jq]
+;W[kr]
+;B[jp]
+;W[lr]
+;B[or]LB[jq:1][kr:2][jp:3][lr:4][or:5][oq:A]C[3rd Dia. Joseki
+
+This sequence is also a joseki. Black can also play A instead of 5.\lang1042\f1
+
+])
+(;AW[lp][mp][nq]AB[kp][pp][lq]
+;B[oq]
+;W[kq]
+;B[jq]
+;W[kr]
+;B[jp]
+;W[lr]
+;B[nr]LB[oq:1][kq:2][jq:3][kr:4][jp:5][lr:6][nr:7]C[4th Dia. Joseki
+
+Black 1 leads to another joseki. White will cut and Black plays 3 and 5, White answers 6 and then Black 7 is a strong move.\lang1042\f1
+
+])
+(;AW[lp][mp][kq][nq][kr][lr]AB[jp][kp][pp][jq][lq][oq][nr]
+;W[mr]
+;B[np]
+;W[mq]
+;B[no]LB[mr:1][np:2][mq:3][no:4]C[5th Dia. Simple joseki
+
+This is a simple joseki. If White plays 4 instead of 3 Black will answer 3.\lang1042\f1
+
+])
+)

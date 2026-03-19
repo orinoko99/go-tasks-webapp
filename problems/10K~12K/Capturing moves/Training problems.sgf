@@ -1,0 +1,82 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[fc][qh][jn][gp][np][nq]AB[dd][jd][pd][fe][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;W[ge]
+;B[gf]
+;W[dc]LB[ge:1][gf:2][dc:3]C[Training problems(39)
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 White attaches at 2, but this time he tries out White 3.
+
+The responses can be a bit tricky but we'll take a look at them.  How should Black respond?
+
+\lang1042\f0\fs18
+])
+(;CR[ge]AW[dc][fc][ge][qh][jn][gp][np][nq]AB[dd][jd][pd][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[gd]LB[gd:1]CR[ge]C[Dia.1 Simply dansu
+
+
+\lang1033\f1\fs16 Black could just dansu the \lang1042\f0\fs18\'a1\'e2\lang1033\f1\fs16  stone with 1, an easy to understand move.
+Now White's first move doesn't look so good does it?
+
+Next-
+
+\lang1042\f0\fs18
+])
+(;AW[dc][fc][ge][qh][jn][gp][np][nq]AB[dd][gd][jd][pd][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[de:A]
+;W[cd]
+;B[ce]
+;W[cc]
+;B[be]LB[cd:1][ce:2][cc:3][be:4][de:A]C[Dia.2 Black 2 is a strong move
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White will bend at 1, then Black can jjeotchim at 2, a \cf1\b strong move.  \cf0\b0 This may be a little difficult but since there are so many Black stones it's not possible to get a bad result.
+
+White blocks with 3 and Black descends at 4.  We dont care about the weakness at A, that stone can be sacrificed.
+
+Instead of White 3-
+
+\lang1042\f0\fs18
+])
+(;AW[dc][fc][cd][ge][qh][jn][gp][np][nq]AB[dd][gd][jd][pd][ce][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[cc:A][df:B]
+;W[de]
+;B[ed]
+;W[cf]
+;B[be]LB[de:1][ed:2][cf:3][be:4][cc:A][df:B]C[Dia.3 No followups
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 White might cut with 2 but it doesn't work.
+Black will extend wih 2 and then 4.  Now we see that \cf1\b White 3 \cf2 is overplay\lang1042\f0\fs18 !
+\cf0\b0
+\lang1033\f1\fs16 After 4, A and B are matboi, so there is no followup move for White.
+
+\lang1042\f0\fs18
+])
+(;AW[dc][fc][cd][ge][qh][jn][gp][np][nq]AB[dd][gd][jd][pd][ce][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[be:A]
+;W[be]
+;B[bd]
+;W[cc]
+;B[bf]
+;W[de]
+;B[cf]LB[be:1][bd:2][cc:3][bf:4][de:5][cf:6][be:A]C[Dia.4 Still good
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White plays 1 but Black can dansu at 2 and then capture the stone with 4.  Black still has the center covered so Black can expect a \cf1\b good game\cf0\lang1042\b0\f0\fs18 .
+])
+(;AW[fc][qh][jn][gp][np][nq]AB[dd][jd][pd][fe][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;W[ge]
+;B[gf]
+;W[dc]LB[ge:1][gf:2][dc:3]C[No diagram name
+
+
+
+])
+)

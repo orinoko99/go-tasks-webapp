@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[en][co][dp][ep][fp][cq][gq][iq][br][cr][gr][hr]AB[cn][bo][go][bp][cp][gp][bq][dq][eq][fq][hq][dr][fr]LBC[Capturing Move
+
+How can Black capture some white stones?
+])
+(;AW[en][co][dp][ep][fp][cq][gq][iq][br][cr][gr][hr]AB[cn][bo][go][bp][cp][gp][bq][dq][eq][fq][hq][dr][fr]
+;B[eo]
+;W[fo]
+;B[fn]
+;W[do]
+;B[dn]
+;W[em]
+;B[eo]LB[eo:1][fo:2][fn:3][do:4][dn:5][em:6][eo:7]C[Correct
+
+
+Black should wedge in at 1 and spin around at 3. Like this, White can't escape.
+])
+(;AW[en][co][dp][ep][fp][cq][gq][iq][br][cr][gr][hr]AB[cn][bo][go][bp][cp][gp][bq][dq][eq][fq][hq][dr][fr]
+;B[fn]
+;W[dn]
+;B[do]
+;W[eo]LB[fn:1][dn:2][do:3][eo:4]C[Wrong
+
+
+The diagonal attachment doesn't work here because White can form a bamboo joint, which gives him many liberties.
+])
+)

@@ -1,0 +1,79 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[ng]AW[fc][nc][ng][qh][jn][gp][np][nq]AB[pc][dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LBCR[ng]C[Response to the light moves
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16
+We've already looked at some variations as to how black should deal with the \lang1042\f0\fs18\'a1\'e2\lang1033\f1\fs16  marked stone.  Any ideas?\lang1042\f0\fs18
+])
+(;AW[fc][nc][ng][qh][jn][gp][np][nq]AB[pc][dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[ne]
+;W[me]
+;B[mf]LB[ne:1][me:2][mf:3]C[Dia.1 First way
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 There are two ways to handle this situation.
+Black could just walk through the middle by playing 1 and 3.\lang1042\f0\fs18  \lang1033\f1\fs16 Like this, Black can \cf1\b cut White in half\cf0\lang1042\b0\f0\fs18 .
+
+\lang1033\f1\fs16 Next-
+
+\lang1042\f0\fs18
+])
+(;CR[mf]AW[fc][nc][me][ng][qh][jn][gp][np][nq]AB[pc][dd][jd][pd][ne][cf][mf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[lc:A][le:?]
+;W[nf]
+;B[oe]
+;W[le]
+;B[mg]LB[nf:1][oe:2][le:3][mg:4][lc:A][le:?]CR[mf]C[Dia.2 Black can fight
+
+
+\lang1033\f1\fs16 White cuts with 1 and then Black extends with 2.  White can now come out with 3 and Black has to come out with 4 if he doesn't want his marked stone to be caught in a net.
+
+It looks like a complicated fight and that Black is not good, but in fact he is because he has moves like A to look forward to.
+
+ \lang1042\f0\fs18
+])
+(;CR[ne][ng][qh]AW[fc][nc][ng][qh][jn][gp][np][nq]AB[pc][dd][jd][pd][ne][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;W[lc]
+;B[le]
+;W[jb]
+;B[qf]LB[lc:1][le:2][jb:3][qf:4]CR[ne][ng][qh]C[Dia.3 Good result
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White could resist with 1 in response to the \lang1042\f0\fs18\'a1\'e3\lang1033\f1\fs16 marked Black stone, but that's what Black has been waiting for.  Black will play 2, keeping White seperate then take away White's eyespace with 4.
+\lang1042\f0\fs18
+\cf1\lang1033\b\f1\fs16 Black gets a good result\cf0\lang1042\b0\f0\fs18 .
+
+
+])
+(;CR[qh]AW[fc][nc][ng][qh][jn][gp][np][nq]AB[pc][dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[pf:B][oi:A]
+;B[pg]
+;W[ph]
+;B[oh]
+;W[og]
+;B[pf]LB[pg:1][ph:2][oh:3][og:4][pf:5][pf:B][oi:A]CR[qh]C[Dia.4 Second way
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 The other method Black could employ is to emphasize\lang1042\f0\fs18  \cf1\lang1033\b\f1\fs16 putting the \lang1042\f0\fs18\'a1\'e2\lang1033\f1\fs16  stone in danger\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 White plays 2, Black 3, then White cuts with 4.
+
+White looks like he's in danger doesn't he?
+
+Sure Black is cut but White is the one that is in pain.  Remember, the ladder at A favors Black.
+\lang1042\f0\fs18
+\lang1033\f1\fs16 In a 9 stone handicap game, ladders favor Black so fight to your heart's content.
+
+])
+(;AW[fc][nc][ng][qh][jn][gp][np][nq]AB[pc][dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LBC[No diagram name
+
+
+
+])
+)

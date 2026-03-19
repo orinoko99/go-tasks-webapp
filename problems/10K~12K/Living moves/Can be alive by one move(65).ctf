@@ -1,0 +1,154 @@
+//19
+4
+Can be alive by one move(65)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\ltrpar\lang1042\f0
+\par W played at \'a1\'e2.
+\par This is a hasty move.
+\par B has chance to be alive!!
+\par
+\par }
+#
+(
+2[jo]
+2[qo]
+2[mp]
+2[np]
+2[op]
+2[pp]
+2[kq]
+2[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[kr]
+1[lr]
+1[mr]
+1[qr]
+1[rr]
+2[sr]
+2[ls]
+1[ns]
+6[rs]
+)
+0
+Dia.1(Rash)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Blocking at 1 seems to be strong but it is\cf1\b  a rash move \cf0\b0 because B's eye shape turns to the flower five which is the eye shape of death.
+\par }
+#
+(
+2[jo]
+2[qo]
+2[mp]
+2[np]
+2[op]
+2[pp]
+2[kq]
+2[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[kr]
+1[lr]
+1[mr]
+65[pr]
+1[qr]
+1[rr]
+2[sr]
+2[ls]
+1[ns]
+690[qs]
+2[rs]
+)
+2
+B[qs]
+W[or]
+Dia.2(Good attack)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B's connecting move is quite strong but \cf1\b playing inside at 2 is a good attack.\cf0\b0
+\par
+\par Up to 4, B can't make two eyes.
+\par
+\par }
+#
+(
+2[jo]
+2[qo]
+2[mp]
+2[np]
+2[op]
+2[pp]
+2[kq]
+2[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[kr]
+1[lr]
+1[mr]
+65[pr]
+1[qr]
+1[rr]
+2[sr]
+2[ls]
+1[ns]
+2[rs]
+)
+4
+B[pr]
+W[or]
+B[qs]
+W[os]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Making an eye is\cf1\b  the vital point of life.
+\par \cf0\b0
+\par W can't play at A because B makes three stones are in chokchoksu.(playing at B)
+\par
+\par }
+#
+(
+2[jo]
+2[qo]
+2[mp]
+2[np]
+2[op]
+2[pp]
+2[kq]
+2[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+2[kr]
+1[lr]
+1[mr]
+1[qr]
+1[rr]
+2[sr]
+2[ls]
+1[ns]
+66[os]
+65[ps]
+2[rs]
+)
+3
+B[or]
+W[qs]
+B[pr]

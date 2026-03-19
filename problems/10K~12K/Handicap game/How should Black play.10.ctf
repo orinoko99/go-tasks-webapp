@@ -1,0 +1,162 @@
+//19
+5
+How should Black play?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par This is different from problem 14. White just played 1. How should Black answer?\lang1042\f1
+\par
+\par }
+#
+(
+1[dd]
+1[jd]
+1[nd]
+1[pd]
+1[qe]
+2[pf]
+2[qf]
+2[qi]
+1[dj]
+1[jj]
+2[pm]
+2[cn]
+1[dp]
+1[jp]
+1[np]
+1[pp]
+1[fq]
+)
+1
+W[qc]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is the correct answer. Black doens't have to cut because White's \lang1042\f1\'a1\'e2\lang1043\f0  stones are already strong.\lang1042\f1
+\par
+\par }
+#
+(
+2[qc]
+1[dd]
+1[jd]
+1[nd]
+1[pd]
+1[qe]
+6[pf]
+6[qf]
+6[qi]
+1[dj]
+1[jj]
+6[pm]
+2[cn]
+1[dp]
+1[jp]
+1[np]
+1[pp]
+1[fq]
+)
+1
+B[pc]
+2nd Dia. Continuation.
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White will play 1 and then Black answers 2. White will play 3 and Black cuts at 4.
+\par This result is acceptable for both sides.\lang1042\f1
+\par
+\par }
+#
+(
+1[pc]
+2[qc]
+1[dd]
+1[jd]
+1[nd]
+1[pd]
+1[qe]
+2[pf]
+2[qf]
+2[qi]
+1[dj]
+1[jj]
+2[pm]
+2[cn]
+1[dp]
+1[jp]
+1[np]
+1[pp]
+1[fq]
+)
+4
+W[re]
+B[qd]
+W[rd]
+B[rc]
+3rd Dia. Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a mistake. White will play the following sequence.
+\par This result is good for White.\lang1042\f1
+\par
+\par }
+#
+(
+2[qc]
+1[dd]
+1[jd]
+1[nd]
+1[pd]
+1[qe]
+2[pf]
+2[qf]
+2[qi]
+1[dj]
+1[jj]
+2[pm]
+2[cn]
+1[dp]
+1[jp]
+1[np]
+1[pp]
+1[fq]
+)
+12
+B[re]
+W[oc]
+B[od]
+W[nc]
+B[pc]
+W[pb]
+B[mc]
+W[mb]
+B[lb]
+W[nb]
+B[lc]
+W[dg]
+4th Dia. Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is also a mistake. This is almost the same result as the previous diagram.\lang1042\f1
+\par
+\par }
+#
+(
+2[qc]
+1[dd]
+1[jd]
+1[nd]
+1[pd]
+1[qe]
+2[pf]
+2[qf]
+2[qi]
+1[dj]
+1[jj]
+2[pm]
+2[cn]
+1[dp]
+1[jp]
+1[np]
+1[pp]
+1[fq]
+)
+4
+B[rd]
+W[oc]
+B[od]
+W[nc]

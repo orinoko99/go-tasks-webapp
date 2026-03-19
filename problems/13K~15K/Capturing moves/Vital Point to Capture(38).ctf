@@ -1,0 +1,149 @@
+//19
+5
+Vital Point to Capture?(38)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Black's eye-space is really big.
+\par However if White attacks step by step, he can capture Black.
+\par
+\par The first and third move are obvious and the fifth is the deciding move.
+\par }
+#
+(
+2[qn]
+2[ro]
+2[op]
+2[pp]
+2[qp]
+1[rp]
+2[oq]
+1[qq]
+2[or]
+1[pr]
+2[os]
+1[ps]
+1[rs]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It looks common but capturing the Black stone with White 1 and 3 is the only way to capture Black.
+\par
+\par Now Black can't defend against White A and B at the same time.
+\par
+\par
+\par
+\par }
+#
+(
+2[qn]
+2[ro]
+2[op]
+2[pp]
+2[qp]
+1[rp]
+2[oq]
+1[qq]
+2[or]
+1[pr]
+65[qr]
+66[sr]
+2[os]
+1[ps]
+1[rs]
+)
+3
+W[rq]
+B[rr]
+W[sp]
+Dia. 02 No Follow up
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par There is death in the hane?
+\par If White is using that proverb now at plays hane at 1, Black connects at 2 and then White has no follow up.
+\par
+\par If White plays the placement at 3, Black cuts with 4 and nothing works anymore.
+\par }
+#
+(
+2[qn]
+2[ro]
+2[op]
+2[pp]
+2[qp]
+1[rp]
+2[oq]
+1[qq]
+2[or]
+1[pr]
+2[os]
+1[ps]
+1[rs]
+)
+4
+W[sp]
+B[rq]
+W[sr]
+B[sq]
+Dia. 03 Opponent's Vital Point
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The 1-2 vital point with White 1 is another powerful move, but not in this case.
+\par
+\par Black's connection at 2 is the \cf1\b vital point for living\cf0\b0 .
+\par
+\par It was the \cf1\b opponent's vital point\cf0\b0  as well.
+\par Actually Black can also answer at A instead of 2.
+\par }
+#
+(
+2[qn]
+2[ro]
+2[op]
+2[pp]
+2[qp]
+1[rp]
+2[oq]
+1[qq]
+65[sq]
+2[or]
+1[pr]
+2[os]
+1[ps]
+1[rs]
+)
+2
+W[sr]
+B[rq]
+Dia. 04 Easy Life
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's placement at 1 looks good too, but the connection at 2 saves Black again.
+\par A and B are miai so Black lives easily.
+\par
+\par
+\par }
+#
+(
+2[qn]
+2[ro]
+2[op]
+2[pp]
+2[qp]
+1[rp]
+2[oq]
+1[qq]
+2[or]
+1[pr]
+65[qr]
+66[sr]
+2[os]
+1[ps]
+1[rs]
+)
+2
+W[rr]
+B[rq]

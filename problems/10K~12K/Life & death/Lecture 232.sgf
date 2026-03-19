@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[fp][bq][cq][dq][fq][hq]AB[br][cr][dr][fr]LBC[Black to Live
+
+Where should Black play to save his stones?
+])
+(;AW[fp][bq][cq][dq][fq][hq]AB[br][cr][dr][fr]
+;B[es]
+;W[gr]
+;B[ar]LB[es:1][gr:2][ar:3]C[Correct
+
+The tiger's mouth at 1 is the only way to live. This way, 2 and 3 are miai. In other words, if White blocks at 2, Black lives at 3 and vice versa.
+
+])
+(;AW[fp][bq][cq][dq][fq][hq]AB[br][cr][dr][fr]
+;B[er]
+;W[ar]
+;B[gr]
+;W[hr]
+;B[gs]
+;W[es]LB[er:1][ar:2][gr:3][hr:4][gs:5][es:6]C[Wrong
+
+The direct connection at 1 doesn't work. The proverb "There is death in the hane" applies here because White can kill at 2.
+
+])
+)

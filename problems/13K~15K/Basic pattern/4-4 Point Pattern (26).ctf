@@ -1,0 +1,93 @@
+//19
+5
+Star-point joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  White 1 is a mistake. How should Black answer?\lang1042\f1
+\par
+\par }
+#
+(
+1[pp]
+5[lq]
+2[nq]
+)
+1
+W[pr]
+1st Dia. Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a bad move. It's White's wish. If White plays like this the result is good for Black. But White will play-\lang1042\f1
+\par
+\par }
+#
+(
+1[pp]
+1[lq]
+2[nq]
+2[pr]
+)
+5
+B[qr]
+W[pq]
+B[qq]
+W[op]
+B[po]
+2nd Dia. Very good for White
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White will play 2. That's why it's bad for Black. Now Black has to play 3 to 8.
+\par This result is very good for White.\lang1042\f1
+\par
+\par }
+#
+(
+1[pp]
+1[lq]
+2[nq]
+2[pr]
+)
+8
+B[qr]
+W[qq]
+B[pq]
+W[rr]
+B[or]
+W[qs]
+B[oq]
+W[qo]
+3rd Dia. Good for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black should have played 1. This result is good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[pp]
+1[lq]
+2[nq]
+2[pr]
+)
+3
+B[qq]
+W[no]
+B[qm]
+4th Dia. Keep looking
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Let's compare this situation with the previous diagram.
+\par When White plays 1 Black will play 2, White 3 and Black has to play 4.
+\par Black 2 is better than A and White should have played B instead of 5.
+\par So this result is good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+65[qn]
+1[pp]
+66[kq]
+)
+6
+W[nq]
+B[qm]
+W[pr]
+B[qq]
+W[no]
+B[lq]

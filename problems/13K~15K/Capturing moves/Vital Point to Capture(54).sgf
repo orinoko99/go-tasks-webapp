@@ -1,0 +1,48 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qo][so][mp][np][op][pp][rp][mq][pq][lr][rs]AB[qp][nq][oq][qq][rq][nr][pr][ns][ps]LBC[How to kill? (54)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 On the left we have a solid eye but not so much on the right.  How should White play to make use of his one stone to kill Black?  Don't be satisfied with Pae.
+\lang1042\f0\fs18
+])
+(;CR[qp][qq][rq]AW[qo][so][mp][np][op][pp][rp][mq][pq][lr][rs]AB[qp][nq][oq][qq][rq][nr][pr][ns][ps]LB[sp:B][qs:A]
+;W[sr]
+;B[sq]
+;W[qr]LB[sr:1][sq:2][qr:3][sp:B][qs:A]CR[qp][qq][rq]C[Dia.1 Correct
+
+The diagonal move of White 1 captures the three Black stones.  When Black cuts off White with 2 then White can cut at 3!  If Black plays at A then White B captures Black in snapback.
+
+\lang1042\f1\fs18
+])
+(;AW[qo][so][mp][np][op][pp][rp][mq][pq][lr][rs]AB[qp][nq][oq][qq][rq][nr][pr][ns][ps]LB[qr:?]
+;W[sq]
+;B[sr]
+;W[qr]
+;B[sp]LB[sq:1][sr:2][qr:3][sp:4][qr:?]C[Dia.2 Pae
+
+In a real game we might play at 1, in which case Black will respond with 2.  White will cut at 3, and then a Pae will begin.  However this is inferior to the right answer.
+\lang1042\f1\fs18
+
+])
+(;AW[qo][so][mp][np][op][pp][rp][mq][pq][lr][rs]AB[qp][nq][oq][qq][rq][nr][pr][ns][ps]
+;W[rr]
+;B[qr]
+;W[sq]
+;B[sr]LB[rr:1][qr:2][sq:3][sr:4]C[Dia.3 Black lives
+
+White 1 is a mistake.  White might try to throw in at 3 but then Black will do the same with 4 and now the two White stones in the corner are captured for sure, meaning Black is alive.
+\lang1042\f1\fs18
+
+])
+(;AW[qo][so][mp][np][op][pp][rp][mq][pq][lr][rs]AB[qp][nq][oq][qq][rq][nr][pr][ns][ps]LBC[No diagram name
+
+
+
+])
+)

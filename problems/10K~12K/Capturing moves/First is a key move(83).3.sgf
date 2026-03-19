@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pq][qq][nr][or][qr][sr][ps]AB[pp][qp][rp][mq][nq][oq][mr][ms][ns]LBC[First is a key move(83)
+
+
+\lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+
+First is a key move.
+])
+(;AW[pq][qq][nr][or][qr][sr][ps]AB[pp][qp][rp][mq][nq][oq][mr][ms][ns]
+;B[rq]
+;W[rr]
+;B[os]
+;W[rs]LB[rq:1][rr:2][os:3][rs:4]C[Dia.1(Bed move)
+
+{\colortbl ;\red255\green0\blue0;}
+
+B1 is \cf1\b a bed move.\cf0\b0
+After 2, B can't capture W's group anymore.
+
+])
+(;AW[pq][qq][nr][or][qr][sr][ps]AB[pp][qp][rp][mq][nq][oq][mr][ms][ns]
+;B[os]
+;W[rs]
+;B[rq]
+;W[rr]LB[os:1][rs:2][rq:3][rr:4]C[Dia.2(Vital point)
+
+{\colortbl ;\red0\green0\blue255;}
+
+W2 is the vital point of life.\cf0\b0
+This result is the same as before.
+
+
+])
+(;AW[pq][qq][nr][or][qr][sr][ps]AB[pp][qp][rp][mq][nq][oq][mr][ms][ns]LB[os:A][qs:B]
+;B[rs]LB[rs:1][os:A][qs:B]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Playing inside at 1 is\cf1\b  the enemy's vital point is your own.
+
+\cf0\b0 A and B is miai.
+
+])
+)

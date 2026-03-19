@@ -1,0 +1,77 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mp][np][op][pp][qp][kq][lq][rq][kr][rr][ks]AB[mq][nq][oq][lr][nr][qr][ls][ms]
+;W[pr]
+;B[pq]LB[pr:1][pq:2]C[One move problems(38)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 White has wedged at 1 and Black responds with 2 to try and cut it off.  Black 2 is a mistake actually.
+
+What's the best result for White? \cf1\b This should be Pae\cf0\lang1042\b0\f0\fs18 .
+])
+(;AW[mp][np][op][pp][qp][kq][lq][rq][kr][pr][rr][ks]AB[mq][nq][oq][pq][lr][nr][qr][ls][ms]
+;W[qq]
+;B[ps]
+;W[qs]
+;B[os]LB[qq:1][ps:2][qs:3][os:4]C[Dia.1 Missing a opportunity
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White 1 is \cf1\b missing the opportunity \cf0\b0 to have a shot at capturing Black.
+Black will just play 2 and 4 to make two eyes and live.
+
+If Black plays 2 at 4 it still works.
+
+\lang1042\f0\fs18
+])
+(;AW[mp][np][op][pp][qp][kq][lq][rq][kr][pr][rr][ks]AB[mq][nq][oq][pq][lr][nr][qr][ls][ms]
+;W[os]
+;B[or]
+;W[qs]LB[os:1][or:2][qs:3]C[Dia.2 Correct/Diagonal
+
+
+\lang1033\f1\fs16 White should play the diagonal move at 1, the vital point and the right way to attack.
+
+Black plays 2 then White resists with a Pae.
+\lang1042\f0\fs18
+
+
+])
+(;AW[mp][np][op][pp][qp][kq][lq][rq][kr][rr][ks]AB[mq][nq][oq][lr][nr][qr][ls][ms]LB[or:A]
+;W[pr]
+;B[os]LB[pr:1][os:2][or:A]C[Dia.3 Black 2 is the vital point
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 In the beginning if White plays 1 then Black will play at 2 to live, the \cf1\b vital point to live\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 It follows the proverb that\lang1042\f0\fs18  \cf1\lang1033\b\f1\fs16 your opponent's vital point is your vital point. \cf0\lang1042\b0\f0\fs18
+
+\lang1033\f1\fs16 If White plays at A then clearly that doesn't work.
+
+\lang1042\f0\fs18
+])
+(;AW[mp][np][op][pp][qp][kq][lq][rq][kr][rr][ks]AB[mq][nq][oq][lr][nr][qr][ls][ms]LB[ns:A][os:A][qs:B]
+;W[os]LB[os:1][ns:A][os:A][qs:B]C[Dia.4 The vital point
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 In the beginning, White made a mistake.  He should have played the placement attack tat 1, the\lang1042\f0\fs18  \cf1\lang1033\b\f1\fs16 vital point to kill Black\cf0\lang1042\b0\f0\fs18 .
+
+\lang1033\f1\fs16 Next if Black plays at A then White connects out at B, so these two points are matbogi.  Be careful when killing groups.
+
+\lang1042\f0\fs18
+])
+(;AW[mp][np][op][pp][qp][kq][lq][rq][kr][rr][ks]AB[mq][nq][oq][lr][nr][qr][ls][ms]
+;W[pr]
+;B[pq]LB[pr:1][pq:2]C[No diagram name
+
+
+
+])
+)

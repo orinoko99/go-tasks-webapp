@@ -1,0 +1,67 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pm][qn][nq][qq]AB[on][pn][kp][pp]
+;B[np]
+;W[mp]
+;B[mq]LB[np:1][mp:2][mq:3]C[Star point jeongseok (53)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 When Black attaches at 1 White's play at 2 is not a good move.  Then, Black crosscuts at 3 and we have a fight on our hands.
+
+\lang1042\f0\fs18
+])
+(;AW[pm][qn][mp][nq][qq]AB[on][pn][kp][np][pp][mq]LB[qp:B][or:A]
+;W[nr]
+;B[mo]LB[nr:1][mo:2][qp:B][or:A]C[Dia.1 A weak move
+
+White 1 might seem like a good point but it's a weakhearted move.  Black can simple capture the White stone in a ladder and now he is thick.  Even if you play at A or B Black is still going to take the stone.
+\lang1042\f1\fs18
+])
+(;AW[pm][qn][mp][nq][qq]AB[on][pn][kp][np][pp][mq]LB[lp:A]
+;W[lq]
+;B[mr]
+;W[nr]
+;B[lp]
+;W[mo]
+;B[lr]LB[lq:1][mr:2][nr:3][lp:4][mo:5][lr:6][lp:A]C[Dia.2 Complicated
+
+The dansu of White 1 in combination with 3 is complicated.  It's not easy for either side but up to White 5 we can see that White is going to have a difficult time in this fight.  He should have avoided it.
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][mp][nq][qq]AB[on][pn][kp][np][pp][mq]LB[mo:A]
+;W[qp]
+;B[oq]
+;W[qm]LB[qp:1][oq:2][qm:3][mo:A]C[Dia.3 Even
+
+Here, White has played 1, and Black has played 2 (he could've also played A).  This is an even result.
+
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][mp][nq][qq]AB[on][pn][kp][np][pp][mq]LB[no:A]
+;W[no]
+;B[op]
+;W[lq]
+;B[mr]
+;W[lp]
+;B[nr]
+;W[ro]LB[no:1][op:2][lq:3][mr:4][lp:5][nr:6][ro:7][no:A]C[Dia.4 White is superior
+
+White should dansu at 1 and again at 3 for the best result.  After connecting at 5, Black has to capture the stone with 6, then White can connect his stones on the right side with 7 in good shape.  White is superior in this position.\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][nq][qq]AB[on][pn][kp][pp]
+;B[np]
+;W[mp]
+;B[mq]LB[np:1][mp:2][mq:3]C[No diagram name
+
+
+
+])
+)

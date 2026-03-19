@@ -1,0 +1,197 @@
+//19
+5
+Living with one Move (30)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Black came to capture White's group with \'a1\'e3.
+\par It is rather a tricky than a sharp move.
+\par
+\par White situation looks a bit dangerous but he has prepared a move.
+\par
+\par So, where is the vital point for living?
+\par
+\par }
+#
+(
+1[qm]
+1[no]
+1[oo]
+1[qo]
+1[mp]
+2[op]
+2[pp]
+1[qp]
+1[mq]
+2[nq]
+2[pq]
+1[qq]
+1[rq]
+1[mr]
+2[nr]
+5[or]
+2[qr]
+2[rr]
+1[ms]
+)
+0
+Dia. 01 White Dies
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White \cf1\b fails for Black's trap\cf0\b0  if he connects at 1.
+\par
+\par After Black connects with 2, White can't live anymore.
+\par
+\par White 1 was not the vital point.
+\par
+\par }
+#
+(
+1[qm]
+1[no]
+1[oo]
+1[qo]
+1[mp]
+2[op]
+2[pp]
+1[qp]
+1[mq]
+2[nq]
+2[pq]
+1[qq]
+1[rq]
+1[mr]
+2[nr]
+1[or]
+2[qr]
+2[rr]
+1[ms]
+)
+6
+W[pr]
+B[ns]
+W[ps]
+B[os]
+W[sr]
+B[rs]
+Dia. 02 There is a Problem
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 looks good.
+\par If Black plays at 2, White goes out with 3 and makes one eye on each side.
+\par
+\par White lives up to 5. However there is a \cf1\b problem\cf0\b0  in this variation.
+\par It is about Black 2.
+\par
+\par
+\par }
+#
+(
+1[qm]
+1[no]
+1[oo]
+1[qo]
+1[mp]
+2[op]
+2[pp]
+1[qp]
+1[mq]
+2[nq]
+2[pq]
+1[qq]
+1[rq]
+1[mr]
+2[nr]
+1[or]
+2[qr]
+2[rr]
+1[ms]
+)
+5
+W[os]
+B[ns]
+W[ps]
+B[sr]
+W[rs]
+Dia. 03 Black 1 and 3 Work
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against White \'a1\'e2, Black's dansu at 1 is a strong move.
+\par If White connects at 2, Black plays at 3 and captures White in a nice way.
+\par
+\par White 4 is unavoidable and then \cf1\b White dies\cf0\b0  after Black's hane at 5. \cf1\b
+\par \cf0\b0
+\par If White plays at 5 instead of 4, Black plays at A and White is captured again.
+\par
+\par }
+#
+(
+1[qm]
+1[no]
+1[oo]
+1[qo]
+1[mp]
+65[np]
+2[op]
+2[pp]
+1[qp]
+1[mq]
+2[nq]
+2[pq]
+1[qq]
+1[rq]
+1[mr]
+2[nr]
+1[or]
+2[qr]
+2[rr]
+1[ms]
+6[os]
+)
+5
+B[ps]
+W[ns]
+B[pr]
+W[oq]
+B[sr]
+Dia. 04 Correct Answer-Diagonal Move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's \cf1\b diagonal move at 1\cf0\b0  is the correct answer. White succeed one eye on each side with this move.
+\par
+\par After Black 2, White lives with 3.
+\par
+\par
+\par }
+#
+(
+1[qm]
+1[no]
+1[oo]
+1[qo]
+1[mp]
+2[op]
+2[pp]
+1[qp]
+1[mq]
+2[nq]
+2[pq]
+1[qq]
+1[rq]
+1[mr]
+2[nr]
+1[or]
+2[qr]
+2[rr]
+1[ms]
+)
+5
+W[ps]
+B[sr]
+W[rs]
+B[ns]
+W[os]

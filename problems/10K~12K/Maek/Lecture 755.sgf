@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[co][dp][ep][fp][cq][fq][hq][cr][gr][hr][ir]AB[fo][io][gp][hp][dq][eq][gq][iq][jq][dr][fr][jr]LBC[One Eye versus No Eye
+
+Black to capture White.
+])
+(;AW[co][dp][ep][fp][cq][fq][hq][cr][gr][hr][ir]AB[fo][io][gp][hp][dq][eq][gq][iq][jq][dr][fr][jr]
+;B[es]
+;W[cs]
+;B[ds]
+;W[hs]
+;B[fs]LB[es:1][cs:2][ds:3][hs:4][fs:5]C[Correct
+
+Black should make one eye at 1. When White descends at 2 Black connects at 3. White might try to create a pae/ko at 4 but Black calmly defends at 5.
+
+])
+(;AW[co][dp][ep][fp][cq][fq][hq][cr][gr][hr][ir]AB[fo][io][gp][hp][dq][eq][gq][iq][jq][dr][fr][jr]
+;B[is]
+;W[ds]LB[is:1][ds:2]C[Success
+
+The hane at 1 is too slow. White captures Black with the atari at 2.
+
+])
+)

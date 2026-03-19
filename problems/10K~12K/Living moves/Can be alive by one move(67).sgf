@@ -1,0 +1,74 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qp][rp][sp][rq][pr][qs]AB[po][qo][ro][so][pp][pq][or][os]LBC[Can be alive by one move(67)
+
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+This kind of problem doesn't show in the actual game.
+
+Exercise for your life&death skill !!
+])
+(;AW[qp][rp][sp][rq][pr][qs]AB[po][qo][ro][so][pp][pq][or][os]
+;W[qr]
+;B[sr]LB[qr:1][sr:2]C[Dia.1(Flower five)
+
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+W1 is sort of suicide move because it is flower five formation.
+
+
+
+])
+(;AW[qp][rp][sp][rq][pr][qs]AB[po][qo][ro][so][pp][pq][or][os]
+;W[qq]
+;B[sr]
+;W[rr]
+;B[ps]
+;W[ss]
+;B[qr]LB[qq:1][sr:2][rr:3][ps:4][ss:5][qr:6]C[Dia.2(The death of double ko)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+Extend eye spaces looks good.
+But \cf1\b playing inside at 2 to 1 point is very strong attack.\cf0\b0
+
+Up to 6, it seems to be a ko but it's \cf2\b the death of double ko.\cf0\b0
+
+])
+(;AW[qp][rp][sp][rq][pr][qs]AB[po][qo][ro][so][pp][pq][or][os]LB[sq:A][qr:B]
+;W[rr]
+;B[sr]
+;W[ss]
+;B[rs]LB[rr:1][sr:2][ss:3][rs:4][sq:A][qr:B]C[Dia.3(Ko)
+
+{\colortbl ;\red255\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+How about W1??
+B2 is a good attack so \cf1\b W just can make a ko.
+
+\cf0\b0 After 4, if W played at A to make two eyes, B would throw in at B.\cf1\b
+\cf0\b0
+])
+(;AW[qp][rp][sp][rq][pr][qs]AB[po][qo][ro][so][pp][pq][or][os]LB[sr:A]
+;W[sr]
+;B[qr]
+;W[qq]
+;B[ps]
+;W[rs]LB[sr:1][qr:2][qq:3][ps:4][rs:5][sr:A]C[Dia.4(Right answer)
+
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+Diagonal move is the enemy's vital point.
+
+Up to 5, W can make two eyes!!
+
+])
+)

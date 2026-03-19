@@ -1,0 +1,70 @@
+//19
+3
+Direction of Play
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 It is Black's turn. Capture the two white stones in the corner.
+\par }
+#
+(
+2[cn]
+2[bp]
+2[cp]
+2[bq]
+1[cq]
+1[dq]
+1[eq]
+1[gq]
+1[br]
+2[cr]
+2[dr]
+)
+0
+Success
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black should descend at 1, towards the target to attack. This is the most effective move to increase Black's liberties while keeping pressure on the white stones. When White plays the hane at 2, Black blocks at 3 to win the capturing race.
+\par
+\par }
+#
+(
+2[cn]
+2[bp]
+2[cp]
+2[bq]
+1[cq]
+1[dq]
+1[eq]
+1[gq]
+1[br]
+2[cr]
+2[dr]
+)
+5
+B[bs]
+W[ar]
+B[er]
+W[aq]
+B[ds]
+Failure
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Descending to the other side at 1 is a mistake because White will hane at 2 and then win the capturing race with the atari at 4.
+\par
+\par }
+#
+(
+2[cn]
+2[bp]
+2[cp]
+2[bq]
+1[cq]
+1[dq]
+1[eq]
+1[gq]
+1[br]
+2[cr]
+2[dr]
+)
+4
+B[ar]
+W[bs]
+B[er]
+W[aq]

@@ -1,0 +1,33 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ck][dl][bm][cm][dn][do][go][ap][bp][dp][bq][cq][fq][dr][er][gr]AB[dm][em][cn][en][eo][ep][aq][dq][eq][ar][br][cr]LBC[Capturing Technique
+
+Where should Black play to capture some white stones?
+])
+(;AW[ck][dl][bm][cm][dn][do][go][ap][bp][dp][bq][cq][fq][dr][er][gr]AB[dm][em][cn][en][eo][ep][aq][dq][eq][ar][br][cr]
+;B[bo]
+;W[bn]
+;B[ao]
+;W[co]
+;B[cp]
+;W[cn]LB[bo:1][bn:2][ao:3][co:4][cp:5][cn:6]C[Correct
+
+The diagonal move at one is an excellent move in this situation. Even if White plays the atari at 2, Black can descend to 3 and due to chokchoksu White can't connect at 5.
+
+])
+(;AW[ck][dl][bm][cm][dn][do][go][ap][bp][dp][bq][cq][fq][dr][er][gr]AB[dm][em][cn][en][eo][ep][aq][dq][eq][ar][br][cr]
+;B[co]
+;W[bn]
+;B[bo]
+;W[ao]
+;B[cp]
+;W[an]LB[co:1][bn:2][bo:3][ao:4][cp:5][an:6]C[Wrong
+
+Extending to 1 fails because Black can capture only three stones. Compare with the solution to see the difference.
+
+])
+)

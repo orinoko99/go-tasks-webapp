@@ -1,0 +1,74 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pr][qr][qs]AW[lp][np][op][pp][qp][rp][mq][sq][lr][pr][qr][sr][qs]AB[nq][oq][pq][qq][rq][nr][rr][ns][rs]LBCR[pr][qr][qs]C[Vital Point to Capture?(10)
+
+
+\b White to play\b0 .
+
+White \'a1\'e2 stones are captured, but White can find a move which doesn't let Black to have a living shape.
+
+If you think about how would Black live if White plays elsewhere, it is easy to find the good move for White.
+
+
+])
+(;AW[lp][np][op][pp][qp][rp][mq][sq][lr][pr][qr][sr][qs]AB[nq][oq][pq][qq][rq][nr][rr][ns][rs]LB[or:A][os:B]
+;W[ps]LB[ps:1][or:A][os:B]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+Did you find White 1?
+It looks a bit strange, but this is the \cf1\b only move\cf0\b0  \cf2\b which captures Black\cf0\b0 .
+
+If the outside liberties are filled up, White plays dansu at A or B. So Black has to take the five stones. After that White can capture Black with the placement at the center of the five space shape.
+
+It means this shape is already captured after White plays at 1.
+
+])
+(;AW[lp][np][op][pp][qp][rp][mq][sq][lr][pr][qr][sr][qs]AB[nq][oq][pq][qq][rq][nr][rr][ns][rs]
+;W[mr]
+;B[or]
+;W[ps]LB[mr:1][or:2][ps:3]C[Dia. 02 Dead Again?
+
+{\colortbl ;\red255\green0\blue0;}
+
+White can easily think that even if he fills the liberty from the outside with 1, he can still capture Black.
+
+If Black plays at 2, White answers with 3 and it becomes a famous dead shape.
+
+However is this sequence correct? Actually not. Black 2 is \cf1\b questionable\cf0\b0 .
+
+])
+(;CR[mr]AW[lp][np][op][pp][qp][rp][mq][sq][lr][mr][pr][qr][sr][qs]AB[nq][oq][pq][qq][rq][nr][rr][ns][rs]
+;B[ps]
+;W[os]
+;B[or]LB[ps:1][os:2][or:3]CR[mr]C[Dia. 03 Illegal Move
+
+{\colortbl ;\red255\green0\blue0;}
+
+Against White \'a1\'e2, Black 1 is an excellent move.
+
+White plays at 2 and after Black's dansu at 3, it becomes a strange shape.
+
+White can't connect, because it would be an\cf1\b  illegal move\cf0\b0 .
+
+Therefore Black is alive.
+
+])
+(;AW[lp][np][op][pp][qp][rp][mq][sq][lr][pr][qr][sr][qs]AB[nq][oq][pq][qq][rq][nr][rr][ns][rs]LB[or:B][os:A]
+;B[ps]LB[ps:1][or:B][os:A]C[Dia. 04 Living Move for Black
+
+{\colortbl ;\red0\green0\blue255;}
+
+Let's figure out how to live with Black, if White plays elsewhere.
+
+It is easy. If Black plays at 1 he can live. After that, if White takes with A, Black lives with the dansu at B.
+
+Therefore 1 is the vital point.
+
+\cf1\b Black can live if he plays at this place and White can capture Black if he plays here\cf0\b0 .
+])
+)

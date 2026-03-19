@@ -1,0 +1,66 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[sp]AW[qp][qq][or][pr][rr]AB[no][qo][ro][pp][sp][nq][pq][nr][qr]LBCR[sp]C[Living with one Move(20)
+
+
+\b White to play\b0 .
+
+White has captured one stone, but Black \'a1\'e3 stone is making trouble.
+
+So White has to be careful.
+
+
+])
+(;AW[qp][qq][or][pr][rr]AB[no][qo][ro][pp][sp][nq][pq][nr][qr]
+;W[qs]
+;B[sr]
+;W[rq]
+;B[sq]
+;W[os]
+;B[rs]LB[qs:1][sr:2][rq:3][sq:4][os:5][rs:6]C[Dia. 01 Mistake from Both/Pae
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+Capturing with White 1 is a \cf1\b mistake\cf0\b0 .
+However Black's attachment at 2 is another \cf1\b bad move\cf0\b0 .
+White can resist with 3 and 5 and make \cf2\b pae\cf0\b0 .
+
+Black should have played at 3 instead of 2 and then White would be dead.
+
+
+])
+(;CR[sp]AW[qp][qq][or][pr][rr]AB[no][qo][ro][pp][sp][nq][pq][nr][qr]
+;W[sq]
+;B[rq]
+;W[qs]
+;B[rp]LB[sq:1][rq:2][qs:3][rp:4]CR[sp]C[Dia. 02 White 1, Idle
+
+
+White 1 is an idle move which doesn't care about the Black \'a1\'e3 stone.
+
+Black throws-in at 2 immediately.
+
+White has to take at 3, but Black captures him with 4.
+
+
+])
+(;AW[qp][qq][or][pr][rr]AB[no][qo][ro][pp][sp][nq][pq][nr][qr]LB[rp:A]
+;W[rq]
+;B[sq]
+;W[sr]
+;B[qs]
+;W[rs]LB[rq:1][sq:2][sr:3][qs:4][rs:5][rp:A]C[Dia. 03 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's connection at 1 is \cf1\b calm\cf0\b0 .
+After Black 2, White lives with 3.
+
+Black 4 tries to create a shortage of liberties, but White can play at 5, because he has a liberty at A.
+
+])
+)

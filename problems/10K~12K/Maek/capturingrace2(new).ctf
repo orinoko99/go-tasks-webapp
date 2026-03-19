@@ -1,0 +1,93 @@
+//19
+3
+Vital Point
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 It's Black's turn. Find the vital point to win the capturing race.
+\par }
+#
+(
+2[ao]
+2[bo]
+2[co]
+2[do]
+2[ap]
+1[bp]
+1[cp]
+1[dp]
+1[aq]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+1[ar]
+2[dr]
+2[er]
+1[fr]
+2[cs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The diagonal move at 1 is the vital point in this shape. White can't approach at a because he's short of liberties.
+\par
+\par }
+#
+(
+2[ao]
+2[bo]
+2[co]
+2[do]
+2[ap]
+1[bp]
+1[cp]
+1[dp]
+1[aq]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+1[ar]
+97[br]
+2[dr]
+2[er]
+1[fr]
+2[cs]
+)
+3
+B[bs]
+W[cr]
+B[es]
+Failure
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The atari at 1 fails because White will connect at 2. Next, Black can't play at 4 because he's short of liberties. White wins the capturing race.
+\par
+\par }
+#
+(
+2[ao]
+2[bo]
+2[co]
+2[do]
+2[ap]
+1[bp]
+1[cp]
+1[dp]
+1[aq]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+1[ar]
+2[dr]
+2[er]
+1[fr]
+2[cs]
+)
+4
+B[br]
+W[cr]
+B[es]
+W[bs]

@@ -1,0 +1,126 @@
+//19
+4
+First is a key move(72)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\ltrpar\lang1042\f0
+\par In this case, ko is the best result??
+\par
+\par }
+#
+(
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[mq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[pr]
+2[sr]
+)
+0
+Dia.1(Ko)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par You might think about a ko is the best result.
+\par
+\par \'c8\'e61\'b7\'ce \'b2\'f7\'b4\'c2 \'bc\'f6\'b0\'a1 \'c3\'d6\'bc\'b1\'c0\'cc\'b6\'f3\'b0\'ed \'bb\'fd\'b0\'a2\'c7\'d1 \'bb\'e7\'b6\'f7\'c0\'cc \'c0\'d6\'b4\'d9\'b8\'e9 \'c2\'fc \'b0\'c6\'c1\'a4\'b5\'cb\'b4\'cf\'b4\'d9.
+\par \'b9\'e9\'c0\'ba \'b4\'e7\'bf\'ac\'c8\'f7 2\'c0\'c7 \'c6\'d0\'b7\'ce \'b9\'f6\'c6\'bc\'b0\'da\'c1\'d2.
+\par
+\par \'c0\'cc \'c1\'a4\'b5\'b5\'c0\'c7 \'b4\'e4\'c0\'ba \'c0\'d4\'b9\'ae\'c0\'da\'b5\'b5 \'c0\'df\'c7\'cf\'b8\'e9 \'b3\'be \'bc\'f6\'b0\'a1 \'c0\'d6\'c0\'bb \'b0\'cd \'b0\'b0\'b1\'ba\'bf\'e4.
+\par \'c6\'d0\'b4\'c2 \'be\'ea\'b1\'e2\'b0\'a1 \'be\'c8\'b5\'cb\'b4\'cf\'b4\'d9.
+\par
+\par }
+#
+(
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[mq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[pr]
+2[sr]
+)
+2
+B[rr]
+W[rs]
+Dia.2(Mistake)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Playing inside at 1 is a big mistake.
+\par W can live easily.
+\par
+\par
+\par \cf1\b
+\par \cf0\b0
+\par }
+#
+(
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[mq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[pr]
+2[sr]
+)
+2
+B[qs]
+W[rs]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Playing inside at 1 is\cf1\b  a proper vital point\cf0\b0  so B can capture W's group without ko.
+\par
+\par
+\par
+\par }
+#
+(
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[mq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[pr]
+2[sr]
+)
+3
+B[rs]
+W[qs]
+B[rr]

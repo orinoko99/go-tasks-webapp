@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[fn][jo][ep][fp][bq][cq][dq][jq][dr][er]AB[dn][eo][cp][dp][eq][fq][gq][fr][hr]LBC[Capturing the Key Stones
+
+Where should Black play?
+])
+(;AW[fn][jo][ep][fp][bq][cq][dq][jq][dr][er]AB[dn][eo][cp][dp][eq][fq][gq][fr][hr]
+;B[fo]
+;W[gp]
+;B[ho]
+;W[go]
+;B[gn]
+;W[hp]
+;B[ip]LB[fo:1][gp:2][ho:3][go:4][gn:5][hp:6][ip:7]C[Correct
+
+Right, Black should aim at the cutting stones. First atari at 1 and then net at 3 are a nice combination to capture.
+
+])
+(;AW[ep][fp][bq][cq][dq][jq][dr][er]AB[dn][eo][cp][dp][eq][fq][gq][fr][hr]LB[fn:][jo:]
+;B[fo]
+;W[gp]
+;B[hp]
+;W[go]
+;B[gn]
+;W[ho]
+;B[io]
+;W[hn]LB[fo:1][gp:2][hp:3][go:4][gn:5][ho:6][io:7][hn:8][fn:][jo:]C[Wrong
+
+The ladder up to 7 doesn't work because of the ladder breakers x.
+
+])
+)

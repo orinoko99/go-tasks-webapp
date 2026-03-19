@@ -1,0 +1,66 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nq]AB[qn][pp]
+;W[pr]
+;B[lq]
+;W[qq]LB[pr:1][lq:2][qq:3]C[Star-point joseki
+
+Black's turn\b0
+White played 1 and Black answered 2. White played 3, it's a very important move. It makes White's group safe and take territory at the same time.
+Where should Black play now?\lang1042\f1
+
+])
+(;AW[nq][qq][pr]AB[qn][pp][lq]
+;B[oq]
+;W[or]
+;B[np]
+;W[nr]
+;B[mp]LB[oq:1][or:2][np:3][nr:4][mp:5]C[1st Dia. Joseki
+
+Black 1 is the correct move. White will play 2 and Black plays 3.
+This is a common joseki. If White plays 4 somewhere else-\lang1042\f1
+
+])
+(;AW[nq][qq][or][pr]AB[qn][np][pp][lq][oq]
+;W[mq]
+;B[mp]
+;W[lr]
+;B[kr]
+;W[mr]
+;B[kq]LB[mq:1][mp:2][lr:3][kr:4][mr:5][kq:6]C[2nd Dia. Keep looking
+
+White 1 is a mistake. Black will play 2 to 6. This result is good for Black.\lang1042\f1
+
+])
+(;CR[np]AW[nq][qq][or][pr]AB[qn][np][pp][lq][oq]
+;W[mp]
+;B[mq]
+;W[nr]
+;B[mo]LB[mp:1][mq:2][nr:3][mo:4]CR[np]C[3rd Dia. Depends on the ladder
+
+When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  if White answers 2 Black has to play 3!
+This should play this sequence if the ladder is good for Black, otherwise Black should play as in the 1st Diagram.\lang1042\f1
+
+])
+(;AW[nq][qq][pr]AB[qn][pp][lq]LB[mq:A]
+;B[np]
+;W[oq]
+;B[mp]LB[np:1][oq:2][mp:3][mq:A]C[4th Dia. Simple joseki
+
+Black 1 is also a joseki, and it's more simple. White will play 2 then Black answers 3. Now Black has a strong center. If White plays A instead of 2 it's bad for White.\lang1042\f1
+
+])
+(;AW[nq][qq][pr]AB[qn][pp][lq]
+;B[np]
+;W[oq]
+;B[mp]LB[np:1][oq:2][mp:3]C[5th Dia. Continuation
+
+Black should play 1 and 3 in this situation. This is also a joseki.\lang1042\f1
+
+
+])
+)

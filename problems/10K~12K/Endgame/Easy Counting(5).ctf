@@ -1,0 +1,183 @@
+//19
+5
+Easy Counting(5)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 (or \b White to play\b0 )
+\par How much is worth capturing a stone on the second line like this?
+\par
+\par It is the same value if Black captures at \b A\b0  or if White captures at \b B\b0 .
+\par
+\par Both player's territory are changing so complex counting method should be used.
+\par
+\par
+\par }
+#
+(
+2[qn]
+2[oo]
+1[lp]
+2[mp]
+2[np]
+1[iq]
+1[lq]
+1[mq]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+1[mr]
+2[nr]
+1[or]
+2[pr]
+65[ns]
+66[os]
+)
+0
+Dia.01 If Black Played
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par First let's check what happens if Black captures with 1.
+\par
+\par Later White A-Black B exchange is going to be played.
+\par
+\par }
+#
+(
+2[qn]
+2[oo]
+1[lp]
+2[mp]
+2[np]
+1[iq]
+1[lq]
+1[mq]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+1[mr]
+2[nr]
+1[or]
+2[pr]
+66[os]
+65[ps]
+)
+1
+B[ns]
+Dia. 02 Comparing the Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par For the convenient counting, borderlines are made with Xs.
+\par
+\par \cf1\b Black\cf0\b0  has \cf1\b 9 points\cf0\b0 , \cf1\b White\cf0\b0  has \cf1\b 6 points\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+2[qn]
+2[oo]
+1[lp]
+2[mp]
+2[np]
+1[iq]
+691[jq]
+691[kq]
+1[lq]
+1[mq]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+691[rq]
+691[sq]
+691[ir]
+1[mr]
+1[or]
+2[pr]
+691[is]
+1[ns]
+1[os]
+2[ps]
+)
+0
+Dia. 03 If White Plays
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If it is White's turn, White \cf1\b also\cf0\b0  captures with 1.
+\par
+\par Again A-B exchange is going to be played.
+\par
+\par
+\par }
+#
+(
+2[qn]
+2[oo]
+1[lp]
+2[mp]
+2[np]
+1[iq]
+1[lq]
+1[mq]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+1[mr]
+2[nr]
+1[or]
+2[pr]
+65[ms]
+66[ns]
+)
+1
+W[os]
+Dia. 04 Gote 6 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The borderlines are made same like in \b Dia. 02\b0 .
+\par
+\par Black got 6 points, White made 9 points.
+\par
+\par If we count the \b changes\b0  of Black's and White's territory and we \b add\b0  them, it gives the \cf1\b value of the move\cf0\b0 .
+\par
+\par After counting it is (9-6)+(9-6)=6 points.
+\par
+\par Therefore Black \b A\b0  or White \b B\b0  is worth \cf2\b 6 points\cf0\b0 .
+\par
+\par However both are gote, so these moves are gote 6 points endgame moves.
+\par
+\par }
+#
+(
+2[qn]
+2[oo]
+1[lp]
+2[mp]
+2[np]
+1[iq]
+691[jq]
+691[kq]
+1[lq]
+1[mq]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+691[rq]
+691[sq]
+691[ir]
+1[mr]
+2[nr]
+2[pr]
+691[is]
+1[ms]
+2[ns]
+2[os]
+)
+0

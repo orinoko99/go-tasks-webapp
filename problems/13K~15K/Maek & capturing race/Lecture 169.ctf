@@ -1,0 +1,116 @@
+//19
+3
+Capturing Technique
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black to capture some white stones. Where should he play?
+\par }
+#
+(
+2[cn]
+2[dn]
+2[co]
+1[do]
+1[eo]
+2[bp]
+1[cp]
+2[dp]
+1[ep]
+1[fp]
+1[gp]
+1[hp]
+2[bq]
+1[cq]
+2[dq]
+2[eq]
+2[fq]
+1[gq]
+2[hq]
+2[iq]
+1[cr]
+2[dr]
+2[gr]
+1[cs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Cutting at 1 is the correct answer. Up to Black 5 Black creates a chokchoksu. Even if White connects at 6, Black will cut at 7 and capture even more stones.
+\par
+\par }
+#
+(
+2[cn]
+2[dn]
+2[co]
+1[do]
+1[eo]
+2[bp]
+1[cp]
+2[dp]
+1[ep]
+1[fp]
+1[gp]
+1[hp]
+2[bq]
+1[cq]
+2[dq]
+2[eq]
+2[fq]
+1[gq]
+2[hq]
+2[iq]
+1[cr]
+2[dr]
+2[gr]
+1[cs]
+)
+9
+B[fr]
+W[fs]
+B[ds]
+W[er]
+B[es]
+W[fr]
+B[hr]
+W[ir]
+B[gs]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Cutting on the other side doesn't work. White will just connect and Black doesn't have any way to win the capturing race.
+\par }
+#
+(
+2[cn]
+2[dn]
+2[co]
+1[do]
+1[eo]
+2[bp]
+1[cp]
+2[dp]
+1[ep]
+1[fp]
+1[gp]
+1[hp]
+2[bq]
+1[cq]
+2[dq]
+2[eq]
+2[fq]
+1[gq]
+2[hq]
+2[iq]
+1[cr]
+2[dr]
+2[gr]
+1[cs]
+)
+8
+B[hr]
+W[fr]
+B[ir]
+W[jq]
+B[jr]
+W[kq]
+B[gs]
+W[br]

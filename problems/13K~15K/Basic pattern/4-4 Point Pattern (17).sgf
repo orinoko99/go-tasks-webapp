@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nq]AB[pp]
+;B[qm]
+;W[qq]LB[qm:1][qq:2]C[Star-point joseki
+
+Black's turn\b0
+Black 1 is a complicated. White 2 is the standart answer. How should Black play now?\lang1042\f1
+
+
+])
+(;CR[qm]AW[nq]AB[qm][pp]LB[qn:A]
+;W[pr]
+;B[qq]
+;W[kq]LB[pr:1][qq:2][kq:3][qn:A]CR[qm]C[1st Dia. Bad for Black
+
+First you should learn why White has to play 3-3. If White just plays 1 and 3 this result is good for Black. In the normal joseki Black's stone would be at A but now Black was able to play faster.
+That's why White has to play 3-3.\lang1042\f1
+
+])
+(;AW[nq][qq]AB[qm][pp]
+;B[pq]
+;W[qp]
+;B[po]
+;W[pr]LB[pq:1][qp:2][po:3][pr:4]C[2nd Dia. Variation
+
+Black 1 is a good move, White has to play 2 and 4.
+Be careful, White should not play 4 before playing 2!\lang1042\f1
+
+])
+(;AW[qp][nq][qq][pr]AB[qm][po][pp][pq]LB[no:B][nr:A]
+;B[or]
+;W[qr]
+;B[oq]
+;W[qo]
+;B[qn]LB[or:1][qr:2][oq:3][qo:4][qn:5][no:B][nr:A]C[3rd Dia. Joseki
+
+Black has to play 1, White plays 2 and Black 3 is very important. If Black plays A instead of 3 the result is bad for Black.
+White would answer B if Black played A.
+We will study about this later.\lang1042\f1
+
+])
+(;AW[qp][nq][qq][pr][qr]AB[qm][po][pp][pq][or]LB[oq:A]
+;B[nr]
+;W[mq]
+;B[mr]
+;W[lq]LB[nr:1][mq:2][mr:3][lq:4][oq:A]C[4th Dia. Mistake
+
+Black 1 is a bad move. White will play 2 and force Black to crawl in the second line. Black still has to connect at A. So White will get sente.\lang1042\f1
+
+])
+)

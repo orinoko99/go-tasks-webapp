@@ -1,0 +1,142 @@
+//19
+4
+Can be alive by one move(89)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\ltrpar\lang1042\f0
+\par Could B live without a ko??
+\par }
+#
+(
+2[oo]
+2[ro]
+2[so]
+2[pp]
+2[qp]
+1[rp]
+2[kq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+2[rr]
+1[sr]
+2[os]
+2[qs]
+)
+0
+Dia.1(Life?)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \cf1\b You might think that B can live easily by capturing three stones.\cf0\b0
+\par
+\par If W played like this diagram, B would be able to live easily.
+\par But W won't!!
+\par
+\par }
+#
+(
+2[oo]
+2[ro]
+2[so]
+2[pp]
+2[qp]
+1[rp]
+2[kq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+2[rr]
+1[sr]
+2[os]
+2[qs]
+)
+3
+B[ps]
+W[sp]
+B[rs]
+Dia.2(Self-dansu)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \cf1\b W1 is an excellent move.\cf0\b0
+\par B can capture four stones but he can't make two eyes in there.
+\par
+\par And making an eye at A is also impossible because it is \cf2\b self-dansu. \cf0\b0
+\par
+\par
+\par }
+#
+(
+2[oo]
+2[ro]
+2[so]
+2[pp]
+2[qp]
+1[rp]
+65[sp]
+2[kq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+2[rr]
+1[sr]
+2[os]
+5[ps]
+2[qs]
+)
+1
+W[rs]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B can't live without a ko so the right answer is simple.
+\par
+\par \cf1\b B1 is the best way to live.\cf0\b0
+\par
+\par }
+#
+(
+2[oo]
+2[ro]
+2[so]
+2[pp]
+2[qp]
+1[rp]
+2[kq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+2[rr]
+1[sr]
+2[os]
+2[qs]
+)
+1
+B[rs]

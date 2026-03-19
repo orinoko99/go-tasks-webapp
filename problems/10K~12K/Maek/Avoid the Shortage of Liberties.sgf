@@ -1,0 +1,63 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pq][qq][rr][qs]AW[pn][oo][ro][pp][qp][oq][rq][or][sr][ss]AB[np][op][nq][pq][qq][nr][rr][qs]LBCR[pq][qq][rr][qs]C[Avoid the Shortage of Liberties
+
+
+\b White to play\b0 .
+Capture the Black \'a1\'e3 stones.
+
+If the problem is not undervalued, it is easy to solve.
+
+
+])
+(;AW[pn][oo][ro][pp][qp][oq][rq][or][sr][ss]AB[np][op][nq][pq][qq][nr][rr][qs]LB[ps:A]
+;W[pr]
+;B[qr]LB[pr:1][qr:2][ps:A]C[Dia. 01 Mistake
+
+{\colortbl ;\red255\green0\blue0;}
+
+White 1 is a \cf1\b mistake\cf0\b0 .
+If White is not a beginner he shouldn't make a mistake like this.
+
+After Black connects at 2, White has shortage of liberties. In other words, he can't play dansu at A.
+
+
+])
+(;AW[pn][oo][ro][pp][qp][oq][rq][or][sr][ss]AB[np][op][nq][pq][qq][nr][rr][qs]LB[ps:A]
+;W[ps]
+;B[qr]
+;W[sq]LB[ps:1][qr:2][sq:3][ps:A]C[Dia. 02 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+The correct answer is White's \cf1\b diagonal attachment\cf0\b0  move at 1.
+Black has to connect because of snapback, then White connects at 3 and capture the Black stones.
+])
+(;AW[pn][oo][pp][qp][rp][oq][rq][or]AB[np][op][nq][pq][qq][nr][rr][qs]LBC[Dia. 03 Practice Problem
+
+
+\b White to play\b0 .
+
+Use the maek from the previous diagram.
+])
+(;AW[pn][oo][pp][qp][rp][oq][rq][or]AB[np][op][nq][pq][qq][nr][rr][qs]
+;W[ps]
+;B[qr]
+;W[sr]
+;B[ns]
+;W[rs]LB[ps:1][qr:2][sr:3][ns:4][rs:5]C[Dia. 04 Best is pae
+
+{\colortbl ;\red0\green0\blue255;}
+
+Against White's \cf1\b diagonal attachment\cf0\b0  at 1 is the \cf1\b maek\cf0\b0 .
+After Black 2, White plays hane at 3.
+Black plays at 4 and then White makes pae with 5.
+
+Pae is a success for White.
+
+])
+)

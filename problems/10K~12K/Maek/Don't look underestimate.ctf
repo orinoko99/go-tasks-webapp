@@ -1,0 +1,138 @@
+//19
+4
+Don't look underestimate
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  Black\b0 's turn.\f2
+\par \lang1042\f0
+\par This is a quite difficult problem.
+\par
+\par Don't look underestimate!!
+\par }
+#
+(
+1[qn]
+1[rn]
+1[sn]
+1[po]
+2[ro]
+2[so]
+1[pp]
+2[qp]
+2[lq]
+2[oq]
+1[pq]
+2[qq]
+2[rq]
+2[nr]
+2[pr]
+1[qr]
+1[rr]
+2[os]
+)
+0
+Dia.1(Can capture some stones)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Reduction from outside is a basic skill of the capturing race.
+\par But in this case the skill isn't good.
+\par \cf1\b B can capture just two stones.\cf0\b0
+\par
+\par }
+#
+(
+1[qn]
+1[rn]
+1[sn]
+1[po]
+6[ro]
+6[so]
+1[pp]
+2[qp]
+2[lq]
+2[oq]
+1[pq]
+2[qq]
+2[rq]
+2[nr]
+2[pr]
+5[qr]
+5[rr]
+2[os]
+)
+4
+B[qo]
+W[sr]
+B[sp]
+W[qs]
+Dia.2(Ko)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B1 is a careless move because W can make a\cf1\b  ko.\cf0\b0
+\par
+\par }
+#
+(
+1[qn]
+1[rn]
+1[sn]
+1[po]
+2[ro]
+2[so]
+1[pp]
+2[qp]
+2[lq]
+2[oq]
+1[pq]
+2[qq]
+2[rq]
+690[sq]
+2[nr]
+2[pr]
+1[qr]
+1[rr]
+2[os]
+)
+4
+B[sq]
+W[sr]
+B[ss]
+W[sp]
+Dia.3(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \cf1\b Descent at 1 is a tesuji.\cf0\b0
+\par
+\par Up to 5, B has one more liberty.
+\par
+\par }
+#
+(
+1[qn]
+1[rn]
+1[sn]
+1[po]
+2[ro]
+2[so]
+1[pp]
+2[qp]
+2[lq]
+2[oq]
+1[pq]
+2[qq]
+2[rq]
+2[nr]
+2[pr]
+1[qr]
+1[rr]
+2[os]
+)
+5
+B[sr]
+W[sq]
+B[qo]
+W[qs]
+B[rp]

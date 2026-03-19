@@ -1,0 +1,53 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[jn]AW[qf][jn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][dp][jp][pp][eq]LB[ko:A]LB[ko:A]CR[jn]C[Where should Black play?
+
+Black's turn\b0
+When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black playing A is not the only option.  Black has a better move available. Think carefully.\lang1042\f1
+
+
+])
+(;CR[mp]AW[qf][jn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][dp][jp][pp][eq]LB[ln:B][mn:A][lp:C]
+;B[lo]
+;W[mo]LB[lo:1][mo:2][ln:B][mn:A][lp:C]CR[mp]C[1st Dia. Correct answer
+
+Black 1 is before than what we've seen on the previous problem. White will answer 2. Black play A because White would cut at B. If Black plays B then White will play C.
+So-\lang1042\f1
+
+])
+(;CR[mo][mp]AW[qf][jn][mo][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][lo][dp][jp][pp][eq]
+;B[kn]
+;W[km]
+;B[ln]
+;W[jm]
+;B[mn]LB[kn:1][km:2][ln:3][jm:4][mn:5]CR[mo][mp]C[2nd Dia. Correct answer
+
+Black 1 is the correct answer. White will play 2. Then Black 3 is a good move despite Black's shape!
+Now White's 2 \lang1042\f1\'a1\'e2\lang1043\f0  stones are nearly dead.\lang1042\f1
+
+])
+(;CR[kn]AW[qf][jn][mo][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][kn][pn][lo][dp][jp][pp][eq]
+;W[jm]
+;B[mn]
+;W[nn]
+;B[mm]LB[jm:1][mn:2][nn:3][mm:4]CR[kn]C[3rd Dia. Good for Black
+
+When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  if White plays 1 then Black 2 and 4 are the correct moves.
+This result is good for Black.\lang1042\f1
+
+])
+(;CR[lo]AW[qf][jn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][lo][dp][jp][pp][eq]
+;W[lp]
+;B[ko]
+;W[mo]
+;B[lm]LB[lp:1][ko:2][mo:3][lm:4]CR[lo]C[4th Dia. Terrible for White
+
+When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  White 1 is a bad move. Black will play this sequence.
+The result is very good for Black.\lang1042\f1
+
+])
+)

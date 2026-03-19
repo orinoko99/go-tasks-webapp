@@ -1,0 +1,178 @@
+//19
+5
+Increasing Liberties?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Black just cut at \'a1\'e3.
+\par
+\par At first it looks like the four White stone are captured in the corner.
+\par However there is a vital point.
+\par What is the best variation for White?
+\par
+\par }
+#
+(
+1[qn]
+1[ro]
+1[op]
+1[qp]
+2[rp]
+2[lq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[or]
+2[pr]
+2[qr]
+5[rr]
+)
+0
+Dia. 01 Really Captured
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If White carelessly plays the dansu at 1, he is really going to be captured.
+\par After Black plays at 2 White has no follow up.
+\par
+\par Black has three while White has only two liberties.
+\par
+\par
+\par }
+#
+(
+1[qn]
+1[ro]
+1[op]
+1[qp]
+2[rp]
+2[lq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[or]
+2[pr]
+2[qr]
+1[rr]
+)
+2
+W[sr]
+B[rs]
+Dia. 02 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's dansu from 1 is correct.
+\par After Black plays at 2 if White plays the hane at 3, the Black \'a1\'e3 stones are captured.
+\par Black can't play dansu from either side.
+\par
+\par }
+#
+(
+1[qn]
+1[ro]
+1[op]
+1[qp]
+2[rp]
+2[lq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[lr]
+5[mr]
+5[nr]
+5[or]
+2[pr]
+2[qr]
+1[rr]
+)
+3
+W[rs]
+B[sr]
+W[os]
+Dia. 03 Practice Problem
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par
+\par If White plays dansu at 1, Black plays at 2 and the White \'a1\'e2 stones are captured.
+\par
+\par
+\par }
+#
+(
+1[op]
+1[qp]
+1[rp]
+2[lq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[or]
+6[pr]
+6[qr]
+1[rr]
+)
+2
+W[ms]
+B[qs]
+Dia. 04 Pae is Best
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It is good to play sente with White 1 and then play hane at 3.
+\par However Black is going to resist too.
+\par
+\par After Black 4, Black starts the \cf1\b pae \cf0\b0 with 6. This is the best sequence for both players.
+\par
+\par If Black plays at A instead of 2, the Black \'a1\'e3 stones are captured without pae.
+\par
+\par
+\par }
+#
+(
+1[op]
+1[qp]
+1[rp]
+2[lq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[lr]
+5[mr]
+5[nr]
+5[or]
+2[pr]
+2[qr]
+1[rr]
+65[sr]
+)
+6
+W[rs]
+B[sq]
+W[os]
+B[ps]
+W[qs]
+B[ss]

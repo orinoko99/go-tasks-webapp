@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cn][dn][en][co][bp][dp][ep][aq][bq][eq][ar][er][es]AB[do][eo][fo][cp][fp][cq][dq][gq][br][dr][gr][bs][cs][ds]LBC[Behind in Liberties
+
+Black is behind in liberties. What to do?
+])
+(;AW[cn][dn][en][co][bp][dp][ep][aq][bq][eq][ar][er][es]AB[do][eo][fo][cp][fp][cq][dq][gq][br][dr][gr][bs][cs][ds]LB[ao:B][as:A]
+;B[bo]
+;W[bn]
+;B[fs]LB[bo:1][bn:2][fs:3][ao:B][as:A]C[Success
+
+Black can gain an advantage if he cuts at 1. White has to atari at 2 and then Black can take liberties at 3. Due to jachung White can't approach at A but first needs to capture at B. Black wins the capturing race.
+
+])
+(;AW[cn][dn][en][co][bp][dp][ep][aq][bq][eq][ar][er][es]AB[do][eo][fo][cp][fp][cq][dq][gq][br][dr][gr][bs][cs][ds]
+;B[fs]
+;W[as]LB[fs:1][as:2]C[Wrong
+
+Taking liberties at once fails because White is faster.
+
+])
+)

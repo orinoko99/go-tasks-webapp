@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oo][ro][so][pp][qp][nq][oq][sq][nr][ns]AB[rp][sp][pq][qq][rq][or][os]LBC[How to kill (51)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Just finding the first move won't be enough, you'll need to read this all out.  How should White play to kill Black?\lang1042\f0\fs18
+
+])
+(;AW[oo][ro][so][pp][qp][nq][oq][sq][nr][ns]AB[rp][sp][pq][qq][rq][or][os]
+;W[pr]
+;B[qr]
+;W[qs]
+;B[sr]
+;W[rs]LB[pr:1][qr:2][qs:3][sr:4][rs:5]C[Dia.1 Correct
+
+White should cut at 1, but you probably already saw that move.  However, the next move is the most important.  After Black plays the dansu at 2, White needs to play 3 to set up the snapback and put Black in dansu.  Now White can play 5 and Black is dead.
+\lang1042\f1\fs18
+
+])
+(;CR[qr]AW[oo][ro][so][pp][qp][nq][oq][sq][nr][pr][ns]AB[rp][sp][pq][qq][rq][or][qr][os]
+;W[ps]
+;B[sr]LB[ps:1][sr:2]CR[qr]C[Dia.2 A mistake
+
+If you just take the stones then you are letting Black get away.  White 1 is a mistake.  Black can now play 2 and make two eyes.\lang1042\f1\fs18
+
+])
+(;AW[oo][ro][so][pp][qp][nq][oq][sq][nr][ns]AB[rp][sp][pq][qq][rq][or][os]
+;W[rr]
+;B[qr]
+;W[qs]
+;B[sr]
+;W[rs]
+;B[pr]LB[rr:1][qr:2][qs:3][sr:4][rs:5][pr:6]C[Dia.3 Bik
+
+Playing immediately on the inside will only lead to mutual life in the corner.  When White plays 1, Black will block at 2 and then play at 4.  Up to Black 6, we see that it is Bik, meaning Black lives in mutual life.
+\lang1042\f1\fs18
+
+])
+(;AW[oo][ro][so][pp][qp][nq][oq][sq][nr][ns]AB[rp][sp][pq][qq][rq][or][os]LBC[No diagram name
+
+
+
+])
+)

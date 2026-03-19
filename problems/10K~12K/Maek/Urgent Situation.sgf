@@ -1,0 +1,76 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pq][or][pr][os]AW[op][pp][nq][qq][nr][qr][sr][ps]AB[qn][po][qp][rp][pq][or][pr][os]LBCR[pq][or][pr][os]C[Urgent Situation
+
+
+\b Black to play\b0 .
+Black four \'a1\'e3 stones have only two liberties.
+
+Black's situation is very urgent.
+Black has to win the capturing race against White's corner.
+
+])
+(;AW[op][pp][nq][qq][nr][qr][sr][ps]AB[qn][po][qp][rp][pq][or][pr][os]
+;B[qs]
+;W[rr]
+;B[rq]
+;W[oq]LB[qs:1][rr:2][rq:3][oq:4]C[Dia. 01 White 2, Good Move
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black is almost under dansu, so it looks normal to capture with 1.
+
+However \cf1\b White 2 \cf0\b0 is a \cf1\b good move\cf0\b0 .
+
+Black is one move behind in the capturing race up to 4.
+])
+(;AW[op][pp][nq][qq][nr][qr][sr]AB[qn][po][qp][rp][pq][or][pr][os][qs]
+;W[rs]
+;B[rq]
+;W[rr]
+;B[sq]LB[rs:1][rq:2][rr:3][sq:4]C[Dia. 02 White 1, Mistake
+
+
+After Black captures the one stone, it is bad if White blocks directly at 1.
+
+After Black 2 and 4 is becomes pae.
+Moreover it is a one step pae for Black, so White's connection at 3 was a mistake.
+])
+(;AW[op][pp][nq][qq][nr][qr][sr][ps]AB[qn][po][qp][rp][pq][or][pr][os]
+;B[rs]
+;W[rr]
+;B[qs]
+;W[oq]LB[rs:1][rr:2][qs:3][oq:4]C[Dia. 03 1-2 Point, Failure
+
+
+How abou Black's placement at 1?
+It is the 1-2 vital point.
+
+However White connects at 2 again.
+After Black 3, White fills the liberty at 4 and wins the capturing race.
+
+Whenever White plays at 2, Black loses the capturing race.
+
+Then?
+])
+(;AW[op][pp][nq][qq][nr][qr][sr][ps]AB[qn][po][qp][rp][pq][or][pr][os]LB[qs:A]
+;B[rr]
+;W[rq]
+;B[rs]LB[rr:1][rq:2][rs:3][qs:A]C[Dia. 04 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black's wedge-in at 1 was the \cf1\b opponent's vital point \cf0\b0 too.
+After White 2, Black's descending move at 3 works so \cf1\b Black wins the capturing race\cf0\b0 .
+
+White can't play dansu at A.
+
+
+
+
+])
+)

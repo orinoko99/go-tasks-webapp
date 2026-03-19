@@ -1,0 +1,156 @@
+//19
+4
+Can be alive by one move(100)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\ltrpar\lang1042\f0
+\par \lang1033\f1 First move is important.\f2
+\par \lang1042\f0
+\par }
+#
+(
+2[mn]
+2[nn]
+2[on]
+2[pn]
+2[rn]
+1[oo]
+1[po]
+2[qo]
+2[lp]
+1[np]
+1[pp]
+1[qp]
+2[rp]
+2[jq]
+2[mq]
+2[nq]
+1[oq]
+1[qq]
+2[rq]
+1[qr]
+2[rr]
+)
+0
+Dia.1(Gets into trouble)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Making an eye(B1) gets into trouble.
+\par
+\par W2 is severe so\cf1\b  B can't make another eye at the bottom.
+\par \cf0\b0
+\par }
+#
+(
+2[mn]
+2[nn]
+2[on]
+2[pn]
+2[rn]
+1[oo]
+1[po]
+2[qo]
+2[lp]
+1[np]
+1[pp]
+1[qp]
+2[rp]
+2[jq]
+2[mq]
+2[nq]
+1[oq]
+1[qq]
+2[rq]
+1[qr]
+2[rr]
+)
+4
+B[no]
+W[pr]
+B[or]
+W[qs]
+Dia.2(Empty triangle)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Bending at 1 is\cf1\b  a careless move.
+\par \cf0\b0
+\par W2 is a good attack so W can make \cf2\b empty triangle. \cf0\b0
+\par
+\par Up to 8, B's group is dead.
+\par }
+#
+(
+2[mn]
+2[nn]
+2[on]
+2[pn]
+2[rn]
+1[oo]
+1[po]
+2[qo]
+2[lp]
+1[np]
+1[pp]
+1[qp]
+2[rp]
+2[jq]
+2[mq]
+2[nq]
+1[oq]
+1[qq]
+2[rq]
+1[qr]
+2[rr]
+)
+8
+B[nr]
+W[pr]
+B[ps]
+W[os]
+B[qs]
+W[or]
+B[pq]
+W[no]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par This result is also\cf1\b  the enemy's vital point is your own.
+\par
+\par \cf0\b0 B1 is the only way to live.
+\par If W tried to erase upper eye, B can make an eye at the bottom.
+\par
+\par \cf1\b 2 and 3 is miai.\cf0\b0
+\par
+\par }
+#
+(
+2[mn]
+2[nn]
+2[on]
+2[pn]
+2[rn]
+1[oo]
+1[po]
+2[qo]
+2[lp]
+1[np]
+1[pp]
+1[qp]
+2[rp]
+2[jq]
+2[mq]
+2[nq]
+1[oq]
+1[qq]
+2[rq]
+1[qr]
+2[rr]
+)
+3
+B[pr]
+W[no]
+B[nr]

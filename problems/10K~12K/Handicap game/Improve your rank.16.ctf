@@ -1,0 +1,165 @@
+//19
+5
+Improve your rank
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn \b0
+\par We studied what happens when White plays 1, Black 2, White 3 and Black 4.
+\par Now White decided to play 5.
+\par How should Black answer?\lang1042\f1
+\par
+\par }
+#
+(
+1[dd]
+1[fd]
+1[jd]
+1[pd]
+2[dg]
+1[dj]
+1[jj]
+1[pj]
+1[no]
+1[dp]
+1[jp]
+2[mp]
+1[np]
+1[pp]
+2[nq]
+)
+5
+W[qq]
+B[oq]
+W[ro]
+B[mo]
+W[mq]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is slightly complicated but it's the correct answer. This move is to attack White's \lang1042\f1\'a1\'e2\lang1043\f0  stones and White's corner at the same time.
+\par Black 1 is better than A.\lang1042\f1
+\par
+\par }
+#
+(
+1[dd]
+1[fd]
+1[jd]
+1[pd]
+2[dg]
+1[dj]
+1[jj]
+1[pj]
+1[mo]
+1[no]
+2[ro]
+1[dp]
+1[jp]
+6[mp]
+1[np]
+1[pp]
+6[mq]
+6[nq]
+1[oq]
+2[qq]
+65[or]
+)
+1
+B[pr]
+2nd Dia. Black captures White
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  White will play somewhere else. If White plays 1 then Black plays 2. The result is very good for Black.\lang1042\f1
+\par }
+#
+(
+1[dd]
+1[fd]
+1[jd]
+1[pd]
+2[dg]
+1[dj]
+1[jj]
+1[pj]
+1[mo]
+1[no]
+2[ro]
+1[dp]
+1[jp]
+2[mp]
+1[np]
+1[pp]
+2[mq]
+2[nq]
+1[oq]
+2[qq]
+5[pr]
+)
+2
+W[qm]
+B[jq]
+3rd Dia. Continuation
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If White plays 1 Black will answer 2 and 4.White plays 5 and Black 6.
+\par As the sequence shows this result is good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[dd]
+1[fd]
+1[jd]
+1[pd]
+2[dg]
+1[dj]
+1[jj]
+1[pj]
+1[mo]
+1[no]
+2[ro]
+1[dp]
+1[jp]
+2[mp]
+1[np]
+1[pp]
+2[mq]
+2[nq]
+1[oq]
+2[qq]
+1[pr]
+)
+6
+W[jr]
+B[qp]
+W[rp]
+B[rr]
+W[rq]
+B[rm]
+4th Dia. Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a big mistake, if Black keeps playing this kind of move he will eventually lose the game.\lang1042\f1
+\par
+\par }
+#
+(
+1[dd]
+1[fd]
+1[jd]
+1[pd]
+2[dg]
+1[dj]
+1[jj]
+1[pj]
+1[mo]
+1[no]
+2[ro]
+1[dp]
+1[jp]
+2[mp]
+1[np]
+1[pp]
+2[mq]
+2[nq]
+1[oq]
+2[qq]
+)
+2
+B[ko]
+W[or]

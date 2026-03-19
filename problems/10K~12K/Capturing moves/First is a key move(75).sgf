@@ -1,0 +1,61 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[os]AW[nq][oq][pq][qq][lr][mr][qr][os]AB[np][op][pp][qp][hq][kq][lq][mq][rq][kr][rr][rs]LBCR[os]C[First is a key move(75)
+
+
+\lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+
+W played at \'a1\'e2.
+Actually, this move is mistake.
+
+B has a chance to kill W!!
+
+
+])
+(;AW[nq][oq][pq][qq][lr][mr][qr][os]AB[np][op][pp][qp][hq][kq][lq][mq][rq][kr][rr][rs]
+;B[qs]
+;W[nr]LB[qs:1][nr:2]C[Dia.1(Good move)
+
+{\colortbl ;\red0\green0\blue255;}
+
+B tries to reduce W's eye space but it's slow.
+
+\cf1\b Connecting at 2 is a good move.\cf0\b0
+W has two real eyes.
+
+])
+(;AW[nq][oq][pq][qq][lr][mr][qr][os]AB[np][op][pp][qp][hq][kq][lq][mq][rq][kr][rr][rs]LB[pr:A]
+;B[ps]
+;W[qs]
+;B[ns]
+;W[or]
+;B[ls]
+;W[nr]LB[ps:1][qs:2][ns:3][or:4][ls:5][nr:6][pr:A]C[Dia.2(There isn't a next move)
+
+
+Attaching at 1 looks like a sharp attack but after W2, there isn't a next move.
+
+Up to 6, W's group is completely alive.
+But if W played at A instead of 4, two of W's group would be in self-dansu.
+
+
+])
+(;AW[nq][oq][pq][qq][lr][mr][qr][os]AB[np][op][pp][qp][hq][kq][lq][mq][rq][kr][rr][rs]LB[nr:A]
+;B[ls]
+;W[ms]
+;B[nr]
+;W[ks]
+;B[qs]LB[ls:1][ms:2][nr:3][ks:4][qs:5][nr:A]C[Dia.3(Right move)
+
+
+Bending at 1 is a proper move.
+
+B3 is a good attack so B can capture W's group easily.
+
+
+])
+)

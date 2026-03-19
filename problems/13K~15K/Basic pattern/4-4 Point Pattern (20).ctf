@@ -1,0 +1,158 @@
+//19
+6
+Star-point Joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par We studied what happens when Black answers A.
+\par Now let's study about other possible answers.\lang1042\f1
+\par
+\par }
+#
+(
+1[qm]
+65[po]
+1[pp]
+2[nq]
+)
+3
+W[pq]
+B[qq]
+W[qp]
+1st Dia. Variation
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 This seems like a bad sequence for Black but in certain situations it's possible for Black to play like this.
+\par \lang1042\f1
+\par }
+#
+(
+1[qm]
+1[pp]
+2[qp]
+2[nq]
+2[pq]
+1[qq]
+)
+4
+B[qo]
+W[rp]
+B[oq]
+W[pr]
+2nd Dia. Joseki
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 and 3 are good moves. Black is able to capture White's \lang1042\f1\'a1\'e2\lang1043\f0  stones.
+\par This joseki depends on the ladder, keep that in mind.\lang1042\f1
+\par
+\par
+\par }
+#
+(
+1[ad]
+1[qm]
+1[qo]
+1[pp]
+6[qp]
+6[rp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+2[pr]
+)
+6
+B[op]
+W[or]
+B[rq]
+W[np]
+B[ro]
+W[jq]
+3rd Dia. Ladder
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 The ladder mentioned on the previous diagram is this one. White plays 1, Black has to answer 2 then White plays 3 and Black plays 4 to 8. It's a ladder.\lang1042\f1
+\par
+\par }
+#
+(
+1[qm]
+1[qo]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+1[rq]
+2[or]
+2[pr]
+)
+8
+W[ro]
+B[rn]
+W[po]
+B[sp]
+W[qn]
+B[so]
+W[qo]
+B[oo]
+4th Dia. If the ladder is good for White
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If the ladder is good for White Black has to play 1. White plays 2 and Black 3.
+\par Black has a strong center but White got a sizable territory.\lang1042\f1
+\par
+\par }
+#
+(
+1[qm]
+1[rn]
+2[po]
+1[qo]
+2[ro]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+1[rq]
+2[or]
+2[pr]
+)
+4
+B[oo]
+W[qn]
+B[pn]
+W[rr]
+5th Dia. White 2 is a good move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is a mistake. Black is thinking since the ladder is good for White he has to play like this, but White 2 is a very strong move.
+\par If Black plays A White will answer B.
+\par This result is very good for White.\lang1042\f1
+\par
+\par }
+#
+(
+1[qm]
+66[on]
+1[rn]
+65[oo]
+6[po]
+1[qo]
+2[ro]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+1[rq]
+2[or]
+2[pr]
+)
+2
+B[qn]
+W[no]

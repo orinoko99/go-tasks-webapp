@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[bo][co][fo][bp][dp][bq][dq][fq][fr]AB[cp][aq][cq][br][dr][er][es]LBC[Recapture
+
+Where should Black play to live?
+])
+(;AW[bo][co][fo][bp][dp][bq][dq][fq][fr]AB[cp][aq][cq][br][dr][er][es]
+;B[cs]
+;W[ar]
+;B[as]
+;W[cr]
+;B[cq]LB[cs:1][ar:2][as:3][cr:4][cq:5]C[Correct
+
+Black should occupy the vital point at 1 and make use of the recapture at 5.
+
+])
+(;AW[bo][co][fo][bp][dp][bq][dq][fq][fr]AB[cp][aq][cq][br][dr][er][es]
+;B[cr]
+;W[ar]
+;B[as]
+;W[cs]LB[cr:1][ar:2][as:3][cs:4]C[Failure
+
+Connecting at 1 fails because White will throw in at 2 and then stop Black from making two eyes at 4.
+
+])
+)

@@ -1,0 +1,65 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[km][lm][mm][nm][om][pm][qm][rm][sm][kn][pn][ko][no][oo][po][ro][qp][qq][rq][sq][qr]AB[ln][mn][kp][lp][mp][np][op][pp][kq][pq][kr][pr][rr][ks][qs][rs]LB[nn:A][sr:B]LB[nn:A][sr:B]C[1 Point and 2 Points (2)
+
+{\colortbl ;\red0\green0\blue255;}
+
+There are some people losing only by few points and they feel if they would have played here or there, they would have won easily.
+
+However the real pain is coming from the endgame.
+
+One might \cf1\b laugh\cf0\b0  because of \cf1\b 1 point\cf0\b0  and one might \cf1\b cry\cf0\b0  because of \cf1\b 1 point\cf0\b0 .
+
+Let's say there are only two endgame moves left, A and B.
+
+Which one is bigger?
+])
+(;AW[km][lm][mm][nm][om][pm][qm][rm][sm][kn][pn][ko][no][oo][po][ro][qp][qq][rq][sq][qr]AB[ln][mn][kp][lp][mp][np][op][pp][kq][pq][kr][pr][rr][ks][qs][rs]LB[on:A]
+;W[nn]LB[nn:1][on:A]C[Dia. 01 If White Plays at 1
+
+
+If one wants to compare the value of the moves, he first has to decide how much each move is worth.
+
+What happens if White plays at 1?
+White gets 1 point at A. Only White's territory has increased.
+
+
+])
+(;AW[km][lm][mm][nm][om][pm][qm][rm][sm][kn][pn][ko][no][oo][po][ro][qp][qq][rq][sq][qr]AB[ln][mn][kp][lp][mp][np][op][pp][kq][pq][kr][pr][rr][ks][qs][rs]
+;B[nn]LB[nn:1]C[Dia. 02 If Black Plays at 1
+
+{\colortbl ;\red0\green0\blue255;}
+
+Let's check what happens if Black plays at 1 this time.
+In this case Black's territory hasn't increased.
+
+If we compare this with the previous diagram, the difference is either White's territory has increased by 1 or 0 point.
+Therefore Black 1 in this diagram or (White 1 in \b Dia. 01\b0 ) is worth \cf1\b 1 point\cf0\b0 .
+
+])
+(;AW[km][lm][mm][nm][om][pm][qm][rm][sm][kn][pn][ko][no][oo][po][ro][qp][qq][rq][sq][qr]AB[ln][mn][kp][lp][mp][np][op][pp][kq][pq][kr][pr][rr][ks][qs][rs]LB[ps:B][ss:A]
+;W[sr]LB[sr:1][ps:B][ss:A]C[Dia. 03 If White Plays at 1
+
+
+What is the result if White plays at 1?
+
+Later when White plays dansu at A, Black has to connect at B.
+
+Still White's territory hasn't increased.
+])
+(;AW[km][lm][mm][nm][om][pm][qm][rm][sm][kn][pn][ko][no][oo][po][ro][qp][qq][rq][sq][qr]AB[ln][mn][kp][lp][mp][np][op][pp][kq][pq][kr][pr][rr][ks][qs][rs]LB[ps:B][ss:A]
+;B[sr]LB[sr:1][ps:B][ss:A]C[Dia. 04 If Black Plays at 1
+
+{\colortbl ;\red0\green0\blue255;}
+
+If Black plays at 1, White's territory hasn't decreased, but Black's territory has increased.
+
+Black's territory has changed at A and B. After White played, Black had no point at B anymore.
+
+Therefore Black 1 from this variation (White 1 from Dia. 03) is worth \cf1\b 2 points\cf0\b0 .
+])
+)

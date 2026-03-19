@@ -1,0 +1,59 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[mr][nr][or][pr]AW[iq][lq][mq][nq][lr][or][pr]AB[qn][oq][pq][qq][mr][nr][qr]LBCR[mr][nr][or][pr]C[Easy Counting(10)
+
+
+\b Black to play \b0 (or \b White to play\b0 ).
+It is not a capturing race problem.
+
+If White plays first, he can capture Black two \'a1\'e3 stones. If it is Black's turn he captures White two \'a1\'e2 stones.
+
+What is the value of capturing two stones?
+
+
+])
+(;AW[iq][lq][mq][nq][lr][or][pr]AB[qn][oq][pq][qq][mr][nr][qr]
+;W[ms]
+;B[ps]
+;W[ns]LB[ms:1][ps:2][ns:3]C[Dia. 01 If White Plays
+
+
+If White plays first, he captures with 1 then Black 2 is sente and White takes with 3.
+
+])
+(;AW[iq][lq][mq][nq][lr][or][pr][ms][ns]AB[qn][oq][pq][qq][qr][ps]LB[jq:?][kq:?][rq:?][sq:?][ir:?][is:?][os:Y][qs:Y]LB[jq:?][kq:?][rq:?][sq:?][ir:?][is:?][os:Y][qs:Y]C[Dia. 02 White 9 Points, Black 4 points
+
+
+Let's count the territory after making the borderlines with Xs.
+
+Totally White has 9 points after capturing the two stones.
+Black has 4 points.
+Ys are no points.
+
+])
+(;AW[iq][lq][mq][nq][lr][or][pr]AB[qn][oq][pq][qq][mr][nr][qr]
+;B[ps]
+;W[ms]
+;B[os]LB[ps:1][ms:2][os:3]C[Dia. 03 If Black Plays
+
+
+If Black plays, it is the same, he captures White's two stones with 1 and 3.
+
+
+])
+(;AW[iq][lq][mq][nq][lr][ms]AB[qn][oq][pq][qq][mr][nr][qr][os][ps]LB[jq:?][kq:?][rq:?][sq:?][ir:?][is:?]LB[jq:?][kq:?][rq:?][sq:?][ir:?][is:?]C[Dia. 04 10 Points Gote
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+Black has 9 points, White has 4 points.
+After counting
+(9-4)+(9-4)=\cf1\b 10 points\cf0\b0 .
+
+Therefore the value of White 1, 3 on \b Dia. 01\b0  (Black 1, 3 on \b Dia. 03\b0 ) is 10 points. It is gote for both players, so it is a \cf2\b 10 points gote endgame\cf0\b0 .
+
+])
+)

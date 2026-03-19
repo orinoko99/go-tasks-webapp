@@ -1,0 +1,119 @@
+//19
+4
+A Star Point Pattern (42)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to Play.\b0
+\par Black cuts with 1 and white defends by making a hanging connection at 2. White is disregarding the pattern.
+\par
+\par \pard\nowidctlpar\qj Instead of 2, it is the correct move for white to capture the black stone with \b\f1 A\b0\f0 .
+\par \pard
+\par How should black punish white?
+\par }
+#
+(
+1[pj]
+1[kp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+2[or]
+65[qr]
+)
+2
+B[pr]
+W[mr]
+Diagram 1 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It's good for black to play dansu at 1 before capturing two white stones with 3.
+\par
+\par Being afraid of pae, some people do not play this dansu at 1, but where can white find a pae threat in the beginning? You should play dansu.
+\par
+\par Let see the next diagram.
+\par }
+#
+(
+1[pj]
+1[kp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+2[mr]
+2[or]
+1[pr]
+)
+3
+B[os]
+W[nr]
+B[qr]
+Diagram 2 (Don't Be Afraid of a Pae)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par In response to black \'a1\'e3, if white resists at 1, black captures a white stone with 2.
+\par
+\par \pard\nowidctlpar\qj Wherever white plays, black will still capture at \b\f1 A\b0\f0 .
+\par \pard
+\par You should play like this to overcome your opponent.
+\par
+\par Please do not forget this.
+\par }
+#
+(
+1[pj]
+1[kp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+2[mr]
+2[or]
+1[pr]
+65[ms]
+5[os]
+)
+2
+W[ns]
+B[nr]
+Diagram 3 (Black Satisfied)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par When black plays \'a1\'e3, if white connects solidly at 1, black is satisfied to occupy the corner by playing 2.
+\par
+\par If white plays 3, black attacks white by taking away white's base with 4. It is clear that this is a difficult battle to white.
+\par
+\par }
+#
+(
+1[pj]
+1[kp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+2[or]
+5[pr]
+)
+4
+W[nr]
+B[qr]
+W[nn]
+B[lq]

@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cl][bm][cn][do][dp][aq][bq][cq][cr][ds]AB[bn][bo][ap][bp][cp][dq][fq][dr][fr]LBC[Vital Point
+
+
+Where should Black play next?
+])
+(;AW[cl][bm][cn][do][dp][aq][bq][cq][cr][ds]AB[bn][bo][ap][bp][cp][dq][fq][dr][fr]
+;B[ar]
+;W[br]
+;B[bs]
+;W[as]LB[ar:1][br:2][bs:3][as:4]C[Correct
+
+
+Black 1 is the vital point of the white shape. Up to 4 Black can make a pae (ko).
+])
+(;AW[cl][bm][cn][do][dp][aq][bq][cq][cr][ds]AB[bn][bo][ap][bp][cp][dq][fq][dr][fr]
+;B[bs]
+;W[an]
+;B[cs]
+;W[co]LB[bs:1][an:2][cs:3][co:4]C[Wrong
+
+
+The peep at 1 fails because White ignores it and simply reduces the liberties from the outside.
+])
+)

@@ -1,0 +1,27 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[bo][ep][fp][cq][dq][gq][cr][fr][hr]AB[do][dp][gr]LB[eq:][fq:][dr:][er:]LB[eq:][fq:][dr:][er:]C[Save in the Most Efficient Way
+
+Where should Black play to save the marked stones?
+])
+(;AW[bo][cq][dq][gq][cr][fr][hr]AB[do][dp][eq][fq][dr][er][gr]LB[ep:][fp:]
+;B[gp]
+;W[hq]
+;B[fo]LB[gp:1][hq:2][fo:3][ep:][fp:]C[Success
+
+Black should start with the double atari at 1 and then capture the cutting stones at 3.
+
+])
+(;AW[bo][ep][fp][cq][dq][gq][cr][fr][hr]AB[do][dp][eq][fq][dr][er][gr]
+;B[fs]
+;W[hp]
+;B[ds]LB[fs:1][hp:2][ds:3]C[Wrong
+
+Black capturing at 1 and descending at 3 lives too but is much inferior to the solution. Living like this is worse than dying, as a famous Chinese proverb says.
+
+])
+)

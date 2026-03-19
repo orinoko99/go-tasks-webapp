@@ -1,0 +1,181 @@
+//19
+5
+Where is a vital point?(80)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \f1 It's\b  White\b0 's turn.\f0
+\par
+\par Making ko is simple but that is the best answer??
+\par
+\par }
+#
+(
+2[qm]
+2[qo]
+2[ro]
+2[np]
+2[op]
+2[pp]
+1[qp]
+1[rp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+2[nr]
+1[or]
+2[qr]
+1[rr]
+2[ns]
+2[os]
+1[ps]
+2[rs]
+)
+0
+Dia.1(Right answer)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Connecting at 1 is a \cf1\b\f1 brilliant move\cf0\b0 .\f0
+\par
+\par B has to connect(B2) and W3 is a \f1 trenchancy attack.\f0
+\par
+\par Continue the next page!
+\par }
+#
+(
+2[qm]
+2[qo]
+2[ro]
+2[np]
+2[op]
+2[pp]
+1[qp]
+1[rp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+2[nr]
+1[or]
+2[qr]
+1[rr]
+2[ns]
+2[os]
+1[ps]
+2[rs]
+)
+3
+W[qs]
+B[pr]
+W[sp]
+Dia.2(Continue)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par After B captured three stone(W1),W erases eye shape(B2).
+\par
+\par B can't make real eyes.
+\par }
+#
+(
+2[qm]
+2[qo]
+2[ro]
+2[np]
+2[op]
+2[pp]
+1[qp]
+1[rp]
+2[sp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+1[rr]
+2[ns]
+2[os]
+1[ps]
+2[qs]
+2[rs]
+)
+2
+B[ss]
+W[sq]
+DIa.3(Ko)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If you couldn't find right answer(Dia.1)
+\par B could make a \cf1\b ko\cf0\b0 !!
+\par
+\par Playing at A instead of 2 is not working because W1 can escape at B.
+\par }
+#
+(
+2[qm]
+2[qo]
+2[ro]
+2[np]
+2[op]
+2[pp]
+1[qp]
+1[rp]
+66[sp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+65[rq]
+2[nr]
+1[or]
+2[qr]
+1[rr]
+2[ns]
+2[os]
+1[ps]
+2[rs]
+)
+2
+W[sr]
+B[sq]
+Dia.4(The wrong sequence)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Playing at 1 first is the\cf1\b  wrong sequence\cf0\b0 .
+\par
+\par After W3, B is no longer play at A and it turnes to be a ko(B4).
+\par }
+#
+(
+2[qm]
+2[qo]
+2[ro]
+2[np]
+2[op]
+2[pp]
+1[qp]
+1[rp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+2[nr]
+1[or]
+65[pr]
+2[qr]
+1[rr]
+2[ns]
+2[os]
+1[ps]
+2[rs]
+)
+4
+W[sp]
+B[sq]
+W[qs]
+B[ss]

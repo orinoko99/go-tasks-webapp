@@ -1,0 +1,57 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mo][oo][po][qo][op][rp][lq][mq][rq][lr][sr]AB[pp][oq][qq][mr][nr][or][rr]LBC[Can be alive by one move(98)
+
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\lang1042\f0
+\lang1033\f1 First move is important.\f2
+\lang1042\f0
+])
+(;AW[mo][oo][po][qo][op][rp][lq][mq][rq][lr][sr]AB[pp][oq][qq][mr][nr][or][rr]
+;B[qr]
+;W[ps]
+;B[qp]
+;W[pr]
+;B[ms]
+;W[os]LB[qr:1][ps:2][qp:3][pr:4][ms:5][os:6]C[Dia.1(The eye space of death)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Connecting at 1 is\cf1\b  a careless move.\cf0\b0
+
+Playing inside at 2 is a good attack so after 2, B has nothing to do.
+
+])
+(;AW[mo][oo][po][qo][op][rp][lq][mq][rq][lr][sr]AB[pp][oq][qq][mr][nr][or][rr]
+;B[rs]
+;W[ps]
+;B[pr]
+;W[qp]
+;B[qs]
+;W[pq]LB[rs:1][ps:2][pr:3][qp:4][qs:5][pq:6]C[Dia.2(Ko)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+Descent at 1 tries to extend eye space but it is\cf1\b  a greedy move.
+\cf0\b0
+\cf2\b W2 is a good attack \cf0\b0 so B can't avoid a ko.
+
+])
+(;AW[mo][oo][po][qo][op][rp][lq][mq][rq][lr][sr]AB[pp][oq][qq][mr][nr][or][rr]LB[qr:A][rs:B]
+;B[ps]
+;W[qp]
+;B[pq]LB[ps:1][qp:2][pq:3][qr:A][rs:B]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b Diagonal move is the vital point of life.\cf0\b0
+
+B doesn't have to worry about cutting at A because B can escape at B.
+
+])
+)

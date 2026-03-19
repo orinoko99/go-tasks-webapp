@@ -1,0 +1,162 @@
+//19
+5
+Where is a vital point?(74)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \f1 It's\b  Black\b0 's turn.\f0
+\par
+\par This problem seems to be difficulte.
+\par
+\par First and third move is importent and B\'a1\'e3 will help them.
+\par
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+1[oq]
+2[qq]
+2[rq]
+2[sq]
+1[nr]
+2[or]
+2[qr]
+5[sr]
+2[os]
+)
+0
+Dia.1(Right answer)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par
+\par B's wedge is a\cf1\b  severe move\cf0\b0 .
+\par
+\par W has to play at 2.
+\par B twists W's five stone by B3 and 5.
+\par It's the\cf1\b  '\f1 One eye versus no eye'!\f0
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+1[oq]
+2[qq]
+2[rq]
+2[sq]
+1[nr]
+2[or]
+2[qr]
+1[sr]
+2[os]
+)
+5
+B[pr]
+W[pq]
+B[qs]
+W[ps]
+B[rs]
+DIa.2(Draw)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Diagonal move seems to be a vital
+\par point but blocking at 2 is a proper move.
+\par
+\par Up to 4, the result is a draw.
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+1[oq]
+2[qq]
+2[rq]
+2[sq]
+1[nr]
+2[or]
+2[qr]
+1[sr]
+2[os]
+)
+4
+B[rs]
+W[qs]
+B[pr]
+W[pq]
+Dia.3(Excellent?)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Many people consider that B1 is a vital point.
+\par
+\par B would be able to make a self-dansu, if W play at 2.
+\par
+\par But It is a\cf1\b  B's wish\cf0\b0 !!
+\par
+\par W won't play like this.
+\par
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+1[oq]
+2[qq]
+2[rq]
+2[sq]
+1[nr]
+2[or]
+2[qr]
+1[sr]
+2[os]
+)
+3
+B[qs]
+W[rs]
+B[pr]
+Dia.4(Ko)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Connecting at 1 is a calm and severe move.
+\par
+\par Up to 5, the result is a\cf1\b  ko\cf0\b0 .
+\par
+\par You should be careful the wrong sequence!!
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+1[oq]
+2[qq]
+2[rq]
+2[sq]
+1[nr]
+2[or]
+2[qr]
+1[sr]
+2[os]
+5[qs]
+)
+5
+W[pr]
+B[rs]
+W[rr]
+B[ns]
+W[ss]

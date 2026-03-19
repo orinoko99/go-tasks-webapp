@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cn][bp][cp][bq][cr][dr]AB[cq][dq][eq][gq][br]LBC[Direction of Play
+
+It is Black's turn. Capture the two white stones in the corner.
+])
+(;AW[cn][bp][cp][bq][cr][dr]AB[cq][dq][eq][gq][br]
+;B[bs]
+;W[ar]
+;B[er]
+;W[aq]
+;B[ds]LB[bs:1][ar:2][er:3][aq:4][ds:5]C[Success
+
+Black should descend at 1, towards the target to attack. This is the most effective move to increase Black's liberties while keeping pressure on the white stones. When White plays the hane at 2, Black blocks at 3 to win the capturing race.
+
+])
+(;AW[cn][bp][cp][bq][cr][dr]AB[cq][dq][eq][gq][br]
+;B[ar]
+;W[bs]
+;B[er]
+;W[aq]LB[ar:1][bs:2][er:3][aq:4]C[Failure
+
+Descending to the other side at 1 is a mistake because White will hane at 2 and then win the capturing race with the atari at 4.
+
+])
+)

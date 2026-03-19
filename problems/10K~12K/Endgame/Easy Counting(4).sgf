@@ -1,0 +1,59 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ln][nn][on][pn][lo][po][lp][mp][np][op][pp][pq][qq][rq][nr][qr][qs]AB[mm][nm][om][pm][qm][qn][mo][no][oo][qo][qp][rp][sp][sq][rr][rs]LB[mn:A][sr:B]LB[mn:A][sr:B]C[Easy Counting(4)
+
+
+\b Black to play \b0 (or \b White to play\b0 )
+
+One of the problem is counted with the simple counting method and the other one is counted with the complex counting method.
+
+Which one is bigger \b A\b0  or \b B\b0 ?
+
+
+])
+(;AW[ln][nn][on][pn][lo][po][lp][mp][np][op][pp][pq][qq][rq][nr][qr][qs]AB[mm][nm][om][pm][qm][qn][mo][no][oo][qo][qp][rp][sp][sq][rr][rs]
+;B[mn]LB[mn:1]C[Dia. 01 6 Points
+
+{\colortbl ;\red0\green0\blue255;}
+
+Let's check \b A\b0 .
+If Black plays at 1, Black's territory doesn't increase.
+If White plays, he makes \cf1\b 6 points\cf0\b0  by capturing 3 stones.
+
+Therefore this move is worth 6 points for both players and it is counted with the simple counting method.
+
+
+
+])
+(;AW[ln][nn][on][pn][lo][po][lp][mp][np][op][pp][pq][qq][rq][nr][qr][qs]AB[mm][nm][om][pm][qm][qn][mo][no][oo][qo][qp][rp][sp][sq][rr][rs]
+;B[sr]LB[sr:1]C[Dia. 02 1 Point for Black
+
+{\colortbl ;\red0\green0\blue255;}
+
+Playing at B is different.
+If Black plays at 1, he gets \cf1\b 1 point\cf0\b0 .
+If White plays first he also makes points.
+Therefore this move is counted with the complex counting method.
+])
+(;CR[rr][rs]AW[ln][nn][on][pn][lo][po][lp][mp][np][op][pp][pq][qq][rq][nr][qr][qs]AB[mm][nm][om][pm][qm][qn][mo][no][oo][qo][qp][rp][sp][sq][rr][rs]LB[ss:?]
+;W[sr]LB[sr:1][ss:?]CR[rr][rs]C[Dia.03 It is also 6 Points
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+What happens if White plays first?
+If White throws-in at 1, Black two \'a1\'e3 stones are captured with snapback.
+
+How many points it is?
+2 captured stones makes 4 points plus 1 point at X, which means \cf1\b 5 points\cf0\b0 .
+
+If Black plays it is worth 1 point for Black, if White plays it is worth 5 points for White. Therefore B is worth \cf2\b 5+1=6\cf0\b0  points.
+
+\b A\b0  and \b B\b0  are both 6 points.
+
+
+])
+)

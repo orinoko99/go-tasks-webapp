@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pq][or][pr]AW[op][pp][qp][mq][nq][oq][qq][mr][qr][ms]AB[oo][po][qo][lp][mp][np][rp][lq][pq][rq][lr][or][pr][rr][ls]LBCR[pq][or][pr]C[Living with one Move(37)
+
+
+White to play\b0 .
+White shouldn't let Black to connect his \'a1\'e3 stones.
+
+The first moves decides everything.
+])
+(;AW[op][pp][qp][mq][nq][oq][qq][mr][qr][ms]AB[oo][po][qo][lp][mp][np][rp][lq][pq][rq][lr][or][pr][rr][ls]LB[ns:A]
+;W[qs]
+;B[ps]
+;W[nr]
+;B[os]LB[qs:1][ps:2][nr:3][os:4][ns:A]C[Dia. 01 Five Space Shape
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+White 1 looks good, but after Black plays at 2 White can't live anymore.
+Against White 3,\cf1\b  Black 4\cf0\b0  is a \cf1\b good move\cf0\b0  and it becomes the dead\cf2\b  five space shape\cf0\b0 .
+
+If White plays at 4 instead of 3, Black takes at A and it becomes eye vs. no eye situation.
+
+])
+(;AW[op][pp][qp][mq][nq][oq][qq][mr][qr][ms]AB[oo][po][qo][lp][mp][np][rp][lq][pq][rq][lr][or][pr][rr][ls]LB[qs:A]
+;W[os]
+;B[ps]
+;W[nr]LB[os:1][ps:2][nr:3][qs:A]C[Dia. 02 Pae?
+
+{\colortbl ;\red255\green0\blue0;}
+
+Some people might think, after White's attachment at 1, if Black plays at 2, White has to play the pae with 3.
+
+However this is an\cf1\b  illusion\cf0\b0 .
+Black can play at A instead of 2 and then White is captured without pae.
+
+])
+(;AW[op][pp][qp][mq][nq][oq][qq][mr][qr][ms]AB[oo][po][qo][lp][mp][np][rp][lq][pq][rq][lr][or][pr][rr][ls]
+;W[ps]
+;B[os]
+;W[qs]
+;B[rs]LB[ps:1][os:2][qs:3][rs:4]C[Dia. 03 Correct Answer-Hane
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+White's hane at 1 is the vital point for living.
+The proverb says "\cf1\b there is death in the hane\cf0\b0 ". It changed into "\cf2\b there is life in the hane\cf0\b0 ".
+
+Black plays at 2 and 4, so it becomes sente bik for White.
+So after White plays at 1 Black can't capture him anymore.
+])
+)

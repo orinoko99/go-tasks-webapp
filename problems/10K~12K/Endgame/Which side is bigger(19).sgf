@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ep][fp][gp][mp][eq][iq][mq][ar][br][cr][er][mr][or][pr][qr][ds][es][ms][ns][qs]AB[cl][ql][do][eo][fo][qo][dp][aq][bq][cq][dq][nq][oq][pq][qq][dr][nr][rr][bs][rs]LB[cs:A][os:B]LB[cs:A][os:B]C[Which side is bigger?(19)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+Here we are again, I think you know the drill, but which is bigger, A or B?  This one is actually pretty easy.
+
+Multiple choice:
+1) A is bigger.
+2) B is bigger.
+3) They're the same size.
+\cf1\lang1042\f1\fs18
+\cf2
+\cf1
+\cf0
+])
+(;CR[bs]AW[ep][fp][gp][mp][eq][iq][mq][ar][br][cr][er][mr][or][pr][qr][ds][es][ms][ns][qs]AB[cl][ql][do][eo][fo][qo][dp][aq][bq][cq][dq][nq][oq][pq][qq][dr][nr][rr][bs][rs]LB[as:?]
+;W[cs]LB[cs:1][as:?]CR[bs]C[Dia.1 How big is A?
+
+Let's look at the left side at A firs.  If White connects he captures a stone and takes a point of territory at x as well as the space under the stone.
+
+This is worth 3 points.
+\lang1042\f1\fs18
+
+
+])
+(;CR[ar][br][cr]AW[ep][fp][gp][mp][eq][iq][mq][ar][br][cr][er][mr][or][pr][qr][ds][es][ms][ns][qs]AB[cl][ql][do][eo][fo][qo][dp][aq][bq][cq][dq][nq][oq][pq][qq][dr][nr][rr][bs][rs]LB[as:?]
+;B[cs]LB[cs:1][as:?]CR[ar][br][cr]C[Dia.2 10 points in husu
+
+Black can throw in at 1 and capture the three White stones as well as gain a point at x, so 7 points.
+
+So if we add it all together A is worth:
+3+7 = 10 points in husu.
+\lang1042\f1\fs18
+
+])
+(;AW[ep][fp][gp][mp][eq][iq][mq][ar][br][cr][er][mr][or][pr][qr][ds][es][ms][ns][qs]AB[cl][ql][do][eo][fo][qo][dp][aq][bq][cq][dq][nq][oq][pq][qq][dr][nr][rr][bs][rs]LB[ps:?]
+;W[os]LB[os:1][ps:?]C[Dia.3 How big is B?
+
+Now let's turn our attention to B.
+
+If it's White's turn he'll play at 1 and get a point at the x marked spot.  This means this move is worth 1 point.
+\lang1042\f1\fs18
+
+])
+(;CR[or][pr][qr][qs]AW[ep][fp][gp][mp][eq][iq][mq][ar][br][cr][er][mr][or][pr][qr][ds][es][ms][ns][qs]AB[cl][ql][do][eo][fo][qo][dp][aq][bq][cq][dq][nq][oq][pq][qq][dr][nr][rr][bs][rs]LB[ps:?]
+;B[os]LB[os:1][ps:?]CR[or][pr][qr][qs]C[Dia.4 Probably 10 points
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+If Black gets to go first then he'll throw in at 1 and capture four White stones.  That means he gets 8 points for the captured stones and a point for the x marked spot.
+
+That means all in all this is worth 9 points.
+
+Therefore B is worth 1+9 = 10 points of territory in husu.
+
+That means the correct answer is
+\cf1\lang1042\f1\fs18 3)\cf2\lang1033\f0\fs16 They're the same size
+\cf0\lang1042\f1\fs18
+])
+)

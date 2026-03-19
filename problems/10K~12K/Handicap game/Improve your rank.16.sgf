@@ -1,0 +1,52 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dg][mp][nq]AB[dd][fd][jd][pd][dj][jj][pj][no][dp][jp][np][pp]
+;W[qq]
+;B[oq]
+;W[ro]
+;B[mo]
+;W[mq]LB[qq:1][oq:2][ro:3][mo:4][mq:5]C[Improve your rank
+
+Black's turn \b0
+We studied what happens when White plays 1, Black 2, White 3 and Black 4.
+Now White decided to play 5.
+How should Black answer?\lang1042\f1
+
+])
+(;CR[mp][mq][nq]AW[dg][ro][mp][mq][nq][qq]AB[dd][fd][jd][pd][dj][jj][pj][mo][no][dp][jp][np][pp][oq]LB[or:A]
+;B[pr]LB[pr:1][or:A]CR[mp][mq][nq]C[1st Dia. Correct answer
+
+Black 1 is slightly complicated but it's the correct answer. This move is to attack White's \lang1042\f1\'a1\'e2\lang1043\f0  stones and White's corner at the same time.
+Black 1 is better than A.\lang1042\f1
+
+])
+(;CR[pr]AW[dg][ro][mp][mq][nq][qq]AB[dd][fd][jd][pd][dj][jj][pj][mo][no][dp][jp][np][pp][oq][pr]
+;W[qm]
+;B[jq]LB[qm:1][jq:2]CR[pr]C[2nd Dia. Black captures White
+
+When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  White will play somewhere else. If White plays 1 then Black plays 2. The result is very good for Black.\lang1042\f1
+])
+(;AW[dg][ro][mp][mq][nq][qq]AB[dd][fd][jd][pd][dj][jj][pj][mo][no][dp][jp][np][pp][oq][pr]
+;W[jr]
+;B[qp]
+;W[rp]
+;B[rr]
+;W[rq]
+;B[rm]LB[jr:1][qp:2][rp:3][rr:4][rq:5][rm:6]C[3rd Dia. Continuation
+
+If White plays 1 Black will answer 2 and 4.White plays 5 and Black 6.
+As the sequence shows this result is good for Black.\lang1042\f1
+
+])
+(;AW[dg][ro][mp][mq][nq][qq]AB[dd][fd][jd][pd][dj][jj][pj][mo][no][dp][jp][np][pp][oq]
+;B[ko]
+;W[or]LB[ko:1][or:2]C[4th Dia. Mistake
+
+Black 1 is a big mistake, if Black keeps playing this kind of move he will eventually lose the game.\lang1042\f1
+
+])
+)

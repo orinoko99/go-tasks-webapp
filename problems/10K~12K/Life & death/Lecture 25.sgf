@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cn][dn][en][fo][bp][fp][hp][bq][gq][br][gr][bs][cs]AB[do][eo][cp][ep][cq][dq][eq][fq][cr][fr]LBC[Save Black
+
+Black to play and live.
+])
+(;AW[cn][dn][en][fo][bp][fp][hp][bq][gq][br][gr][bs][cs]AB[do][eo][cp][ep][cq][dq][eq][fq][cr][fr]
+;B[es]
+;W[ds]
+;B[dr]
+;W[gs]
+;B[fs]LB[es:1][ds:2][dr:3][gs:4][fs:5]C[Correct
+
+
+The loose block and tiger's mouth at Black 1 is the correct way to make two eyes.
+])
+(;AW[cn][dn][en][fo][bp][fp][hp][bq][gq][br][gr][bs][cs]AB[do][eo][cp][ep][cq][dq][eq][fq][cr][fr]
+;B[ds]
+;W[es]
+;B[er]
+;W[dr]LB[ds:1][es:2][er:3][dr:4]C[Wrong
+
+
+Blocking directly at Black 1 doesn't work because White can make a Ko.
+])
+)

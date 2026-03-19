@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cn][fp][dq][eq]AB[eo][cp][ep]LBC[The Way of Connecting
+
+Where should Black play to connect?
+])
+(;AW[cn][fp][dq][eq]AB[eo][cp][ep]
+;B[co]
+;W[cq]
+;B[fo]
+;W[gp]
+;B[cl]LB[co:1][cq:2][fo:3][gp:4][cl:5]C[Correct
+
+Black should use the bamboo joint at 1 to connect his stones.The moves up to 5 form a standard corner sequence (jungsuk/joseki).
+
+])
+(;AW[cn][fp][dq][eq]AB[eo][cp][ep]
+;B[dp]
+;W[cq]
+;B[fo]
+;W[gp]
+;B[cl]LB[dp:1][cq:2][fo:3][gp:4][cl:5]C[Wrong
+
+Connecting solidly at 1 makes an empty triangle which is regarded as bad shape.
+
+])
+)

@@ -1,0 +1,133 @@
+//19
+4
+First is a key move(97)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\ltrpar\lang1042\f0
+\par Can B capture without a ko?
+\par }
+#
+(
+1[oo]
+1[po]
+1[qo]
+1[ro]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[mq]
+1[oq]
+2[pq]
+2[rq]
+1[nr]
+2[or]
+2[pr]
+)
+0
+Dia.1(Ko)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par In the actual game, we might think about attaching at 1 first.
+\par
+\par But this attack isn't good enough because up to 6, it is a\cf1\b  ko. \cf0\b0
+\par
+\par }
+#
+(
+1[oo]
+1[po]
+1[qo]
+1[ro]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[mq]
+1[oq]
+2[pq]
+2[rq]
+1[nr]
+2[or]
+2[pr]
+)
+6
+B[rr]
+W[sr]
+B[qr]
+W[rs]
+B[qs]
+W[qq]
+Dia.2(The same as before)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Bending at 1 is also\cf1\b  bed attack.\cf0\b0
+\par
+\par Up to 8, this result is the same as before.
+\par \cf1\b
+\par }
+#
+(
+1[oo]
+1[po]
+1[qo]
+1[ro]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[mq]
+1[oq]
+2[pq]
+2[rq]
+1[nr]
+2[or]
+2[pr]
+)
+8
+B[sq]
+W[sr]
+B[rr]
+W[sp]
+B[qr]
+W[rs]
+B[qs]
+W[qq]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \cf1\b Playing inside at 2 to 1 point\cf0\b0  is a good vital point.
+\par
+\par B3 is also a good attack so up to 7, W can't live anymore.
+\par
+\par }
+#
+(
+1[oo]
+1[po]
+1[qo]
+1[ro]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[mq]
+1[oq]
+2[pq]
+2[rq]
+1[nr]
+2[or]
+2[pr]
+)
+7
+B[sr]
+W[sq]
+B[rr]
+W[qr]
+B[sp]
+W[qq]
+B[os]

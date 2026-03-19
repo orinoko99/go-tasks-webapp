@@ -1,0 +1,70 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[np][pp][qp][rp][oq][nr][sr]AB[pq][rq][sq][pr][os][rs]LBC[One Move Captures Black (10)
+
+
+\b White to Play.\b0
+At a glance, black appears to be alive.
+
+However, there is a move to capture black. It is a basic attacking method but it might be a blind spot for some.
+
+])
+(;AW[np][pp][qp][rp][oq][nr][sr]AB[pq][rq][sq][pr][os][rs]
+;W[qq]
+;B[qr]
+;W[sp]
+;B[rr]LB[qq:1][qr:2][sp:3][rr:4]C[Diagram 1 (Giving up)
+
+
+Actually if you are 12K, it might be a little hard for you to solve this problem. If you are 10K, you might be able to solve it.
+
+If white acknowledges black to be alive, it is likely that white will play 1 in exchange for 2.
+
+White 3 is seonsu, but this is really only an endgame move.
+])
+(;AW[np][pp][qp][rp][oq][nr][sr]AB[pq][rq][sq][pr][os][rs]
+;W[rr]
+;B[qr]LB[rr:1][qr:2]C[Diagram 2 (Easily alive ¿©À¯ÀÖ´Â »î)
+
+
+What about white 1?
+It does not work. Black plays dansu at 2 and lives easily.
+
+This problem looks difficult but it is easy after you know the answer.
+Keep looking!
+])
+(;AW[np][pp][qp][rp][oq][nr][sr]AB[pq][rq][sq][pr][os][rs]
+;W[qr]
+;B[qq]
+;W[rr]
+;B[or]
+;W[qs]
+;B[ps]LB[qr:1][qq:2][rr:3][or:4][qs:5][ps:6]C[Diagram 3 (Mistake)
+
+
+Ahha! It works to make placement at 1 and connect at 3! Well... some might think this so.
+
+However, this is mistaken.
+Black 4 is a fantastic response and black lives. Now white can only play at 5, black plays dansu with 6 lives.
+])
+(;AW[np][pp][qp][rp][oq][nr][sr]AB[pq][rq][sq][pr][os][rs]
+;W[or]
+;B[ps]
+;W[qr]
+;B[qq]
+;W[rr]LB[or:1][ps:2][qr:3][qq:4][rr:5]C[Diagram 4 (Correct)
+
+
+By now, you must think something is strange. Yes, it is. You cannot capture black by playing inside.
+
+White 1 is a brilliant move to narrow down black's eyespace.  Now that this move is played, black has no way to live.
+
+If black plays at 2, white plays at 3 and 5 and that's it. It's not pik. If the outside liberties are filled in, black's whole group is in dansu. Black is dead!
+
+Please check for yourself.
+])
+)

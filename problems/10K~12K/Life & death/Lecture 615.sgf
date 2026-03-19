@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ap][bp][cp][dp][aq][eq][gq]AB[bq][cq][ar]LBC[Vital Point first
+
+Black to live.
+])
+(;AW[ap][bp][cp][dp][aq][eq][gq]AB[bq][cq][ar]
+;B[bs]
+;W[cr]
+;B[dr]
+;W[dq]
+;B[br]
+;W[ds]
+;B[er]
+;W[fr]
+;B[cs]LB[bs:1][cr:2][dr:3][dq:4][br:5][ds:6][er:7][fr:8][cs:9]C[Correct
+
+Black 1 occupies the vital point. When White attaches at 2, Black can cut at 3. Don't be afraid of the cut at 4 but read the variation carefully until the end.
+
+])
+(;AW[ap][bp][cp][dp][aq][eq][gq]AB[bq][cq][ar]
+;B[dr]
+;W[bs]
+;B[br]
+;W[cs]
+;B[er]
+;W[fr]LB[dr:1][bs:2][br:3][cs:4][er:5][fr:6]C[Wrong
+
+First widening the eye space fails here because White will stop Black from making two eyes at 2.
+
+])
+)

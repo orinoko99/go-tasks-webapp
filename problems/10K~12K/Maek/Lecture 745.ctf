@@ -1,0 +1,115 @@
+//19
+3
+Maek to Capture
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Save the black stones.
+\par }
+#
+(
+2[bo]
+2[co]
+2[do]
+2[eo]
+2[fo]
+2[go]
+2[ho]
+2[bp]
+1[cp]
+1[dp]
+1[ep]
+1[fp]
+1[gp]
+2[hp]
+1[bq]
+1[cq]
+2[dq]
+2[eq]
+2[hq]
+1[cr]
+2[dr]
+2[fr]
+1[gr]
+2[hr]
+1[cs]
+2[ds]
+)
+0
+Success
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black should play at the vital point of the "7" shape at 1. Even White tries to defend at 2, Black can connect at 3 and cut at 5 to capture these stones.
+\par
+\par }
+#
+(
+2[bo]
+2[co]
+2[do]
+2[eo]
+2[fo]
+2[go]
+2[ho]
+2[bp]
+1[cp]
+1[dp]
+1[ep]
+1[fp]
+1[gp]
+2[hp]
+1[bq]
+1[cq]
+8[dq]
+8[eq]
+2[hq]
+1[cr]
+8[dr]
+2[fr]
+1[gr]
+2[hr]
+1[cs]
+8[ds]
+)
+5
+B[es]
+W[fq]
+B[gq]
+W[gs]
+B[fs]
+Failure
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The connection at 1 fails because White can also connect at 2. After 4, Black has no follow up.
+\par
+\par }
+#
+(
+2[bo]
+2[co]
+2[do]
+2[eo]
+2[fo]
+2[go]
+2[ho]
+2[bp]
+1[cp]
+1[dp]
+1[ep]
+1[fp]
+1[gp]
+2[hp]
+1[bq]
+1[cq]
+2[dq]
+2[eq]
+2[hq]
+1[cr]
+2[dr]
+2[fr]
+1[gr]
+2[hr]
+1[cs]
+2[ds]
+)
+4
+B[gq]
+W[gs]
+B[es]
+W[fs]

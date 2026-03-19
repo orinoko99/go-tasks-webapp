@@ -1,0 +1,29 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[em][gn][co][do][go][ep][fp][dq][fq]AB[eo][fo][cp][dp][gp][cq][eq][hq]LBC[Capturing Move
+
+Black to capture White. Where is the right point to start?
+])
+(;AW[em][gn][co][do][go][ep][fp][dq][fq]AB[eo][fo][cp][dp][gp][cq][eq][hq]
+;B[fr]
+;W[er]
+;B[gq]
+;W[eq]
+;B[dr]LB[fr:1][er:2][gq:3][eq:4][dr:5]C[Correct
+
+
+Squeezing with Black 1 and Black 3 is the correct answer. Up to Black 5 White is captured.
+])
+(;AW[em][gn][co][do][go][ep][fp][dq][fq]AB[eo][fo][cp][dp][gp][cq][eq][hq]
+;B[er]
+;W[fr]
+;B[dr]LB[er:1][fr:2][dr:3]C[Wrong
+
+
+Oh, no! Black shouldn't descend here. Descending to 2 gives White many more liberties and Black failed.
+])
+)

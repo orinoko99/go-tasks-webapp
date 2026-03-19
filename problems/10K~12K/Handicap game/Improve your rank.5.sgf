@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[fc][qh][jn][gp][np][nq]AB[dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[ic:A]
+;W[jc]
+;B[kc]
+;W[kb]LB[jc:1][kc:2][kb:3][ic:A]C[Improve your rank
+
+Black's turn\b0
+When White plays 1, Black answers 2, White plays 3.
+White thinks A is not a good move, so he decided to play 3.
+How should Black answer?\lang1042\f1
+
+])
+(;CR[qh]AW[kb][fc][jc][qh][jn][gp][np][nq]AB[kc][dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[kd]
+;W[jb]
+;B[mc]LB[kd:1][jb:2][mc:3]CR[qh]C[1st Dia. Correct answer
+
+Black 1 is the correct answer. White will be disappointed.
+White's \lang1042\f1\'a1\'e2\lang1043\f0  stone is very weak. White will be busy taking care of it.
+\lang1042\f1
+
+])
+(;AW[kb][fc][jc][qh][jn][gp][np][nq]AB[kc][dd][jd][kd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[ic:?]
+;W[ic]
+;B[lb]
+;W[db]
+;B[qe]LB[ic:1][lb:2][db:3][qe:4][ic:?]C[2nd Dia. Good for Black
+
+If White plays 1, Black will happily play 2.
+When White plays 3, Black 4 is a good move, you should remember it.
+Now White's \lang1042\f1\'a1\'e2\lang1043\f0  is in trouble.
+This result is good for Black.\lang1042\f1
+
+])
+(;CR[kb][jd]AW[kb][fc][jc][qh][jn][gp][np][nq]AB[kc][dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[jb]
+;W[ic]
+;B[lb]
+;W[kd]
+;B[lc]
+;W[ke]LB[jb:1][ic:2][lb:3][kd:4][lc:5][ke:6]CR[kb][jd]C[3rd Dia. Keep looking
+
+Black playing 1 and 3 to cut White's \lang1042\f1\'a1\'e2\lang1043\f0  stone is White's wish. White will play 4 and 6. Now Black is in trouble.
+To save Black's \lang1042\f1\'a1\'e3 \lang1043\f0 stone will be hard.
+\lang1042\f1
+])
+(;AW[fc][qh][jn][gp][np][nq]AB[dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[id:?]
+;W[jc]
+;B[kc]
+;W[id]
+;B[kd]
+;W[ic]
+;B[qe]LB[jc:1][kc:2][id:3][kd:4][ic:5][qe:6][id:?]C[4th Dia. Keep looking
+
+When White plays 1, Black 2, White 3. Black 4 is a good answer.
+This result is almost same as the second diagram.\lang1042\f1
+
+])
+)

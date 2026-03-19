@@ -1,0 +1,204 @@
+//19
+5
+Where is a vital point?(76)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\cf1\f0\fs18
+\par \cf0\f1 It's\b  White\b0 's turn.\fs24
+\par \cf1\f0\fs18
+\par
+\par W\'a1\'e2 will be a helpful move!!
+\par
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[sp]
+2[nq]
+1[oq]
+6[qq]
+1[rq]
+2[sq]
+2[nr]
+1[rr]
+1[sr]
+2[ns]
+1[os]
+)
+0
+Dia.1(Right answer)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\cf1\f0\fs18
+\par
+\par W1 is a severe attack.
+\par
+\par B might feel safe but W3 is a final blow.
+\par Up to 5, B's six stone is in snapback.
+\par
+\par
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[sp]
+2[nq]
+1[oq]
+2[qq]
+1[rq]
+2[sq]
+2[nr]
+1[rr]
+1[sr]
+2[ns]
+1[os]
+)
+5
+W[pr]
+B[or]
+W[rp]
+B[qr]
+W[ps]
+Dia.2(Enemy's vital point)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\cf1\f0\fs18
+\par
+\par Cutting at 1 is a \cf2\b careless move\cf1\b0 .
+\par
+\par B2 is an \cf3\b enemy's vital point\cf1\b0 .
+\par Up to 6, B can live easily.
+\par
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[sp]
+2[nq]
+1[oq]
+2[qq]
+1[rq]
+2[sq]
+2[nr]
+1[rr]
+1[sr]
+2[ns]
+1[os]
+)
+6
+W[rp]
+B[pr]
+W[or]
+B[pq]
+W[ps]
+B[qr]
+Dia.3(Ko)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\cf1\f0\fs18
+\par Moving at 1 is a \cf2\b meaningless attack\cf1\b0 .
+\par
+\par B2 is a right answer.
+\par W can make a ko but he doesn't have to make it.
+\par
+\par Because W has the way to live!!
+\par
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[sp]
+2[nq]
+1[oq]
+2[qq]
+1[rq]
+2[sq]
+2[nr]
+1[rr]
+1[sr]
+2[ns]
+1[os]
+)
+4
+W[qr]
+B[qs]
+W[rs]
+B[pr]
+Dia.4(Double self-dansu)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\cf1\f0\fs18
+\par
+\par But you should be careful the wrong response like B1.
+\par
+\par Just descending at 2 is a \cf2\b good move
+\par \cf1\b0 And cutting at 4 is also severe.
+\par
+\par Up to 4, B is in double self-dansu.
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[sp]
+2[nq]
+1[oq]
+2[qq]
+1[rq]
+2[sq]
+2[nr]
+2[qr]
+1[rr]
+1[sr]
+2[ns]
+1[os]
+)
+4
+B[pr]
+W[qs]
+B[pq]
+W[rp]

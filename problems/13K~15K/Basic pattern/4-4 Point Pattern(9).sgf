@@ -1,0 +1,69 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nq]AB[pp]LB[qq:A][qr:B]
+;B[qn]
+;W[pr]LB[qn:1][pr:2][qq:A][qr:B]C[4-4 Pattern(9)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+It is\cf1\b  Black\cf0\b0 's turn.
+
+\cf1\b B1\cf0\b0 . This knight move is very simple, used in both even game and handicap game.
+How should Black repond to \cf2\b W2\cf0\b0 ?
+
+Choose betwwen A and B.
+])
+(;AW[nq][pr]AB[qn][pp]
+;B[qq]
+;W[kq]LB[qq:1][kq:2]C[Dia1(Solution)
+
+
+The correct answer is 1, which is vital for terrirory and base.
+Up to W2, this is a basic pattern.
+
+This is one of the easiest patterns in Baduk. We usually learn this pattern as a first one.
+
+])
+(;AW[nq][pr]AB[qn][pp]
+;B[qq]
+;W[``]
+;B[lq]LB[qq:1][``:2][lq:3]C[Dia2(Vital piont)
+
+{\colortbl ;\red0\green0\blue255;}
+
+After the response \cf1\b B1\cf0\b0 , if White play elsewhere, the vital point is at 3.
+Even if White's group are alive somehow, it's very painful for White. Therefore, two-space extention is normal.
+])
+(;AW[nq][pr]AB[qn][pp]
+;B[qr]
+;W[qq]
+;B[pq]
+;W[rr]
+;B[or]
+;W[qs]LB[qr:1][qq:2][pq:3][rr:4][or:5][qs:6]C[Dia3(Overplay)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+We can often see \cf1\b B1\cf0\b0 , frequently played in low-level players' games, is a huge overplay.
+
+\cf2\b W2 \cf0\b0 is the punishment. \cf1\b B3 \cf0\b0 is the only move Black can make, but White takes the corner with 6.
+
+White is satisfied because White not only lives, but also destroys the corner.
+])
+(;CR[qr]AW[nq][pr]AB[qn][pp][qr]
+;W[pq]
+;B[qq]
+;W[op]
+;B[po]LB[pq:1][qq:2][op:3][po:4]CR[qr]C[Dia4(unlerned move)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Instead of bending, \cf1\b W1 \cf0\b0 is an unlearned move.
+if there is someone who plays like this afraid of being separated, this is a big loss.
+Up to 4, Black's overplay turns out to be good. It is terrible for White.
+])
+)

@@ -1,0 +1,25 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[bm][an][bo][co][dp][ep][fp][gq][gr][ir][hs]AB[ao][ap][bp][cq][dq][eq][cr][fr][ds][fs][gs]LBC[Best Endgame Move
+
+The game is almost finished. Where should Black play?
+])
+(;AW[bm][an][bo][co][dp][ep][fp][gq][gr][ir][hs]AB[ao][ap][bp][cq][dq][eq][cr][fr][ds][fs][gs]
+;B[cp]LB[cp:1]C[Correct
+
+Reinforcing at 1 is Black's best play.
+
+])
+(;AW[bm][an][bo][co][dp][ep][fp][gq][gr][ir][hs]AB[ao][ap][bp][cq][dq][eq][cr][fr][ds][fs][gs]
+;B[fq]
+;W[cp]
+;B[bq]LB[fq:1][cp:2][bq:3]C[Wrong
+
+
+Filling the neutral point at 1 doesn't gain anything. When White plays at 2, Black has to connect at 3 and loses one point of territory (compared to the solution).
+])
+)

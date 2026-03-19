@@ -1,0 +1,132 @@
+//19
+4
+Capturing Move
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black needs a capturing technique to connect his stones. Where to play?
+\par }
+#
+(
+1[cl]
+1[bn]
+1[cn]
+2[fn]
+1[ao]
+2[bo]
+1[co]
+2[bp]
+1[cp]
+2[dp]
+2[aq]
+2[cq]
+1[dq]
+2[fq]
+2[iq]
+2[br]
+2[cr]
+1[dr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Right. Black should first play atari and then capture in a net.
+\par }
+#
+(
+1[cl]
+1[bn]
+1[cn]
+2[fn]
+1[ao]
+2[bo]
+1[co]
+2[bp]
+1[cp]
+2[dp]
+2[aq]
+2[cq]
+1[dq]
+2[fq]
+2[iq]
+2[br]
+2[cr]
+1[dr]
+)
+7
+B[ep]
+W[do]
+B[en]
+W[eo]
+B[fo]
+W[fp]
+B[dn]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par What's that?? This atari is just helping White.
+\par }
+#
+(
+1[cl]
+1[bn]
+1[cn]
+2[fn]
+1[ao]
+2[bo]
+1[co]
+2[bp]
+1[cp]
+2[dp]
+2[aq]
+2[cq]
+1[dq]
+2[fq]
+2[iq]
+2[br]
+2[cr]
+1[dr]
+)
+2
+B[do]
+W[ep]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Driving White out and then creating a net with Black 7 looks promising. However, Black has too many weak points to withstand and White can escape.
+\par
+\par }
+#
+(
+1[cl]
+1[bn]
+1[cn]
+2[fn]
+1[ao]
+2[bo]
+1[co]
+2[bp]
+1[cp]
+2[dp]
+2[aq]
+2[cq]
+1[dq]
+2[fq]
+2[iq]
+2[br]
+2[cr]
+1[dr]
+)
+14
+B[ep]
+W[do]
+B[eo]
+W[dn]
+B[en]
+W[dm]
+B[el]
+W[em]
+B[fm]
+W[fl]
+B[gm]
+W[dl]
+B[ek]
+W[dk]

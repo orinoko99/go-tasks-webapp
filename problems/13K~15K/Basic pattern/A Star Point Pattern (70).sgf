@@ -1,0 +1,51 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pq]AW[qn][mp][nq][oq]AB[no][kp][np][pp][pq]LB[op:A]
+;W[pm]LB[pm:1][op:A]CR[pq]C[Star point jeongseok (70)
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Now let's look at this variation where White plays the diagonal move at 1 instead of pushing at A.  How should Black respond?\lang1042\f0\fs18
+])
+(;AW[pm][qn][mp][nq][oq]AB[no][kp][np][pp][pq]LB[op:A]
+;B[mo]
+;W[kr]
+;B[qo]LB[mo:1][kr:2][qo:3][op:A]C[Dia.1 Slack play
+
+Black 1 is a slack move because it doesn't put that much pressure on White, it just allows Black to connect all of his stones and guard his weakness.  White can slide under with 2 to protect his bottom group.  This is slack for Black because he can do better.
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][mp][nq][oq]AB[no][kp][np][pp][pq]LB[op:A]
+;B[op]
+;W[kr]
+;B[lq]
+;W[lr]LB[op:1][kr:2][lq:3][lr:4][op:A]C[Dia.2 Empty triangle
+
+Black 1 is bad shape because it's an empty triangle.  Plus, White can easily defend with 2.  Black 3 isn't a problem, because White can connect with 4.  Also notice that the two White stones on the right side have not been touched.
+\lang1042\f1\fs18
+
+])
+(;CR[kp]AW[pm][qn][mp][nq][oq]AB[no][kp][np][pp][pq]
+;B[qo]
+;W[ro]
+;B[pn]
+;W[rn]
+;B[rp]LB[qo:1][ro:2][pn:3][rn:4][rp:5]CR[kp]C[Dia.3 Good for Black
+
+Black 1 is the correct move.  White will play 2, and the correct move is to play 3 to force White to protect with 4.  Black will block off the corner with 5. Notice how the marked Black stone is in the proper place to attack White.  This results in a good result for Black.\lang1042\f1\fs18
+
+
+
+])
+(;AW[qn][mp][nq][oq]AB[no][kp][np][pp][pq]
+;W[pm]LB[pm:1]C[No diagram name
+
+
+
+])
+)

@@ -1,0 +1,146 @@
+//19
+5
+One Move Captures White (1)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to Play.\b0
+\par When it is merely a life and death problem it is very easy. However, in a real game, a lot of mistakes are made in this position.
+\par
+\par One move determines everything. Of course, there's only one move to capture white.
+\par }
+#
+(
+1[qp]
+1[rp]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+1[mr]
+2[nr]
+2[or]
+2[pr]
+2[ns]
+)
+0
+Diagram 1 (In a Real Game)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par This is the sequence found in a real game on the cyberoro sever.
+\par
+\par From 1 to 4, white lives easily. Despite this, there is a move to capture white very simply.
+\par }
+#
+(
+1[qp]
+1[rp]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+1[mr]
+2[nr]
+2[or]
+2[pr]
+2[ns]
+)
+4
+B[sq]
+W[rr]
+B[sr]
+W[rs]
+Diagram 2 (Black's Wish)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black 1 is played, hoping white will respond at W2. Then, black cuts at 3 and white dies!
+\par
+\par \pard\nowidctlpar\qj Next, if white plays at \b\f1 A\b0\f0 , black plays \b\f1 B \b0\f0 and that's it.
+\par
+\par \pard However, as the previous diagram demonstrates, white will not play in this way.
+\par }
+#
+(
+1[qp]
+1[rp]
+65[sp]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+1[mr]
+2[nr]
+2[or]
+2[pr]
+66[qr]
+2[ns]
+)
+3
+B[sq]
+W[sr]
+B[rr]
+DIagram 3 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It's usually a typical bad move, but in this case black's clamp at 1 is severe.
+\par
+\par White is left with no possible response.
+\par
+\par White 2 is absolute, and now black simply crosses under leaving white short of eyespace.
+\par
+\par
+\par }
+#
+(
+1[qp]
+1[rp]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+1[mr]
+2[nr]
+2[or]
+2[pr]
+2[ns]
+)
+3
+B[rr]
+W[qr]
+B[sq]
+Diagram 4 (White to Play)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It is not directly related to this problem, but nonetheless if it was white to play, playing the hane and connection to live with 1 and 3 is a good idea.
+\par
+\par White lives perfectly, and black has to defend at 4, meaning white lives in seonsu.
+\par
+\par }
+#
+(
+1[qp]
+1[rp]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[rq]
+1[mr]
+2[nr]
+2[or]
+2[pr]
+2[ns]
+)
+4
+W[sp]
+B[so]
+W[sq]
+B[rn]

@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[bn][cn][dn][eo][bp][cp][dp][ep][aq][bq]AB[bm][cm][dm][en][fn][bo][fo][fp][cq][dq][eq][gq][br]LB[ao:A][co:B]LB[ao:A][co:B]C[Two Vital Points
+
+Black to capture White. Is it possible despite the matbogi (miai) of A and B?
+])
+(;AW[bn][cn][dn][eo][bp][cp][dp][ep][aq][bq]AB[bm][cm][dm][en][fn][bo][fo][fp][cq][dq][eq][gq][br]
+;B[ao]
+;W[an]
+;B[co]LB[ao:1][an:2][co:3]C[Correct
+
+It looks as if A and B were matbogi, but actually there is a small difference between both points. When Black plays at 1, White needs to cut at 2 first, so Black can occupy the second vital point at 3 too.
+
+])
+(;AW[bn][cn][dn][eo][bp][cp][dp][ep][aq][bq]AB[bm][cm][dm][en][fn][bo][fo][fp][cq][dq][eq][gq][br]LB[am:B][ao:A]
+;B[an]
+;W[ao]
+;B[ap]
+;W[co]LB[an:1][ao:2][ap:3][co:4][am:B][ao:A]C[Wrong
+
+
+The hane at 1 doesn't work here because White will throw in at 2 and then make two eyes with the atari at 4. Due to chokchoksu Black can't connect at A, or White would capture at B.
+])
+)

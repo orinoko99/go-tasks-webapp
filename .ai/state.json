@@ -1,0 +1,27 @@
+{
+  "current_task": "Этап 2.1 - Создание database.py",
+  "plan": [
+    "Создать backend/database.py",
+    "Создать тесты для database.py",
+    "Запустить тесты и проверить прохождение",
+    "Исправить проблему с зависимостями (sgflib)"
+  ],
+  "step_index": 4,
+  "mode": "GIT",
+  "status": "done",
+  "attempts": 0,
+  "tests": {
+    "written": true,
+    "last_result": "pass"
+  },
+  "review": {
+    "done": true
+  },
+  "logging": {
+    "bugs_recorded": true,
+    "fixes_recorded": true
+  },
+  "git": {
+    "committed": false
+  }
+}

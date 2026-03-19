@@ -1,0 +1,136 @@
+//19
+4
+Maek (Tesuji) to capture
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black is in danger. He needs a maek (tesuji) to capture some white stones and save his own stones. Where should he play?
+\par }
+#
+(
+2[dn]
+2[bo]
+2[do]
+1[eo]
+1[fo]
+2[cp]
+1[dp]
+2[ep]
+2[ip]
+2[bq]
+1[cq]
+1[dq]
+2[eq]
+2[ar]
+1[br]
+1[dr]
+2[er]
+2[ir]
+1[bs]
+1[cs]
+1[ds]
+)
+0
+Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Attaching at 1 is the correct maek (tesuji). When White pushes out, Black spins around and squeezes White. White can't escape.
+\par }
+#
+(
+2[dn]
+2[bo]
+2[do]
+1[eo]
+1[fo]
+2[cp]
+1[dp]
+2[ep]
+2[ip]
+2[bq]
+1[cq]
+1[dq]
+2[eq]
+2[ar]
+1[br]
+1[dr]
+2[er]
+2[ir]
+1[bs]
+1[cs]
+1[ds]
+)
+7
+B[fr]
+W[fq]
+B[gq]
+W[gr]
+B[es]
+W[fs]
+B[fp]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par This move is too slow. White can easily jump out and escapes.
+\par }
+#
+(
+2[dn]
+2[bo]
+2[do]
+1[eo]
+1[fo]
+2[cp]
+1[dp]
+2[ep]
+2[ip]
+2[bq]
+1[cq]
+1[dq]
+2[eq]
+2[ar]
+1[br]
+1[dr]
+2[er]
+2[ir]
+1[bs]
+1[cs]
+1[ds]
+)
+4
+B[fp]
+W[gq]
+B[fq]
+W[fr]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The knight's at 1 looks also good, but White just fills in liberties and wins the capturing race.
+\par
+\par }
+#
+(
+2[dn]
+2[bo]
+2[do]
+1[eo]
+1[fo]
+2[cp]
+1[dp]
+2[ep]
+2[ip]
+2[bq]
+1[cq]
+1[dq]
+2[eq]
+2[ar]
+1[br]
+1[dr]
+2[er]
+2[ir]
+1[bs]
+1[cs]
+1[ds]
+)
+4
+B[gq]
+W[es]
+B[fp]
+W[aq]

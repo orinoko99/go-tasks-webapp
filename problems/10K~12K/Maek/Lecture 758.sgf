@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[co][fo][ho][cp][ep][hq][iq]AB[cl][cn][dn][cq][dq][fq][gr][hr]LBC[Possible to Cut?
+
+Read carefully and find out whether Black can cut White.
+])
+(;AW[co][fo][ho][cp][ep][hq][iq]AB[cl][cn][dn][cq][dq][fq][gr][hr]
+;B[eo]
+;W[dp]
+;B[fp]LB[eo:1][dp:2][fp:3]C[Correct
+
+Black can cut White with the diagonal choke at 1 which makes matbogi/miai of 2 and 3.
+
+])
+(;AW[co][fo][ho][cp][ep][hq][iq]AB[cl][cn][dn][cq][dq][fq][gr][hr]
+;B[dp]
+;W[do]LB[dp:1][do:2]C[Wrong
+
+Pushing at 1 is crude play and White is relieved to reinforce against his weak points at 2.
+
+])
+)

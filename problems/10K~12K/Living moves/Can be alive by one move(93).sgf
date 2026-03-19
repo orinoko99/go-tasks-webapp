@@ -1,0 +1,67 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[no][oo][po][lp][mp][pp][rp][lq][pq][rq][lr][sr]AB[op][mq][oq][mr][pr][qr][rr]LBC[Can be alive by one move(93)
+
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\lang1042\f0
+Extend eye space? or Play at the vital point?
+])
+(;AW[no][oo][po][lp][mp][pp][rp][lq][pq][rq][lr][sr]AB[op][mq][oq][mr][pr][qr][rr]
+;B[nq]
+;W[rs]
+;B[qs]
+;W[os]LB[nq:1][rs:2][qs:3][os:4]C[Dia.1(It doesn't work)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Defending the weakpoint looks good??
+
+Unfortunately,\cf1\b  it doesn't work.\cf0\b0
+W2 and 4 are good attack so B can't make two eyes.
+
+])
+(;AW[no][oo][po][lp][mp][pp][rp][lq][pq][rq][lr][sr]AB[op][mq][oq][mr][pr][qr][rr]
+;B[nr]
+;W[np]
+;B[os]
+;W[nq]
+;B[ms]LB[nr:1][np:2][os:3][nq:4][ms:5]C[Dia.2(B's wish)
+
+{\colortbl ;\red255\green0\blue0;}
+
+B1 seems to be a strong vital point because B can live easily.
+
+But this result is \cf1\b just B's wish.\cf0\b0
+
+])
+(;AW[no][oo][po][lp][mp][pp][rp][lq][pq][rq][lr][sr]AB[op][mq][oq][mr][nr][pr][qr][rr]
+;W[os]
+;B[ps]
+;W[or]
+;B[ns]
+;W[or]LB[os:1][ps:2][or:3][ns:4][or:5]C[Dia.3(Excellent skill)
+
+
+W1,3 and 5 are excellent sequence to erase B's eye.
+
+])
+(;AW[no][oo][po][lp][mp][pp][rp][lq][pq][rq][lr][sr]AB[op][mq][oq][mr][pr][qr][rr]
+;B[os]
+;W[nq]
+;B[nr]
+;W[np]
+;B[ms]LB[os:1][nq:2][nr:3][np:4][ms:5]C[Dia.4(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Tiger's mouth at 1 is the only way to live.\cf0\b0
+
+W2 and 4 try to erase B's eye but B can make another eye below.
+
+])
+)

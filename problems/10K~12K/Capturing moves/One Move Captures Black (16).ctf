@@ -1,0 +1,182 @@
+//19
+5
+One Move Captures Black (16)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to Play.\b0
+\par Black appears to be perfectly alive.
+\par
+\par However, black is short on liberties!
+\par If you exploit this, you can catch this big group of black's.
+\par }
+#
+(
+2[lo]
+2[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[mq]
+1[nq]
+1[oq]
+1[pq]
+1[rq]
+2[mr]
+1[nr]
+2[or]
+1[qr]
+2[ms]
+1[ns]
+1[os]
+1[ps]
+)
+0
+Diagram 1 (Endgame Moves)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 and 3 are seonsu, but they are only endgame moves.
+\par
+\par If this were a real game, you might have not even noticed you made a mistake.
+\par }
+#
+(
+2[lo]
+2[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[mq]
+1[nq]
+1[oq]
+1[pq]
+1[rq]
+2[mr]
+1[nr]
+2[or]
+1[qr]
+2[ms]
+1[ns]
+1[os]
+1[ps]
+)
+4
+W[sq]
+B[sr]
+W[qq]
+B[rr]
+Diagram 2 (Pik)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is thoughtful. However, though it may be a creative idea, there is no move to capture black.
+\par
+\par Up to 5, black lives in pik.
+\par
+\par }
+#
+(
+2[lo]
+2[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[mq]
+1[nq]
+1[oq]
+1[pq]
+1[rq]
+2[mr]
+1[nr]
+2[or]
+1[qr]
+2[ms]
+1[ns]
+1[os]
+1[ps]
+)
+5
+W[sr]
+B[sq]
+W[rr]
+B[qq]
+W[rs]
+Diagram 3 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's attachment at the 2-2 point is ingenious. If black plays at 2, white slips away with 3.
+\par
+\par If black plays at 4, white plays dansu at 5 and something about black's shape looks wrong...
+\par
+\par \pard\nowidctlpar\qj After black captures white at \b\f1 A\b0\f0  -
+\par }
+#
+(
+2[lo]
+2[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[mq]
+1[nq]
+1[oq]
+1[pq]
+1[rq]
+2[mr]
+1[nr]
+2[or]
+1[qr]
+2[ms]
+1[ns]
+1[os]
+1[ps]
+65[ss]
+)
+5
+W[rr]
+B[sr]
+W[rs]
+B[qs]
+W[qq]
+Diagram 4 (Correct Continuation)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Now, a beginner can solve this problem. White throws-in with 1 and black is dead.
+\par
+\par Black's shortage of liberties was fatal.
+\par }
+#
+(
+2[lo]
+2[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+1[rq]
+2[mr]
+1[nr]
+2[or]
+1[qr]
+1[sr]
+2[ms]
+1[ns]
+1[os]
+1[ps]
+1[qs]
+1[ss]
+)
+1
+W[rr]

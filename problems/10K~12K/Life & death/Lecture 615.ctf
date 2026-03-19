@@ -1,0 +1,73 @@
+//19
+3
+Vital Point first
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black to live.
+\par }
+#
+(
+2[ap]
+2[bp]
+2[cp]
+2[dp]
+2[aq]
+1[bq]
+1[cq]
+2[eq]
+2[gq]
+1[ar]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black 1 occupies the vital point. When White attaches at 2, Black can cut at 3. Don't be afraid of the cut at 4 but read the variation carefully until the end.
+\par
+\par }
+#
+(
+2[ap]
+2[bp]
+2[cp]
+2[dp]
+2[aq]
+1[bq]
+1[cq]
+2[eq]
+2[gq]
+1[ar]
+)
+9
+B[bs]
+W[cr]
+B[dr]
+W[dq]
+B[br]
+W[ds]
+B[er]
+W[fr]
+B[cs]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 First widening the eye space fails here because White will stop Black from making two eyes at 2.
+\par
+\par }
+#
+(
+2[ap]
+2[bp]
+2[cp]
+2[dp]
+2[aq]
+1[bq]
+1[cq]
+2[eq]
+2[gq]
+1[ar]
+)
+6
+B[dr]
+W[bs]
+B[br]
+W[cs]
+B[er]
+W[fr]

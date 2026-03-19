@@ -1,0 +1,173 @@
+//19
+5
+How should Black play?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black's turn
+\par Black 1 is not a common move in handicap games. You should study this move properly.
+\par White will play 2 and 4.
+\par How should Black answer now?\lang1042\f1
+\par
+\par }
+#
+(
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+2[pm]
+2[cn]
+1[dp]
+1[jp]
+1[np]
+1[pp]
+)
+4
+B[gq]
+W[cp]
+B[cq]
+W[dq]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is the correct answer. This is the best move for this situation.
+\par After this-\lang1042\f1
+\par
+\par }
+#
+(
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+2[pm]
+2[cn]
+2[cp]
+1[dp]
+1[jp]
+1[np]
+1[pp]
+1[cq]
+2[dq]
+1[gq]
+)
+1
+B[ep]
+2nd Dia. Joseki
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White will play 1 and 3. Then Black answers 4 and 6. This is a common joseki. It seems Black's \lang1042\f1\'a1\'e3\lang1043\f0  stone is too near but it's not so bad, since it's quite strong.\lang1042\f1
+\par
+\par }
+#
+(
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+2[pm]
+2[cn]
+2[cp]
+1[dp]
+1[ep]
+5[jp]
+1[np]
+1[pp]
+1[cq]
+2[dq]
+1[gq]
+)
+6
+W[bq]
+B[cr]
+W[bo]
+B[br]
+W[ar]
+B[eq]
+3rd Dia. Good for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If White plays 1, Black 2 and 4 are the correct answers. White will then play 5.
+\par Black can play 6 or tenuki is also possible.
+\par This result is good for Black.\lang1042\f1
+\par \cf1\b
+\par \cf0\b0
+\par }
+#
+(
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+2[pm]
+2[cn]
+2[cp]
+1[dp]
+1[ep]
+1[jp]
+1[np]
+1[pp]
+2[bq]
+1[cq]
+2[dq]
+1[gq]
+1[cr]
+)
+8
+W[br]
+B[co]
+W[bp]
+B[dr]
+W[do]
+B[eo]
+W[dn]
+B[nm]
+4th Dia. Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 and 3 are mistake. White will answer with this sequence.
+\par I recommend Black to play the 1st or the 2nd diagrams.\lang1042\f1
+\par
+\par }
+#
+(
+2[nc]
+1[dd]
+1[jd]
+1[pd]
+1[qf]
+1[dj]
+1[jj]
+1[pj]
+2[pm]
+2[cn]
+2[cp]
+1[dp]
+1[jp]
+1[np]
+1[pp]
+1[cq]
+2[dq]
+1[gq]
+)
+8
+B[co]
+W[bp]
+B[eq]
+W[dr]
+B[do]
+W[bo]
+B[cr]
+W[dn]

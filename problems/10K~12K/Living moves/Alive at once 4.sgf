@@ -1,0 +1,55 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pq][qq][rq][sq][or][rs]AB[pp][qp][rp][sp][nq][oq][nr][sr][ns]LBC[Alive at once 4
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 White doesn't look like he's in good shape.
+
+Where's the vital point?  How can White live? Is the best result a pae?  If not, then what?
+
+\lang1042\f0\fs18
+])
+(;AW[pq][qq][rq][sq][or][rs]AB[pp][qp][rp][sp][nq][oq][nr][sr][ns]
+;W[pr]
+;B[os]
+;W[rr]LB[pr:1][os:2][rr:3]C[Dia.1 Alive?
+
+{\colortbl ;\red255\green0\blue0;}
+White connects at 1 and thinks that he is going to live easily.
+
+Black pushes in with 1 and White captures a stone to make an eye with 3.  This way White lives
+
+However this is \cf1\b wishful thinking\cf0\b0  on White's part.  Black isn't going to play like this.
+\lang1042\f1\fs18
+])
+(;AW[pq][qq][rq][sq][or][pr][rs]AB[pp][qp][rp][sp][nq][oq][nr][sr][ns]LB[ps:A]
+;B[rr]
+;W[qr]
+;B[os]LB[rr:1][qr:2][os:3][ps:A]C[Dia.2 Dead
+
+{\colortbl ;\red255\green0\blue0;}
+Black will play at 1 and not the way we saw in the previous diagram to \cf1\b catch White in a shortage of liberties\cf0\b0 .  Next, after White 2 and Black 3, we see White doesn't have the liberties to play at A.
+
+\lang1042\f1\fs18
+])
+(;AW[pq][qq][rq][sq][or][rs]AB[pp][qp][rp][sp][nq][oq][nr][sr][ns]LB[pr:A][rr:B]
+;W[ps]
+;B[os]
+;W[qr]LB[ps:1][os:2][qr:3][pr:A][rr:B]C[Dia.3 Correct / Pae is the best answer
+
+{\colortbl ;\red0\green0\blue255;}
+I guess in the end there is no move that lives unconditionally.  We're lucky to be able to live with a Pae in the first place eh?  White 1 is a \cf1\b tenacious way to play.\cf0\b0   Black will of course dansu at 2 and then White 3 sets up the Pae.  If White plays 3 at A, Black plays at B and White dies.  Confirm this for yourself.
+
+\lang1042\f1\fs18
+])
+(;AW[pq][qq][rq][sq][or][rs]AB[pp][qp][rp][sp][nq][oq][nr][sr][ns]LBC[No diagram name
+
+
+
+])
+)

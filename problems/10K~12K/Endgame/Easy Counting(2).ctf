@@ -1,0 +1,161 @@
+//19
+4
+Easy Counting(2)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play \b0 (or \b White to play\b0 ).
+\par \b
+\par \b0 Let's count how much \b A\b0  is worth?
+\par
+\par
+\par }
+#
+(
+1[ql]
+1[nn]
+2[mo]
+1[no]
+1[po]
+2[lp]
+2[np]
+1[op]
+2[kq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+2[pr]
+1[qr]
+2[rr]
+65[sr]
+2[ps]
+2[qs]
+2[rs]
+)
+0
+Dia. 01 Black's territory doesn't change
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If Black plays at 1, there is no change in his territory.
+\par Black 1 only takes away White's possibility to make points.
+\par
+\par Therefore the \cf1\b counting method is simple\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+1[ql]
+1[nn]
+2[mo]
+1[no]
+1[po]
+2[lp]
+2[np]
+1[op]
+2[kq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+2[pr]
+1[qr]
+2[rr]
+2[ps]
+2[qs]
+2[rs]
+)
+1
+B[sr]
+Dia. 02 Not one Point
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White can make points with 1.
+\par How many points can he make?
+\par
+\par Do you think it is one point? That would be a hasty answer.
+\par
+\par Then 2 points? That is correct.
+\par
+\par
+\par
+\par }
+#
+(
+1[ql]
+1[nn]
+2[mo]
+1[no]
+1[po]
+2[lp]
+2[np]
+1[op]
+2[kq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+2[pr]
+1[qr]
+2[rr]
+2[ps]
+2[qs]
+2[rs]
+)
+1
+W[sr]
+Dia. 03 2 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The value of White \'a1\'e2 stone is 2 points.
+\par There is one point at X and White doesn't have to capture at A either.
+\par So one extra point is added, which means \cf1\b 2 points\cf0\b0 .
+\par
+\par When the value of a move is counted, it is important to pay attention whether a defending move is needed or not.
+\par
+\par
+\par }
+#
+(
+1[ql]
+1[nn]
+2[mo]
+1[no]
+1[po]
+2[lp]
+2[np]
+1[op]
+2[kq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+2[pr]
+1[qr]
+2[rr]
+6[sr]
+65[os]
+2[ps]
+2[qs]
+2[rs]
+691[ss]
+)
+0

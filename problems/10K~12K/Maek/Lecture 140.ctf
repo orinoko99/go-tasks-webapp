@@ -1,0 +1,69 @@
+//19
+3
+Black's maek (tesuji)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Find the best move for Black.
+\par }
+#
+(
+1[cp]
+1[dp]
+1[ep]
+1[fp]
+1[bq]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+2[gq]
+2[br]
+2[fr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Cutting at the opposite side of what you aim for is the correct way. Black would like to capture the corner, and therefore cuts at 1. When White defends at 2, Black captures at 3 in a ladder to gain influence.
+\par }
+#
+(
+1[cp]
+1[dp]
+1[ep]
+1[fp]
+1[bq]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+2[gq]
+2[br]
+2[fr]
+)
+3
+B[gr]
+W[er]
+B[hq]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Just connecting at 1 allows White to reinforce at 2.
+\par }
+#
+(
+1[cp]
+1[dp]
+1[ep]
+1[fp]
+1[bq]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+2[gq]
+2[br]
+2[fr]
+)
+2
+B[bp]
+W[hr]

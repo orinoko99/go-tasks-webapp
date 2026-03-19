@@ -1,0 +1,53 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qk][cl][cm][bn][ao][co][oo][po][qo][ap][cp][qp][rp][sp][bq][cq][qq][cr][qr][sr]AB[cn][dn][do][dp][hp][jp][mp][np][pp][dq][pq][rq][sq][ar][br][dr][pr][rr][bs][ds][ps][qs]LB[cs:A][rs:B]LB[cs:A][rs:B]C[Which side is bigger?(29)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+Which side is bigger, A or B?  This isn't a difficult problem but take your time and be sure you got it right.
+
+Multiple choice:
+\cf1\lang1042\f1\fs18 1)\cf0\lang1033\b\f0\fs16 A \cf2\b0 is bigger.\lang1042\f1\fs18
+\cf1 2)\cf0\lang1033\b\f0\fs16 B \cf2\b0 is bigger.\lang1042\f1\fs18  \cf0
+\cf1 3)\cf2\lang1033\f0\fs16 They're the same size.\cf0\lang1042\f1\fs18
+\cf1
+])
+(;AW[qk][cl][cm][bn][ao][co][oo][po][qo][ap][cp][qp][rp][sp][bq][cq][qq][cr][qr][sr]AB[cn][dn][do][dp][hp][jp][mp][np][pp][dq][pq][rq][sq][ar][br][dr][pr][rr][bs][ds][ps][qs]LB[aq:?][as:?]
+;W[cs]LB[cs:1][aq:?][as:?]C[Dia.1 How big is A?
+
+{\colortbl ;\red0\green0\blue255;}
+White can capture three Black stones worth six points and there are two points from the x marked spots.
+
+This is worth \cf1\lang1042\b\f1\fs18 8\lang1033\f0\fs16  points.
+\cf0\lang1042\b0\f1\fs18
+
+])
+(;AW[qk][cl][cm][bn][ao][co][oo][po][qo][ap][cp][qp][rp][sp][bq][cq][qq][cr][qr][sr]AB[cn][dn][do][dp][hp][jp][mp][np][pp][dq][pq][rq][sq][ar][br][dr][pr][rr][bs][ds][ps][qs]LB[as:?]
+;B[cs]LB[cs:1][as:?]C[Dia.2 9 points in husu
+
+{\colortbl ;\red0\green0\blue255;}
+When Black connects at 1 he gains a point at the x marked spot, so A is worth 1+8 = \cf1\b 9 points in husu.
+\cf0\lang1042\b0\f1\fs18
+
+])
+(;AW[qk][cl][cm][bn][ao][co][oo][po][qo][ap][cp][qp][rp][sp][bq][cq][qq][cr][qr][sr]AB[cn][dn][do][dp][hp][jp][mp][np][pp][dq][pq][rq][sq][ar][br][dr][pr][rr][bs][ds][ps][qs]LB[ss:?]
+;W[rs]LB[rs:1][ss:?]C[Dia.3 How big is B?
+
+{\colortbl ;\red0\green0\blue255;}
+Now let's work on the calculation for B.  White captures with 1, gaining six points for those stones and the territory, plus one more point at the x marked spot, meaning this is worth \cf1\b 7 points.\cf0\b0
+\lang1042\f1\fs18
+
+])
+(;AW[qk][cl][cm][bn][ao][co][oo][po][qo][ap][cp][qp][rp][sp][bq][cq][qq][cr][qr][sr]AB[cn][dn][do][dp][hp][jp][mp][np][pp][dq][pq][rq][sq][ar][br][dr][pr][rr][bs][ds][ps][qs]LB[ss:?]
+;B[rs]LB[rs:1][ss:?]C[Dia.4 How big is B?
+
+{\colortbl ;\red0\green0\blue255;}
+Black connects at 1 and takes a stone, as well as the x marked spot.  This is worth 3 points.
+
+All in all, combined with the previous diagram, B is worth 7+3=\cf1\b 10 points in husu.
+\cf0\lang1042\b0\f1\fs18
+])
+)

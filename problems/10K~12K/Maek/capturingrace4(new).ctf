@@ -1,0 +1,106 @@
+//19
+3
+Three Liberties
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black's two cutting stones have only three liberties. What's Black best way to play?
+\par }
+#
+(
+2[cl]
+2[el]
+1[dm]
+2[bn]
+2[cn]
+1[dn]
+2[en]
+2[fn]
+1[co]
+2[do]
+1[eo]
+1[fo]
+1[cp]
+2[dp]
+1[cq]
+2[dq]
+1[fq]
+2[er]
+1[fr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black should hit the vital point at 1. Even though White can capture this stone with 2, Black will raise the sacrifice at 3 and then cut at 5 to squeeze the white stones. This capturing technique is called "stone pagoda' and makes sure to allow White no more than two liberties to win the capturing race.
+\par
+\par }
+#
+(
+2[cl]
+2[el]
+1[dm]
+2[bn]
+2[cn]
+1[dn]
+2[en]
+2[fn]
+1[co]
+2[do]
+1[eo]
+1[fo]
+1[cp]
+2[dp]
+1[cq]
+2[dq]
+1[fq]
+2[er]
+1[fr]
+)
+13
+B[dr]
+W[cr]
+B[ds]
+W[cs]
+B[eq]
+W[es]
+B[dr]
+W[ds]
+B[ep]
+W[dr]
+B[br]
+W[dl]
+B[bs]
+Failure
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 If Black omits to raise the sacrifice and cuts immediately at 3, he will be in big trouble. Now, White is ahead and wins the capturing race.
+\par
+\par }
+#
+(
+2[cl]
+2[el]
+1[dm]
+2[bn]
+2[cn]
+1[dn]
+2[en]
+2[fn]
+1[co]
+2[do]
+1[eo]
+1[fo]
+1[cp]
+2[dp]
+1[cq]
+2[dq]
+1[fq]
+2[er]
+1[fr]
+)
+8
+B[dr]
+W[cr]
+B[eq]
+W[ds]
+B[ep]
+W[dr]
+B[br]
+W[dl]

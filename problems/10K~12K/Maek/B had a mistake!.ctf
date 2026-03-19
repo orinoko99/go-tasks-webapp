@@ -1,0 +1,162 @@
+//19
+4
+B had a mistake!
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par B had a mistake(\'a1\'e3)then W has a chance to capture B's three stones.
+\par
+\par
+\par }
+#
+(
+2[pn]
+1[mp]
+1[np]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+1[kq]
+1[lq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[kr]
+2[lr]
+2[mr]
+2[or]
+1[pr]
+2[rr]
+5[ls]
+1[ps]
+)
+0
+Dia.1(Self-dansu)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par W1 is a \cf1\b self-dansu \cf0\b0 which to reduce his own liberty.
+\par
+\par Up to 4, B wins the capturing race.
+\par
+\par }
+#
+(
+2[pn]
+1[mp]
+1[np]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+1[kq]
+1[lq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[kr]
+2[lr]
+2[mr]
+2[or]
+1[pr]
+2[rr]
+1[ls]
+1[ps]
+)
+4
+W[ms]
+B[ks]
+W[qr]
+B[os]
+DIa.2(Vital point)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par
+\par How about reduce from outside??
+\par It can't be possible!!
+\par Because B2 is a \cf1\b vital point.\cf0\b0
+\par
+\par W's six stones can't be alive.
+\par
+\par }
+#
+(
+2[pn]
+1[mp]
+1[np]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+1[kq]
+1[lq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[kr]
+2[lr]
+2[mr]
+2[or]
+1[pr]
+2[rr]
+1[ls]
+1[ps]
+)
+4
+W[qr]
+B[ns]
+W[qq]
+B[os]
+DIa.3(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par Making eye at 1 is a good tesuji and is also enemy's \cf1 vital point.\cf0
+\par
+\par B can't play at A.
+\par The result is the \cf1\b\f1 one eye versus no eye.\fs24
+\par \cf0\b0\f0\fs18
+\par
+\par
+\par }
+#
+(
+2[pn]
+1[mp]
+1[np]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+1[kq]
+1[lq]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[kr]
+2[lr]
+2[mr]
+2[or]
+1[pr]
+2[rr]
+1[ls]
+65[os]
+1[ps]
+)
+5
+W[ns]
+B[ks]
+W[qr]
+B[ms]
+W[qq]

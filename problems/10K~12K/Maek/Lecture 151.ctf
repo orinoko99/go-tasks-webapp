@@ -1,0 +1,100 @@
+//19
+3
+How to Win the Capturing Race
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Does Black have any way to win the capturing race? What's his best move?
+\par }
+#
+(
+1[dk]
+1[al]
+1[bl]
+2[am]
+2[bm]
+1[cm]
+1[dm]
+2[an]
+2[cn]
+1[dn]
+2[bo]
+2[co]
+1[do]
+1[bp]
+1[cp]
+2[dp]
+2[fp]
+1[bq]
+2[dq]
+2[br]
+2[cr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Beginning with the sacrifice at 1, a pae (ko) is the best Black can do.
+\par }
+#
+(
+1[dk]
+1[al]
+1[bl]
+2[am]
+2[bm]
+1[cm]
+1[dm]
+2[an]
+2[cn]
+1[dn]
+2[bo]
+2[co]
+1[do]
+1[bp]
+1[cp]
+2[dp]
+2[fp]
+1[bq]
+2[dq]
+2[br]
+2[cr]
+)
+5
+B[ao]
+W[ap]
+B[aq]
+W[ar]
+B[ao]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Descending at 1 first makes also a ko, but Black is the first who needs a ko-threat. This is inferior to the solution.
+\par }
+#
+(
+1[dk]
+1[al]
+1[bl]
+2[am]
+2[bm]
+1[cm]
+1[dm]
+2[an]
+2[cn]
+1[dn]
+2[bo]
+2[co]
+1[do]
+1[bp]
+1[cp]
+2[dp]
+2[fp]
+1[bq]
+2[dq]
+2[br]
+2[cr]
+)
+4
+B[aq]
+W[ar]
+B[ao]
+W[ap]

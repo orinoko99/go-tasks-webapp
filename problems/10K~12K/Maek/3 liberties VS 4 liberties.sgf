@@ -1,0 +1,57 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[on][oo][np][pp][pq][mr][pr][qr]AB[ql][po][qo][op][oq][rq][or][rr]LBC[3 liberties VS 4 liberties
+
+
+\lang1033\f1 It's\b  Black\b0 's turn.\f2
+\lang1042\f0
+B has 3 liberties VS W has 4 liberties
+W must beat this game.
+
+But there are the two way to capture W's four stones!!
+])
+(;AW[on][oo][np][pp][pq][mr][pr][qr]AB[ql][po][qo][op][oq][rq][or][rr]
+;B[qp]
+;W[nq]LB[qp:1][nq:2]C[Dia.1(Less liberties)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Just reduction can't beat the game.
+
+B still has \cf1\b one less liberty. \cf0\b0
+
+])
+(;AW[on][oo][np][pp][pq][mr][pr][qr]AB[ql][po][qo][op][oq][rq][or][rr]
+;B[os]
+;W[nq]
+;B[qs]
+;W[ps]
+;B[qp]LB[os:1][nq:2][qs:3][ps:4][qp:5]C[Dia.2(Right move)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Descent at 1 is a\cf1\b  good move.\cf0\b0
+B's liberties don't increase but B can make W in self-dansu.
+
+Up to 5, B has one more liberty and beats the game.
+
+])
+(;AW[on][oo][np][pp][pq][mr][pr][qr]AB[ql][po][qo][op][oq][rq][or][rr]
+;B[qs]
+;W[os]
+;B[ns]
+;W[ps]
+;B[qp]LB[qs:1][os:2][ns:3][ps:4][qp:5]C[Dia.3(Bending is also ok)
+
+{\colortbl ;\red0\green0\blue255;}
+
+In this case,\cf1\b  bending at 1 is also ok.\cf0\b0
+
+Up to 5, B also has one more liberty and beats the game.
+
+])
+)

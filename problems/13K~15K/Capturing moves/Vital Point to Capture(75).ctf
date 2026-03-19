@@ -1,0 +1,128 @@
+//19
+4
+Where is a vital point?(75)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \f1 It's\b  Black\b0 's turn.\f0
+\par
+\par First move is the key!!
+\par }
+#
+(
+1[qo]
+1[np]
+1[op]
+1[pp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+1[nr]
+2[or]
+1[pr]
+2[rr]
+2[os]
+1[ps]
+)
+0
+Dia.1(Right answer)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Attaching at 2 to 1 point looks normal but is a good move.
+\par
+\par Don't forget to dansu at 3 before make
+\par an empty triangle at W's space.
+\par
+\par
+\par }
+#
+(
+1[qo]
+1[np]
+1[op]
+1[pp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+1[nr]
+2[or]
+1[pr]
+2[rr]
+2[os]
+1[ps]
+)
+5
+B[sr]
+W[sq]
+B[rq]
+W[ss]
+B[qs]
+Dia.2(Enemy's vital point)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par B1 is the same as dame.
+\par It doesn't help at all to reduce W's eye space.
+\par
+\par Descending at 2 is that\cf1\b  the \f1 opponent's vital point is my vital point.\f0
+\par \cf0\b0
+\par
+\par }
+#
+(
+1[qo]
+1[np]
+1[op]
+1[pp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+1[nr]
+2[or]
+1[pr]
+2[rr]
+2[os]
+1[ps]
+)
+2
+B[rq]
+W[sr]
+Dia.3(Another enemy's vital point)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par B1 tries to kill W's group inside.
+\par But W2 is also an\cf1\b  enemy's vital point.\cf0\b0
+\par So W can live and has a lots territory at the corner.
+\par
+\par One more!! Playing at A instead of 2 is also working.
+\par }
+#
+(
+1[qo]
+1[np]
+1[op]
+1[pp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+65[rq]
+1[nr]
+2[or]
+1[pr]
+2[rr]
+2[os]
+1[ps]
+)
+4
+B[qs]
+W[sr]
+B[rs]
+W[qr]

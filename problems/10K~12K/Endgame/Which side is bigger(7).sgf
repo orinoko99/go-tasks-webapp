@@ -1,0 +1,76 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[fo][oo][ep][ip][kp][op][bq][cq][dq][fq][nq][pq][sq][ar][dr][pr][rr][ds][ps][qs]AB[qk][cm][qm][en][pn][eo][ap][bp][cp][dp][pp][qp][rp][sp][qq][br][qr][bs][rs][ss]LB[aq:A][sr:B]LB[aq:A][sr:B]C[Which side is bigger?(7)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Which side is bigger \b A\b0  or \b B\b0 ?
+
+Think about it from both Black and White's perspective to decide which is bigger.  Also calculate how much each side is.\lang1042\f0\fs18
+
+\cf1 1)\cf0\lang1033\b\f1\fs16 A\cf2\b0  is bigger.\lang1042\f0\fs18    \cf1
+2)\cf0\lang1033\b\f1\fs16 B \cf2\b0 is bigger.\lang1042\f0\fs18   \cf0
+\cf1 3)\cf2\lang1033\f1\fs16 They're the same.\lang1042\f0\fs18
+\cf0
+
+])
+(;CR[br][bs]AW[fo][oo][ep][ip][kp][op][bq][cq][dq][fq][nq][pq][sq][ar][dr][pr][rr][ds][ps][qs]AB[qk][cm][qm][en][pn][eo][ap][bp][cp][dp][pp][qp][rp][sp][qq][br][qr][bs][rs][ss]
+;W[aq]LB[aq:1]CR[br][bs]C[Dia.1 How big is A?
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Let's start with the left side \lang1042\f0\fs18 (\lang1033\b\f1\fs16 A\lang1042\b0\f0\fs18 )\lang1033\f1\fs16  and see how big it is.
+
+White connects at 1 and automatically captures the two\lang1042\f0\fs18  \'a1\'e3\lang1033\f1\fs16  marked stones, getting 7 points.  White gets 5 points of territory and 2 stones, so all in all \cf1\b 7 points of territory\cf0\lang1042\b0\f0\fs18 .
+
+
+])
+(;AW[fo][oo][ep][ip][kp][op][bq][cq][dq][fq][nq][pq][sq][ar][dr][pr][rr][ds][ps][qs]AB[qk][cm][qm][en][pn][eo][ap][bp][cp][dp][pp][qp][rp][sp][qq][br][qr][bs][rs][ss]
+;B[aq]LB[aq:1]C[Dia.2 Worth 8 points
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Now let's look at things from Black's perspective.  Black can cut with 1 to take a single stone but not make any territory.  Black \lang1042\f0\fs18
+\cf1\lang1033\b\f1\fs16 gets 1 point.  \lang1042\f0\fs18\'c0\'c7 \'c1\'f5\'b0\'a1\'ba\'d0\'c0\'ba 1\'c1\'fd\cf0\b0\'c0\'d4\'b4\'cf\'b4\'d9.
+
+\lang1033\f1\fs16 Altogether:\lang1042\f0\fs18
+7+1=\cf1\b 8\lang1033\f1\fs16  points\cf0\lang1042\b0\f0\fs18 .
+\lang1033\b\f1\fs16 The left side,\lang1042\b0\f0\fs18  \lang1033\b\f1\fs16 A\b0  is worth \cf1\b 8 points in husu\cf0\lang1042\b0\f0\fs18 .
+
+
+
+])
+(;AW[fo][oo][ep][ip][kp][op][bq][cq][dq][fq][nq][pq][sq][ar][dr][pr][rr][ds][ps][qs]AB[qk][cm][qm][en][pn][eo][ap][bp][cp][dp][pp][qp][rp][sp][qq][br][qr][bs][rs][ss]LB[rq:A]
+;W[sr]LB[sr:1][rq:A]C[Dia.3 How big is B?
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Let's calculate the right side now \lang1042\f0\fs18 (\lang1033\b\f1\fs16 B\lang1042\b0\f0\fs18 )\lang1033\f1\fs16 .
+
+White plays 1 and captures two stones and gets 1 point of territory because Black can play A in seonsu.
+\lang1042\f0\fs18
+\lang1033\f1\fs16 White gets \cf1\b 3 points\cf0\lang1042\b0\f0\fs18 .
+])
+(;CR[rs][ss]AW[fo][oo][ep][ip][kp][op][bq][cq][dq][fq][nq][pq][sq][ar][dr][pr][rr][ds][ps][qs]AB[qk][cm][qm][en][pn][eo][ap][bp][cp][dp][pp][qp][rp][sp][qq][br][qr][bs][rs][ss]LB[sr:A]
+;B[rq]LB[rq:1][sr:A]CR[rs][ss]C[Dia.4 8 points in husu
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Black plays 1 and saves his two stones and captures some of Whites.  If White captures at A then Black will throw in and capture White.
+
+That means Black has gained a point at A so all in all 5 points.\lang1042\f0\fs18
+\lang1033\b\f1\fs16 The right side, B, \b0 is worth \lang1042\f0\fs18 3+5=\cf1\b 8\lang1033\f1\fs16  points\cf0\lang1042\b0\f0\fs18 .
+
+\lang1033\b\f1\fs16 A \b0 is worth as much as \b B\lang1042\b0\f0\fs18
+
+])
+(;AW[fo][oo][ep][ip][kp][op][bq][cq][dq][fq][nq][pq][sq][ar][dr][pr][rr][ds][ps][qs]AB[qk][cm][qm][en][pn][eo][ap][bp][cp][dp][pp][qp][rp][sp][qq][br][qr][bs][rs][ss]LBC[No diagram name
+
+
+
+])
+)

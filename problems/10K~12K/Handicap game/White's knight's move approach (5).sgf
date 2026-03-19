@@ -1,0 +1,74 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AB[dd][jd][pd][dj][jj][pj][dp][jp][pp]
+;W[qf]
+;B[pf]
+;W[pg]
+;B[of]
+;W[og]LB[qf:1][pf:2][pg:3][of:4][og:5]C[White's Approach(5)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+It's \cf1\b Black\cf0\b0 's turn.
+
+\cf2\b W5 \cf0\b0 is a purpose to text a weak player's strength. In this case, Black's at a crossroads.
+
+Should Black fight against White's provocation, or make a side-step?
+])
+(;AW[qf][og][pg]AB[dd][jd][pd][of][pf][dj][jj][pj][dp][jp][pp]
+;B[qe]
+;W[qg]
+;B[nf]
+;W[ni]
+;B[qn]LB[qe:1][qg:2][nf:3][ni:4][qn:5]C[Dia1(Solution)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b B1\cf0\b0 , preventing its vital point, is an easy and flawless answer.
+If White connects with 2, \cf1\b B3\cf0\b0 .
+
+Going out and this is enough. White's 4 stones are in Black's aim.
+
+If White goes toward the center with 4, Black defends the corner with 5 there's no worry in it.
+])
+(;AW[qf][og][pg]AB[dd][jd][pd][of][pf][dj][jj][pj][dp][jp][pp]
+;B[qe]
+;W[nf]
+;B[ng]LB[qe:1][nf:2][ng:3]C[Dia2(Black's resistance)
+
+{\colortbl ;\red0\green0\blue255;}
+
+When 1, White might make such an aggressive move with strong player's pride.
+Even if it is painful, Black has a severe counterattack, which is \cf1\b B3\cf0\b0 .
+
+Black excels White outside, so It is suitable for Black to make a fight.
+White would regret for trying to provoke Black now.
+
+])
+(;CR[qf][og][pg]AW[nf][qf][og][pg]AB[dd][jd][pd][qe][of][pf][ng][dj][jj][pj][dp][jp][pp]
+;W[mf]
+;B[nh]LB[mf:1][nh:2]CR[qf][og][pg]C[Dia3(Overplay move)
+
+
+After 1, Black extends with 2.
+
+This looks painful for White.
+The 3 stones on the right are unable to escape.
+Black punishes White's overplay very well.
+])
+(;CR[og]AW[qf][og][pg]AB[dd][jd][pd][of][pf][dj][jj][pj][dp][jp][pp]LB[ng:A]
+;B[nf]
+;W[qe]
+;B[qd]LB[nf:1][qe:2][qd:3][ng:A]CR[og]C[Dia4(B1, Slack move)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b B1 \cf0\b0 is too generous. After the exchange 2 and 3, you can feel the difference.
+
+If White first makes 2 and \'a1\'e2, Black would strike White's 2 stones' head with A.
+])
+)

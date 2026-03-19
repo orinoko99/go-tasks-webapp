@@ -1,0 +1,189 @@
+//19
+5
+Three Moves in the Corner
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 .
+\par It is a capturing race between White's six stones in the corner and Black's three stones on the left.
+\par
+\par It looks difficult for Black, but if Black can find the maek to reduce White's liberties in the corner, he can win.
+\par
+\par
+\par }
+#
+(
+1[ql]
+1[qn]
+1[po]
+2[mp]
+2[op]
+1[pp]
+2[kq]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[sq]
+1[nr]
+1[or]
+2[pr]
+2[qr]
+1[ps]
+2[rs]
+2[ss]
+)
+0
+Dia. 01 Eye vs. no eye
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's hane at 1 \cf1\b misses the good chance\cf0\b0 .
+\par White blocks at 2 and wins the capturing race.
+\par It became\cf2\b  eye vs. no eye\cf0\b0  situation.
+\par Moreover Black 3 becomes gote.
+\par
+\par
+\par }
+#
+(
+1[ql]
+1[qn]
+1[po]
+2[mp]
+2[op]
+1[pp]
+2[kq]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[sq]
+1[nr]
+1[or]
+2[pr]
+2[qr]
+1[ps]
+2[rs]
+2[ss]
+)
+3
+B[rp]
+W[mr]
+B[sp]
+Dia. 02 Not Enough Liberties
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black 1 looks slightly better, but White 2 is the vital point of this capturing race.
+\par
+\par After the sequence from 3 to 6, Black doesn't have enough liberties and it is eye vs. no eye situation again.
+\par
+\par }
+#
+(
+1[ql]
+1[qn]
+1[po]
+2[mp]
+2[op]
+1[pp]
+2[kq]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[sq]
+1[nr]
+1[or]
+2[pr]
+2[qr]
+1[ps]
+2[rs]
+2[ss]
+)
+6
+B[os]
+W[rr]
+B[rp]
+W[mr]
+B[sp]
+W[nq]
+Dia. 03 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's \cf1\b throw-in\cf0\b0  at 1 is the move to reduce White's liberties.
+\par
+\par \cf1\b The opponent's vital point is my vital point\cf0\b0  proverb is very useful again.
+\par
+\par After White 2, Black plays at 3 and White has only three liberties left, so White is one move behind.
+\par }
+#
+(
+1[ql]
+1[qn]
+1[po]
+2[mp]
+2[op]
+1[pp]
+2[kq]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[sq]
+1[nr]
+1[or]
+2[pr]
+2[qr]
+1[ps]
+2[rs]
+2[ss]
+)
+5
+B[rr]
+W[sr]
+B[os]
+W[qs]
+B[rp]
+Dia. 04 Variation
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 doesn't help. Black plays dansu at 2 and White is \cf1\b short of liberties\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+1[ql]
+1[qn]
+1[po]
+2[mp]
+2[op]
+1[pp]
+2[kq]
+2[mq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[sq]
+1[nr]
+1[or]
+2[pr]
+2[qr]
+2[sr]
+1[os]
+1[ps]
+2[rs]
+2[ss]
+)
+4
+W[rp]
+B[qs]
+W[rr]
+B[ro]

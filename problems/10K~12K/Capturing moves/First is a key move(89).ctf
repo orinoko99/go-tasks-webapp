@@ -1,0 +1,150 @@
+//19
+4
+First is a key move(90)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+\par
+\par This problem is easy one!!
+\par }
+#
+(
+1[lo]
+1[no]
+1[oo]
+1[po]
+1[qo]
+1[ro]
+2[op]
+2[pp]
+2[qp]
+1[nq]
+2[oq]
+2[qq]
+2[rq]
+2[sq]
+1[mr]
+1[or]
+2[pr]
+1[qr]
+1[rr]
+1[os]
+2[ps]
+)
+0
+Dia.1(Beginner?)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Playing at 1 usually play by beginners!!
+\par \cf1\b
+\par W can live easily(W2)\cf0\b0 .
+\par
+\par }
+#
+(
+1[lo]
+1[no]
+1[oo]
+1[po]
+1[qo]
+1[ro]
+2[op]
+2[pp]
+2[qp]
+1[nq]
+2[oq]
+2[qq]
+2[rq]
+2[sq]
+1[mr]
+1[or]
+2[pr]
+1[qr]
+1[rr]
+1[os]
+2[ps]
+)
+2
+B[sr]
+W[qs]
+Dia.2(The life of illegal move)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B must dansu at 1 first and W should connect at 2.
+\par
+\par After 2 is important!!
+\par B3 is a thank you move because up to 6, B can't make the flower five it's \cf1\b illegal point. \cf0\b0
+\par
+\par }
+#
+(
+1[lo]
+1[no]
+1[oo]
+1[po]
+1[qo]
+1[ro]
+2[op]
+2[pp]
+2[qp]
+1[nq]
+2[oq]
+2[qq]
+2[rq]
+2[sq]
+1[mr]
+1[or]
+2[pr]
+1[qr]
+1[rr]
+1[os]
+2[ps]
+)
+6
+B[qs]
+W[pq]
+B[np]
+W[rs]
+B[ss]
+W[sr]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \cf1\b 'The enemy's vital point is your own'\cf0\b0
+\par Making \cf1\b the fool four space\cf0\b0  is a good move(B3).
+\par
+\par W's eye spaces can't be alive.
+\par
+\par
+\par }
+#
+(
+1[lo]
+1[no]
+1[oo]
+1[po]
+1[qo]
+1[ro]
+2[op]
+2[pp]
+2[qp]
+1[nq]
+2[oq]
+2[qq]
+2[rq]
+2[sq]
+1[mr]
+1[or]
+2[pr]
+1[qr]
+1[rr]
+1[os]
+2[ps]
+)
+3
+B[qs]
+W[pq]
+B[rs]

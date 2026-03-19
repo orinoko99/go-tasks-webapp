@@ -1,0 +1,125 @@
+//19
+4
+Capturing Move
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black needs a clever move to capture the white cutting stone. Where should he play?
+\par }
+#
+(
+2[cn]
+1[bo]
+1[co]
+2[bp]
+1[cp]
+1[dp]
+1[ep]
+2[fp]
+1[hp]
+2[bq]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+2[hq]
+2[iq]
+2[er]
+1[fr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The diagonal move at 1 creates a net that White can't escape from. Even if he tries to go out, Black will block and capture.
+\par }
+#
+(
+2[cn]
+1[bo]
+1[co]
+2[bp]
+1[cp]
+1[dp]
+1[ep]
+2[fp]
+1[hp]
+2[bq]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+2[hq]
+2[iq]
+2[er]
+1[fr]
+)
+9
+B[go]
+W[fo]
+B[fn]
+W[eo]
+B[en]
+W[dn]
+B[do]
+W[gq]
+B[gp]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Oh, no! Don't play atari thoughtlessly. Like this, White can capture two stones and connect his own stones.
+\par }
+#
+(
+2[cn]
+1[bo]
+1[co]
+2[bp]
+1[cp]
+1[dp]
+1[ep]
+2[fp]
+1[hp]
+2[bq]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+2[hq]
+2[iq]
+2[er]
+1[fr]
+)
+4
+B[fo]
+W[gp]
+B[go]
+W[gq]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Again, the atari won't do it here. Even if Black tries to continue his attack with a nose attachment, White will slip away.
+\par }
+#
+(
+2[cn]
+1[bo]
+1[co]
+2[bp]
+1[cp]
+1[dp]
+1[ep]
+2[fp]
+1[hp]
+2[bq]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+2[hq]
+2[iq]
+2[er]
+1[fr]
+)
+4
+B[gp]
+W[fo]
+B[fn]
+W[go]

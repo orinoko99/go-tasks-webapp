@@ -1,0 +1,113 @@
+//19
+4
+Easy Counting(19)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 (or \b Black to play\b0 ).
+\par If White plays at A, he lives with two eyes. What is the value of this move?
+\par
+\par Of course it has to be compared with the case if Black plays at A.
+\par
+\par }
+#
+(
+1[qm]
+1[qp]
+1[rp]
+1[sp]
+1[oq]
+1[pq]
+1[or]
+2[pr]
+2[qr]
+2[rr]
+2[sr]
+1[os]
+2[ps]
+65[rs]
+)
+0
+Dia. 01 If White Plays
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White plays at 1 and\cf1\b  lives with two points\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+1[qm]
+1[qp]
+1[rp]
+1[sp]
+1[oq]
+1[pq]
+1[or]
+2[pr]
+2[qr]
+2[rr]
+2[sr]
+1[os]
+2[ps]
+)
+1
+W[rs]
+Dia. 02 If Black Plays
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black would start with 1 as well. This case White \'a1\'e2 stones are dead.
+\par
+\par Black captured 5 stones which means 10 points plus 5 other points which means all together \cf1\b 15 points\cf0\b0 .
+\par
+\par
+\par
+\par
+\par
+\par }
+#
+(
+1[qm]
+1[qp]
+1[rp]
+1[sp]
+1[oq]
+1[pq]
+1[or]
+6[pr]
+6[qr]
+6[rr]
+6[sr]
+1[os]
+6[ps]
+)
+1
+B[rs]
+Dia. 03 Value of A?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par After counting it is 2+15=\cf1\b 17 points\cf0\b0 .
+\par
+\par A is the move for both players which is worth \cf2\b gote 17 points\cf0\b0 .
+\par
+\par }
+#
+(
+1[qm]
+1[qp]
+1[rp]
+1[sp]
+1[oq]
+1[pq]
+1[or]
+2[pr]
+2[qr]
+2[rr]
+2[sr]
+1[os]
+2[ps]
+65[rs]
+)
+0

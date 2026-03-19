@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[ns]AW[pp][qp][rp][oq][sq][or][rr]AB[no][po][qo][ro][so][op][sp][nq][nr][ns]LBCR[ns]C[First is a key move(100)
+
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\lang1042\f0
+B\'a1\'e3 will help you!!
+])
+(;AW[pp][qp][rp][oq][sq][or][rr]AB[no][po][qo][ro][so][op][sp][nq][nr][ns]LB[pr:A]
+;B[os]
+;W[qr]LB[os:1][qr:2][pr:A]C[Dia.1(In the actual game)
+
+{\colortbl ;\red255\green0\blue0;}
+
+\cf1\b In the actual game,\cf0\b0  you might play at 1.
+Then W can be alive easily.
+(Playing at A is also possible.)
+
+])
+(;CR[oq][or]AW[pp][qp][rp][oq][sq][or][rr]AB[no][po][qo][ro][so][op][sp][nq][nr][ns]LB[pq:A][qq:B][pr:A]
+;B[pr]
+;W[qr]LB[pr:1][qr:2][pq:A][qq:B][pr:A]CR[oq][or]C[Dia.2(can capture just two stones)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Attaching at 1 is better than before but W2 is also good move.
+
+Up to 2,\cf1\b  B can capture just two stones(\'a1\'e2)\cf0\b0
+
+])
+(;CR[ns]AW[pp][qp][rp][oq][sq][or][rr]AB[no][po][qo][ro][so][op][sp][nq][nr][ns]LB[ps:A]
+;B[qr]
+;W[qs]
+;B[pr]LB[qr:1][qs:2][pr:3][ps:A]CR[ns]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Attaching at 1 is the vital point which \cf1\b in the middle of three stones.\cf0\b0
+
+W can't cut one stone.
+B\'a1\'e3 helps connect!!
+
+])
+)

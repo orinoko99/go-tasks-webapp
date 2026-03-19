@@ -1,0 +1,307 @@
+//19
+5
+Which one is Bigger?(2)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Which is bigger White \b A\b0  or \b B\b0 ?
+\par
+\par \cf1 1)\cf0\b A \cf2\b0 is bigger  \cf1
+\par 2)\cf0\b B \cf2\b0 is bigger \cf0
+\par \cf1 3)\cf2 Same
+\par \cf0
+\par
+\par }
+#
+(
+2[cl]
+2[ql]
+2[bo]
+2[co]
+2[do]
+2[eo]
+1[fo]
+1[no]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[cp]
+1[dp]
+1[ep]
+1[fp]
+1[np]
+1[op]
+1[pp]
+2[qp]
+1[rp]
+66[sp]
+2[bq]
+1[cq]
+1[dq]
+1[jq]
+1[pq]
+2[qq]
+1[rq]
+1[sq]
+2[ar]
+1[br]
+2[cr]
+2[dr]
+1[er]
+1[or]
+1[qr]
+2[rr]
+2[sr]
+65[bs]
+2[ds]
+1[es]
+1[ps]
+1[rs]
+)
+0
+Dia. 01 The Value of A
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Let's count the value of \b A\b0  first.
+\par
+\par If White captures with 1, he gets \cf1\b 5 points\cf0\b0  (1 captured stone plus 4 points)
+\par
+\par Nobody should forget that X becomes a point after capturing the one stone.
+\par
+\par
+\par
+\par }
+#
+(
+2[cl]
+2[ql]
+2[bo]
+2[co]
+2[do]
+2[eo]
+1[fo]
+1[no]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[cp]
+1[dp]
+1[ep]
+1[fp]
+1[np]
+1[op]
+1[pp]
+2[qp]
+1[rp]
+691[aq]
+2[bq]
+1[cq]
+1[dq]
+1[jq]
+1[pq]
+2[qq]
+1[rq]
+1[sq]
+2[ar]
+1[br]
+2[cr]
+2[dr]
+1[er]
+1[or]
+1[qr]
+2[rr]
+2[sr]
+2[ds]
+1[es]
+1[ps]
+1[rs]
+)
+1
+W[bs]
+Dia. 02 11 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If Black descends at 1, he captures White's three stones.
+\par Later Black has to take with A, so he gets \cf1\b 6 points\cf0\b0 .
+\par
+\par Therefore the value of \b A\b0  in the \b main diagram\b0  is 5+6=\cf1\b 11points\cf0\b0  (\cf1\b gote\cf0\b0 ).
+\par \b
+\par \b0
+\par
+\par }
+#
+(
+2[cl]
+2[ql]
+2[bo]
+2[co]
+2[do]
+2[eo]
+1[fo]
+1[no]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[cp]
+1[dp]
+1[ep]
+1[fp]
+1[np]
+1[op]
+1[pp]
+2[qp]
+1[rp]
+2[bq]
+1[cq]
+1[dq]
+1[jq]
+1[pq]
+2[qq]
+1[rq]
+1[sq]
+2[ar]
+1[br]
+2[cr]
+2[dr]
+1[er]
+1[or]
+1[qr]
+2[rr]
+2[sr]
+65[cs]
+2[ds]
+1[es]
+1[ps]
+1[rs]
+)
+1
+B[bs]
+Dia. 03 The Value of B
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If it is White's turn, he captures the Black three stones with 1(B).
+\par
+\par White's territory has increased by \cf1\b 6 points\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+2[cl]
+2[ql]
+2[bo]
+2[co]
+2[do]
+2[eo]
+1[fo]
+1[no]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[cp]
+1[dp]
+1[ep]
+1[fp]
+1[np]
+1[op]
+1[pp]
+2[qp]
+1[rp]
+2[bq]
+1[cq]
+1[dq]
+1[jq]
+1[pq]
+2[qq]
+1[rq]
+1[sq]
+2[ar]
+1[br]
+2[cr]
+2[dr]
+1[er]
+1[or]
+1[qr]
+2[rr]
+2[sr]
+2[ds]
+1[es]
+1[ps]
+1[rs]
+)
+1
+W[sp]
+Dia. 04 Again Gote 11 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If it is Black's turn he captures White's two stones which means 5 points for Black.
+\par Don't forget the point at X.
+\par
+\par Therefore \b B\b0  on the \b main diagram\b0  is worth 6+5=\cf1\b 11points\cf0\b0 .
+\par
+\par It is gote 11 points again.
+\par
+\par \b A \b0 and \b B\b0  have same value.
+\par The correct answer is \cf2 3)\cf0 .
+\par }
+#
+(
+2[cl]
+2[ql]
+2[bo]
+2[co]
+2[do]
+2[eo]
+1[fo]
+1[no]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[cp]
+1[dp]
+1[ep]
+1[fp]
+1[np]
+1[op]
+1[pp]
+2[qp]
+1[rp]
+2[bq]
+1[cq]
+1[dq]
+1[jq]
+1[pq]
+2[qq]
+1[rq]
+1[sq]
+2[ar]
+1[br]
+2[cr]
+2[dr]
+1[er]
+1[or]
+1[qr]
+2[rr]
+2[sr]
+2[ds]
+1[es]
+1[ps]
+691[qs]
+1[rs]
+)
+1
+B[ss]

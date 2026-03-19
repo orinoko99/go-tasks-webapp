@@ -1,0 +1,58 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[lq]AW[nq]AB[pp][lq]
+;W[lp]
+;B[kp]
+;W[mp]LB[lp:1][kp:2][mp:3]CR[lq]C[Star-point Joseki
+
+Black's turn\b0
+When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  White will answer 1, Black plays 2 then White 3.
+How should Black play now? There are more than one option.\lang1042\f1
+
+])
+(;AW[lp][mp][nq]AB[kp][pp][lq]LB[jq:?]
+;B[jq]
+;W[pn]
+;B[on]LB[jq:1][pn:2][on:3][jq:?]C[1st Dia. Option
+
+Black 1 is a standart move. White will answer 2 then Black 3 is the correct answer.
+After this-\lang1042\f1
+
+
+])
+(;AW[pn][lp][mp][nq]AB[on][kp][pp][jq][lq]LB[pm:C][qp:B][pq:A]
+;W[om]
+;B[oo]
+;W[qq]LB[om:1][oo:2][qq:3][pm:C][qp:B][pq:A]C[2nd Dia. Continuation
+
+White will play 1 and 3. Now Black has 3 options. A,B and C\lang1042\f1
+
+])
+(;CR[lp][mp][nq]AW[om][pn][lp][mp][nq][qq]AB[on][oo][kp][pp][jq][lq]LB[kn:B][lo:A]
+;B[pq]
+;W[qp]
+;B[po]
+;W[qo]
+;B[nm]
+;W[pm]
+;B[mn]LB[pq:1][qp:2][po:3][qo:4][nm:5][pm:6][mn:7][kn:B][lo:A]CR[lp][mp][nq]C[3rd Dia. Continuation
+
+If Black plays 1 White will answer 2. Then Black plays 3 to 7. This is a joseki and White's \lang1042\f1\'a1\'e2\lang1043\f0  stones are dead now.
+If White plays A Black will answer B.\lang1042\f1
+
+])
+(;AW[om][pn][qo][lp][mp][qp][nq][qq]AB[on][oo][po][kp][pp][jq][lq][pq]
+;B[pm]
+;W[qn]
+;B[nm]
+;W[ol]
+;B[mn]LB[pm:1][qn:2][nm:3][ol:4][mn:5]C[4th Dia. Mistake
+
+Black 1 and 3 are mistakes. White has a very big territory now. Black should have played 3 instead of 1.\lang1042\f1
+
+])
+)

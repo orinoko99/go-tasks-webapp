@@ -1,0 +1,70 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[eb]AW[eb][nc][jn][fp][mp][fq]AB[dd][jd][pd][cf][qf][dj][jj][pj][dn][pn][dp][jp][pp][eq]LB[db:A]LB[db:A]CR[eb]C[Improve your rank
+
+Black's turn\b0
+When White plays \lang1042\f1\'a1\'e2\lang1043\f0 . How should Black answer?
+In the previous problem Black played A. It wasn't good for Black. Let's think about a different option.\lang1042\f1
+
+])
+(;AW[eb][nc][jn][fp][mp][fq]AB[dd][jd][pd][cf][qf][dj][jj][pj][dn][pn][dp][jp][pp][eq]
+;B[db]
+;W[de]
+;B[ce]
+;W[dc]
+;B[ec]LB[db:1][de:2][ce:3][dc:4][ec:5]C[1st Dia. Black 5 is important
+
+Black will play 1 and 3. White will play 4.
+Now Black 5 is an important move. You should memorize it.
+After this-\lang1042\f1
+
+])
+(;AW[eb][dc][nc][de][jn][fp][mp][fq]AB[db][ec][dd][jd][pd][ce][cf][qf][dj][jj][pj][dn][pn][dp][jp][pp][eq]
+;W[cc]
+;B[ed]
+;W[cb]
+;B[fb]
+;W[da]
+;B[gc]LB[cc:1][ed:2][cb:3][fb:4][da:5][gc:6]C[2nd Dia. Continuation
+
+White has to play 1. Black will play 2, White 3 and Black plays 4 and 6.
+It's a bit complicated but please memorize it.
+White took the corner but Black's influence towards the center is very strong. This result is good for Black.\lang1042\f1
+
+])
+(;CR[cc][dc][ed]AW[eb][cc][dc][nc][de][jn][fp][mp][fq]AB[db][ec][dd][ed][jd][pd][ce][cf][qf][dj][jj][pj][dn][pn][dp][jp][pp][eq]
+;W[fb]
+;B[cb]
+;W[bc]
+;B[bb]LB[fb:1][cb:2][bc:3][bb:4]CR[cc][dc][ed]C[3rd Dia. White 1 is an overplay
+
+When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  White 1 is an overplay. Black has 4 liberties and White has 3. Black wins this capturing race.\lang1042\f1
+
+])
+(;AW[eb][nc][jn][fp][mp][fq]AB[dd][jd][pd][cf][qf][dj][jj][pj][dn][pn][dp][jp][pp][eq]
+;B[db]
+;W[de]
+;B[ee]LB[db:1][de:2][ee:3]C[4th Dia. Black 3 is the strongest answer
+
+When White plays 2, Black 3 is the strongest answer. Sometimes this move is good. If Black plays as in the second diagram it's bad for Black. The situation will get confusing.\lang1042\f1
+
+])
+(;AW[eb][nc][de][jn][fp][mp][fq]AB[db][dd][jd][pd][ee][cf][qf][dj][jj][pj][dn][pn][dp][jp][pp][eq]
+;W[dc]
+;B[cc]
+;W[ec]
+;B[cb]
+;W[ed]
+;B[cd]
+;W[fe]
+;B[ef]LB[dc:1][cc:2][ec:3][cb:4][ed:5][cd:6][fe:7][ef:8]C[5th Dia. Black's success
+
+White will play 1. Then Black plays 2 and 4. White has to play 5 and 7.
+White's still weak. Black has a good territory. This result is a success for Black.\lang1042\f1
+
+])
+)

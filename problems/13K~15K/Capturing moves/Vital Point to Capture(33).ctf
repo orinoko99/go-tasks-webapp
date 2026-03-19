@@ -1,0 +1,131 @@
+//19
+4
+Vital Point to Capture?(33)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Black has surrounded the White \'a1\'e2 stone and secured a living space.
+\par
+\par However Black has a weakness, he has no outside liberties.
+\par
+\par
+\par }
+#
+(
+2[ro]
+2[so]
+2[op]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+6[sq]
+2[or]
+1[pr]
+2[os]
+2[ps]
+1[qs]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a \cf1\b severe attack\cf0\b0 .
+\par After Black takes wih 2 White plays dansu at 3 and Black can't live anymore. Black can't play at A because of shortage of liberties.
+\par
+\par
+\par }
+#
+(
+2[ro]
+2[so]
+2[op]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[sq]
+2[or]
+1[pr]
+65[qr]
+2[os]
+2[ps]
+1[qs]
+)
+3
+W[rr]
+B[sr]
+W[rs]
+Dia. 02 Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White might attack carelessly with 1. If it is so, Black can \cf1\b resist and make a pae\cf0\b0  with 2.
+\par
+\par
+\par
+\par
+\par
+\par }
+#
+(
+2[ro]
+2[so]
+2[op]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[sq]
+2[or]
+1[pr]
+2[os]
+2[ps]
+1[qs]
+)
+2
+W[rs]
+B[rr]
+Dia. 03 Black Lives
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a bad way to attack.
+\par
+\par Black plays at 2 and lives easily.
+\par }
+#
+(
+2[ro]
+2[so]
+2[op]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[sq]
+2[or]
+1[pr]
+2[os]
+2[ps]
+1[qs]
+)
+2
+W[sr]
+B[rr]

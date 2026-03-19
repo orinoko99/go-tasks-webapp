@@ -1,0 +1,46 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qk][on][pn][po][pp][qp][rp][sp][qr][rr][qs]AB[oo][lp][op][kq][oq][pq][qq][rq][or][os]LB[sq:‚]LB[sq:‚]C[Easy Counting(20)
+
+
+\b White to play\b0 (or \b Black to play\b0 ).
+
+It makes a huge difference in points either White plays at \b A\b0  or Black plays at \b A\b0 .
+
+What is the value of \b A\b0 ?
+
+
+])
+(;AW[qk][on][pn][po][pp][qp][rp][sp][qr][rr][qs]AB[oo][lp][op][kq][oq][pq][qq][rq][or][os]LB[sr:?][rs:?][ss:?]
+;W[sq]LB[sq:1][sr:?][rs:?][ss:?]C[Dia. 01 If White Plays
+
+{\colortbl ;\red0\green0\blue255;}
+
+White plays at 1 and he makes \cf1\b 3 points \cf0\b0 (Xs).
+\cf1\b
+\cf0\b0
+])
+(;CR[qr][rr][qs]AW[qk][on][pn][po][pp][qp][rp][sp][qr][rr][qs]AB[oo][lp][op][kq][oq][pq][qq][rq][or][os]
+;B[sq]LB[sq:1]CR[qr][rr][qs]C[Dia. 02 If Black Plays
+
+{\colortbl ;\red0\green0\blue255;}
+
+If Black plays at 1 he captures the White three \'a1\'e2 stones.
+
+Black captures three stones which means 6 points plus 5 other points, which makes all together \cf1\b 11 points\cf0\b0 .
+
+
+])
+(;AW[qk][on][pn][po][pp][qp][rp][sp][qr][rr][qs]AB[oo][lp][op][kq][oq][pq][qq][rq][or][os]LB[sq:A]LB[sq:A]C[Dia. 03 Value of A?
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+After counting it is 3+11=\cf1\b 14 points\cf0\b0 .
+
+A is the move for both players which is worth \cf2\b gote 14 points\cf0\b0 .
+])
+)

@@ -1,0 +1,98 @@
+//19
+3
+Best Endgame Move
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The game is almost finished. Where should Black play?
+\par }
+#
+(
+2[bm]
+2[an]
+1[ao]
+2[bo]
+2[co]
+1[ap]
+1[bp]
+2[dp]
+2[ep]
+2[fp]
+1[cq]
+1[dq]
+1[eq]
+2[gq]
+1[cr]
+1[fr]
+2[gr]
+2[ir]
+1[ds]
+1[fs]
+1[gs]
+2[hs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Reinforcing at 1 is Black's best play.
+\par
+\par }
+#
+(
+2[bm]
+2[an]
+1[ao]
+2[bo]
+2[co]
+1[ap]
+1[bp]
+2[dp]
+2[ep]
+2[fp]
+1[cq]
+1[dq]
+1[eq]
+2[gq]
+1[cr]
+1[fr]
+2[gr]
+2[ir]
+1[ds]
+1[fs]
+1[gs]
+2[hs]
+)
+1
+B[cp]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Filling the neutral point at 1 doesn't gain anything. When White plays at 2, Black has to connect at 3 and loses one point of territory (compared to the solution).
+\par }
+#
+(
+2[bm]
+2[an]
+1[ao]
+2[bo]
+2[co]
+1[ap]
+1[bp]
+2[dp]
+2[ep]
+2[fp]
+1[cq]
+1[dq]
+1[eq]
+2[gq]
+1[cr]
+1[fr]
+2[gr]
+2[ir]
+1[ds]
+1[fs]
+1[gs]
+2[hs]
+)
+3
+B[fq]
+W[cp]
+B[bq]

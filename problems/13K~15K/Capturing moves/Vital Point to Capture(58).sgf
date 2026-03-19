@@ -1,0 +1,45 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oo][po][ro][mp][np][qp][mq][rq][mr][sr][ms][ps]AB[op][pp][nq][nr][pr][qr][rr][ns][qs]LBC[How to kill? (58)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 This shape actually might come up in a real game.  The vital point to this shape might surprise you.  See if you can find it.
+
+\lang1042\f0\fs18
+])
+(;AW[oo][po][ro][mp][np][qp][mq][rq][mr][sr][ms][ps]AB[op][pp][nq][nr][pr][qr][rr][ns][qs]LB[pq:B][or:A]
+;W[os]
+;B[qq]
+;W[oq]LB[os:1][qq:2][oq:3][pq:B][or:A]C[Dia.1 Correct
+
+White should play at 1.  Did you find this move?  If Black tries to extend his eye space with 2 then White can double dansu at 3 and Black is pretty much dead.  If Black blocks at A, White takes at B.
+\lang1042\f1\fs18
+
+])
+(;AW[oo][po][ro][mp][np][qp][mq][rq][mr][sr][ms][ps]AB[op][pp][nq][nr][pr][qr][rr][ns][qs]
+;W[pq]
+;B[oq]
+;W[qq]
+;B[os]LB[pq:1][oq:2][qq:3][os:4]C[Dia.2 Black lives
+
+White 1 is a mistake even if it is seonsu.  Black will block at 2 and make a second eye with ease at 4.
+\lang1042\f1\fs18
+])
+(;AW[oo][po][ro][mp][np][qp][mq][rq][mr][sr][ms][ps]AB[op][pp][nq][nr][pr][qr][rr][ns][qs]
+;W[qq]
+;B[pq]LB[qq:1][pq:2]C[Dia.3 Definitely doesn't work
+
+White 1 definitely doesn't work, it feels like he isn't even trying to kill Black with this move.  Once Black connects at 2 he has four spaces on the inside and lives big.  This is the worst result for White.\lang1042\f1\fs18
+
+])
+(;AW[oo][po][ro][mp][np][qp][mq][rq][mr][sr][ms][ps]AB[op][pp][nq][nr][pr][qr][rr][ns][qs]LBC[No diagram name
+
+
+
+])
+)

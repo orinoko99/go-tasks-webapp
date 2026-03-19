@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oq][pq][qq][or][rr][os]AB[qo][np][op][pp][rp][nq][nr][pr][ps]LBC[Where is a vital point?(75)
+
+
+\f1 It's\b  Black\b0 's turn.\f0
+
+First move is the key!!
+])
+(;AW[oq][pq][qq][or][rr][os]AB[qo][np][op][pp][rp][nq][nr][pr][ps]
+;B[sr]
+;W[sq]
+;B[rq]
+;W[ss]
+;B[qs]LB[sr:1][sq:2][rq:3][ss:4][qs:5]C[Dia.1(Right answer)
+
+
+Attaching at 2 to 1 point looks normal but is a good move.
+
+Don't forget to dansu at 3 before make
+an empty triangle at W's space.
+
+
+])
+(;AW[oq][pq][qq][or][rr][os]AB[qo][np][op][pp][rp][nq][nr][pr][ps]
+;B[rq]
+;W[sr]LB[rq:1][sr:2]C[Dia.2(Enemy's vital point)
+
+{\colortbl ;\red0\green0\blue255;}
+
+B1 is the same as dame.
+It doesn't help at all to reduce W's eye space.
+
+Descending at 2 is that\cf1\b  the \f1 opponent's vital point is my vital point.\f0
+\cf0\b0
+
+])
+(;AW[oq][pq][qq][or][rr][os]AB[qo][np][op][pp][rp][nq][nr][pr][ps]LB[rq:A]
+;B[qs]
+;W[sr]
+;B[rs]
+;W[qr]LB[qs:1][sr:2][rs:3][qr:4][rq:A]C[Dia.3(Another enemy's vital point)
+
+{\colortbl ;\red255\green0\blue0;}
+
+B1 tries to kill W's group inside.
+But W2 is also an\cf1\b  enemy's vital point.\cf0\b0
+So W can live and has a lots territory at the corner.
+
+One more!! Playing at A instead of 2 is also working.
+])
+)

@@ -1,0 +1,150 @@
+//19
+5
+One Move Captures Black (10)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to Play.\b0
+\par At a glance, black appears to be alive.
+\par
+\par However, there is a move to capture black. It is a basic attacking method but it might be a blind spot for some.
+\par
+\par }
+#
+(
+2[np]
+2[pp]
+2[qp]
+2[rp]
+2[oq]
+1[pq]
+1[rq]
+1[sq]
+2[nr]
+1[pr]
+2[sr]
+1[os]
+1[rs]
+)
+0
+Diagram 1 (Giving up)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Actually if you are 12K, it might be a little hard for you to solve this problem. If you are 10K, you might be able to solve it.
+\par
+\par If white acknowledges black to be alive, it is likely that white will play 1 in exchange for 2.
+\par
+\par White 3 is seonsu, but this is really only an endgame move.
+\par }
+#
+(
+2[np]
+2[pp]
+2[qp]
+2[rp]
+2[oq]
+1[pq]
+1[rq]
+1[sq]
+2[nr]
+1[pr]
+2[sr]
+1[os]
+1[rs]
+)
+4
+W[qq]
+B[qr]
+W[sp]
+B[rr]
+Diagram 2 (Easily alive ¿©À¯ÀÖ´Â »î)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par What about white 1?
+\par It does not work. Black plays dansu at 2 and lives easily.
+\par
+\par This problem looks difficult but it is easy after you know the answer.
+\par Keep looking!
+\par }
+#
+(
+2[np]
+2[pp]
+2[qp]
+2[rp]
+2[oq]
+1[pq]
+1[rq]
+1[sq]
+2[nr]
+1[pr]
+2[sr]
+1[os]
+1[rs]
+)
+2
+W[rr]
+B[qr]
+Diagram 3 (Mistake)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Ahha! It works to make placement at 1 and connect at 3! Well... some might think this so.
+\par
+\par However, this is mistaken.
+\par Black 4 is a fantastic response and black lives. Now white can only play at 5, black plays dansu with 6 lives.
+\par }
+#
+(
+2[np]
+2[pp]
+2[qp]
+2[rp]
+2[oq]
+1[pq]
+1[rq]
+1[sq]
+2[nr]
+1[pr]
+2[sr]
+1[os]
+1[rs]
+)
+6
+W[qr]
+B[qq]
+W[rr]
+B[or]
+W[qs]
+B[ps]
+Diagram 4 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par By now, you must think something is strange. Yes, it is. You cannot capture black by playing inside.
+\par
+\par White 1 is a brilliant move to narrow down black's eyespace.  Now that this move is played, black has no way to live.
+\par
+\par If black plays at 2, white plays at 3 and 5 and that's it. It's not pik. If the outside liberties are filled in, black's whole group is in dansu. Black is dead!
+\par
+\par Please check for yourself.
+\par }
+#
+(
+2[np]
+2[pp]
+2[qp]
+2[rp]
+2[oq]
+1[pq]
+1[rq]
+1[sq]
+2[nr]
+1[pr]
+2[sr]
+1[os]
+1[rs]
+)
+5
+W[or]
+B[ps]
+W[qr]
+B[qq]
+W[rr]

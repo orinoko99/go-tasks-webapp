@@ -1,0 +1,149 @@
+//19
+4
+Where is a vital point??(98)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  Black\b0 's turn.\f2
+\par \lang1042\f0
+\par W's eye space is a huge but this shape also has a weakpoint.
+\par
+\par }
+#
+(
+1[ro]
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+2[nr]
+2[rr]
+1[sr]
+1[ls]
+2[rs]
+)
+0
+Dia.1 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par
+\par Attaching at 1 is a\cf1\b  right answer.\cf0\b0
+\par
+\par W2 tries to make a real eye but cutting at 3 is a strong move and 5 is a final blow.
+\par
+\par Even Playing at A is in self-dansu.
+\par
+\par }
+#
+(
+1[ro]
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+2[nr]
+2[rr]
+1[sr]
+1[ls]
+65[ns]
+2[rs]
+)
+5
+B[pr]
+W[ps]
+B[qr]
+W[or]
+B[ms]
+DIa.2(Ko)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par In actual game, we usually made mistake like B1.
+\par
+\par Be careful!! This result will be a \cf1\b ko\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+1[ro]
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+2[nr]
+2[rr]
+1[sr]
+1[ls]
+65[ps]
+2[rs]
+)
+4
+B[pr]
+W[ps]
+B[os]
+W[qr]
+Dia.3(Enemy's vital point)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Playing inside at 1 seems to be a vital point but it doesn't work.
+\par
+\par W2 is\cf1\b  an enemy's vital point!
+\par \cf0\b0
+\par Up to 4, W can be alive.
+\par }
+#
+(
+1[ro]
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[lq]
+1[mq]
+2[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+2[nr]
+2[rr]
+1[sr]
+1[ls]
+2[rs]
+)
+4
+B[ps]
+W[pr]
+B[os]
+W[qs]

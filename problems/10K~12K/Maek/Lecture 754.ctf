@@ -1,0 +1,93 @@
+//19
+3
+No way to capture, or?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 White made "one eye versus no eye" so Black can't win the capturing race with ordinary moves. However...
+\par }
+#
+(
+2[cn]
+2[cp]
+2[dp]
+1[ep]
+1[fp]
+2[bq]
+1[dq]
+2[eq]
+2[fq]
+1[gq]
+1[hq]
+2[br]
+1[cr]
+1[dr]
+2[er]
+2[gr]
+1[hr]
+2[fs]
+2[gs]
+1[hs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black can throw in at 1 and make a pae/ko up to 3.
+\par
+\par }
+#
+(
+2[cn]
+2[cp]
+2[dp]
+1[ep]
+1[fp]
+2[bq]
+1[dq]
+2[eq]
+2[fq]
+1[gq]
+1[hq]
+2[br]
+1[cr]
+1[dr]
+2[er]
+2[gr]
+1[hr]
+2[fs]
+2[gs]
+1[hs]
+)
+3
+B[es]
+W[ds]
+B[cs]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 As expected Black fails by playing ordinary moves because White has an eye and Black doesn't.
+\par
+\par }
+#
+(
+2[cn]
+2[cp]
+2[dp]
+1[ep]
+1[fp]
+2[bq]
+1[dq]
+2[eq]
+2[fq]
+1[gq]
+1[hq]
+2[br]
+1[cr]
+1[dr]
+2[er]
+2[gr]
+1[hr]
+2[fs]
+2[gs]
+1[hs]
+)
+2
+B[ds]
+W[cq]

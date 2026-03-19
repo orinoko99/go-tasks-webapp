@@ -1,0 +1,52 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[rp]AW[pm][qn][rp][nq]AB[on][pn][kp][pp]LB[qq:A][rq:B]LB[qq:A][rq:B]CR[rp]C[Star point jeonseok (61)
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 I hope you did  your homework.  As we saw earlier, White A is too slow and B doesn't lead to a good result even though it looks like a strong move.  So then, where should we play?\lang1042\f0\fs18
+])
+(;AW[pm][qn][rp][nq]AB[on][pn][kp][pp]
+;B[rq]
+;W[qq]
+;B[ro]
+;W[rr]
+;B[qo]LB[rq:1][qq:2][ro:3][rr:4][qo:5]C[1도(약간 낫지만)
+
+Let me explain one thing first.  When Black plays 1 and White responds with 2 Black could opt not to cut and instead play 3.  This would be okay.  Up to 5 we see that this is a bit better than the third diagram from the previous problem.  White shouldn't be so lucky though...
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][rp][nq]AB[on][pn][kp][pp]
+;B[qp]
+;W[ro]
+;B[rq]
+;W[qj]LB[qp:1][ro:2][rq:3][qj:4]C[Dia.2 Enough for White
+
+Black could push at 1 but then it's easy enough for White to pull back with 2 and make a base for his group with 4.  Black can't feel happy with this result because White played a weak move and he didn't capitalize on it.
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][rp][nq]AB[on][pn][kp][pp]
+;B[qo]
+;W[ro]
+;B[qm]
+;W[rn]
+;B[pl]
+;W[pq]
+;B[om]LB[qo:1][ro:2][qm:3][rn:4][pl:5][pq:6][om:7]C[Dia.3 Black is thick
+
+The answer is rather simple, Black should play the tiger's mouth at 1.  White has to link up with 2, Black plays dansu at 3, White connects, then Black can dansu and ladder the outside White stone to make a thick shape.
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][rp][nq]AB[on][pn][kp][pp]LBC[No diagram name
+
+
+
+])
+)

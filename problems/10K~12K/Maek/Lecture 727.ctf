@@ -1,0 +1,103 @@
+//19
+3
+Correct Sequence
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Where should Black play?
+\par }
+#
+(
+1[co]
+1[do]
+1[eo]
+1[fo]
+2[go]
+2[ho]
+2[dp]
+2[ep]
+2[fp]
+1[gp]
+2[hp]
+1[cq]
+1[fq]
+1[gq]
+2[hq]
+1[cr]
+2[dr]
+2[er]
+1[fr]
+2[gr]
+2[hr]
+1[fs]
+)
+0
+Success
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black should first hane at 1 and then go through at 3. If White connects at A, Black captures all stones at B.
+\par
+\par }
+#
+(
+1[co]
+1[do]
+1[eo]
+1[fo]
+2[go]
+2[ho]
+66[cp]
+2[dp]
+2[ep]
+2[fp]
+1[gp]
+2[hp]
+1[cq]
+65[eq]
+1[fq]
+1[gq]
+2[hq]
+1[cr]
+2[dr]
+2[er]
+1[fr]
+2[gr]
+2[hr]
+1[fs]
+)
+3
+B[ds]
+W[es]
+B[dq]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 First reducing liberties at 1 and then playing the hane at 3 fails because White will atari from the outside at 4.
+\par
+\par }
+#
+(
+1[co]
+1[do]
+1[eo]
+1[fo]
+2[go]
+2[ho]
+2[dp]
+2[ep]
+2[fp]
+1[gp]
+2[hp]
+1[cq]
+1[fq]
+1[gq]
+2[hq]
+1[cr]
+2[dr]
+2[er]
+1[fr]
+2[gr]
+2[hr]
+1[fs]
+)
+4
+B[dq]
+W[eq]
+B[ds]
+W[gs]

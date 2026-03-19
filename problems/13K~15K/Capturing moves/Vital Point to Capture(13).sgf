@@ -1,0 +1,54 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[so]AW[qp][rp][pq][rq][or][pr][sr]AB[qo][ro][so][op][pp][mq][oq][qq][nr][rr]LBCR[so]C[Vital Point to Capture?(13)
+
+
+\b Black to play\b0 .
+The Black two stones are captured in a strange way. If Black wants to capture the White group, he has to use his two stones.
+
+Where is White's weakness? Make use of the Black \'a1\'e3 stone too and capture White.
+])
+(;AW[qp][rp][pq][rq][or][pr][sr]AB[qo][ro][so][op][pp][mq][oq][qq][nr][rr]
+;B[sq]
+;W[qr]
+;B[ss]LB[sq:1][qr:2][ss:3]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black's\cf1\b  throw-in \cf0\b0 at 1 is a good move.
+White has no way to resist.
+
+If White captures with 2, Black also captures at 3. Black is connected so White is dead.
+])
+(;AW[qp][rp][pq][rq][or][pr][sr]AB[qo][ro][so][op][pp][mq][oq][qq][nr][rr]
+;B[rs]
+;W[qr]
+;B[sp]
+;W[sq]
+;B[os]
+;W[qs]LB[rs:1][qr:2][sp:3][sq:4][os:5][qs:6]C[Dia. 02 Meaningless
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black' descending move at 2 is \cf1\b meaningless\cf0\b0 .
+White takes at 2 and lives. Black can't attack White anymore.
+The sequence up to 6 is the proof of life. White lived with many points.
+
+
+])
+(;AW[qp][rp][pq][rq][or][pr][sr]AB[qo][ro][so][op][pp][mq][oq][qq][nr][rr]LB[rs:A]
+;B[os]
+;W[qr]LB[os:1][qr:2][rs:A]C[Dia. 03 The Hane Fails
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b There is death in the hane\cf0\b0  proverb is not useful all the time. It is important to use it in the right moment.
+
+After Black's hane at 1, White lives with 2. White can also play the dansu at A instead of 2.
+
+])
+)

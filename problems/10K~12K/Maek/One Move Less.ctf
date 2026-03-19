@@ -1,0 +1,160 @@
+//19
+5
+One Move Less?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 .
+\par There is a capturing race between Black \'a1\'e3 and White \'a1\'e2.
+\par
+\par Black has two while White has three liberties. So Black is one move behind.
+\par
+\par However Black has a nice move to save his stones.
+\par }
+#
+(
+2[qo]
+2[rp]
+1[mq]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+1[rq]
+1[lr]
+6[mr]
+6[nr]
+6[or]
+5[pr]
+5[qr]
+2[rr]
+2[sr]
+5[rs]
+)
+0
+Dia. 01 Failure
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par This variation is a failure.
+\par Black 1 is a bad move. After White captures the Black stones with 2, Black has to defend at 3 as well.
+\par
+\par }
+#
+(
+2[qo]
+2[rp]
+1[mq]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+2[nr]
+2[or]
+1[pr]
+1[qr]
+2[rr]
+2[sr]
+1[rs]
+)
+3
+B[ms]
+W[ps]
+B[kq]
+Dia. 02 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It is very easy after seeing the answer.
+\par Black's hane at 1 is the maek for the capturing race.
+\par
+\par After this move White is captured.
+\par }
+#
+(
+2[qo]
+2[rp]
+1[mq]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+2[nr]
+2[or]
+1[pr]
+1[qr]
+2[rr]
+2[sr]
+1[rs]
+)
+1
+B[os]
+Dia. 03 Practice Problem
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It is another capturing race.
+\par
+\par \b Black to play\b0 .
+\par Find the maek which captures the three White stones in the corner.
+\par
+\par If Black takes the White stone at A, White plays at B and Black is captured. It becomes eye vs. no eye.
+\par
+\par
+\par }
+#
+(
+1[qo]
+2[nq]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+2[lr]
+2[mr]
+1[nr]
+1[or]
+1[pr]
+2[qr]
+2[rr]
+2[sr]
+1[ms]
+2[ns]
+65[os]
+66[qs]
+)
+0
+Dia. 04 Hane
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's hane at 1 is the maek.
+\par White has two liberties and Black's liberties increased to three.
+\par
+\par Hane like this can be an excellent move in a capturing race.
+\par
+\par }
+#
+(
+1[qo]
+2[nq]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+2[lr]
+2[mr]
+1[nr]
+1[or]
+1[pr]
+2[qr]
+2[rr]
+2[sr]
+1[ms]
+2[ns]
+)
+1
+B[qs]

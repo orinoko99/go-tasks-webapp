@@ -1,0 +1,144 @@
+//19
+4
+First is a key move(74)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par This problem is a little bit difficult because W has a weakpoint(A)
+\par
+\par
+\par }
+#
+(
+2[om]
+2[qm]
+2[rm]
+1[rn]
+2[po]
+2[qo]
+65[ro]
+2[op]
+1[pp]
+1[qp]
+2[rp]
+2[sp]
+2[oq]
+1[pq]
+1[rq]
+2[mr]
+2[or]
+1[pr]
+1[qr]
+1[os]
+2[ps]
+)
+0
+Dia.1(Weak attitude)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W1 shows\cf1\b  a weak attitude!!\cf0\b0
+\par
+\par B can live easily.
+\par
+\par }
+#
+(
+2[om]
+2[qm]
+2[rm]
+1[rn]
+2[po]
+2[qo]
+2[op]
+1[pp]
+1[qp]
+2[rp]
+2[sp]
+2[oq]
+1[pq]
+1[rq]
+65[sq]
+2[mr]
+2[or]
+1[pr]
+1[qr]
+1[os]
+2[ps]
+)
+2
+W[ro]
+B[sr]
+Dia.2(Sente)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Going out at 1 is\cf1\b  a reckless move.\cf0\b0
+\par After 2, W should connect at 3 and B's group has already lived.
+\par }
+#
+(
+2[om]
+2[qm]
+2[rm]
+1[rn]
+2[po]
+2[qo]
+2[op]
+1[pp]
+1[qp]
+2[rp]
+2[sp]
+2[oq]
+1[pq]
+1[rq]
+65[sq]
+2[mr]
+2[or]
+1[pr]
+1[qr]
+1[os]
+2[ps]
+)
+3
+W[sq]
+B[sr]
+W[ro]
+Dia.3(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Playing at\cf1\b  2 to 1 point\cf0\b0  is \cf1\b a proper move.
+\par \cf0\b0
+\par After 2, W can dansu two stones and B won't have a time to cut at A.
+\par
+\par }
+#
+(
+2[om]
+2[qm]
+2[rm]
+1[rn]
+2[po]
+2[qo]
+65[ro]
+2[op]
+1[pp]
+1[qp]
+2[rp]
+2[sp]
+2[oq]
+1[pq]
+1[rq]
+2[mr]
+2[or]
+1[pr]
+1[qr]
+1[os]
+2[ps]
+)
+3
+W[sr]
+B[sq]
+W[rr]

@@ -1,0 +1,55 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oo][po][qo][ro][mp][np][sp][mq][sq][mr][rr][sr][ms][rs]AB[pp][qp][rp][nq][pq][rq][nr][qr][ns]LBC[Where is a vital point?(78)
+
+{\colortbl ;\red0\green0\blue0;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+\cf0\f1 It's\b  White\b0 's turn.\fs24
+\cf1\f0\fs18
+B has already been alive??\cf0
+])
+(;AW[oo][po][qo][ro][mp][np][sp][mq][sq][mr][rr][sr][ms][rs]AB[pp][qp][rp][nq][pq][rq][nr][qr][ns]
+;W[ps]
+;B[qs]
+;W[pr]LB[ps:1][qs:2][pr:3]C[Dia.1(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b Jumping at first line\cf0\b0 (W1) is a good attack.
+
+B couldn't have any chance to be alive.
+
+
+])
+(;CR[ps]AW[oo][po][qo][ro][mp][np][sp][mq][sq][mr][rr][sr][ms][ps][rs]AB[pp][qp][rp][nq][pq][rq][nr][qr][ns]LB[oq:B][os:A]
+;B[pr]
+;W[qs]
+;B[op]
+;W[or]LB[pr:1][qs:2][op:3][or:4][oq:B][os:A]CR[ps]C[Dia.2(Variation)
+
+{\colortbl ;\red0\green0\blue255;}
+
+B1 is another variation.
+
+W just rescues his own(W\'a1\'e2)
+\cf1\b There is no way to live\cf0\b0  for B.
+
+Also A rather than 3 can't make a real eye.
+
+])
+(;AW[oo][po][qo][ro][mp][np][sp][mq][sq][mr][rr][sr][ms][rs]AB[pp][qp][rp][nq][pq][rq][nr][qr][ns]
+;W[or]
+;B[oq]LB[or:1][oq:2]C[DIa.3(an inordinate thinking)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W1 is \f1 an\cf1\b  inordinate thinking\cf0\b0 .\f0
+
+
+])
+)

@@ -1,0 +1,57 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[po][qo][ro][so][pp][oq][mr][or][ps]AB[qp][rp][sp][pq][sq][pr][sr][os]LB[qr:B][ns:A][qs:C][rs:D]LB[qr:B][ns:A][qs:C][rs:D]C[How to kill? (55)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Black's shape is really weak, so to give you a break from finding all the ways to kill Black, let's find the one way NOT to kill Black.  Take your pick from A-D.  Which move fails to kill Black?
+\lang1042\f0\fs18
+
+])
+(;AW[po][qo][ro][so][pp][oq][mr][or][ps]AB[qp][rp][sp][pq][sq][pr][sr][os]
+;W[qs]
+;B[rs]
+;W[qr]
+;B[qq]
+;W[ns]
+;B[rr]LB[qs:1][rs:2][qr:3][qq:4][ns:5][rr:6]C[Dia.1 Correct / C
+
+White C is the winner, well, rather the loser in this case.  White doesn't have enough liberties to erase Black's second eye, so even when he comes in Black plays dansu at 6 and makes two eyes.
+\lang1042\f1\fs18
+])
+(;AW[po][qo][ro][so][pp][oq][mr][or][ps]AB[qp][rp][sp][pq][sq][pr][sr][os]
+;W[ns]
+;B[qs]
+;W[qr]
+;B[qq]
+;W[rs]LB[ns:1][qs:2][qr:3][qq:4][rs:5]C[Dia.2 You can just take
+
+This shape is so weak you can just take with White 1 and Black is stlll dead.  Black doesn't have enough liberties to play 2, White will just capture with 3 and 5 and it's all over with.
+\lang1042\f1\fs18
+
+])
+(;AW[po][qo][ro][so][pp][oq][mr][or][ps]AB[qp][rp][sp][pq][sq][pr][sr][os]LB[qs:A]
+;W[qr]
+;B[qq]
+;W[rr]
+;B[rs]
+;W[ns]LB[qr:1][qq:2][rr:3][rs:4][ns:5][qs:A]C[Dia.3 Many ways to kill
+
+There are many different ways to kill Black, even a move like 1 works.  Black 4 at A doesn't work, because White will play at 4 and then Black doesn't have the liberties to capture the White stones, so Black still dies.
+\lang1042\f1\fs18
+
+])
+(;AW[po][qo][ro][so][pp][oq][mr][or][ps]AB[qp][rp][sp][pq][sq][pr][sr][os]LB[qq:A]
+;W[rs]
+;B[qs]
+;W[rr]
+;B[qr]
+;W[rq]LB[rs:1][qs:2][rr:3][qr:4][rq:5][qq:A]C[Dia.4 No mutual life
+
+This might look like Black lives in Bik (mutual life) but that's not true.  After Black 5, Black must eventually connect at A, confirm this for yourself.  Because of that, Black is dead.  There sure are a lot of ways to kill Black!\lang1042\f1\fs18
+])
+)

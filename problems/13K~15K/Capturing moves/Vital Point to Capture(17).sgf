@@ -1,0 +1,77 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qn][ro][pp][qp][nq][pq]AB[rp][sp][qq][qr]LBC[Vital Point to Capture?(17)
+
+
+\b White to play\b0 .
+Black has a pretty big eye-space.
+
+However it just looks nice, if White attacks in a severe way, Black is going to collapse.
+
+])
+(;AW[qn][ro][pp][qp][nq][pq]AB[rp][sp][qq][qr]LB[rq:A]
+;W[sr]
+;B[rr]
+;W[so]LB[sr:1][rr:2][so:3][rq:A]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's \cf1\b placement \cf0\b0 at 1 is the \cf1\b vital point\cf0\b0 .
+
+It is not only at the 1-2 point but it is also looking at the snapback at A.
+
+Black 2 is the strongest way to resist, but White 3 is the deciding move.
+
+It doesn't help Black even if he connects with the next move at A.
+])
+(;AW[qn][ro][pp][qp][nq][pq]AB[rp][sp][qq][qr]LB[qs:A]
+;W[pr]
+;B[sr]LB[pr:1][sr:2][qs:A]C[Dia. 02 Endgame
+
+{\colortbl ;\red255\green0\blue0;}
+
+It is hard to think during an actual game that it is possible to capture Black.
+
+There is big chance that White is going to block at 1 for \cf1\b endgame\cf0\b0 .
+
+Then Black is satisfied living with 2.
+
+If Black tries to live with many points and plays at A instead of 2, White plays at 2 and Black is in big trouble.
+])
+(;AW[qn][ro][pp][qp][nq][pq]AB[rp][sp][qq][qr]LB[rr:A]
+;W[rr]
+;B[rs]
+;W[sr]
+;B[pr]
+;W[or]
+;B[ps]
+;W[rq]LB[rr:1][rs:2][sr:3][pr:4][or:5][ps:6][rq:7][rr:A]C[Dia. 03 Another Solution?
+
+{\colortbl ;\red255\green0\blue0;}
+
+White's attachment at 1 is a sharp idea.
+The \cf1\b 2-2 point \cf0\b0 is also a vital point in the corner.
+
+If Black plays hane at 2, White 3 is a suitable move and White can capture Black up to 7.
+
+Is it another solution then?
+No~
+])
+(;CR[rr]AW[qn][ro][pp][qp][nq][pq][rr]AB[rp][sp][qq][qr]LB[rq:B][rs:A]
+;B[sr]LB[sr:1][rq:B][rs:A]CR[rr]C[Dia. 04 Live with Miai
+
+{\colortbl ;\red0\green0\blue255;}
+
+Against White \'a1\'e2, Black's attachment at 1 is the vital point for living.
+
+If White plays at A, Black lives with B. Moreover if White plays at B, Black lives with A.
+In other words, A and B are \cf1\b miai\cf0\b0 .
+
+
+
+])
+)

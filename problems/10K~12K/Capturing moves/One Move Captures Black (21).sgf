@@ -1,0 +1,50 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[po][qo][ro][op][rp][oq][mr][or][ps]AB[qp][pq][rq][pr][sr][qs]LBC[One Move Captures Black (21)
+
+
+\b White to Play.\b0
+Black's eyespace is narrow but it is still not easy to kill.
+
+If you can solve this problem without making any mistakes, you are most likely stronger than 8k.
+])
+(;AW[po][qo][ro][op][rp][oq][mr][or][ps]AB[qp][pq][rq][pr][sr][qs]
+;W[qr]
+;B[os]
+;W[rs]
+;B[rr]LB[qr:1][os:2][rs:3][rr:4]C[Diagram 1 (Pae)
+
+
+White's cut at 1 is comes to mind first. Of course, black capturing white at 2 is the strongest response. White can only play 3 and black cuts at 4 creating a pae.
+
+In this case, a pae is a failure. There is a move to capture black unconditionally.
+
+])
+(;AW[po][qo][ro][op][rp][oq][mr][or][ps]AB[qp][pq][rq][pr][sr][qs]
+;W[pp]
+;B[rs]
+;W[qq]
+;B[qr]LB[pp:1][rs:2][qq:3][qr:4]C[Diagram 2 (Alive)
+
+
+White's dansu from the outside with 1 lets black live. Black 2 is the vital point for life.
+
+Where should white play then? There is only one place white can play.
+])
+(;AW[po][qo][ro][op][rp][oq][mr][or][ps]AB[qp][pq][rq][pr][sr][qs]LB[qr:A]
+;W[rs]
+;B[os]
+;W[pp]LB[rs:1][os:2][pp:3][qr:A]C[Diagram 3 (Correct)
+
+
+It is clever for white to play dansu with 1. Please note that this is the 2-1 point.
+
+Black can do no more than capture with 2. Then, white plays dansu with 3, finishing black off. Black is left with a dead shape.
+
+\pard\nowidctlpar\qj Instead of 2, if black plays \b\f1 A\b0\f0 , white plays at 3 and there is no way for black to live.
+])
+)

@@ -1,0 +1,114 @@
+//19
+3
+Black to Capture
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Find a maek/tesuji to capture White.
+\par }
+#
+(
+1[ak]
+1[bk]
+1[ck]
+1[ek]
+2[al]
+2[bl]
+2[cl]
+1[dl]
+2[dm]
+1[em]
+2[dn]
+1[en]
+2[bo]
+2[do]
+1[eo]
+1[ap]
+1[bp]
+2[cp]
+2[dp]
+2[bq]
+1[cq]
+1[eq]
+1[fq]
+1[br]
+1[cr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The combination of the cut at 1, the atari at 3 and the descent at 5 are perfect to makes White's eye false and to create a double jachung, that is, White can't either approach at A nor B.
+\par }
+#
+(
+1[ak]
+1[bk]
+1[ck]
+1[ek]
+2[al]
+2[bl]
+2[cl]
+1[dl]
+65[am]
+2[dm]
+1[em]
+2[dn]
+1[en]
+66[ao]
+2[bo]
+2[do]
+1[eo]
+1[ap]
+1[bp]
+2[cp]
+2[dp]
+2[bq]
+1[cq]
+1[eq]
+1[fq]
+1[br]
+1[cr]
+)
+5
+B[cm]
+W[bm]
+B[bn]
+W[cn]
+B[an]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Don't mix up the order of the moves. First playing 1 and then cutting at 3 doesn't work. White responds at 4 and is happily alive ever after.
+\par
+\par }
+#
+(
+1[ak]
+1[bk]
+1[ck]
+1[ek]
+2[al]
+2[bl]
+2[cl]
+1[dl]
+2[dm]
+1[em]
+2[dn]
+1[en]
+2[bo]
+2[do]
+1[eo]
+1[ap]
+1[bp]
+2[cp]
+2[dp]
+2[bq]
+1[cq]
+1[eq]
+1[fq]
+1[br]
+1[cr]
+)
+4
+B[bn]
+W[an]
+B[cm]
+W[cn]

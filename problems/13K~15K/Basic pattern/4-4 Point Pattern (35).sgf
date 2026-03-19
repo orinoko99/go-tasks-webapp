@@ -1,0 +1,50 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pn]AW[pn][lp][mp][nq]AB[kp][pp][jq][lq]
+;B[no]LB[no:1]CR[pn]C[Star-point Joseki
+
+White's turn\b0
+When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is a trick move. How should White answer?\lang1042\f1
+
+])
+(;AW[pn][lp][mp][nq]AB[no][kp][pp][jq][lq]LB[qp:A][pq:B]
+;W[qq]LB[qq:1][qp:A][pq:B]C[1st Dia. 3-3
+
+White 1 is the easiest answer. Black has 2 options, A and B but doesn't matter where Black plays the result will be good for White.\lang1042\f1
+
+])
+(;CR[pn]AW[pn][lp][mp][nq][qq]AB[no][kp][pp][jq][lq]LB[qp:A]
+;B[qp]
+;W[pq]
+;B[op]
+;W[oq]LB[qp:1][pq:2][op:3][oq:4][qp:A]CR[pn]C[2nd Dia. Bad for Black
+
+If Black plays 1 White will answer 2. White's \lang1042\f1\'a1\'e2\lang1043\f0  stone is not weak at all. White is actually attacking Black's group. This result is good for White.\lang1042\f1
+
+])
+(;CR[pn]AW[pn][lp][mp][nq][qq]AB[no][kp][pp][jq][lq]
+;B[pq]
+;W[qp]
+;B[po]
+;W[qo]
+;B[on]
+;W[pm]LB[pq:1][qp:2][po:3][qo:4][on:5][pm:6]CR[pn]C[3rd Dia. Good for White
+
+If Black plays 1 White will plays 2 to 6. This result is good for White.\lang1042\f1
+
+
+])
+(;AW[pn][lp][mp][nq]AB[no][kp][pp][jq][lq]LB[qq:A]
+;W[oo]
+;B[op]
+;W[np]
+;B[nn]LB[oo:1][op:2][np:3][nn:4][qq:A]C[4th Dia. MIstake
+
+White 1 and 3 are mistakes. White's shape is an empty triangle. This fight is good for Black. I recommend you to play A as White, just like in the previous diagram.\lang1042\f1
+
+])
+)

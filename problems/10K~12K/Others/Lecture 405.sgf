@@ -1,0 +1,27 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cl][cm][gn][co][go][cp][fp][cq][fq][hq]AB[ek][em][eo][dq][eq]LBC[How to Connect
+
+Where should Black play to connect his stones safely?
+])
+(;AW[cl][cm][gn][co][go][cp][fp][cq][fq][hq]AB[ek][em][eo][dq][eq]
+;B[do]LB[do:1]C[Correct
+
+Making the bamboo joint at 1 is the correct answer.
+
+])
+(;AW[cl][cm][gn][co][go][cp][fp][cq][fq][hq]AB[ek][em][eo][dq][eq]
+;B[ep]
+;W[en]
+;B[fn]
+;W[dn]
+;B[fo]
+;W[fm]LB[ep:1][en:2][fn:3][dn:4][fo:5][fm:6]C[Wrong
+
+Connecting solidly at 1 fails because White can wedge in at 2 to cut Black.
+])
+)

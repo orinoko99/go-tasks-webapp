@@ -1,0 +1,24 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[co][do][eo][cp][fp][bq][fq][br][fr][bs][cs][es]AB[fn][fo][dp][ep][gp][cq][gq][cr][dr][gr][ds]LBC[Beware of Jachung
+
+Where should Black play to capture White?
+])
+(;AW[co][do][eo][cp][fp][bq][fq][br][fr][bs][cs][es]AB[fn][fo][dp][ep][gp][cq][gq][cr][dr][gr][ds]
+;B[eq]LB[eq:1]C[Correct
+
+Black should make an eye to win the capturing race (one eye versus no eye).
+
+])
+(;AW[co][do][eo][cp][fp][bq][fq][br][fr][bs][cs][es]AB[fn][fo][dp][ep][gp][cq][gq][cr][dr][gr][ds]
+;B[er]
+;W[eq]LB[er:1][eq:2]C[Wrong
+
+Black 1 takes his own liberty and loses the capturing race.
+
+])
+)

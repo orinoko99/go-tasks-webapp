@@ -1,0 +1,60 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[nc]AW[fc][nc][qh][jn][gp][np][nq]AB[dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[nd]
+;W[od]LB[nd:1][od:2]CR[nc]C[Improve your rank
+
+Black's turn\b0
+When White played \lang1042\f1\'a1\'e2\lang1043\f0 , Black answered 1. Now White played 2. This is a trick move used often in handicap games.
+How shoud Black answer?\lang1042\f1
+
+])
+(;AW[fc][nc][od][qh][jn][gp][np][nq]AB[dd][jd][nd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[oe]
+;W[oc]
+;B[pe]LB[oe:1][oc:2][pe:3]C[1st Dia. Normal answer
+
+Black 1 is the normal answer. It's very simple. White has to play 2 then Black has to play 3, it's a very important move.
+\lang1042\f1
+
+])
+(;AW[fc][nc][oc][od][qh][jn][gp][np][nq]AB[dd][jd][nd][pd][oe][pe][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;W[md]
+;B[ne]
+;W[pc]
+;B[qc]
+;W[qb]
+;B[me]
+;W[ld]
+;B[le]LB[md:1][ne:2][pc:3][qc:4][qb:5][me:6][ld:7][le:8]C[2nd Dia. Black gets the center
+
+White will play 1 and 3 then Black plays 4 and 6. Black got a very strong center.
+This result is good for Black, despite the fact that White was able to make some territory.\lang1042\f1
+
+])
+(;AW[fc][nc][oc][od][qh][jn][gp][np][nq]AB[dd][jd][nd][pd][oe][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[ne]
+;W[pe]
+;B[pf]
+;W[qe]
+;B[qf]
+;W[rd]
+;B[re]
+;W[qd]LB[ne:1][pe:2][pf:3][qe:4][qf:5][rd:6][re:7][qd:8]C[3rd Dia. Bad for Black
+
+Black 1 is a mistake. White cut immediately. Usually Black can play like this, but since this is a handicap game Black shouldn't play like this.
+This result is bad for Black.\lang1042\f1
+
+])
+(;AW[fc][nc][oc][od][qh][jn][gp][np][nq]AB[dd][jd][nd][pd][oe][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[pc]
+;W[pe]LB[pc:1][pe:2]C[4th Dia. Strong move but...
+
+Black 1 is a strong move, but after White plays 2 it leads to a complicated fight. Considering this is a handicap game Black will probably not be able to fight well against White. \lang1042\f1
+
+])
+)

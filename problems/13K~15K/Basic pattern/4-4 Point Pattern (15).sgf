@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nq][pq][qr]AB[qn][pp][qq]LB[op:ƒ][qp:A]
+;B[oq]
+;W[pr]
+;B[or]
+;W[op]LB[oq:1][pr:2][or:3][op:4][op:ƒ][qp:A]C[Star-point Joseki
+
+Black's turn\b0
+This is a continuation of the previous problem. When Black plays 3 if White plays A then it's simple. But what if White plays 4?\lang1042\f1
+
+])
+(;AW[op][nq][pq][pr][qr]AB[qn][pp][oq][qq][or]
+;B[nr]
+;W[qp]
+;B[po]
+;W[rp]
+;B[mq]LB[nr:1][qp:2][po:3][rp:4][mq:5]C[1st Dia. Simple way
+
+Black has to play 1. Then White plays 2 and 4. After Black plays 5 it's a joseki.
+This is the simple solution.\lang1042\f1
+
+])
+(;CR[nr]AW[op][nq][pq][pr][qr]AB[qn][pp][oq][qq][nr][or]LB[mn:B][lp:A]
+;W[np]
+;B[mq]
+;W[mp]
+;B[lq]
+;W[qp]
+;B[po]
+;W[rp]LB[np:1][mq:2][mp:3][lq:4][qp:5][po:6][rp:7][mn:B][lp:A]CR[nr]C[2nd Dia. Keep looking
+
+Then real problem starts if White answers 1 to Black's \lang1042\f1\'a1\'e3\lang1043\f0  move.
+This is a very complicated variation.
+Black will play 2 to 7, so far it's rather simple but later it will develop into a huge fight.
+When Black plays A White should answer B.\lang1042\f1
+
+])
+(;CR[np]AW[np][op][nq][pq][pr][qr]AB[qn][pp][oq][qq][nr][or]
+;B[mr]
+;W[qp]
+;B[po]
+;W[rp]
+;B[mo]LB[mr:1][qp:2][po:3][rp:4][mo:5]CR[np]C[3rd Dia. Net
+
+When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is an easy answer. White will play 2 and 4 then Black 5 is a good move. Now it's a net.\lang1042\f1
+
+])
+(;AW[op][nq][pq][pr][qr]AB[qn][pp][oq][qq][nr][or]
+;W[mq]
+;B[mr]
+;W[qp]
+;B[po]
+;W[rp]
+;B[lq]LB[mq:1][mr:2][qp:3][po:4][rp:5][lq:6]C[4th Dia. White 1 is a mistake
+
+White 1 is a mistake. Black will play 2 then White has to play 3 and 5. Black will happily play 6. This is better than the 1st diagram for Black.\lang1042\f1
+
+])
+)

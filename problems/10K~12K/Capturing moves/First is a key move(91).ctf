@@ -1,0 +1,132 @@
+//19
+4
+First is a key move(91)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.\lang1042\f0
+\par
+\par Where is the first move?
+\par }
+#
+(
+2[no]
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+2[nq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+1[rr]
+1[ss]
+)
+0
+Dia.1(Sente endgame)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If W didn't find B's weak point, he would play just\cf1\b  sente endgame\cf0\b0  like this.
+\par
+\par
+\par }
+#
+(
+2[no]
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+2[nq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+1[rr]
+1[ss]
+)
+2
+W[os]
+B[qs]
+Dia.2(Reckless move)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Descent at 1 is \cf1\b a reckless move.
+\par \cf0\b0
+\par After 2, W has nothing to do.
+\par
+\par }
+#
+(
+2[no]
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+2[nq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+1[rr]
+1[ss]
+)
+2
+W[qs]
+B[qq]
+Dia.3 (Right answer)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \cf1\b W1\cf0\b0  is very good move to attack B's weak point.
+\par
+\par B tries to capture W's four stones but up to 5, B's two group are in\cf1\b  double self-dansu.\cf0\b0
+\par
+\par }
+#
+(
+2[no]
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+2[sp]
+2[nq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+1[rr]
+1[ss]
+)
+5
+W[pq]
+B[oq]
+W[qq]
+B[rq]
+W[qs]

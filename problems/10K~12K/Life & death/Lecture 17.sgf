@@ -1,0 +1,35 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cq][dq][eq][br][er][ds]AB[go][bp][cp][dp][ep][fq][fr]LBC[Capture White
+
+
+What's Black's best way to attack the white stones?
+])
+(;AW[cq][dq][eq][br][er][ds]AB[go][bp][cp][dp][ep][fq][fr]
+;B[ar]
+;W[aq]
+;B[bq]
+;W[as]
+;B[cr]
+;W[cs]
+;B[ap]
+;W[dr]
+;B[ar]LB[ar:1][aq:2][bq:3][as:4][cr:5][cs:6][ap:7][dr:8][ar:9]C[Correct
+
+
+The best Black can do is making a pa (ko). Although the variation is a bit long, each move is forced. Up to 9 the white stones can be captured in a pae (ko).
+])
+(;AW[cq][dq][eq][br][er][ds]AB[go][bp][cp][dp][ep][fq][fr]
+;B[cr]
+;W[ar]
+;B[bs]
+;W[cs]LB[cr:1][ar:2][bs:3][cs:4]C[Wrong
+
+
+Playing first at the vital point doesn't work here. When White descends to 2, Black has no follow up. White is alive.
+])
+)

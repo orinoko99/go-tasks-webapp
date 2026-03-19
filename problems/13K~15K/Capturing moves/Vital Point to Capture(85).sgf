@@ -1,0 +1,45 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[rs]AW[qo][rp][pq][qq][rq][pr][ps][rs]AB[qm][pn][rn][ro][op][pp][qp][sp][oq][or][os]LBCR[rs]C[Where is a vital point?(85)
+
+
+It's\b  Black\b0 's turn.\f1
+It (W\'a1\'e2) looks like a vital point but is a slack move.
+
+Actually, W could have made a ko!!
+])
+(;AW[qo][rp][pq][qq][rq][pr][ps][rs]AB[qm][pn][rn][ro][op][pp][qp][sp][oq][or][os]
+;B[sr]LB[sr:1]C[Dia.1(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+
+B1 is \cf1\b a vital point which push the W to the death!!\cf0\b0
+Continue next page.
+
+])
+(;AW[qo][rp][pq][qq][rq][pr][ps][rs]AB[qm][pn][rn][ro][op][pp][qp][sp][oq][or][sr][os]LB[qr:A]
+;W[sq]
+;B[rr]LB[sq:1][rr:2][qr:A]C[Dia.2(Continue)
+
+{\colortbl ;\red0\green0\blue255;}
+
+W had to cut the one stone but climbing at is a\cf1\b  final blow\cf0\b0 .
+
+W wants to dansu at A but it's a self-dansu.
+])
+(;AW[qo][rp][pq][qq][rq][pr][ps][rs]AB[qm][pn][rn][ro][op][pp][qp][sp][oq][or][os]LB[so:A]
+;B[sq]
+;W[sr]
+;B[so]LB[sq:1][sr:2][so:3][so:A]C[Dia.3(Gote endgame)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Creeping at 1 is pointless.
+Up to 3, B just did a\cf1\b  gote endgame\cf0\b0 .
+])
+)

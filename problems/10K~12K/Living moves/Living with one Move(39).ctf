@@ -1,0 +1,132 @@
+//19
+4
+Living with one Move(39)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Living space is very narrow.
+\par
+\par The question is whether White can live or not.
+\par
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+1[oq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[pr]
+2[qr]
+2[sr]
+1[ns]
+2[os]
+2[ss]
+)
+0
+Dia. 01 Death
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White can't live with expanding his living space at 1.
+\par \cf1\b Black 2\cf0\b0  is a \cf1\b severe\cf0\b0  vital point.
+\par
+\par Black has to be careful. If he plays at A instead of 2, White can live with 2.
+\par
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+1[oq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[pr]
+2[qr]
+2[sr]
+1[ns]
+2[os]
+65[rs]
+2[ss]
+)
+2
+W[qq]
+B[qs]
+Dia. 02 Vital Point of Living but
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is the\cf1\b  vital point for living\cf0\b0 .
+\par At the important moment when Black throws-in at 2, White captures with 3 and Black takes away the eye with 4, so White dies.
+\par
+\par White could have lived. Where should White play with 3?
+\par There was a small hint in the previous diagram.
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+1[oq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[pr]
+2[qr]
+2[sr]
+1[ns]
+2[os]
+2[ss]
+)
+4
+W[qs]
+B[rr]
+W[rs]
+B[qq]
+Dia. 03 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against Black's throw in at \'a1\'e3, White shouldn't take, but connect at 1.
+\par
+\par After Black 2, White's \cf1\b snapback\cf0\b0  with 3 \cf1\b works\cf0\b0  so White lives.
+\par
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+1[oq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[pr]
+2[qr]
+5[rr]
+2[sr]
+1[ns]
+2[os]
+2[qs]
+2[ss]
+)
+3
+W[qq]
+B[rs]
+W[sr]

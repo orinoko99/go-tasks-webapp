@@ -1,0 +1,83 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qh][jn][gp][np][nq]AB[dd][jd][pd][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[cl:B][el:A]
+;W[cf]
+;B[fd]
+;W[dl]LB[cf:1][fd:2][dl:3][cl:B][el:A]C[Training problems(46)
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Here's the homework from the last problem
+
+We learned last time that Black's attachments at both A and B don't lead to anything good for Black.  Since that's the case, what should we do?
+
+\lang1042\f0\fs18
+])
+(;AW[cf][qh][dl][jn][gp][np][nq]AB[dd][fd][jd][pd][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[ek]
+;W[el]
+;B[fl]
+;W[fm]
+;B[gl]
+;W[en]LB[ek:1][el:2][fl:3][fm:4][gl:5][en:6]C[Dia.1 White 6 is good shape
+
+{\colortbl ;\red255\green0\blue0;}
+Usually in Baduk books they encourage us to play the diagonal move of Black 1, right?  White will push out with 2, then Black will hit the head of two stones with 3.
+
+When White plays 4 we come to an important juncture.  We can't play a weak move like Black 5, it has no power.  When White plays the tiger's mouth at 6, it makes good shape for him.\cf1\b   Now it's not clear where Black should play.\cf0\b0
+
+\lang1042\f1\fs18
+
+])
+(;AW[cf][qh][dl][el][fm][jn][gp][np][nq]AB[dd][fd][jd][pd][dj][jj][pj][qj][ek][fl][dn][pn][dp][jp][pp][oq]LB[ci:A][co:B]
+;B[em]
+;W[bl]LB[em:1][bl:2][ci:A][co:B]C[Dia.2 Complex
+
+{\colortbl ;\red255\green0\blue0;}
+In response to the marked White stone, Black should cut straight away.  Even then, White can jump at 2 and this rather hurts for Black.
+
+Next, White A and B are matbogi.  Black should get a good result if he responds correctly, but \cf1 since this is complex \cf0 it is easy for the weaker player to make a mistake.  Simple is best.
+
+\lang1042\f1\fs18
+
+])
+(;CR[dl]AW[qh][dl][jn][gp][np][nq]AB[dd][fd][jd][pd][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[cf:][ch:B]
+;B[eg]
+;W[ch]
+;B[ei]LB[eg:1][ch:2][ei:3][cf:][ch:B]CR[dl]C[Dia.3 An easy to understand way to attack
+
+{\colortbl ;\red0\green0\blue255;}
+Black's large knight's move at 1 aiming to cover the White stone is an easy to understand move.  So we don't directly respond to the marked White stone, instead we start a fight on the other side.
+
+When White plays 2 Black plays the diagonal of 3 to stay connected and keep up the pressure.\cf1\b This is a simple and safe way to attack.\cf0\b0   White is in for a long, bitter struggle.
+\lang1042\f1\fs18
+])
+(;CR[cf]AW[cf][qh][jn][gp][np][nq]AB[dd][fd][jd][pd][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[bh:?][dl:]
+;B[dg]
+;W[df]
+;B[eg]
+;W[bh]
+;B[ci]LB[dg:1][df:2][eg:3][bh:4][ci:5][bh:?][dl:]CR[cf]C[Dia.4 Another way
+
+{\colortbl ;\red0\green0\blue255;}
+Black could also try the \cf1\b shoulder hit\cf0\b0  at 1, it's a good move.  White's\lang1042\f1\fs18\'a1\'e2\lang1033\f0\fs16  marked stone in the upper left is not quite so useful.
+
+Up to 5, we see that even though White can slide and make some eye space the White stone towards the bottom is getting attacked.
+
+\lang1042\f1\fs18
+
+
+])
+(;AW[qh][jn][gp][np][nq]AB[dd][jd][pd][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;W[cf]
+;B[fd]
+;W[dl]LB[cf:1][fd:2][dl:3]C[No diagram name
+
+
+
+])
+)

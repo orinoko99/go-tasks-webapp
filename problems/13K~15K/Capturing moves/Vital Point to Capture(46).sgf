@@ -1,0 +1,54 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[po][qo][ro][so][op][oq][rq][or][os][rs]AB[qp][rp][sp][qq][pr][sr][ps]LBC[The Vital Point for Death (46)
+
+
+\b White to Play.\b0
+It is impossible for white to save the two white stones that have been engulfed by black.
+
+The point of this problem is to consider how to sacrifice them efficiently and lead black into a dead shape.
+])
+(;AW[po][qo][ro][so][op][oq][rq][or][os][rs]AB[qp][rp][sp][qq][pr][sr][ps]LB[sq:A]
+;W[qr]
+;B[pq]
+;W[rr]LB[qr:1][pq:2][rr:3][sq:A]C[Diagram 1 (Correct)
+
+
+White 1 is a good starting point. If you can find this move, there is no way you will get this problem wrong.
+
+Black 2 is unavoidable. Black has to avoid the snapback.
+
+White connects at 3 and black is dead. Now even if black connects at \b\f1 A\b0\f0 , it does no good.
+])
+(;CR[qr]AW[po][qo][ro][so][op][oq][rq][or][qr][os][rs]AB[qp][rp][sp][qq][pr][sr][ps]
+;B[rr]
+;W[pq]LB[rr:1][pq:2]CR[qr]C[Diagram 2 (Snapback)
+
+
+This is a variant of the correct answer.
+As mentioned before, in response to white \'a1\'e2 if black tries to resist and cuts with 1, white creates a snapback at 2.
+
+In this case, black is also dead.
+
+As soon as black suffers the blow of white \'a1\'e2, black has no way to live.
+])
+(;AW[po][qo][ro][so][op][oq][rq][or][os][rs]AB[qp][rp][sp][qq][pr][sr][ps]LB[qs:A]
+;W[rr]
+;B[qr]
+;W[pp]
+;B[sq]LB[rr:1][qr:2][pp:3][sq:4][qs:A]C[Diagram 3 (Alive in Pik)
+
+
+It is a careless move for white to connect with 1.
+
+Black 2 is a good move that applies the proverb stating, "the enemy's key point is your own".
+
+If white plays 3, black plays 4 and lives in pik.
+
+Instead of 3, if white plays at 4, it just allows black to live with more points when black plays \b\f1 A\b0\f0 .
+])
+)

@@ -1,0 +1,50 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[rs]AW[jo][qo][mp][np][op][pp][kq][mq][qq][rq][kr][sr][ls][rs]AB[nq][oq][pq][lr][mr][qr][rr][ns]LBCR[rs]C[Can be alive by one move(65)
+
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\lang1042\f0
+W played at \'a1\'e2.
+This is a hasty move.
+B has chance to be alive!!
+
+])
+(;AW[jo][qo][mp][np][op][pp][kq][mq][qq][rq][kr][sr][ls][rs]AB[nq][oq][pq][lr][mr][qr][rr][ns]LB[pr:A][qs:?]
+;B[qs]
+;W[or]LB[qs:1][or:2][pr:A][qs:?]C[Dia.1(Rash)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Blocking at 1 seems to be strong but it is\cf1\b  a rash move \cf0\b0 because B's eye shape turns to the flower five which is the eye shape of death.
+])
+(;AW[jo][qo][mp][np][op][pp][kq][mq][qq][rq][kr][sr][ls][rs]AB[nq][oq][pq][lr][mr][qr][rr][ns]LB[pr:A]
+;B[pr]
+;W[or]
+;B[qs]
+;W[os]LB[pr:1][or:2][qs:3][os:4][pr:A]C[Dia.2(Good attack)
+
+{\colortbl ;\red0\green0\blue255;}
+
+B's connecting move is quite strong but \cf1\b playing inside at 2 is a good attack.\cf0\b0
+
+Up to 4, B can't make two eyes.
+
+])
+(;AW[jo][qo][mp][np][op][pp][kq][mq][qq][rq][kr][sr][ls][rs]AB[nq][oq][pq][lr][mr][qr][rr][ns]LB[os:B][ps:A]
+;B[or]
+;W[qs]
+;B[pr]LB[or:1][qs:2][pr:3][os:B][ps:A]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Making an eye is\cf1\b  the vital point of life.
+\cf0\b0
+W can't play at A because B makes three stones are in chokchoksu.(playing at B)
+
+])
+)

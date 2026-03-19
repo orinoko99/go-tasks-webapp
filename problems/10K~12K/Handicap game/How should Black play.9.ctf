@@ -1,0 +1,175 @@
+//19
+5
+How should Black play?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par Normally White would just play A but White decided to play 3 instead.
+\par How should Black answer?\lang1042\f1
+\par
+\par }
+#
+(
+65[oc]
+1[dd]
+1[jd]
+1[nd]
+1[pd]
+1[qe]
+2[pf]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[cn]
+1[dp]
+2[gp]
+1[jp]
+1[pp]
+)
+3
+W[qc]
+B[re]
+W[ob]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 It's somehow a weird move, but Black 1 is the correct answer. If White plays A Black will cut B.
+\par So White should play-\lang1042\f1
+\par
+\par }
+#
+(
+65[nb]
+2[ob]
+66[pb]
+2[qc]
+1[dd]
+1[jd]
+1[nd]
+1[pd]
+1[qe]
+1[re]
+2[pf]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[cn]
+1[dp]
+2[gp]
+1[jp]
+1[pp]
+)
+1
+B[oc]
+2nd Dia. Good for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White has to play 1. Then Black 2 is a good move. White plays 3 and 5. Black will now play 6. White's \lang1042\f1\'a1\'e2\lang1043\f0  stones became weak.
+\par If White tenukis 5 Black will play A, and White would die.\lang1042\f1
+\par
+\par }
+#
+(
+2[ob]
+65[sb]
+1[oc]
+2[qc]
+1[dd]
+1[jd]
+1[nd]
+1[pd]
+1[qe]
+1[re]
+6[pf]
+6[qf]
+1[dj]
+1[jj]
+1[pj]
+1[cn]
+1[dp]
+2[gp]
+1[jp]
+1[pp]
+)
+6
+W[pb]
+B[nb]
+W[mc]
+B[nc]
+W[rb]
+B[ph]
+3rd Dia. Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a big mistake. White will answer 2 and then Black 3 is an overplay. White plays 4 and 6.
+\par If Black plays 3 somewhere else-\lang1042\f1
+\par
+\par
+\par }
+#
+(
+2[ob]
+2[qc]
+1[dd]
+1[jd]
+1[nd]
+1[pd]
+1[qe]
+1[re]
+2[pf]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[cn]
+1[dp]
+2[gp]
+1[jp]
+1[pp]
+)
+8
+B[nb]
+W[oc]
+B[nc]
+W[od]
+B[oe]
+W[pe]
+B[qd]
+W[rc]
+4th Dia. Bad for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black will play 1, White plays 2 and 4.
+\par Black doesn't have to worry about the cut at A.
+\par This result is not that bad for Black, but compared to the correct diagram it lacks a bit.\lang1042\f1
+\par
+\par }
+#
+(
+1[nb]
+2[ob]
+65[lc]
+2[oc]
+2[qc]
+1[dd]
+1[jd]
+1[nd]
+1[pd]
+1[qe]
+1[re]
+2[pf]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[cn]
+1[dp]
+2[gp]
+1[jp]
+1[pp]
+)
+7
+B[od]
+W[nc]
+B[mc]
+W[mb]
+B[lb]
+W[na]
+B[ph]

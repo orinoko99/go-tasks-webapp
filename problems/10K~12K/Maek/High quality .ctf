@@ -1,0 +1,137 @@
+//19
+4
+High quality
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  Black\b0 's turn.\f2
+\par \lang1042\f0
+\par This is very high quality problem.
+\par
+\par
+\par }
+#
+(
+2[nn]
+2[qn]
+2[no]
+1[oo]
+1[po]
+2[qo]
+1[mp]
+1[np]
+2[op]
+2[pp]
+1[qp]
+1[rp]
+1[mq]
+2[nq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+)
+0
+Dia.1(The worst result)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Dansu at 1 can rescue three stones at the corner but it is\cf1\b  the worst result.\cf0\b0
+\par
+\par Connecting at 2 is a clever move so B can't rescue two stones and even B's groups are separate.
+\par }
+#
+(
+2[nn]
+2[qn]
+2[no]
+1[oo]
+1[po]
+2[qo]
+1[mp]
+1[np]
+2[op]
+2[pp]
+1[qp]
+1[rp]
+1[mq]
+2[nq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+)
+4
+B[qr]
+W[oq]
+B[pq]
+W[nr]
+Dia.2(Better than before)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \cf1\b B1 looks like a tesuji\cf0\b0  but abandoning two stones are not right answer.
+\par
+\par }
+#
+(
+2[nn]
+2[qn]
+2[no]
+1[oo]
+1[po]
+2[qo]
+1[mp]
+1[np]
+2[op]
+2[pp]
+1[qp]
+1[rp]
+1[mq]
+2[nq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+)
+6
+B[or]
+W[pq]
+B[qr]
+W[pn]
+B[pr]
+W[on]
+Dia.3(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Cut and dansu(B1,3) is a great team work!!
+\par
+\par Up to 5, W's group is dead.
+\par
+\par }
+#
+(
+2[nn]
+2[qn]
+2[no]
+1[oo]
+1[po]
+2[qo]
+1[mp]
+1[np]
+2[op]
+2[pp]
+1[qp]
+1[rp]
+1[mq]
+2[nq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+)
+5
+B[oq]
+W[pq]
+B[qr]
+W[or]
+B[pr]

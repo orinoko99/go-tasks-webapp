@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cl][bm][cn][co][do][ep][cq][eq][cr][er][ds]AB[an][bn][bo][bp][cp][dp][bq][dq][dr]LBC[Save Black
+
+
+Where should Black play to save his corner stones?
+])
+(;AW[cl][bm][cn][co][do][ep][cq][eq][cr][er][ds]AB[an][bn][bo][bp][cp][dp][bq][dq][dr]
+;B[bs]
+;W[cs]
+;B[br]
+;W[es]LB[bs:1][cs:2][br:3][es:4]C[Correct
+
+
+The tesuji at 1 is the correct move to live. White needs to connect at 2 and Black lives comfortably at 3.
+])
+(;AW[cl][bm][cn][co][do][ep][cq][eq][cr][er][ds]AB[an][bn][bo][bp][cp][dp][bq][dq][dr]
+;B[br]
+;W[bs]
+;B[cs]
+;W[cr]
+;B[ar]
+;W[ap]LB[br:1][bs:2][cs:3][cr:4][ar:5][ap:6]C[Wrong
+
+
+Just blocking at 1 is not good. White sacrifices two stones and captures all black stones up to 6.
+])
+)

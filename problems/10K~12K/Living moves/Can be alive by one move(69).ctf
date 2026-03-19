@@ -1,0 +1,147 @@
+//19
+4
+Can be alive by one move(69)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\tx1697\lang1033\f0\fs18
+\par It's\b  Black\b0 's turn.\f1\tab
+\par \pard\lang1042\f2
+\par W played at \'a1\'e2.
+\par
+\par This is mistake!!
+\par B has chance to live.
+\par Where is the vital point??
+\par
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[mr]
+1[nr]
+1[or]
+2[ms]
+2[ns]
+6[os]
+1[ps]
+)
+0
+Dia.1(Good attack)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\f0\fs18
+\par Connecting at 1 is a bed move.
+\par
+\par Playing inside at 2 is painful for B because up to 4, B can't play at A.
+\par
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[mr]
+1[nr]
+1[or]
+65[qr]
+2[ms]
+2[ns]
+2[os]
+1[ps]
+)
+4
+B[pr]
+W[rr]
+B[rs]
+W[sr]
+Dia.2(Enemy's vital point)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par Playing inside at 1 is mistake.
+\par B2 is \cf1\b the enemy's vital point\cf0\b0  so B can make a ko.
+\par
+\par Actually, W1 is a bed respond.
+\par
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[mr]
+1[nr]
+1[or]
+5[pr]
+2[ms]
+2[ns]
+2[os]
+1[ps]
+)
+4
+W[rs]
+B[rr]
+W[qs]
+B[ss]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par \cf1\b One space jump at 1 is a good move \cf0\b0 and also the vital point of 2 to 1 point.
+\par B2 is also proper move to live.
+\par
+\par }
+#
+(
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[mr]
+1[nr]
+1[or]
+2[ms]
+2[ns]
+2[os]
+1[ps]
+)
+5
+B[rs]
+W[sr]
+B[qr]
+W[pr]
+B[or]

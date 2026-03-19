@@ -1,0 +1,188 @@
+//19
+5
+Improve your rank
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par White played 1, Black 2, White 3 and Black 4.
+\par White decided that A is not a good move so this time he played 1.
+\par How should Black answer?\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+1[dp]
+2[fp]
+1[jp]
+65[np]
+1[pp]
+1[eq]
+2[fq]
+)
+5
+W[nq]
+B[pn]
+W[jn]
+B[mp]
+W[pq]
+1st Dia. Terrible for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a mistake. As the sequence shows White will take Black's corner in sente and then play 6. It's very painful for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[fp]
+1[jp]
+1[mp]
+1[pp]
+1[eq]
+2[fq]
+2[nq]
+2[pq]
+)
+6
+B[np]
+W[qq]
+B[qp]
+W[dg]
+B[fd]
+W[dl]
+2nd Dia. Black 5 is a bad move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black has to play 1. White will answer 2. Black 3 and 5 are mistake. It makes Black's \lang1042\f1\'a1\'e3\lang1043\f0  stones weaker.
+\par Black should play 5 somewhere else-\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[fp]
+5[jp]
+5[mp]
+1[pp]
+1[eq]
+2[fq]
+2[nq]
+2[pq]
+)
+6
+B[qq]
+W[qr]
+B[qp]
+W[np]
+B[pr]
+W[mo]
+3rd Dia. Black 3 is overplay
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black has to play 1, White will answer 2. Then Black 3 is an overplay. White will  cut with 4.\lang1042\f1
+\par \lang1043\f0 This result is favorable for White, especially in a handicap game.\lang1042\f1
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[fp]
+1[jp]
+1[mp]
+2[np]
+1[pp]
+1[qp]
+1[eq]
+2[fq]
+2[nq]
+2[pq]
+1[qq]
+2[qr]
+)
+4
+B[mo]
+W[no]
+B[nn]
+W[mn]
+4th Dia White's wish
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If Black plays 1, White will answer 3, Black plays 3. White 4 and 6 are good moves. This result is slightly good for White.
+\par We will discuss how Black should play in the next problem.\lang1042\f1
+\par
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+2[mn]
+1[nn]
+1[pn]
+1[mo]
+2[no]
+1[dp]
+2[fp]
+1[jp]
+1[mp]
+2[np]
+1[pp]
+1[qp]
+1[eq]
+2[fq]
+2[nq]
+2[pq]
+1[qq]
+2[qr]
+)
+6
+B[nm]
+W[ln]
+B[mq]
+W[mr]
+B[lr]
+W[or]

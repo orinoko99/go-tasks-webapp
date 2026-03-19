@@ -1,0 +1,78 @@
+//19
+3
+Possible to Cut?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Read carefully and find out whether Black can cut White.
+\par }
+#
+(
+1[cl]
+1[cn]
+1[dn]
+2[co]
+2[fo]
+2[ho]
+2[cp]
+2[ep]
+1[cq]
+1[dq]
+1[fq]
+2[hq]
+2[iq]
+1[gr]
+1[hr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black can cut White with the diagonal choke at 1 which makes matbogi/miai of 2 and 3.
+\par
+\par }
+#
+(
+1[cl]
+1[cn]
+1[dn]
+2[co]
+2[fo]
+2[ho]
+2[cp]
+2[ep]
+1[cq]
+1[dq]
+1[fq]
+2[hq]
+2[iq]
+1[gr]
+1[hr]
+)
+3
+B[eo]
+W[dp]
+B[fp]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Pushing at 1 is crude play and White is relieved to reinforce against his weak points at 2.
+\par
+\par }
+#
+(
+1[cl]
+1[cn]
+1[dn]
+2[co]
+2[fo]
+2[ho]
+2[cp]
+2[ep]
+1[cq]
+1[dq]
+1[fq]
+2[hq]
+2[iq]
+1[gr]
+1[hr]
+)
+2
+B[dp]
+W[do]

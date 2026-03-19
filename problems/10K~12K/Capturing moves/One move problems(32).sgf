@@ -1,0 +1,68 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[lo][mo][no][oo][lp][pp][qp][rp][lq][rq][mr][rr][ls]AB[mp][np][op][pq][qq][nr][qr][os][qs]LBC[One move problems(32)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 This is a Pae right?
+
+You have to read carefully and be sure of the result when you play Baduk.
+
+\lang1042\f0\fs18
+])
+(;AW[lo][mo][no][oo][lp][pp][qp][rp][lq][rq][mr][rr][ls]AB[mp][np][op][pq][qq][nr][qr][os][qs]
+;W[nq]
+;B[oq]
+;W[mq]
+;B[pr]
+;W[ns]LB[nq:1][oq:2][mq:3][pr:4][ns:5]C[Dia.1 Pae is not best
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 What if White wedges at 1?  This move looks okay but Black plays 2, White connects at 3, and then Black can play 4 to set the shape up for a Pae.
+
+\cf1\b This is not the best result\cf0\b0 .\lang1042\f0\fs18
+])
+(;AW[lo][mo][no][oo][lp][pp][qp][rp][lq][rq][mr][rr][ls]AB[mp][np][op][pq][qq][nr][qr][os][qs]
+;W[ns]
+;B[oq]
+;W[mq]
+;B[pr]
+;W[nq]LB[ns:1][oq:2][mq:3][pr:4][nq:5]C[Dia.2 Still Pae
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 White 1 seems like it might work but Black will play 2, then the shape \cf1\b still results in Pae\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 White of course please 3 and 5 to make the Pae.
+
+You can change the order around it doesn't matter.
+
+\lang1042\f0\fs18
+
+])
+(;AW[lo][mo][no][oo][lp][pp][qp][rp][lq][rq][mr][rr][ls]AB[mp][np][op][pq][qq][nr][qr][os][qs]
+;W[pr]
+;B[mq]
+;W[oq]
+;B[nq]
+;W[or]LB[pr:1][mq:2][oq:3][nq:4][or:5]C[Dia.3 Correct
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White should play ont he inside, and White's placement attack at 1 is the \cf1\b vital point\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 When you play this move it's clear Black has no way to counter it.
+
+White plays 3 and 5 and now Black is dead, definitely not Bik.
+
+\lang1042\f0\fs18
+])
+(;AW[lo][mo][no][oo][lp][pp][qp][rp][lq][rq][mr][rr][ls]AB[mp][np][op][pq][qq][nr][qr][os][qs]LBC[No diagram name
+
+
+
+])
+)

@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[op][pp][qp][rp][sp][mq][nq][mr][sr][ms][qs]AB[oq][pq][qq][rq][sq][nr][ns][ps]LBC[One move problems(43)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 There is a weakness in Black's shape and it's up to us to find it.  Gather up your confidence at try to read it out from beginning to end.
+
+\lang1042\f0\fs18
+])
+(;AW[op][pp][qp][rp][sp][mq][nq][mr][sr][ms][qs]AB[oq][pq][qq][rq][sq][nr][ns][ps]
+;W[pr]
+;B[or]
+;W[os]
+;B[rr]LB[pr:1][or:2][os:3][rr:4]C[Dia.1 Not a Pae
+
+If you think this position is Pae you would play at 1, but it really isn't.  Even if you throw in at 3 Black can play 4 and capture that stone.
+\lang1042\f1\fs18
+
+
+
+])
+(;AW[op][pp][qp][rp][sp][mq][nq][mr][pr][sr][ms][os][qs]AB[oq][pq][qq][rq][sq][nr][or][rr][ns]LB[ss:A]
+;W[rs]
+;B[ps]LB[rs:1][ps:2][ss:A]C[Dia.2 Lives in double pae
+
+White 1 would be the next move and  then Black will take at 2.  Notice how White cannot connect at A, that'll let Black live.  If White finds a pae threat it doesn't matter.  Taking Black 2 will only result in Black taking at A.  Black lives in double pae.
+\lang1042\f1\fs18
+
+])
+(;AW[op][pp][qp][rp][sp][mq][nq][mr][sr][ms][qs]AB[oq][pq][qq][rq][sq][nr][ns][ps]LB[or:A][qr:C][os:B][rs:A]
+;W[or]
+;B[pr]
+;W[rr]LB[or:1][pr:2][rr:3][or:A][qr:C][os:B][rs:A]C[Dia.3 Correct/ Start with Dansu
+
+You should first play the dansu of White 1.  Then, White should make an eye in the corner with A.  If Black plays at A, no problem, White will play at B.  If Black B, White C.  There's nothing Black can do.
+\lang1042\f1\fs18
+
+])
+(;AW[op][pp][qp][rp][sp][mq][nq][mr][sr][ms][qs]AB[oq][pq][qq][rq][sq][nr][ns][ps]LBC[No diagram name
+
+
+
+])
+)

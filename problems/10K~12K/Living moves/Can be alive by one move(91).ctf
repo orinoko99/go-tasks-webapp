@@ -1,0 +1,124 @@
+//19
+4
+Can be alive by one move(91)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\ltrpar\f1
+\par First move is important.\f2
+\par \lang1042\f0
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[ro]
+2[np]
+1[op]
+2[pp]
+2[rp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+2[nr]
+1[rr]
+)
+0
+Dia.1(Eye spaces are small)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par How about extending eye space?
+\par \cf1\b
+\par W2 is a good attack\cf0\b0  so up to 6, B can't live.
+\par
+\par Eye spaces are small to live.
+\par
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[ro]
+2[np]
+1[op]
+2[pp]
+2[rp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+2[nr]
+1[rr]
+)
+6
+B[or]
+W[sr]
+B[sq]
+W[rq]
+B[ss]
+W[qs]
+Dia.2(Can be alive??)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Playing at 2 to 1 point is also bed move.
+\par After 2, B has nothing to do anymore.
+\par
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[ro]
+2[np]
+1[op]
+2[pp]
+2[rp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+2[nr]
+65[or]
+66[pr]
+1[rr]
+)
+2
+B[sr]
+W[qs]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Diagonal move is\cf1\b  the right vital point of life.
+\par
+\par \cf0\b0 B has two eyes at the right and left side.
+\par
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[ro]
+2[np]
+1[op]
+2[pp]
+2[rp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+65[sq]
+2[nr]
+1[rr]
+65[qs]
+)
+3
+B[qs]
+W[rq]
+B[sr]

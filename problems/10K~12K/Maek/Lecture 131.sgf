@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cm][co][eo][fo][bp][bq][cr][dr]AB[fp][gp][cq][dq][eq][iq][br]LBC[Capturing Race
+
+Black is behind in liberties. Where should Black play to capture the two white stones?
+])
+(;AW[cm][co][eo][fo][bp][bq][cr][dr]AB[fp][gp][cq][dq][eq][iq][br]
+;B[bs]
+;W[ar]
+;B[er]
+;W[aq]
+;B[ds]
+;W[as]
+;B[cs]LB[bs:1][ar:2][er:3][aq:4][ds:5][as:6][cs:7]C[Correct
+
+Descending towards the weak stones is the right way to gain most liberties. Like this, Black can win the capturing race.
+
+])
+(;AW[cm][co][eo][fo][bp][bq][cr][dr]AB[fp][gp][cq][dq][eq][iq][br]
+;B[er]
+;W[bs]
+;B[ar]
+;W[aq]
+;B[ds]
+;W[as]LB[er:1][bs:2][ar:3][aq:4][ds:5][as:6]C[Wrong
+
+Just filling a liberty from the outside won't do it. White plays atari from his weak stones and is ahead by one liberty.
+
+])
+(;AW[cm][co][eo][fo][bp][bq][cr][dr]AB[fp][gp][cq][dq][eq][iq][br]
+;B[ar]
+;W[bs]
+;B[er]
+;W[aq]
+;B[ds]
+;W[as]LB[ar:1][bs:2][er:3][aq:4][ds:5][as:6]C[Wrong
+
+Beware of where to descend! Descending towards the strong stones doesn't gain any liberties. Again, White wins the capturing race.
+
+])
+(;AW[cm][co][eo][fo][bp][bq][cr][dr]AB[fp][gp][cq][dq][eq][iq][br]
+;B[cs]
+;W[ar]
+;B[bs]
+;W[ds]
+;B[er]
+;W[as]LB[cs:1][ar:2][bs:3][ds:4][er:5][as:6]C[Wrong
+
+Black shouldn't thoughtlessly take a liberty. White simply plays atari from the outside and wins the capturing race.
+
+])
+)

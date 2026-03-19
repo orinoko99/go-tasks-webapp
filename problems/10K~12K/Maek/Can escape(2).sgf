@@ -1,0 +1,62 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[no]AW[op][pq][qq][or][rr][sr]AB[no][pp][qp][rp][nq][oq][rq]LBCR[no]C[Can escape?(2)
+
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+B covered one stone.
+The stone can escape??
+
+])
+(;CR[pp][qp][rp][rq]AW[op][pq][qq][or][rr][sr]AB[no][pp][qp][rp][nq][oq][rq]
+;W[oo]
+;B[on]
+;W[po]
+;B[pn]
+;W[qo]
+;B[qn]
+;W[ro]LB[oo:1][on:2][po:3][pn:4][qo:5][qn:6][ro:7]CR[pp][qp][rp][rq]C[Dia.1(Capture B's group?)
+
+{\colortbl ;\red255\green0\blue0;}
+
+How about W1??
+
+B has to play at 2 and 4 but B6 is a\cf1\b  big mistake.
+\cf0\b0
+Up to 7, it becomes the capturing race and W has one more liberty.
+
+])
+(;CR[qo]AW[oo][po][qo][op][pq][qq][or][rr][sr]AB[on][pn][no][pp][qp][rp][nq][oq][rq]
+;B[ro]
+;W[qn]
+;B[qm]
+;W[rn]
+;B[rm]LB[ro:1][qn:2][qm:3][rn:4][rm:5]CR[qo]C[DIa.2(Loose ladder)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Blocking at underside(B1) is the right answer.
+
+B has one more liberty in this case and we called this result that\cf1\b  'Loose ladder'
+\cf0\b0
+])
+(;CR[op]AW[dd][op][pq][qq][mr][nr][or][rr][sr]AB[pp][qp][rp][mq][nq][oq][rq]LB[oo:A]
+;B[no]LB[no:1][oo:A]CR[op]C[DIa.3(If there is a ladder breaker..)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\b\f1 <An applied problem\f2 >\b0
+\lang1042\f0
+In this case\cf1\b ,there is a ladder breaker\cf0\b0  so W cut at 1 but this is a over play!
+
+B still has a solution that \cf1\b to make a net.
+\cf0\b0
+])
+)

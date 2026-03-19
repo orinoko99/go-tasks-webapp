@@ -1,0 +1,61 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mn][nn][on][pn][rn][qo][lp][rp][jq][mq][nq][rq][rr]AB[oo][po][np][pp][qp][oq][qq][qr]LBC[Can be alive by one move(100)
+
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\lang1042\f0
+\lang1033\f1 First move is important.\f2
+\lang1042\f0
+])
+(;AW[mn][nn][on][pn][rn][qo][lp][rp][jq][mq][nq][rq][rr]AB[oo][po][np][pp][qp][oq][qq][qr]
+;B[no]
+;W[pr]
+;B[or]
+;W[qs]LB[no:1][pr:2][or:3][qs:4]C[Dia.1(Gets into trouble)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Making an eye(B1) gets into trouble.
+
+W2 is severe so\cf1\b  B can't make another eye at the bottom.
+\cf0\b0
+])
+(;AW[mn][nn][on][pn][rn][qo][lp][rp][jq][mq][nq][rq][rr]AB[oo][po][np][pp][qp][oq][qq][qr]
+;B[nr]
+;W[pr]
+;B[ps]
+;W[os]
+;B[qs]
+;W[or]
+;B[pq]
+;W[no]LB[nr:1][pr:2][ps:3][os:4][qs:5][or:6][pq:7][no:8]C[Dia.2(Empty triangle)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+Bending at 1 is\cf1\b  a careless move.
+\cf0\b0
+W2 is a good attack so W can make \cf2\b empty triangle. \cf0\b0
+
+Up to 8, B's group is dead.
+])
+(;AW[mn][nn][on][pn][rn][qo][lp][rp][jq][mq][nq][rq][rr]AB[oo][po][np][pp][qp][oq][qq][qr]
+;B[pr]
+;W[no]
+;B[nr]LB[pr:1][no:2][nr:3]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+This result is also\cf1\b  the enemy's vital point is your own.
+
+\cf0\b0 B1 is the only way to live.
+If W tried to erase upper eye, B can make an eye at the bottom.
+
+\cf1\b 2 and 3 is miai.\cf0\b0
+
+])
+)

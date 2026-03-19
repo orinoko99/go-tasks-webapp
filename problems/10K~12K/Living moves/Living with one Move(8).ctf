@@ -1,0 +1,164 @@
+//19
+5
+Living with one Move(8)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par There is a double dansu at \b A\b0 .
+\par Find a move to save the White group while defending this weakness.
+\par
+\par
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[mq]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+1[rq]
+1[mr]
+2[nr]
+2[or]
+65[pr]
+2[rr]
+1[ms]
+2[ns]
+2[qs]
+1[rs]
+)
+0
+Dia. 01 Careless
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is one of the moves which defends the double dansu, but it is \cf1\b careless\cf0\b0 .
+\par If Black plays dansu at 2, the situation becomes strange.
+\par
+\par White got a pae, but it is not the best result.
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[mq]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+1[rq]
+1[mr]
+2[nr]
+2[or]
+2[rr]
+1[ms]
+2[ns]
+2[qs]
+1[rs]
+)
+2
+W[pr]
+B[sr]
+Dia. 02 Possible to Throw-in
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 looks like a better connection but Black's \cf1\b throw-in\cf0\b0  at 2 is a good move.
+\par
+\par If White plays at A, Black plays at B and there is no big difference between this shape and the shape in the previous diagram.
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[mq]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+1[rq]
+1[mr]
+2[nr]
+2[or]
+65[pr]
+2[rr]
+66[sr]
+1[ms]
+2[ns]
+2[qs]
+1[rs]
+)
+2
+W[ps]
+B[qr]
+Dia. 03 Forgot About the Double Dansu?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par What happened?
+\par White 1 is a really bad move, it seems White forgot about the \cf1\b double dansu\cf0\b0 .
+\par
+\par After Black 2, White is dead.
+\par
+\par
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[mq]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+1[rq]
+1[mr]
+2[nr]
+2[or]
+2[rr]
+1[ms]
+2[ns]
+2[qs]
+1[rs]
+)
+2
+W[ss]
+B[pr]
+Dia. 04 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is the\cf1\b  only vital point\cf0\b0 .
+\par After this move, A and B become miai, so White can live easily.
+\par
+\par }
+#
+(
+1[pp]
+1[qp]
+1[rp]
+1[mq]
+1[nq]
+1[oq]
+2[pq]
+2[qq]
+1[rq]
+66[sq]
+1[mr]
+2[nr]
+2[or]
+2[rr]
+1[ms]
+2[ns]
+65[ps]
+2[qs]
+1[rs]
+)
+1
+W[qr]

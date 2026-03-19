@@ -1,0 +1,138 @@
+//19
+4
+Living with one Move (29)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 .
+\par "Oh, it is the same problem!"-Some people might think like this.
+\par However this time all the outside liberties are filled up which makes the difference compared to the \b 28th\b0  problem.
+\par
+\par Well, what is the result this time?
+\par Can Black live unconditionally?
+\par
+\par }
+#
+(
+2[rm]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+2[oq]
+1[pq]
+2[or]
+1[pr]
+2[qr]
+1[rr]
+2[ps]
+)
+0
+Dia. 01 Same Try
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par What is going to happen if Black plays like in the \b 28th\b0  problem?
+\par So Black descends at 1.
+\par
+\par If White plays at 2, Black plays sente with 3 and lives with the descending move at 5.
+\par However is this the right answer?
+\par
+\par }
+#
+(
+2[rm]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+2[oq]
+1[pq]
+2[or]
+1[pr]
+2[qr]
+1[rr]
+2[ps]
+)
+5
+B[rs]
+W[qs]
+B[qq]
+W[os]
+B[sp]
+Dia. 02 Severe White 1
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par No~
+\par Against Black \'a1\'e3, White has a \cf1\b severe attack\cf0\b0 . That is the hane at 1.
+\par
+\par After Black blocks at 2, White direct connection at 3 is the vital point.
+\par Black can't play at A which makes him sad. If Black plays at 3 instead of 2, White captures Black with B.
+\par
+\par
+\par }
+#
+(
+2[rm]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+2[oq]
+1[pq]
+65[qq]
+2[or]
+1[pr]
+2[qr]
+1[rr]
+66[sr]
+2[ps]
+5[rs]
+)
+3
+W[sp]
+B[sq]
+W[qs]
+Dia. 03 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \cf1\b Black's dansu at 1\cf0\b0  is the \cf1\b good move \cf0\b0 this time. White resists with 2. \cf1\b Pae is the best for both players\cf0\b0 .
+\par
+\par Depending on if there is outside liberty or not, the result of the life and death problem can change like this.
+\par
+\par
+\par }
+#
+(
+2[rm]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[op]
+1[pp]
+1[qp]
+1[rp]
+2[oq]
+1[pq]
+2[or]
+1[pr]
+2[qr]
+1[rr]
+2[ps]
+)
+2
+B[qq]
+W[rs]

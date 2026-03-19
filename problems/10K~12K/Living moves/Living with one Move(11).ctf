@@ -1,0 +1,178 @@
+//19
+5
+Living with one Move(11)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par White shouldn't be greedy. It is good enough if he finds the way to live with two eyes. The first move is calm.
+\par
+\par
+\par }
+#
+(
+1[rn]
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[sr]
+1[ns]
+1[os]
+)
+0
+Dia. 01 Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's block at 1 is \cf1\b greedy\cf0\b0 . It would be nice if White could live with many points like this.
+\par However Black's placement at 2 is a severe attack.
+\par
+\par The best what White can do is to resist with 3. It becomes pae up to 5.
+\par
+\par If White plays at 4 instead of 3, Black plays at 3 and White is captured.
+\par
+\par }
+#
+(
+1[rn]
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[sr]
+1[ns]
+1[os]
+)
+5
+W[ps]
+B[rs]
+W[qr]
+B[qs]
+W[rr]
+Dia. 02 No Hope
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 looks better, but after Black 2, White has no hope.
+\par
+\par After White 3, Black's \cf1\b wedge-in\cf0\b0  move at 4 \cf1\b works\cf0\b0 . White can't cut because of shortage of liberties.
+\par
+\par
+\par }
+#
+(
+1[rn]
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[sr]
+1[ns]
+1[os]
+)
+4
+W[qs]
+B[ps]
+W[rs]
+B[qr]
+Dia. 03 Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is another powerful move, but Black's placement at 2 is the \cf1\b right attack\cf0\b0 .
+\par
+\par The best what White can do is a pae up to 4. It became the same shape with \b Dia. 01\b0 .
+\par
+\par Pay attention, if Black carelessly plays at 3 instead of 2, White lives with 2.
+\par }
+#
+(
+1[rn]
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[sr]
+1[ns]
+1[os]
+)
+4
+W[qr]
+B[rs]
+W[ps]
+B[qs]
+Dia. 04 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's tiger's mouth move at 1 is the \cf1\b correct move\cf0\b0 . This is the 1-2 vital point.
+\par
+\par After Black 2, White lives with 3.
+\par A and B are miai.
+\par If White plays at A instead of 3, Black captures White with 3.
+\par It was checked already in\b  Dia. 02\b0 .
+\par
+\par
+\par }
+#
+(
+1[rn]
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+66[sp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[sr]
+1[ns]
+1[os]
+65[qs]
+)
+3
+W[rs]
+B[ps]
+W[qr]

@@ -1,0 +1,63 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[lq][mq][oq][pq][kr][lr][nr][pr][qr][rs]AB[kp][lp][mp][np][op][pp][iq][kq][nq][qq][rq][jr][or][rr]
+;B[os]
+;W[ns]LB[os:1][ns:2]C[Where is a vital point?(99)
+
+
+\f1 It's\b  Black\b0 's turn.\fs24
+\f0\fs18
+B can make W in self-dansu.
+
+Where is the next move??
+
+
+])
+(;AW[lq][mq][oq][pq][kr][lr][nr][pr][qr][ns][rs]AB[kp][lp][mp][np][op][pp][iq][kq][nq][qq][rq][jr][or][rr][os]
+;B[ks]
+;W[ls]
+;B[mr]LB[ks:1][ls:2][mr:3]C[Dia.1(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Even though 2 seems like a movement for live,\cf1\b W can't do anything because of B1 is a vital point.\cf0\b0
+
+And throw in at 3 is a excellent attack.
+
+
+
+])
+(;AW[lq][mq][oq][pq][kr][lr][nr][pr][qr][ns][rs]AB[kp][lp][mp][np][op][pp][iq][kq][nq][qq][rq][jr][or][rr][os]
+;B[ms]
+;W[mr]
+;B[ks]
+;W[ps]LB[ms:1][mr:2][ks:3][ps:4]C[DIa.2(Slack move)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Attacking at inside is a slack move.\cf0\b0
+After 2, B has nothing to do.
+
+
+
+])
+(;AW[lq][mq][oq][pq][kr][lr][nr][pr][qr][rs]AB[kp][lp][mp][np][op][pp][iq][kq][nq][qq][rq][jr][or][rr][os]
+;W[ms]
+;B[ks]
+;W[ns]
+;B[js]LB[ms:1][ks:2][ns:3][js:4]C[Dia.3(W's half group can live?)
+
+
+Making an eye can live at least half group??
+
+It can't be!!
+Because B2,4 erase W's real eye.
+
+
+
+])
+)

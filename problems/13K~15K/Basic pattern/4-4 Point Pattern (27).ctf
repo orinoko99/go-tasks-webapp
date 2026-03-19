@@ -1,0 +1,101 @@
+//19
+5
+Star-point Joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par White 5 is a weird move. How should Black answer?\lang1042\f1
+\par
+\par }
+#
+(
+1[pp]
+)
+5
+W[nq]
+B[lq]
+W[qq]
+B[pq]
+W[rp]
+Black 1 and 3 are good moves
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a good move. White will play 2 and Black 3.\lang1042\f1
+\par \lang1043\f0 This sequence is very good for Black.\lang1042\f1
+\par }
+#
+(
+1[pp]
+2[rp]
+1[lq]
+2[nq]
+1[pq]
+2[qq]
+)
+3
+B[qp]
+W[rq]
+B[qn]
+2nd Dia. Good for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  White 1 is better than the previous diagram.
+\par Black will answer 2 and 4.
+\par This result is good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[pp]
+5[qp]
+2[rp]
+1[lq]
+2[nq]
+1[pq]
+2[qq]
+690[qr]
+)
+8
+W[rr]
+B[qr]
+W[rq]
+B[qn]
+W[pr]
+B[or]
+W[qs]
+B[oq]
+3rd Dia. Black 1 is a good move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is also a good move. White has to answer 2 and 4. This result is very good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[pp]
+2[rp]
+1[lq]
+2[nq]
+1[pq]
+2[qq]
+)
+7
+B[qo]
+W[pr]
+B[or]
+W[qr]
+B[oq]
+W[ro]
+B[qm]
+4th Dia. White should have played A
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White \lang1042\f1\'a1\'e2 \lang1043\f0 was a big mistake. White should have  played A.\lang1042\f1
+\par
+\par }
+#
+(
+1[pp]
+65[qp]
+6[rp]
+1[lq]
+2[nq]
+1[pq]
+2[qq]
+)
+0

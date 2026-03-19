@@ -1,0 +1,167 @@
+//19
+5
+Don't be Careless
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par The first move might be unexpected.
+\par White should think calmly.
+\par
+\par
+\par
+\par }
+#
+(
+1[mp]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[mq]
+2[nq]
+2[oq]
+1[pq]
+2[qq]
+1[kr]
+1[lr]
+2[mr]
+2[nr]
+1[pr]
+2[qr]
+2[ls]
+1[ns]
+1[ps]
+)
+0
+Dia. 01 Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par There is a big chance that White plays at 1 in actual game and thinks he can win the capturing race with this move.
+\par
+\par However Black can resist with 2 and it becomes pae. \cf1\b White 1\cf0\b0  was \cf1\b careless\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+1[mp]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[mq]
+2[nq]
+2[oq]
+1[pq]
+2[qq]
+1[kr]
+1[lr]
+2[mr]
+2[nr]
+1[pr]
+2[qr]
+2[ls]
+1[ns]
+1[ps]
+)
+2
+W[ms]
+B[or]
+Dia. 02 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Blocking from outside at 1 is the way to win the capturing race for White.
+\par Black can't play at A. After Black 2 White wins with 3.
+\par
+\par
+\par }
+#
+(
+1[mp]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[mq]
+2[nq]
+2[oq]
+1[pq]
+2[qq]
+1[kr]
+1[lr]
+2[mr]
+2[nr]
+65[or]
+1[pr]
+2[qr]
+2[ls]
+1[ns]
+1[ps]
+)
+3
+W[qs]
+B[ks]
+W[os]
+Dia. 03 Practice Problem
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par
+\par Black just played the hane at \'a1\'e3.
+\par How should White play?
+\par If White plays at A, Black connects at B and it becomes gote bik for White.
+\par
+\par }
+#
+(
+1[mp]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[kq]
+1[mq]
+2[nq]
+2[oq]
+1[pq]
+2[qq]
+1[lr]
+2[mr]
+2[nr]
+1[pr]
+2[qr]
+66[ls]
+5[ms]
+65[ns]
+1[ps]
+)
+0
+Dia. 04 Diagonal Move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's diagonal move at 1 is a basic maek. Black \'a1\'e3 stones are captured liked this.
+\par }
+#
+(
+1[mp]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[kq]
+1[mq]
+2[nq]
+2[oq]
+5[pq]
+2[qq]
+1[lr]
+2[mr]
+2[nr]
+5[pr]
+2[qr]
+1[ms]
+5[ps]
+)
+1
+W[os]

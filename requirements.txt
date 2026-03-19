@@ -1,0 +1,29 @@
+# Python зависимости для Go Problems Trainer (Backend)
+
+# FastAPI - основной фреймворк
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# База данных
+sqlalchemy==2.0.25
+aiosqlite==0.19.0
+
+# Аутентификация и безопасность
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.1.2
+
+# Валидация данных
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# SGF парсер (библиотека для парсинга SGF файлов Go/Baduk)
+sgf==0.5
+
+# Тестирование
+pytest==7.4.4
+pytest-asyncio==0.23.3
+httpx==0.26.0
+
+# Утилиты
+python-multipart==0.0.6

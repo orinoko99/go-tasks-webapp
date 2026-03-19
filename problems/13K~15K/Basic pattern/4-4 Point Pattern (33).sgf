@@ -1,0 +1,40 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pn]AW[pn][lp][mp][nq]AB[kp][pp][jq][lq]
+;B[qo]LB[qo:1]CR[pn]C[Star-point Joseki
+
+White's turn\b0
+When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is a bad answer. How should White punish it?\lang1042\f1
+
+])
+(;AW[pn][lp][mp][nq]AB[qo][kp][pp][jq][lq]LB[qn:?]
+;W[qn]LB[qn:1][qn:?]C[1st Dia. Correct answer
+
+White has to play 1. It's the only move, anything else would be a mistake.\lang1042\f1
+
+])
+(;AW[pn][qn][lp][mp][nq]AB[qo][kp][pp][jq][lq]
+;B[ro]
+;W[pr]
+;B[qq]
+;W[nn]LB[ro:1][pr:2][qq:3][nn:4]C[2nd Dia. Bad for Black
+
+Black 1 is a weak move. White will play 2 and 4.
+This result is good for White.\lang1042\f1
+
+])
+(;AW[pn][qn][lp][mp][nq]AB[qo][kp][pp][jq][lq]LB[qq:A][pr:B]
+;B[rn]
+;W[rm]
+;B[ro]
+;W[nn]LB[rn:1][rm:2][ro:3][nn:4][qq:A][pr:B]C[3rd Dia. Keep looking
+
+Black 1 and 3 are also weak moves. White will play 4.
+If White plays A it would be dangerous for Black, so Black has to defend at B.\lang1042\f1
+
+])
+)

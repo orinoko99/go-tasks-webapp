@@ -1,0 +1,69 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[no][kp][np][op][pp][jq][pq][qq][nr][pr][os]AB[ql][oo][po][qo][qp][rq][qr][rr][ps][rs]LB[qs:A]LB[qs:A]C[Half Point?
+
+
+'\b Half point\b0 ' is used in two situations.
+\lang1033\f1 First,\lang1042\f0  when we talk about komi\lang1033\f1 ;\lang1042\f0  we say 6 and half points, or 5 and half points. The other case is when we talk about the \lang1033\b\f1 value\lang1042\f0  of a pae \b0 in the endgame.
+
+\lang1033\f1 T\lang1042\f0 he \lang1033\f1 value\lang1042\f0  of th\lang1033\f1 e\lang1042\f0  pae\lang1033\f1  at A\lang1042\f0  is\lang1033\f1  said to be worth\lang1042\f0  half a point, but \lang1033\f1 when strongly considered, we find that this\lang1042\f0  is not true.
+
+])
+(;AW[no][kp][np][op][pp][jq][pq][qq][nr][pr][os]AB[ql][oo][po][qo][qp][rq][qr][rr][ps][rs]
+;B[qs]LB[qs:1]C[Dia. 01 If Black Connects
+
+
+If there are still a lot of moves to play in the endgame, no\lang1033\f1 body\lang1042\f0  will take or connect this pae\lang1033\f1 , s\lang1042\f0 o let's \lang1033\f1 suppose\lang1042\f0  that there is only this pae left.
+
+If it is Black's turn, he connects at 1.
+Black's territory didn't increase because of this move, in short\lang1033\f1 ,\lang1042\f0  there is no change.
+
+However\lang1033\f1 ...\lang1042\f0
+])
+(;AW[no][kp][np][op][pp][jq][pq][qq][nr][pr][os]AB[ql][oo][po][qo][qp][rq][qr][rr][ps][rs]
+;W[qs]
+;B[``]LB[qs:1][``:2]C[Dia. 02 If White Takes
+
+
+If it is White's turn, the situation is different. White takes with 1. It is still pae\lang1033\f1 .\lang1042\f0
+We don't know who is going to win this pae.
+
+\lang1033\f1 L\lang1042\f0 et's s\lang1033\f1 uppose\lang1042\f0  White has many pae threats \lang1033\f1 and\lang1042\f0  \lang1033\f1 will \lang1042\f0 win this pae.
+
+Next diagram\lang1033\f1 ...\lang1042\f0
+])
+(;AW[no][kp][np][op][pp][jq][pq][qq][nr][pr][os][qs]AB[ql][oo][po][qo][qp][rq][qr][rr][rs]
+;W[``]
+;B[``]
+;W[ps]LB[``:1][``:2][ps:3]C[Dia. 03 If White Connects
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black has no place to play, so he passes and White connects at 3.
+How many points\lang1033\f1  did\lang1042\f0  White g\lang1033\f1 e\lang1042\f0 t?
+
+Obviously \cf1\b 1 point\cf0\b0 , because White has captured Black's one stone.
+
+
+
+
+
+])
+(;CR[qs]AW[no][kp][np][op][pp][jq][pq][qq][nr][pr][os]AB[ql][oo][po][qo][qp][rq][qr][rr][ps][qs][rs]LBCR[qs]C[Dia. 04 Not Half Point
+
+{\colortbl ;\red0\green0\blue255;}
+
+If it is Black's turn, it is enough to play one move at \'a1\'e3.
+If it is White's turn, he has to play two moves. (take and connect)
+All together they need three moves to try to make 1 point.
+Therefore each move \lang1033\f1 is worth\lang1042\f0  \cf1\b 1/3 points\cf0\b0 .
+
+\lang1033\f1 Therefore,\lang1042\f0  this pae \lang1033\f1 is worth precisely\lang1042\f0  1/3 points.
+However\lang1033\f1 ,\lang1042\f0  it won't \lang1033\f1 affect a game\lang1042\f0  if someone understands \lang1033\f1 this\lang1042\f0  as half \lang1033\f1 a \lang1042\f0 point.
+
+])
+)

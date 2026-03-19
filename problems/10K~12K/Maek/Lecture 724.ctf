@@ -1,0 +1,100 @@
+//19
+3
+Capturing the Key Stones
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Where should Black play?
+\par }
+#
+(
+1[dn]
+2[fn]
+1[eo]
+2[jo]
+1[cp]
+1[dp]
+2[ep]
+2[fp]
+2[bq]
+2[cq]
+2[dq]
+1[eq]
+1[fq]
+1[gq]
+2[jq]
+2[dr]
+2[er]
+1[fr]
+1[hr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Right, Black should aim at the cutting stones. First atari at 1 and then net at 3 are a nice combination to capture.
+\par
+\par }
+#
+(
+1[dn]
+2[fn]
+1[eo]
+2[jo]
+1[cp]
+1[dp]
+2[ep]
+2[fp]
+2[bq]
+2[cq]
+2[dq]
+1[eq]
+1[fq]
+1[gq]
+2[jq]
+2[dr]
+2[er]
+1[fr]
+1[hr]
+)
+7
+B[fo]
+W[gp]
+B[ho]
+W[go]
+B[gn]
+W[hp]
+B[ip]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The ladder up to 7 doesn't work because of the ladder breakers x.
+\par
+\par }
+#
+(
+1[dn]
+8[fn]
+1[eo]
+8[jo]
+1[cp]
+1[dp]
+2[ep]
+2[fp]
+2[bq]
+2[cq]
+2[dq]
+1[eq]
+1[fq]
+1[gq]
+2[jq]
+2[dr]
+2[er]
+1[fr]
+1[hr]
+)
+8
+B[fo]
+W[gp]
+B[hp]
+W[go]
+B[gn]
+W[ho]
+B[io]
+W[hn]

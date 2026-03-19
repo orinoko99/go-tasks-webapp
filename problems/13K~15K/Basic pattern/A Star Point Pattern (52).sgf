@@ -1,0 +1,70 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[qq]AW[pm][qn][nq][qq]AB[on][pn][kp][pp]LB[qo:‚]
+;B[np]LB[np:1][qo:‚]CR[qq]C[Star point jeongseok (52)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 White invades the 3,3 point and Black has a strong move at A.  However here, Black decided to attach at 1.  This move is rather strange.  How should White respond?
+
+\lang1042\f0\fs18
+])
+(;AW[pm][qn][nq][qq]AB[on][pn][kp][np][pp]
+;W[qp]
+;B[oq]
+;W[qm]
+;B[mq]LB[qp:1][oq:2][qm:3][mq:4]C[Dia.1 Good for White
+
+White will block at 2 and then Black will play the tiger's mouth at 2.  White's territory is quite big and solid.  Black has to play 4 to subdue the White stone.  In the end, White has the advantage.
+\lang1042\f1\fs18
+
+
+
+])
+(;CR[nq]AW[pm][qn][nq][qq]AB[on][pn][kp][np][pp]
+;W[mp]
+;B[oq]LB[mp:1][oq:2]CR[nq]C[Dia.2 Just what Black wants
+
+If you play 1 then you are doing just what Black wants.  You might think that you are just treating the marked White stone lightly but there is no reason to move out with it at this point in time.  Black will play 2 and then...
+\lang1042\f1\fs18
+
+])
+(;CR[qq]AW[pm][qn][mp][nq][qq]AB[on][pn][kp][np][pp][oq]
+;W[no]
+;B[op]
+;W[ro]
+;B[lp]LB[no:1][op:2][ro:3][lp:4]CR[qq]C[Dia.3 Black is not bad
+
+White plays dansu at 1 then connects all of his stones together with 3.  Black 4 is an especially important move as it clamps down White on the left side.  The result is not bad for Black at all.
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][nq][qq]AB[on][pn][kp][np][pp]LB[op:‚]
+;W[pq]
+;B[mq]
+;W[op]
+;B[oo]
+;W[oq]
+;B[mp]
+;W[qo]LB[pq:1][mq:2][op:3][oo:4][oq:5][mp:6][qo:7][op:‚]C[Dia.4 Black gets a good wall
+
+{\colortbl ;\red255\green0\blue0;}
+White could play at 1, an important mood.  White will then wedge at 3 then protect at 5.  Black 6 is necessary right?  After all, \lang1042\f1\fs18
+\'b9\'e9\'c0\'ba 1\'b7\'ce \'b0\'c7\'b3\'ca\'b4\'c2 \'bc\'f6\'b5\'b5 \'c0\'af\'b7\'c2\'c7\'d5\'b4\'cf\'b4\'d9.
+\'c8\'e62\'bf\'a1\'b4\'c2 \'b9\'e93, 5\'b7\'ce \'b3\'a2\'bf\'f6\'c0\'d5\'bd\'c0\'b4\'cf\'b4\'d9.
+\'c8\'e66\'c0\'c7 \'c0\'cc\'c0\'bd\'c0\'cc \'c7\'ca\'bf\'e4\'c7\'cf\'c1\'d2? \'c0\'cc\'b7\'ce\'bd\'e1 \'c8\'e6\'c0\'ba \'b4\'eb\'b4\'dc\'c7\'d1 \'c1\'df\'ba\'b9\'c7\'fc\'c0\'cc \'b5\'c7\'be\'fa\'bd\'c0\'b4\'cf\'b4\'d9.
+
+\'b9\'e9\'c0\'ba7\'b7\'ce \'b0\'c7\'b3\'ca\'bc\'ad \'bd\'c7\'b8\'ae\'b0\'a1 \'be\'f6\'c3\'bb\'b3\'aa\'b1\'ba\'bf\'e4.
+\cf1\b\'c8\'e6\'c0\'cc \'c5\'a9\'b0\'d4 \'b4\'e7\'c7\'d1 \'b0\'e1\'b0\'fa\cf0\b0 .
+])
+(;AW[pm][qn][nq][qq]AB[on][pn][kp][pp]
+;B[np]LB[np:1]C[No diagram name
+
+
+
+])
+)

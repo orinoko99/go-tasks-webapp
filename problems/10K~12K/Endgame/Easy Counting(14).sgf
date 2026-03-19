@@ -1,0 +1,72 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ln][no][kp][np][iq][nq]AB[qm][po][mp][pp][pq]LB[or:A]LB[or:A]C[Easy Counting(14)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\b Black to play \b0 (or \b White to play\b0 ).
+
+The problem is about the \cf1\b diagonal move on the second line.
+\cf0\b0
+It is double sente in this situation.
+Either it is White's turn or Black's turn, they are going to play the diagonal move at \b A\b0 .
+
+])
+(;AW[ln][no][kp][np][iq][nq]AB[qm][po][mp][pp][pq]LB[oq:A][pr:B]
+;B[or]
+;W[nr]
+;B[ns]
+;W[ms]
+;B[os]
+;W[mr]LB[or:1][nr:2][ns:3][ms:4][os:5][mr:6][oq:A][pr:B]C[Dia. 01 If Black Plays
+
+
+If Black's turn, after the diagonal move at 1, White plays at 2 and then Black's hane and connection with 3 and 5 become sente.
+
+Later, White has the right to play the sente move with A, then Black defends with B.
+
+
+])
+(;AW[ln][no][kp][np][iq][nq][oq][mr][nr][ms]AB[qm][po][mp][pp][pq][or][pr][ns][os]LB[jq:?][kq:?][lq:?][mq:?][qq:?][rq:?][sq:?][ir:?][is:?]LB[jq:?][kq:?][lq:?][mq:?][qq:?][rq:?][sq:?][ir:?][is:?]C[Dia. 02 Black 7 Points, White 6 Points
+
+{\colortbl ;\red0\green0\blue255;}
+
+As always, the borderlines are made.
+
+\cf1\b Black\cf0\b0  has \cf1\b 7 points\cf0\b0  and \cf1\b White\cf0\b0  has \cf1\b 6 points\cf0\b0 .
+
+
+])
+(;AW[ln][no][kp][np][iq][nq]AB[qm][po][mp][pp][pq]LB[oq:A][nr:B]
+;W[or]
+;B[pr]
+;W[ps]
+;B[qs]
+;W[os]
+;B[qr]LB[or:1][pr:2][ps:3][qs:4][os:5][qr:6][oq:A][nr:B]C[Dia. 03 If White Plays
+
+{\colortbl ;\red0\green0\blue255;}
+
+White also plays the diagonal move at 1, and after Black's block at 2, White 3 and 5 become sente.
+In other words it is a \cf1\b double sente\cf0\b0 .
+
+Black has the right to play A in sente and White answers at B.
+
+
+])
+(;AW[ln][no][kp][np][iq][nq][nr][or][os][ps]AB[qm][po][mp][pp][oq][pq][pr][qr][qs]LB[jq:?][kq:?][lq:?][mq:?][qq:?][rq:?][sq:?][ir:?][is:?]LB[jq:?][kq:?][lq:?][mq:?][qq:?][rq:?][sq:?][ir:?][is:?]C[Dia. 04 Double Sente 6 Points
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+\cf1\b Black\cf0\b0  has\cf1\b  4 points\cf0\b0  and \cf1\b White\cf0\b0  has\cf1\b  9 points\cf0\b0 .
+
+After counting it is (7-4)+(9-6)=\cf2\b 6 points\cf0\b0 .
+From the \b main diagram\b0 , Black/White's diagonal move is worth \cf1\b 6 points\cf0\b0 . Moreover it is double sente.
+
+
+])
+)

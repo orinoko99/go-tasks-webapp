@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ip][dq][eq][br][cr][gr][hr]AB[co][dp][ep][fp][bq][cq][gq]LBC[Black to Cut
+
+
+Where should Black play to cut some white stones?
+])
+(;AW[ip][dq][eq][br][cr][gr][hr]AB[co][dp][ep][fp][bq][cq][gq]
+;B[fr]
+;W[er]
+;B[es]
+;W[ds]
+;B[fs]LB[fr:1][er:2][es:3][ds:4][fs:5]C[Correct
+
+
+The double hane at 1 and 3 followed by the connection at 5 is the only way to cut.
+])
+(;AW[ip][dq][eq][br][cr][gr][hr]AB[co][dp][ep][fp][bq][cq][gq]
+;B[fr]
+;W[er]
+;B[fq]
+;W[fs]LB[fr:1][er:2][fq:3][fs:4]C[Wrong
+
+
+Don't connect at 3 or White will happily get away with it.
+])
+)

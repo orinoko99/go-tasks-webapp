@@ -1,0 +1,60 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[rm][oo][po][qo][ro][op][oq][or][qr][ps]AB[pp][qp][rp][pq][pr][rr]LBC[Living with one Move (29)
+
+
+\b Black to play\b0 .
+"Oh, it is the same problem!"-Some people might think like this.
+However this time all the outside liberties are filled up which makes the difference compared to the \b 28th\b0  problem.
+
+Well, what is the result this time?
+Can Black live unconditionally?
+
+])
+(;AW[rm][oo][po][qo][ro][op][oq][or][qr][ps]AB[pp][qp][rp][pq][pr][rr]
+;B[rs]
+;W[qs]
+;B[qq]
+;W[os]
+;B[sp]LB[rs:1][qs:2][qq:3][os:4][sp:5]C[Dia. 01 Same Try
+
+
+What is going to happen if Black plays like in the \b 28th\b0  problem?
+So Black descends at 1.
+
+If White plays at 2, Black plays sente with 3 and lives with the descending move at 5.
+However is this the right answer?
+
+])
+(;CR[rs]AW[rm][oo][po][qo][ro][op][oq][or][qr][ps]AB[pp][qp][rp][pq][pr][rr][rs]LB[qq:A][sr:B]
+;W[sp]
+;B[sq]
+;W[qs]LB[sp:1][sq:2][qs:3][qq:A][sr:B]CR[rs]C[Dia. 02 Severe White 1
+
+{\colortbl ;\red0\green0\blue255;}
+
+No~
+Against Black \'a1\'e3, White has a \cf1\b severe attack\cf0\b0 . That is the hane at 1.
+
+After Black blocks at 2, White direct connection at 3 is the vital point.
+Black can't play at A which makes him sad. If Black plays at 3 instead of 2, White captures Black with B.
+
+
+])
+(;AW[rm][oo][po][qo][ro][op][oq][or][qr][ps]AB[pp][qp][rp][pq][pr][rr]
+;B[qq]
+;W[rs]LB[qq:1][rs:2]C[Dia. 03 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b Black's dansu at 1\cf0\b0  is the \cf1\b good move \cf0\b0 this time. White resists with 2. \cf1\b Pae is the best for both players\cf0\b0 .
+
+Depending on if there is outside liberty or not, the result of the life and death problem can change like this.
+
+
+])
+)

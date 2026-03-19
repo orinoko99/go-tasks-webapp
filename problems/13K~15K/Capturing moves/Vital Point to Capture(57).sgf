@@ -1,0 +1,46 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[op][pp][rp][jq][kq][lq][mq][nq][qq][jr][rr][qs]AB[oq][kr][lr][mr][nr][pr][qr][ks][ps]LBC[How to kill? (57)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Here's a good problem to test your skill.  It's important as we grow stronger to see vital points clearly and to be able to kill our opponent's stones when they have weaknesses.  Where is Black's weakness?
+
+\lang1042\f0\fs18
+])
+(;AW[op][pp][rp][jq][kq][lq][mq][nq][qq][jr][rr][qs]AB[oq][kr][lr][mr][nr][pr][qr][ks][ps]LB[pq:A][os:B]
+;W[ms]
+;B[ns]
+;W[or]LB[ms:1][ns:2][or:3][pq:A][os:B]C[Dia.1 Correct
+
+White 1 is the vital point of the shape.  If Black blocks at 2 White can throw in at 3 and now Black cannot play at A because it is self dansu.  If Black plays at B, White will play at A and then Black is clearly dead.
+\lang1042\f1\fs18
+
+])
+(;AW[op][pp][rp][jq][kq][lq][mq][nq][qq][jr][rr][qs]AB[oq][kr][lr][mr][nr][pr][qr][ks][ps]LB[pq:A][rs:A]
+;W[pq]
+;B[or]LB[pq:1][or:2][pq:A][rs:A]C[Dia.2 Black lives
+
+White 1 is just plain wrong.  When Black connects at 2 he gets a four space group and lives needlessly.  Next White would block at A.  We cannot lose our concentration and play moves like White 1.
+\lang1042\f1\fs18
+])
+(;AW[op][pp][rp][jq][kq][lq][mq][nq][qq][jr][rr][qs]AB[oq][kr][lr][mr][nr][pr][qr][ks][ps]
+;W[or]
+;B[os]
+;W[pq]
+;B[ms]LB[or:1][os:2][pq:3][ms:4]C[Dia.3 Pae
+
+White's throw in at 1 starts a Pae.  Black will take, and White will remove the eye with 3.  Black will play 4 and now they must fight over this Pae.
+\lang1042\f1\fs18
+
+])
+(;AW[op][pp][rp][jq][kq][lq][mq][nq][qq][jr][rr][qs]AB[oq][kr][lr][mr][nr][pr][qr][ks][ps]LBC[No diagram name
+
+
+
+])
+)

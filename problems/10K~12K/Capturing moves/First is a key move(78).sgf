@@ -1,0 +1,52 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mn][nn][on][lo][po][qo][lp][qp][lq][rq][kr][mr][rr][ms][rs]AB[mo][no][oo][op][pp][mq][pq][qq][nr][qr][ns][qs]LBC[First is a key move(78)
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+B has a weakpoint but it isn't easy!!
+
+])
+(;AW[mn][nn][on][lo][po][qo][lp][qp][lq][rq][kr][mr][rr][ms][rs]AB[mo][no][oo][op][pp][mq][pq][qq][nr][qr][ns][qs]
+;W[nq]
+;B[or]
+;W[mp]
+;B[ps]LB[nq:1][or:2][mp:3][ps:4]C[Dia.1(Life of real two eyes)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+Attacking B's weakpoint is\cf1\b  too hasty.\cf0\b0
+
+B can make two real eyes that \cf2\b 'Life of real two eyes'\cf0\b0
+
+])
+(;AW[mn][nn][on][lo][po][qo][lp][qp][lq][rq][kr][mr][rr][ms][rs]AB[mo][no][oo][op][pp][mq][pq][qq][nr][qr][ns][qs]
+;W[mp]
+;B[nq]
+;W[or]LB[mp:1][nq:2][or:3]C[Dia.2(W's thinking)
+
+
+W1 looks good?
+Because W can make B's eye space as flower five.
+
+But! it is the W's thinking.
+B won't play like this.
+])
+(;AW[mn][nn][on][lo][po][qo][lp][qp][lq][rq][kr][mr][rr][ms][rs]AB[mo][no][oo][op][pp][mq][pq][qq][nr][qr][ns][qs]
+;W[or]
+;B[nq]
+;W[mp]LB[or:1][nq:2][mp:3]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Attacing at 1 is\cf1\b  the enemy's vital point.
+\cf0\b0
+As you can see, if B played at 1, he would be able to live.
+
+])
+)

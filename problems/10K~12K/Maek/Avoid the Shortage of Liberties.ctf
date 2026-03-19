@@ -1,0 +1,166 @@
+//19
+5
+Avoid the Shortage of Liberties
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Capture the Black \'a1\'e3 stones.
+\par
+\par If the problem is not undervalued, it is easy to solve.
+\par
+\par
+\par }
+#
+(
+2[pn]
+2[oo]
+2[ro]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[nq]
+2[oq]
+5[pq]
+5[qq]
+2[rq]
+1[nr]
+2[or]
+5[rr]
+2[sr]
+5[qs]
+2[ss]
+)
+0
+Dia. 01 Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a \cf1\b mistake\cf0\b0 .
+\par If White is not a beginner he shouldn't make a mistake like this.
+\par
+\par After Black connects at 2, White has shortage of liberties. In other words, he can't play dansu at A.
+\par
+\par
+\par }
+#
+(
+2[pn]
+2[oo]
+2[ro]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+1[nr]
+2[or]
+1[rr]
+2[sr]
+65[ps]
+1[qs]
+2[ss]
+)
+2
+W[pr]
+B[qr]
+Dia. 02 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The correct answer is White's \cf1\b diagonal attachment\cf0\b0  move at 1.
+\par Black has to connect because of snapback, then White connects at 3 and capture the Black stones.
+\par }
+#
+(
+2[pn]
+2[oo]
+2[ro]
+1[np]
+1[op]
+2[pp]
+2[qp]
+1[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+1[nr]
+2[or]
+1[rr]
+2[sr]
+65[ps]
+1[qs]
+2[ss]
+)
+3
+W[ps]
+B[qr]
+W[sq]
+Dia. 03 Practice Problem
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par
+\par Use the maek from the previous diagram.
+\par }
+#
+(
+2[pn]
+2[oo]
+1[np]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+1[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+1[nr]
+2[or]
+1[rr]
+1[qs]
+)
+0
+Dia. 04 Best is pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against White's \cf1\b diagonal attachment\cf0\b0  at 1 is the \cf1\b maek\cf0\b0 .
+\par After Black 2, White plays hane at 3.
+\par Black plays at 4 and then White makes pae with 5.
+\par
+\par Pae is a success for White.
+\par
+\par }
+#
+(
+2[pn]
+2[oo]
+1[np]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+1[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+1[nr]
+2[or]
+1[rr]
+1[qs]
+)
+5
+W[ps]
+B[qr]
+W[sr]
+B[ns]
+W[rs]

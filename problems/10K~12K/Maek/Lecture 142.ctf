@@ -1,0 +1,108 @@
+//19
+3
+Fierce Capturing Race
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Where should Black play to win the capturing race?
+\par }
+#
+(
+2[cm]
+2[bn]
+2[ao]
+1[bo]
+2[co]
+2[do]
+2[eo]
+1[bp]
+1[cp]
+1[dp]
+2[ep]
+1[fp]
+1[gp]
+2[dq]
+1[eq]
+2[br]
+2[dr]
+1[er]
+1[gr]
+1[bs]
+2[ds]
+2[es]
+1[fs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The wedge-in at 1 is the only way to win the capturing race. If White blocks, Black can make a snapback at 3.
+\par }
+#
+(
+2[cm]
+2[bn]
+2[ao]
+1[bo]
+2[co]
+2[do]
+2[eo]
+1[bp]
+1[cp]
+1[dp]
+2[ep]
+1[fp]
+1[gp]
+2[dq]
+1[eq]
+2[br]
+2[dr]
+1[er]
+1[gr]
+1[bs]
+2[ds]
+2[es]
+1[fs]
+)
+5
+B[cr]
+W[cq]
+B[bq]
+W[cs]
+B[cr]
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The attachment at 1 doesn't work because White plays at the vital point at 2. At the end both Black and White life in bik (mutual life/seki).
+\par }
+#
+(
+2[cm]
+2[bn]
+2[ao]
+1[bo]
+2[co]
+2[do]
+2[eo]
+1[bp]
+1[cp]
+1[dp]
+2[ep]
+1[fp]
+1[gp]
+2[dq]
+1[eq]
+2[br]
+2[dr]
+1[er]
+1[gr]
+1[bs]
+2[ds]
+2[es]
+1[fs]
+)
+6
+B[bq]
+W[cr]
+B[ar]
+W[ap]
+B[aq]
+W[an]

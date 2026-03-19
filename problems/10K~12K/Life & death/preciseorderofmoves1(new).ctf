@@ -1,0 +1,137 @@
+//19
+4
+Precise Order of Moves
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black to play. How can he kill the white group?
+\par }
+#
+(
+1[la]
+2[ma]
+2[qa]
+1[lb]
+2[mb]
+2[ob]
+2[pb]
+2[qb]
+1[rb]
+1[lc]
+2[mc]
+2[oc]
+1[pc]
+2[qc]
+1[rc]
+1[ld]
+1[md]
+1[qd]
+1[ne]
+1[oe]
+1[pe]
+1[re]
+)
+0
+Failure
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Simply blocking at 1 fails because White will respond with 2 to surround a living shape.
+\par
+\par }
+#
+(
+1[la]
+2[ma]
+2[qa]
+1[lb]
+2[mb]
+2[ob]
+2[pb]
+2[qb]
+1[rb]
+1[lc]
+2[mc]
+2[oc]
+1[pc]
+2[qc]
+1[rc]
+1[ld]
+1[md]
+1[qd]
+1[ne]
+1[oe]
+1[pe]
+1[re]
+)
+2
+B[od]
+W[nc]
+Failure
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black's wedge at 1 doesn't work because White will block at 2. After Black's placement at 3, White extends at 4 to live. Next, he can make the second eye either at A or B (miai).
+\par }
+#
+(
+1[la]
+2[ma]
+2[qa]
+1[lb]
+2[mb]
+2[ob]
+2[pb]
+2[qb]
+1[rb]
+1[lc]
+2[mc]
+2[oc]
+1[pc]
+2[qc]
+1[rc]
+1[ld]
+1[md]
+66[nd]
+65[pd]
+1[qd]
+1[ne]
+1[oe]
+1[pe]
+1[re]
+)
+4
+B[nc]
+W[nb]
+B[oa]
+W[od]
+Success
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black should first play inside at the vital point at 1. When White blocks at 2, the atari at 3 works well together with the block at 5. White is dead.
+\par
+\par }
+#
+(
+1[la]
+2[ma]
+2[qa]
+1[lb]
+2[mb]
+2[ob]
+2[pb]
+2[qb]
+1[rb]
+1[lc]
+2[mc]
+2[oc]
+1[pc]
+2[qc]
+1[rc]
+1[ld]
+1[md]
+1[qd]
+1[ne]
+1[oe]
+1[pe]
+1[re]
+)
+5
+B[oa]
+W[na]
+B[nc]
+W[nb]
+B[od]

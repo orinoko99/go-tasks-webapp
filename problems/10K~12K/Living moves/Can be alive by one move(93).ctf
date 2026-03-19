@@ -1,0 +1,178 @@
+//19
+5
+Can be alive by one move(93)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\ltrpar\lang1042\f0
+\par Extend eye space? or Play at the vital point?
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[lp]
+2[mp]
+1[op]
+2[pp]
+2[rp]
+2[lq]
+1[mq]
+1[oq]
+2[pq]
+2[rq]
+2[lr]
+1[mr]
+1[pr]
+1[qr]
+1[rr]
+2[sr]
+)
+0
+Dia.1(It doesn't work)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Defending the weakpoint looks good??
+\par
+\par Unfortunately,\cf1\b  it doesn't work.\cf0\b0
+\par W2 and 4 are good attack so B can't make two eyes.
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[lp]
+2[mp]
+1[op]
+2[pp]
+2[rp]
+2[lq]
+1[mq]
+1[oq]
+2[pq]
+2[rq]
+2[lr]
+1[mr]
+1[pr]
+1[qr]
+1[rr]
+2[sr]
+)
+4
+B[nq]
+W[rs]
+B[qs]
+W[os]
+Dia.2(B's wish)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B1 seems to be a strong vital point because B can live easily.
+\par
+\par But this result is \cf1\b just B's wish.\cf0\b0
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[lp]
+2[mp]
+1[op]
+2[pp]
+2[rp]
+2[lq]
+1[mq]
+1[oq]
+2[pq]
+2[rq]
+2[lr]
+1[mr]
+1[pr]
+1[qr]
+1[rr]
+2[sr]
+)
+5
+B[nr]
+W[np]
+B[os]
+W[nq]
+B[ms]
+Dia.3(Excellent skill)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W1,3 and 5 are excellent sequence to erase B's eye.
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[lp]
+2[mp]
+1[op]
+2[pp]
+2[rp]
+2[lq]
+1[mq]
+1[oq]
+2[pq]
+2[rq]
+2[lr]
+1[mr]
+1[nr]
+1[pr]
+1[qr]
+1[rr]
+2[sr]
+)
+5
+W[os]
+B[ps]
+W[or]
+B[ns]
+W[or]
+Dia.4(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\cf1\lang1042\b\f0\fs18
+\par Tiger's mouth at 1 is the only way to live.\cf0\b0
+\par
+\par W2 and 4 try to erase B's eye but B can make another eye below.
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+2[lp]
+2[mp]
+1[op]
+2[pp]
+2[rp]
+2[lq]
+1[mq]
+1[oq]
+2[pq]
+2[rq]
+2[lr]
+1[mr]
+1[pr]
+1[qr]
+1[rr]
+2[sr]
+)
+5
+B[os]
+W[nq]
+B[nr]
+W[np]
+B[ms]

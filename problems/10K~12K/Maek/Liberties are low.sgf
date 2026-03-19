@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[op][pp][qp][nq][rq][nr][rr][ms][rs]AB[no][np][mq][oq][pq][qq][mr][qr][os][qs]LBC[Liberties are low
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Here's a capturing race\lang1042\f0\fs18 .
+
+\lang1033\f1\fs16 White looks like he's in hot water.  There is a maek to win the capturing race for him, just have to find it.  Read carefully.
+
+\lang1042\f0\fs18
+])
+(;AW[op][pp][qp][nq][rq][nr][rr][ms][rs]AB[no][np][mq][oq][pq][qq][mr][qr][os][qs]LB[or:A]
+;W[lr]
+;B[ns]LB[lr:1][ns:2][or:A]C[Dia.1 Captured easily
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 If White plays 1 then Black can \cf1\b capture him easily with 2\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Not much to say here, Black could've also just dansud at A and all would've been well.
+
+\lang1042\f0\fs18
+])
+(;CR[oq][pq][qq][qr][qs]AW[op][pp][qp][nq][rq][nr][rr][ms][rs]AB[no][np][mq][oq][pq][qq][mr][qr][os][qs]
+;W[or]LB[or:1]CR[oq][pq][qq][qr][qs]C[Dia.2 Correct
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White 1 is the move we're looking for.  Black's shape is actually bad because of the empty triangle, and now \cf1\b White catches him in a shortage of liberties\cf0\lang1042\b0\f0\fs18 .
+
+\lang1033\f1\fs16 Nothing Black can do right?\lang1042\f0\fs18
+
+
+])
+(;CR[ns]AW[ro][op][pp][qp][nq][rq][nr][or][rr]AB[lo][no][np][mq][oq][pq][qq][mr][qr][ns][qs]LBCR[ns]C[Dia.3 Practice problem
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\b\f1\fs16 Here's a practice problem\lang1042\b0\f0\fs18 .
+
+\lang1033\f1\fs16 Black has just played the marked stone.  How can White win the capturing race?
+\lang1042\f0\fs18
+])
+(;AW[ro][op][pp][qp][nq][rq][nr][or][rr]AB[lo][no][np][mq][oq][pq][qq][mr][qr][ns][qs]LB[ms:B][os:A][rs:C]
+;W[ps]LB[ps:1][ms:B][os:A][rs:C]C[Dai.4 Diagonal
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White should play the\lang1042\f0\fs18  \cf1\lang1033\b\f1\fs16 diagonal move at 1\cf0\lang1042\b0\f0\fs18 . \lang1033\f1\fs16 Now the 5 Black stones don't have enough liberties to put White into dansu.
+
+If White plays 1 at A then Black will play B and White C leads to Bik.
+
+\lang1042\f0\fs18
+])
+(;AW[op][pp][qp][nq][rq][nr][rr][ms][rs]AB[no][np][mq][oq][pq][qq][mr][qr][os][qs]LBC[No diagram name
+
+
+
+])
+)

@@ -1,0 +1,149 @@
+//19
+4
+First is a key move(76)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par It's not an esay one!
+\par And ko isn't the right answer.
+\par
+\par
+\par }
+#
+(
+2[mn]
+2[rn]
+2[oo]
+2[po]
+2[qo]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[ns]
+2[os]
+)
+0
+Dia.1(Ko isn't enough)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Attaching at 1 looks like a sharp attack but it will be a ko.
+\par
+\par And \cf1\b this result isn't enough.
+\par }
+#
+(
+2[mn]
+2[rn]
+2[oo]
+2[po]
+2[qo]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[ns]
+2[os]
+)
+5
+W[qr]
+B[qq]
+W[ps]
+B[rr]
+W[rs]
+Dia.2(Look like a sharp move)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W1 wanted B to dansu but B2 is a good attack so\cf1\b  B can live easily.
+\par \cf0\b0
+\par If B dansu one stone, W would cut at 2 and W can capture easily.
+\par
+\par }
+#
+(
+2[mn]
+2[rn]
+2[oo]
+2[po]
+2[qo]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[ns]
+2[os]
+)
+6
+W[qq]
+B[rr]
+W[qs]
+B[qr]
+W[ps]
+B[rs]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Attaching at \cf1\b 2 to 2 point \cf0\b0 is a vital point.
+\par
+\par If B played at 2, W would throw in at 3
+\par and if B played at 3, W would cross at A.
+\par }
+#
+(
+2[mn]
+2[rn]
+2[oo]
+2[po]
+2[qo]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+1[pr]
+2[ns]
+2[os]
+65[ps]
+)
+3
+W[rr]
+B[qr]
+W[qq]

@@ -1,0 +1,75 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[op]AW[qn][oo][ro][pp][qp][mq][nq][oq][nr]AB[ko][op][rp][kq][pq][qq][rq][or][pr]LBCR[op]C[Can escape?(5)
+
+
+\lang1033\f1 It's\b  Black\b0 's turn.\f2
+\lang1042\f0
+B\'a1\'e3 can escape?
+
+])
+(;AW[qn][oo][ro][pp][qp][mq][nq][oq][nr]AB[ko][op][rp][kq][pq][qq][rq][or][pr]
+;B[np]
+;W[mp]
+;B[no]
+;W[mo]
+;B[nn]LB[np:1][mp:2][no:3][mo:4][nn:5]C[Dia.1(W is in trouble)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Dansu at 1 is a very bed move.
+
+Up to 5, B can escape easily and\cf1\b  W's six stones are in trouble.\cf0\b0
+
+])
+(;CR[np]AW[qn][oo][ro][pp][qp][mq][nq][oq][nr]AB[ko][np][op][rp][kq][pq][qq][rq][or][pr]
+;W[no]
+;B[mp]
+;W[lp]
+;B[mo]
+;W[lo]
+;B[mn]
+;W[lq]
+;B[ln]LB[no:1][mp:2][lp:3][mo:4][lo:5][mn:6][lq:7][ln:8]CR[np]C[Dia.2(The same as before)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Dansu at 1 is also bed move and\cf1\b  the result is the same as before\cf0\b0 .
+
+Then B can escape?
+])
+(;AW[qn][oo][ro][pp][qp][mq][nq][oq][nr]AB[ko][np][op][rp][kq][pq][qq][rq][or][pr]
+;W[mo]
+;B[po]
+;W[qo]
+;B[no]LB[mo:1][po:2][qo:3][no:4]C[DIa.3(Net)
+
+{\colortbl ;\red0\green0\blue255;}
+
+It can't be possible!!
+
+W has a solution whichi is\cf1\b  a sort of net(W1)
+\cf0\b0
+Continue the next page.
+
+])
+(;AW[qn][mo][oo][qo][ro][pp][qp][mq][nq][oq][nr]AB[ko][no][po][np][op][rp][kq][pq][qq][rq][or][pr]
+;W[nn]
+;B[on]
+;W[mp]
+;B[oo]
+;W[om]LB[nn:1][on:2][mp:3][oo:4][om:5]C[Dia.4(Chokchoksu )
+
+{\colortbl ;\red0\green0\blue255;}
+
+Up to 5. B's six stone is captured by \lang1033\f1 chokchoksu.
+\cf1\b
+B has no chance to escape. \cf0\b0\f2
+\lang1042\f0
+
+])
+)

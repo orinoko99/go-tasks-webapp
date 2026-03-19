@@ -1,0 +1,55 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pq][qq][rq][or][pr][sr]AB[op][pp][qp][rp][sp][mq][oq][sq][nr]LBC[First is a key move(72)
+
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\lang1042\f0
+In this case, ko is the best result??
+
+])
+(;AW[pq][qq][rq][or][pr][sr]AB[op][pp][qp][rp][sp][mq][oq][sq][nr]
+;B[rr]
+;W[rs]LB[rr:1][rs:2]C[Dia.1(Ko)
+
+
+You might think about a ko is the best result.
+
+\'c8\'e61\'b7\'ce \'b2\'f7\'b4\'c2 \'bc\'f6\'b0\'a1 \'c3\'d6\'bc\'b1\'c0\'cc\'b6\'f3\'b0\'ed \'bb\'fd\'b0\'a2\'c7\'d1 \'bb\'e7\'b6\'f7\'c0\'cc \'c0\'d6\'b4\'d9\'b8\'e9 \'c2\'fc \'b0\'c6\'c1\'a4\'b5\'cb\'b4\'cf\'b4\'d9.
+\'b9\'e9\'c0\'ba \'b4\'e7\'bf\'ac\'c8\'f7 2\'c0\'c7 \'c6\'d0\'b7\'ce \'b9\'f6\'c6\'bc\'b0\'da\'c1\'d2.
+
+\'c0\'cc \'c1\'a4\'b5\'b5\'c0\'c7 \'b4\'e4\'c0\'ba \'c0\'d4\'b9\'ae\'c0\'da\'b5\'b5 \'c0\'df\'c7\'cf\'b8\'e9 \'b3\'be \'bc\'f6\'b0\'a1 \'c0\'d6\'c0\'bb \'b0\'cd \'b0\'b0\'b1\'ba\'bf\'e4.
+\'c6\'d0\'b4\'c2 \'be\'ea\'b1\'e2\'b0\'a1 \'be\'c8\'b5\'cb\'b4\'cf\'b4\'d9.
+
+])
+(;AW[pq][qq][rq][or][pr][sr]AB[op][pp][qp][rp][sp][mq][oq][sq][nr]
+;B[qs]
+;W[rs]LB[qs:1][rs:2]C[Dia.2(Mistake)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Playing inside at 1 is a big mistake.
+W can live easily.
+
+
+\cf1\b
+\cf0\b0
+])
+(;AW[pq][qq][rq][or][pr][sr]AB[op][pp][qp][rp][sp][mq][oq][sq][nr]
+;B[rs]
+;W[qs]
+;B[rr]LB[rs:1][qs:2][rr:3]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Playing inside at 1 is\cf1\b  a proper vital point\cf0\b0  so B can capture W's group without ko.
+
+
+
+])
+)

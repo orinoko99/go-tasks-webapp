@@ -1,0 +1,63 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[jn][jp]AW[qf][jn][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][dp][jp][pp]
+;B[eq]
+;W[fp]LB[eq:1][fp:2]CR[jn][jp]C[How should Black play?
+
+{\colortbl ;\red0\green0\blue0;}
+Black's turn\b0
+When White played\cf1\f1\fs20  \'a1\'e2\f0  Black answered 1. But this move makes Black's \f1\'a1\'e3\f0  stone weaker. It's possible to sacrifice it. But if Black want's to save it, how should Black play?\cf0\lang1042\f2\fs18
+
+])
+(;AW[qf][jn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][dp][jp][pp][eq]LB[mn:?]
+;B[mn]
+;W[lo]
+;B[nq]
+;W[mq]
+;B[mr]
+;W[lr]
+;B[nr]
+;W[fm]LB[mn:1][lo:2][nq:3][mq:4][mr:5][lr:6][nr:7][fm:8][mn:?]C[1st Dia. If Black makes a sacrifice
+
+If Black wants to give up that stone Black has to play this sequence. But I don't recommend playing like this, because White gets too much territory. And Black still has some weaknesses on the left side.\lang1042\f1
+
+])
+(;CR[fp][fq]AW[qf][jn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][dp][jp][pp][eq]
+;B[ko]
+;W[mn]
+;B[kn]
+;W[km]
+;B[jm]LB[ko:1][mn:2][kn:3][km:4][jm:5]CR[fp][fq]C[2nd Dia. Keep looking
+
+White's 2 \lang1042\f1\'a1\'e2\lang1043\f0  stones are strong, so Black should play 1, White will answer 2. Then Black plays 3 and 5.
+This result is good for Black.\lang1042\f1
+
+])
+(;CR[kn][mn][mp]AW[qf][jn][mn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][kn][pn][ko][dp][jp][pp][eq]
+;W[jl]
+;B[km]LB[jl:1][km:2]CR[kn][mn][mp]C[3rd Dia. Bad for White
+
+When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  if White answers 1 Black will play 2, it's a good move.
+Now White's 2 \lang1042\f1\'a1\'e2 \lang1043\f0 stones are in danger.
+This result is good for Black.\lang1042\f1
+
+])
+(;AW[qf][jn][fp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][dp][jp][pp][eq]LB[dl:A][pl:B]
+;B[hq]
+;W[ho]
+;B[lq]
+;W[mq]
+;B[mr]
+;W[nr]
+;B[lr]
+;W[oq]LB[hq:1][ho:2][lq:3][mq:4][mr:5][nr:6][lr:7][oq:8][dl:A][pl:B]C[4th Dia. White's wish
+
+Black 1 is White's wish. If both players follow this sequence then the result is good for White.
+Later White can play A or B, it's very painful for Black.\lang1042\f1
+
+])
+)

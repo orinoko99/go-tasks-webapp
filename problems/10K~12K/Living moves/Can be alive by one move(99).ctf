@@ -1,0 +1,162 @@
+//19
+4
+Can be alive by one move(99)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\par \pard\ltrpar\cf1\lang1042\b\f0
+\par The best answer is draw.\cf0\b0
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+1[op]
+2[iq]
+2[kq]
+2[lq]
+2[mq]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+2[jr]
+1[kr]
+1[lr]
+1[mr]
+1[nr]
+1[pr]
+1[qr]
+2[rr]
+1[ks]
+2[ms]
+1[rs]
+)
+0
+Dia.1(It's small space)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Connecting at 1 is the most common move but it doesn't work.
+\par
+\par Because throw in at 2 and W4 are good sequence to kill B.
+\par
+\par
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+1[op]
+2[iq]
+2[kq]
+2[lq]
+2[mq]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+2[jr]
+1[kr]
+1[lr]
+1[mr]
+1[nr]
+1[pr]
+1[qr]
+2[rr]
+1[ks]
+2[ms]
+1[rs]
+)
+4
+B[or]
+W[qs]
+B[ps]
+W[ns]
+Dia.2(Also dead)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Playing at 1 is also bed move.
+\par After 2,\cf1\b  B is dead.
+\par \cf0\b0
+\par W can play at A instead of 2.
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+1[op]
+2[iq]
+2[kq]
+2[lq]
+2[mq]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+2[jr]
+1[kr]
+1[lr]
+1[mr]
+1[nr]
+65[or]
+1[pr]
+1[qr]
+2[rr]
+1[ks]
+2[ms]
+65[qs]
+1[rs]
+)
+2
+B[ns]
+W[qs]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B1 is the only way to live and it is\cf1\b  the enemy's vital point!!\cf0\b0
+\par
+\par Up to 3, if W played at A, it would be a draw.\cf1\b
+\par }
+#
+(
+2[no]
+2[oo]
+2[po]
+1[op]
+2[iq]
+2[kq]
+2[lq]
+2[mq]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+2[jr]
+1[kr]
+1[lr]
+1[mr]
+1[nr]
+1[pr]
+1[qr]
+2[rr]
+1[ks]
+2[ms]
+65[ns]
+65[qs]
+1[rs]
+)
+3
+B[qs]
+W[os]
+B[or]

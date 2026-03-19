@@ -1,0 +1,65 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qk][qo][ro][so][op][pp][oq][pr][qr][rr][ps]AB[lo][no][nq][pq][qq][rq][mr][or][os]LBC[Don't be scatty
+
+
+\lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+
+It seems to be easy.
+Don't be scatty!!
+
+])
+(;AW[qk][qo][ro][so][op][pp][oq][pr][qr][rr][ps]AB[lo][no][nq][pq][qq][rq][mr][or][os]
+;B[sr]
+;W[sq]
+;B[sp]
+;W[rs]LB[sr:1][sq:2][sp:3][rs:4]C[DIa.1(One eye versus no eye)
+
+{\colortbl ;\red255\green0\blue0;}
+
+You might think about bending move(B1). but throw in at 2 is severe.
+
+Up to 4, B can't kill W's group.
+This is the\cf1\b  '\f1 One eye versus no eye'\cf0\b0\f0
+
+])
+(;CR[sq]AW[qk][qo][ro][so][op][pp][oq][sq][pr][qr][rr][ps]AB[lo][no][nq][pq][qq][rq][mr][or][sr][os]
+;B[rs]
+;W[ss]LB[rs:1][ss:2]CR[sq]C[DIa.2(Ko)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+B can make a\cf1\b  ko\cf0\b0 , If played at 1 instead of taking off W's one stone.
+
+\cf2\b But this result is also not enough.\cf0\b0
+
+])
+(;AW[qk][qo][ro][so][op][pp][oq][pr][qr][rr][ps]AB[lo][no][nq][pq][qq][rq][mr][or][os]
+;B[rs]
+;W[sq]
+;B[sr]LB[rs:1][sq:2][sr:3]C[DIa.3(This is also a ko)
+
+{\colortbl ;\red255\green0\blue0;}
+
+How about attaching at 2 to 1 point?
+
+This is a good try but is\cf1\b  also a ko.
+
+])
+(;AW[qk][qo][ro][so][op][pp][oq][pr][qr][rr][ps]AB[lo][no][nq][pq][qq][rq][mr][or][os]LB[qp:A][rp:B][sp:C]
+;B[sq]
+;W[sr]
+;B[rs]LB[sq:1][sr:2][rs:3][qp:A][rp:B][sp:C]C[DIa.4(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+You might be suprised when saw B1 because it is an unexpected move.
+
+But descent at 1 is \cf1\b the only answer \cf0\b0 to capture W's group.
+B has one more liberty!
+])
+)

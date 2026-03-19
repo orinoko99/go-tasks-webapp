@@ -1,0 +1,115 @@
+//19
+5
+Star-point Joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 White's turn\b0
+\par When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is a trick move. How should White answer?\lang1042\f1
+\par
+\par }
+#
+(
+6[pn]
+1[kp]
+2[lp]
+2[mp]
+1[pp]
+1[jq]
+1[lq]
+2[nq]
+)
+1
+B[no]
+1st Dia. 3-3
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White 1 is the easiest answer. Black has 2 options, A and B but doesn't matter where Black plays the result will be good for White.\lang1042\f1
+\par
+\par }
+#
+(
+2[pn]
+1[no]
+1[kp]
+2[lp]
+2[mp]
+1[pp]
+65[qp]
+1[jq]
+1[lq]
+2[nq]
+66[pq]
+)
+1
+W[qq]
+2nd Dia. Bad for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If Black plays 1 White will answer 2. White's \lang1042\f1\'a1\'e2\lang1043\f0  stone is not weak at all. White is actually attacking Black's group. This result is good for White.\lang1042\f1
+\par
+\par }
+#
+(
+6[pn]
+1[no]
+1[kp]
+2[lp]
+2[mp]
+1[pp]
+65[qp]
+1[jq]
+1[lq]
+2[nq]
+2[qq]
+)
+4
+B[qp]
+W[pq]
+B[op]
+W[oq]
+3rd Dia. Good for White
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If Black plays 1 White will plays 2 to 6. This result is good for White.\lang1042\f1
+\par
+\par
+\par }
+#
+(
+6[pn]
+1[no]
+1[kp]
+2[lp]
+2[mp]
+1[pp]
+1[jq]
+1[lq]
+2[nq]
+2[qq]
+)
+6
+B[pq]
+W[qp]
+B[po]
+W[qo]
+B[on]
+W[pm]
+4th Dia. MIstake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White 1 and 3 are mistakes. White's shape is an empty triangle. This fight is good for Black. I recommend you to play A as White, just like in the previous diagram.\lang1042\f1
+\par
+\par }
+#
+(
+2[pn]
+1[no]
+1[kp]
+2[lp]
+2[mp]
+1[pp]
+1[jq]
+1[lq]
+2[nq]
+65[qq]
+)
+4
+W[oo]
+B[op]
+W[np]
+B[nn]

@@ -1,0 +1,171 @@
+//19
+5
+One Move Captures White (5)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to Play.\b0
+\par Considering there is one space in which it is illegal for black to play, black has only four starting points to choose from.
+\par
+\par What is the best result?
+\par Does it become a pae or can black captures white unconditionally?
+\par }
+#
+(
+1[mo]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+2[oq]
+2[qq]
+1[rq]
+2[sq]
+1[nr]
+2[or]
+2[rr]
+2[sr]
+1[ns]
+2[os]
+2[qs]
+1[rs]
+)
+0
+Diagram 1 (Pae)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If this were a real game, nine out of ten players may have played dansu at 1.
+\par
+\par Is this pae the correct answer?
+\par
+\par No, it isn't. There is a move to capture white. This is as good as telling you where the correct answer is.
+\par }
+#
+(
+1[mo]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+2[oq]
+2[qq]
+1[rq]
+2[sq]
+1[nr]
+2[or]
+2[rr]
+2[sr]
+1[ns]
+2[os]
+2[qs]
+1[rs]
+)
+3
+B[pq]
+W[pr]
+B[qr]
+Diagram 2 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black 1 is a lethal move. White is caught off guard.
+\par
+\par When dealing with life and death problems, an unexpected move often works so please read moves very carefully in real games.
+\par }
+#
+(
+1[mo]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+2[oq]
+2[qq]
+1[rq]
+2[sq]
+1[nr]
+2[or]
+2[rr]
+2[sr]
+1[ns]
+2[os]
+2[qs]
+1[rs]
+)
+1
+B[pr]
+Diagram 3 (No Problem?)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Continuing from the previous diagram -
+\par
+\par When white plays at 1, it is ingenious for black to play at 2, giving white a second stone to eat. Now you may have a good idea of what black is planning.
+\par
+\par Even though white captures the two black stones with 3 and seems to have no problems, next -
+\par }
+#
+(
+1[mo]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+2[oq]
+2[qq]
+1[rq]
+2[sq]
+1[nr]
+2[or]
+1[pr]
+2[rr]
+2[sr]
+1[ns]
+2[os]
+2[qs]
+1[rs]
+)
+3
+W[pq]
+B[qr]
+W[ps]
+Diagram 4 (Double Snapback)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's throw-in at 1 is the finishing blow. Now, the stones seem to have quite a strange shape.
+\par
+\par No matter which black stone white captures, whether it be 1 or \'a1\'e3, black's snapback works. Therefore, white's whole group in the corner is captured.
+\par
+\par This is an incredible double snapback.
+\par }
+#
+(
+1[mo]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+2[sq]
+1[nr]
+2[or]
+2[rr]
+2[sr]
+1[ns]
+2[os]
+2[ps]
+2[qs]
+5[rs]
+)
+1
+B[qr]

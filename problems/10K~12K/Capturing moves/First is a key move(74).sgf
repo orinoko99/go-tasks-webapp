@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[om][qm][rm][po][qo][op][rp][sp][oq][mr][or][ps]AB[rn][pp][qp][pq][rq][pr][qr][os]LB[ro:A]LB[ro:A]C[First is a key move(74)
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+This problem is a little bit difficult because W has a weakpoint(A)
+
+
+])
+(;AW[om][qm][rm][po][qo][op][rp][sp][oq][mr][or][ps]AB[rn][pp][qp][pq][rq][pr][qr][os]LB[sq:A]
+;W[ro]
+;B[sr]LB[ro:1][sr:2][sq:A]C[Dia.1(Weak attitude)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W1 shows\cf1\b  a weak attitude!!\cf0\b0
+
+B can live easily.
+
+])
+(;AW[om][qm][rm][po][qo][op][rp][sp][oq][mr][or][ps]AB[rn][pp][qp][pq][rq][pr][qr][os]LB[sq:A]
+;W[sq]
+;B[sr]
+;W[ro]LB[sq:1][sr:2][ro:3][sq:A]C[Dia.2(Sente)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Going out at 1 is\cf1\b  a reckless move.\cf0\b0
+After 2, W should connect at 3 and B's group has already lived.
+])
+(;AW[om][qm][rm][po][qo][op][rp][sp][oq][mr][or][ps]AB[rn][pp][qp][pq][rq][pr][qr][os]LB[ro:A]
+;W[sr]
+;B[sq]
+;W[rr]LB[sr:1][sq:2][rr:3][ro:A]C[Dia.3(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Playing at\cf1\b  2 to 1 point\cf0\b0  is \cf1\b a proper move.
+\cf0\b0
+After 2, W can dansu two stones and B won't have a time to cut at A.
+
+])
+)

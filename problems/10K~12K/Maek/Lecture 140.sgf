@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cq][dq][eq][gq][br][fr]AB[cp][dp][ep][fp][bq][fq]LBC[Black's maek (tesuji)
+
+Find the best move for Black.
+])
+(;AW[cq][dq][eq][gq][br][fr]AB[cp][dp][ep][fp][bq][fq]
+;B[gr]
+;W[er]
+;B[hq]LB[gr:1][er:2][hq:3]C[Correct
+
+
+Cutting at the opposite side of what you aim for is the correct way. Black would like to capture the corner, and therefore cuts at 1. When White defends at 2, Black captures at 3 in a ladder to gain influence.
+])
+(;AW[cq][dq][eq][gq][br][fr]AB[cp][dp][ep][fp][bq][fq]
+;B[bp]
+;W[hr]LB[bp:1][hr:2]C[Wrong
+
+
+Just connecting at 1 allows White to reinforce at 2.
+])
+)

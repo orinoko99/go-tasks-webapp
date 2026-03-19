@@ -1,0 +1,143 @@
+//19
+4
+Living with one Move (21)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par White's living space is limited, however the shape is very flexible.
+\par
+\par Find the vital point and live.
+\par
+\par }
+#
+(
+1[mo]
+1[no]
+1[kp]
+1[lp]
+2[np]
+1[op]
+1[kq]
+2[lq]
+2[nq]
+1[pq]
+1[qq]
+1[rq]
+1[kr]
+2[lr]
+2[or]
+2[pr]
+2[qr]
+1[rr]
+1[qs]
+)
+0
+Dia. 01 Black 2, Vital Point
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's tiger's mouth move is an often used technique.
+\par However it is easy to find its weakness.\cf1\b  Black's vital point at 2 \cf0\b0 becomes obvious.
+\par
+\par White dies up to 4.
+\par
+\par
+\par
+\par }
+#
+(
+1[mo]
+1[no]
+1[kp]
+1[lp]
+2[np]
+1[op]
+1[kq]
+2[lq]
+2[nq]
+1[pq]
+1[qq]
+1[rq]
+1[kr]
+2[lr]
+2[or]
+2[pr]
+2[qr]
+1[rr]
+1[qs]
+)
+4
+W[ns]
+B[mr]
+W[mq]
+B[ps]
+Dia. 02 Death Again
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par After White 1, Black 2 is the vital point again and White is captured easily.
+\par
+\par The vital point is at the same place in this and the previous variation as well.
+\par
+\par Hint: "\cf1\b The opponent's vital point is my vital point\cf0\b0 ".
+\par
+\par }
+#
+(
+1[mo]
+1[no]
+1[kp]
+1[lp]
+2[np]
+1[op]
+1[kq]
+2[lq]
+2[nq]
+1[pq]
+1[qq]
+1[rq]
+1[kr]
+2[lr]
+2[or]
+2[pr]
+2[qr]
+1[rr]
+1[qs]
+)
+2
+W[mp]
+B[mr]
+Dia. 03 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is the\cf1\b  vital point for living\cf0\b0 .
+\par This move makes 2 and 3 miai, so White's life is decided.
+\par
+\par }
+#
+(
+1[mo]
+1[no]
+1[kp]
+1[lp]
+2[np]
+1[op]
+1[kq]
+2[lq]
+2[nq]
+1[pq]
+1[qq]
+1[rq]
+1[kr]
+2[lr]
+2[or]
+2[pr]
+2[qr]
+1[rr]
+1[qs]
+)
+3
+W[mr]
+B[mp]
+W[ns]

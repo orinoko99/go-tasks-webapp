@@ -1,0 +1,76 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oq][pq][qq][rq][or][sr]AB[rn][np][op][pp][qp][rp][nq][sq][nr][ns][os]LBC[Living with one Move(11)
+
+
+\b White to play\b0 .
+White shouldn't be greedy. It is good enough if he finds the way to live with two eyes. The first move is calm.
+
+
+])
+(;AW[oq][pq][qq][rq][or][sr]AB[rn][np][op][pp][qp][rp][nq][sq][nr][ns][os]
+;W[ps]
+;B[rs]
+;W[qr]
+;B[qs]
+;W[rr]LB[ps:1][rs:2][qr:3][qs:4][rr:5]C[Dia. 01 Pae
+
+{\colortbl ;\red255\green0\blue0;}
+
+White's block at 1 is \cf1\b greedy\cf0\b0 . It would be nice if White could live with many points like this.
+However Black's placement at 2 is a severe attack.
+
+The best what White can do is to resist with 3. It becomes pae up to 5.
+
+If White plays at 4 instead of 3, Black plays at 3 and White is captured.
+
+])
+(;AW[oq][pq][qq][rq][or][sr]AB[rn][np][op][pp][qp][rp][nq][sq][nr][ns][os]
+;W[qs]
+;B[ps]
+;W[rs]
+;B[qr]LB[qs:1][ps:2][rs:3][qr:4]C[Dia. 02 No Hope
+
+{\colortbl ;\red0\green0\blue255;}
+
+White 1 looks better, but after Black 2, White has no hope.
+
+After White 3, Black's \cf1\b wedge-in\cf0\b0  move at 4 \cf1\b works\cf0\b0 . White can't cut because of shortage of liberties.
+
+
+])
+(;AW[oq][pq][qq][rq][or][sr]AB[rn][np][op][pp][qp][rp][nq][sq][nr][ns][os]
+;W[qr]
+;B[rs]
+;W[ps]
+;B[qs]LB[qr:1][rs:2][ps:3][qs:4]C[Dia. 03 Pae
+
+{\colortbl ;\red0\green0\blue255;}
+
+White 1 is another powerful move, but Black's placement at 2 is the \cf1\b right attack\cf0\b0 .
+
+The best what White can do is a pae up to 4. It became the same shape with \b Dia. 01\b0 .
+
+Pay attention, if Black carelessly plays at 3 instead of 2, White lives with 2.
+])
+(;AW[oq][pq][qq][rq][or][sr]AB[rn][np][op][pp][qp][rp][nq][sq][nr][ns][os]LB[sp:B][qs:A]
+;W[rs]
+;B[ps]
+;W[qr]LB[rs:1][ps:2][qr:3][sp:B][qs:A]C[Dia. 04 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's tiger's mouth move at 1 is the \cf1\b correct move\cf0\b0 . This is the 1-2 vital point.
+
+After Black 2, White lives with 3.
+A and B are miai.
+If White plays at A instead of 3, Black captures White with 3.
+It was checked already in\b  Dia. 02\b0 .
+
+
+])
+)

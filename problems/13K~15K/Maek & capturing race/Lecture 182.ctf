@@ -1,0 +1,93 @@
+//19
+3
+Win the capturing race
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Where's Black's move to win the capturing race?
+\par }
+#
+(
+2[cn]
+2[en]
+2[bo]
+1[go]
+2[bp]
+1[cp]
+1[dp]
+1[ep]
+1[bq]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+1[br]
+2[cr]
+1[dr]
+2[er]
+1[fr]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Descending to 1 is the vital point. White plays atari at 2 and Black surrounds at 3. When White takes at 4, Black continues to take liberties from the outside at 5.
+\par }
+#
+(
+2[cn]
+2[en]
+2[bo]
+1[go]
+2[bp]
+1[cp]
+1[dp]
+1[ep]
+1[bq]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+1[br]
+2[cr]
+1[dr]
+2[er]
+1[fr]
+)
+7
+B[ds]
+W[cs]
+B[bs]
+W[es]
+B[fs]
+W[aq]
+B[dr]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The hane at either side doesn't work. White can make an eye at 2 and the stones in the corner are lost (one eye versus no eye).
+\par }
+#
+(
+2[cn]
+2[en]
+2[bo]
+1[go]
+2[bp]
+1[cp]
+1[dp]
+1[ep]
+1[bq]
+2[cq]
+2[dq]
+2[eq]
+1[fq]
+1[br]
+2[cr]
+1[dr]
+2[er]
+1[fr]
+)
+4
+B[es]
+W[ds]
+B[fs]
+W[bs]

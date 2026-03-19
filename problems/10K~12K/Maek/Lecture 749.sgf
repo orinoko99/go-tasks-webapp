@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[fo][go][dp][ep][ip][eq][iq][er][fr][ir]AB[do][eo][cp][fp][cq][dq][fq][hq][gr]LBC[Increasing Liberties
+
+Black to capture White.
+])
+(;AW[fo][go][dp][ep][ip][eq][iq][er][fr][ir]AB[do][eo][cp][fp][cq][dq][fq][hq][gr]
+;B[gq]
+;W[hr]
+;B[gs]
+;W[hp]
+;B[dr]
+;W[hs]
+;B[es]LB[gq:1][hr:2][gs:3][hp:4][dr:5][hs:6][es:7]C[Correct
+
+Before reducing liberties Black should connect at 1 to make sure that White can't throw in there. This way Black can win the capturing race.
+
+])
+(;AW[fo][go][dp][ep][ip][eq][iq][er][fr][ir]AB[do][eo][cp][fp][cq][dq][fq][hq][gr]
+;B[fs]
+;W[gq]
+;B[gp]
+;W[hp]
+;B[gq]
+;W[hr]LB[fs:1][gq:2][gp:3][hp:4][gq:5][hr:6]C[Failure
+
+Directly taking liberties fails because White can throw in at 2 to reduce Black liberties.
+
+])
+)

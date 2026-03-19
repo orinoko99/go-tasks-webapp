@@ -1,0 +1,48 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ql][on][pn][oo][ro][pp][qp][pq][rq][pr][sr]AB[no][po][mp][op][jq][oq][qq][or][qr][rr][ps]LB[qs:B][rs:A]LB[qs:B][rs:A]C[Easy Counting(21)
+
+
+\b White to play\b0 (or \b Black to play\b0 ).
+
+Either White plays at \b A\b0  or Black at \b B\b0  the value of these moves are same. How many points are they worth?
+])
+(;AW[ql][on][pn][oo][ro][pp][qp][pq][rq][pr][sr]AB[no][po][mp][op][jq][oq][qq][or][qr][rr][ps]LB[os:B][qs:A]
+;W[rs]LB[rs:1][os:B][qs:A]C[Dia. 01 If White Plays
+
+{\colortbl ;\red0\green0\blue255;}
+
+If White plays, he can get many points by \cf1\b capturing the three Black \'a1\'e3 stones \cf0\b0 with 1.
+
+It is possible to judge how big this move is, if we compare the result when Black plays at A.
+
+Later White A-Black B exchange is going to be played.
+
+])
+(;AW[ql][on][pn][oo][ro][pp][qp][pq][rq][pr][sr][qs][rs]AB[no][po][mp][op][jq][oq][or][os][ps]LB[qq:Y][sq:?][qr:Y][rr:Y][ss:?]LB[qq:Y][sq:?][qr:Y][rr:Y][ss:?]C[Dia. 02 Total 8 Points
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's territory has increased by capturing the three stones (6 points-Ys) plus with 2 points (Xs)
+\cf1\b All together\cf0\b0  it is \cf1\b 8 points\cf0\b0 .
+
+
+
+])
+(;AW[ql][on][pn][oo][ro][pp][qp][pq][rq][pr][sr]AB[no][po][mp][op][jq][oq][qq][or][qr][rr][ps]
+;B[qs]LB[qs:1]C[Dia. 03 8 Points
+
+{\colortbl ;\red0\green0\blue255;}
+
+Even Black plays at 1, his territory doesn't increase.
+Black only takes away White's opportunity to make points.
+
+Therefore the value of White \b A\b0  (Black \b B\b0 ) is \cf1\b 8 points\cf0\b0 .
+
+
+])
+)

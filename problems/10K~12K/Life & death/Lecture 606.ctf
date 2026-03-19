@@ -1,0 +1,71 @@
+//19
+3
+Creating Weaknesses
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black to capture White.
+\par }
+#
+(
+1[bq]
+1[dq]
+1[eq]
+1[fq]
+1[gq]
+2[ar]
+2[br]
+2[dr]
+2[er]
+2[fr]
+1[gr]
+2[fs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The wedge-in at 1 works perfectly to create weaknesses in White's shape. When White connects at 4, Black throws in at 5 to make the second eye false.
+\par
+\par }
+#
+(
+1[bq]
+1[dq]
+1[eq]
+1[fq]
+1[gq]
+2[ar]
+2[br]
+2[dr]
+2[er]
+2[fr]
+1[gr]
+2[fs]
+)
+5
+B[cr]
+W[cs]
+B[cq]
+W[bs]
+B[ds]
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Connecting at 1 is slack play. White also connects at 2 and is alive.
+\par
+\par }
+#
+(
+1[bq]
+1[dq]
+1[eq]
+1[fq]
+1[gq]
+2[ar]
+2[br]
+2[dr]
+2[er]
+2[fr]
+1[gr]
+2[fs]
+)
+2
+B[cq]
+W[cr]

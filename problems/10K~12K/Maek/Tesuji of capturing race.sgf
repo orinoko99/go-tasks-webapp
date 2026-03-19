@@ -1,0 +1,61 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[np][op][lq][nq][pq][qq][rq][pr][sr][qs]AB[pn][pp][qp][rp][sp][oq][or][rr][os][rs]LBC[Tesuji of capturing race
+
+
+\lang1033\f1 It's\b  Black\b0 's turn.\f2
+\lang1042\f0
+Tesuji of capturing race
+
+Don't make a mistake.
+])
+(;AW[np][op][lq][nq][pq][qq][rq][pr][sr][qs]AB[pn][pp][qp][rp][sp][oq][or][rr][os][rs]
+;B[sq]
+;W[nr]LB[sq:1][nr:2]C[Dia.1(Endgame)
+
+{\colortbl ;\red255\green0\blue0;}
+
+B1 seems to be an answer but it is just an\cf1\b  endgame.\cf0\b0
+
+W can capture B's three stones easily.
+
+])
+(;AW[np][op][lq][nq][pq][qq][rq][pr][sr][qs]AB[pn][pp][qp][rp][sp][oq][or][rr][os][rs]LB[qr:A]
+;B[ps]LB[ps:1][qr:A]C[Dia.2(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Dansu at 1 is \cf1\b the right answer.\cf0\b0
+
+W can't connect at A.
+
+
+])
+(;CR[qr]AW[np][op][lq][nq][pq][qq][rq][pr][qr][sr][qs]AB[pn][pp][qp][rp][sp][oq][or][rr][os][rs]LBCR[qr]C[Dia.3(An applied problem)
+
+
+<An applied problem>
+
+There is one more W's stone(\'a1\'e2) at inside.
+
+\lang1033\f1 It's\b  Black\b0 's turn.\f2
+\lang1042\f0
+Where is a tesuji?
+])
+(;AW[np][op][lq][nq][pq][qq][rq][pr][qr][sr][qs]AB[pn][pp][qp][rp][sp][oq][or][rr][os][rs]
+;B[sq]
+;W[ss]
+;B[rr]LB[sq:1][ss:2][rr:3]C[Dia.1(Right side!)
+
+{\colortbl ;\red0\green0\blue255;}
+
+In this case,\cf1\b  B should play at right side.
+
+\cf0\b0 B also has one more liberty.
+
+])
+)

@@ -1,0 +1,51 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[po][qo][pp][rp][nq][oq][rq][nr][rr][ns]AB[mp][np][op][qp][mq][pq][qq][mr][qr][os][rs]LBC[Give up??
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+B seems to be able to live.
+But there is a tesuji.
+Don't give up!
+
+])
+(;AW[po][qo][pp][rp][nq][oq][rq][nr][rr][ns]AB[mp][np][op][qp][mq][pq][qq][mr][qr][os][rs]
+;W[pr]
+;B[qs]
+;W[or]
+;B[ms]LB[pr:1][qs:2][or:3][ms:4]C[Dia.1(Wrong choice)
+
+
+Dansu at 1 comes to your mind first.
+
+But after B2, W has no way to live.
+
+])
+(;AW[po][qo][pp][rp][nq][oq][rq][nr][rr][ns]AB[mp][np][op][qp][mq][pq][qq][mr][qr][os][rs]
+;W[or]
+;B[ps]LB[or:1][ps:2]C[Dia.2(Wrong choice2)
+
+
+W1 is also the wrong choice.
+
+B can capture W's five stone easily.
+
+])
+(;AW[po][qo][pp][rp][nq][oq][rq][nr][rr][ns]AB[mp][np][op][qp][mq][pq][qq][mr][qr][os][rs]
+;W[ps]
+;B[qs]
+;W[or]LB[ps:1][qs:2][or:3]C[DIa.3(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+In this case, \cf1\b dansu at inside is a good tesuji.\cf0\b0
+
+Up to 3, this result is the\cf1\b  \f1 one eye versus no eye.\cf0\b0\fs24
+\f0\fs18
+])
+)

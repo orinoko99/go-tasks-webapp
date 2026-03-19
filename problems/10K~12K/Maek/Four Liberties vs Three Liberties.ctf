@@ -1,0 +1,160 @@
+//19
+5
+Four Liberties vs Three Liberties?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 .
+\par Black has three liberties white White has 4.
+\par At first it seems Black can't win this capturing race.
+\par
+\par However White's position has a defect. Black can create shortage of liberties and win the capturing race.
+\par
+\par
+\par }
+#
+(
+2[qm]
+2[po]
+2[qo]
+1[np]
+1[pp]
+1[lq]
+1[nq]
+1[pq]
+2[qq]
+2[rq]
+2[or]
+2[pr]
+1[qr]
+1[rr]
+)
+0
+Dia. 01 Beginner?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's block at 1 is a beginner move.
+\par
+\par After White plays hane at 2 Black can't win the capturing race anymore.
+\par
+\par }
+#
+(
+2[qm]
+2[po]
+2[qo]
+1[np]
+1[pp]
+1[lq]
+1[nq]
+1[pq]
+2[qq]
+2[rq]
+2[or]
+2[pr]
+1[qr]
+1[rr]
+)
+2
+B[nr]
+W[sr]
+Dia. 02 White 4, Good Move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's hane at 1 is sente.
+\par However after White answers at 2, if Black blocks, it isn't sure that Black wins the capturing race.
+\par
+\par It is a difficult maek, but White 4 is a \cf1\b good move\cf0\b0 .
+\par }
+#
+(
+2[qm]
+2[po]
+2[qo]
+1[np]
+1[pp]
+1[lq]
+1[nq]
+1[pq]
+2[qq]
+2[rq]
+2[or]
+2[pr]
+1[qr]
+1[rr]
+)
+4
+B[sq]
+W[rp]
+B[nr]
+W[rs]
+Dia. 03 Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Continuously, after Black 1, White plays at 2 and 4, then the \cf1\b pae is unavoidable\cf0\b0 .
+\par It is the effect of White \'a1\'e2.
+\par
+\par Black has to find another move.
+\par }
+#
+(
+2[qm]
+2[po]
+2[qo]
+1[np]
+1[pp]
+2[rp]
+1[lq]
+1[nq]
+1[pq]
+2[qq]
+2[rq]
+1[sq]
+1[nr]
+2[or]
+2[pr]
+1[qr]
+1[rr]
+6[rs]
+)
+4
+B[qs]
+W[sp]
+B[oq]
+W[sr]
+Dia. 04 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's descending move at 1 is the maek to win the capturing race.
+\par After White 2, Black pushes and cuts with 3 and 5. It is a good sequence to extends Black's liberties.
+\par Then Black plays at 7 and wins the capturing race.
+\par White can't play at A because of shortage of liberties.
+\par
+\par }
+#
+(
+2[qm]
+2[po]
+2[qo]
+1[np]
+1[pp]
+1[lq]
+1[nq]
+1[pq]
+2[qq]
+2[rq]
+65[sq]
+2[or]
+2[pr]
+1[qr]
+1[rr]
+)
+7
+B[sr]
+W[qs]
+B[qp]
+W[rp]
+B[ro]
+W[rn]
+B[nr]

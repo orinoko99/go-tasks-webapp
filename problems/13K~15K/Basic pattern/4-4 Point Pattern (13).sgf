@@ -1,0 +1,61 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nq]AB[qn][pp]LB[or:A]
+;W[qq]
+;B[pq]
+;W[pr]LB[qq:1][pq:2][pr:3][or:A]C[Joseki
+
+Black's turn\b0
+Let's pretend that when White plays 1 and 3, A is not a good answer because of the surrounding situation. Then how should Black answer?\lang1042\f1
+
+])
+(;CR[qn]AW[nq][qq][pr]AB[qn][pp][pq]LB[rn:B][qo:A]
+;B[or]
+;W[qr]
+;B[oq]
+;W[ro]
+;B[np]LB[or:1][qr:2][oq:3][ro:4][np:5][rn:B][qo:A]CR[qn]C[1st Dia. Safe
+
+If Black cuts at 1 White will play 2, Black 3, White 4 and then Black 5 is a good move to make Black's shape safe and strong. Black now thinks his \lang1042\f1\'a1\'e3\lang1043\f0  stone is light. White can now decide to play A or B.\lang1042\f1
+
+
+])
+(;CR[pr]AW[nq][qq][pr]AB[qn][pp][pq]
+;B[qp]
+;W[rr]
+;B[rq]
+;W[qr]
+;B[qk]LB[qp:1][rr:2][rq:3][qr:4][qk:5]CR[pr]C[2nd Dia.Even more safe
+
+Black has an even more safe way to play. When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is a very safe move. White has to play 2 then Black should exchange 3 and 4.
+After this Black will play 5. Now Black's group is very strong and safe.\lang1042\f1
+
+
+])
+(;AW[nq][qq][pr]AB[qn][pp][pq]
+;B[qp]
+;W[rq]
+;B[or]
+;W[qs]
+;B[oq]LB[qp:1][rq:2][or:3][qs:4][oq:5]C[3rd Dia. White 2 is a bad move
+
+When Black plays 1 if White plays 2 it's good for Black. Black will play 3, White 4 and Black will play 5.
+This is better for Black than the 1st diagram.
+White 2 is a bad move.\lang1042\f1
+
+])
+(;AW[nq][qq][pr]AB[qn][pp][pq]LB[qs:A]
+;B[or]
+;W[rr]
+;B[ps]
+;W[qr]
+;B[oq]LB[or:1][rr:2][ps:3][qr:4][oq:5][qs:A]C[4th Dia. Another option
+
+When Black plays 1 if White plays 2 then Black must play 3! Don't be afraid of playing a ko if White answers A.\lang1042\f1
+
+])
+)

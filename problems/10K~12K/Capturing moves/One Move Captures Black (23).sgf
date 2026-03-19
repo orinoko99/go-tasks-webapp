@@ -1,0 +1,61 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pr]AW[po][qo][ro][np][op][rp][nq][nr][pr][ns]AB[pp][qp][oq][pq][rq][sq][or][os]
+;W[``]
+;W[``]
+;W[``]
+;W[``]
+;W[``]
+;W[``]LB[``:1][``:2][``:3][``:4][``:5][``:6]CR[pr]C[One Move Captures Black (23)
+
+
+\b White to Play.\b0
+White \'a1\'e2 plays a big part in this problem.
+
+The first move is obvious. The fifth move is the vital point that is not easy to find.
+
+])
+(;AW[po][qo][ro][np][op][rp][nq][nr][pr][ns]AB[pp][qp][oq][pq][rq][sq][or][os]
+;W[ps]
+;B[qq]
+;W[sp]
+;B[qr]LB[ps:1][qq:2][sp:3][qr:4]C[Diagram 1 (No Reading)
+
+
+White 1 is a beginner's move.
+
+After connecting at 2, there are no follow up moves left for white. This move is based on no reading at all.
+
+Up to 4, black lives with a lot of points.
+])
+(;AW[po][qo][ro][np][op][rp][nq][nr][pr][ns]AB[pp][qp][oq][pq][rq][sq][or][os]
+;W[qr]
+;B[qq]
+;W[rr]
+;B[sr]
+;W[qs]
+;B[rs]LB[qr:1][qq:2][rr:3][sr:4][qs:5][rs:6]C[Diagram 2 (Pae)
+
+
+White 1 is the starting point and black 2 is absolute. White 3 is also, completely necessary.
+
+Now here is the problem.
+White 5 is regrettable. It allows black to play at 6 and make a pae. This is a one move approach ko, and a failure for white.
+
+Instead of 5 -
+])
+(;AW[po][qo][ro][np][op][rp][nq][nr][pr][qr][rr][ns]AB[pp][qp][oq][pq][qq][rq][sq][or][sr][os]
+;W[rs]
+;B[ps]
+;W[qs]LB[rs:1][ps:2][qs:3]C[Diagram 3 (Correct)
+
+
+White 1 is a severe move. If black plays at 2, white plays at 3 creating a dead shape.
+
+Instead of 2, throwing-in at 3 seems to be a maek, but when white captures at 2, because of a shortage of liberties, black cannot capture the white stones and is dead.
+])
+)

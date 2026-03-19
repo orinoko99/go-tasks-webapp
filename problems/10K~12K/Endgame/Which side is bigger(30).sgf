@@ -1,0 +1,59 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cm][lo][bp][cp][dp][np][aq][lq][nq][oq][pq][qq][rq][br][cr][dr][kr][pr][qs][rs]AB[ql][jo][ep][fp][op][pp][qp][rp][sp][bq][cq][dq][gq][jq][sq][er][fr][jr][qr][rr]LB[eq:A][sr:B]LB[eq:A][sr:B]C[Which side is bigger?(30)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+Which one is bigger, A or B?  This problems is a lot easier than it looks.
+
+Multiple choice:
+\cf1\lang1042\f1\fs18 1)\cf0\lang1033\b\f0\fs16 A \cf2\b0 is bigger.\lang1042\f1\fs18
+\cf1 2)\cf0\lang1033\b\f0\fs16 B \cf2\b0 is bigger.\lang1042\f1\fs18  \cf0
+\cf1 3)\cf2\lang1033\f0\fs16 They're the same size.\cf0\lang1042\f1\fs18
+\cf2
+\cf1
+])
+(;AW[cm][lo][bp][cp][dp][np][aq][lq][nq][oq][pq][qq][rq][br][cr][dr][kr][pr][qs][rs]AB[ql][jo][ep][fp][op][pp][qp][rp][sp][bq][cq][dq][gq][jq][sq][er][fr][jr][qr][rr]
+;W[eq]LB[eq:1]C[Dia.1 How big is A?
+
+{\colortbl ;\red0\green0\blue255;}
+Let's take a look at A.  White takes three stones and two points worth of territory, giving \cf1\lang1042\b\f1\fs18 5\lang1033\f0\fs16  points of territory.
+
+\cf0\lang1042\b0\f1\fs18
+
+
+])
+(;AW[cm][lo][bp][cp][dp][np][aq][lq][nq][oq][pq][qq][rq][br][cr][dr][kr][pr][qs][rs]AB[ql][jo][ep][fp][op][pp][qp][rp][sp][bq][cq][dq][gq][jq][sq][er][fr][jr][qr][rr]LB[fq:?]
+;B[eq]LB[eq:1][fq:?]C[Dia.2 6 points in husu
+
+{\colortbl ;\red0\green0\blue255;}
+Now let's look at what happens if Black goes first.  Black will connect, save his stones from annihilation and get a point at X, so that's good.  This means that A is worth 5+1=\cf1\b 6 points of territory in husu.
+\cf0\lang1042\b0\f1\fs18
+
+
+])
+(;AW[cm][lo][bp][cp][dp][np][aq][lq][nq][oq][pq][qq][rq][br][cr][dr][kr][pr][qs][rs]AB[ql][jo][ep][fp][op][pp][qp][rp][sp][bq][cq][dq][gq][jq][sq][er][fr][jr][qr][rr]LB[ps:?][ss:?]
+;W[sr]LB[sr:1][ps:?][ss:?]C[Dia.3 How much is B?
+
+{\colortbl ;\red0\green0\blue255;}
+Now let's turn to B and see what turns up.   White can capture two stones with 1, gaining four points, then he also nabs two more points at the x marked spots, meaning he gets \cf1\b 6 points.\cf0\b0
+\lang1042\f1\fs18
+
+])
+(;AW[cm][lo][bp][cp][dp][np][aq][lq][nq][oq][pq][qq][rq][br][cr][dr][kr][pr][qs][rs]AB[ql][jo][ep][fp][op][pp][qp][rp][sp][bq][cq][dq][gq][jq][sq][er][fr][jr][qr][rr]
+;B[sr]LB[sr:1]C[Dia.4 Same value
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+When Black connects at 1 he doesn't gain any points, just saves his stones, so this isn't worth anything from Black's perspective.  Now we can see that B is worth 6+0=\cf1\b 6 points in husu.
+\cf0\lang1042\b0\f1\fs18
+\lang1033\f0\fs16 The conclusion?\lang1042\f1\fs18
+\cf2 3)\cf1\lang1033\f0\fs16 They're the same size.
+\cf0\lang1042\f1\fs18
+
+
+
+])
+)

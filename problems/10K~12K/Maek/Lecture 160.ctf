@@ -1,0 +1,93 @@
+//19
+3
+Black to cut
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 How can Black cut the white stones?
+\par }
+#
+(
+1[dn]
+1[do]
+2[eo]
+2[go]
+1[dp]
+1[gp]
+1[hp]
+1[jp]
+1[bq]
+1[cq]
+2[dq]
+2[fq]
+1[br]
+2[cr]
+2[dr]
+2[fr]
+1[gr]
+1[ir]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Wedging in at 1 and then connecting at 3 makes miai of the two cutting points at 4 and 5. White can't connect anymore.
+\par }
+#
+(
+1[dn]
+1[do]
+2[eo]
+2[go]
+1[dp]
+1[gp]
+1[hp]
+1[jp]
+1[bq]
+1[cq]
+2[dq]
+2[fq]
+1[br]
+2[cr]
+2[dr]
+2[fr]
+1[gr]
+1[ir]
+)
+5
+B[fo]
+W[fn]
+B[fp]
+W[en]
+B[ep]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Don't be satisfied with cutting off a single stone. White happily gets away up to 6.
+\par }
+#
+(
+1[dn]
+1[do]
+2[eo]
+2[go]
+1[dp]
+1[gp]
+1[hp]
+1[jp]
+1[bq]
+1[cq]
+2[dq]
+2[fq]
+1[br]
+2[cr]
+2[dr]
+2[fr]
+1[gr]
+1[ir]
+)
+6
+B[fp]
+W[ep]
+B[fo]
+W[en]
+B[fn]
+W[em]

@@ -1,0 +1,46 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qp][rp][sp][oq][pq][qq][or][rs]AB[qo][ro][so][np][op][pp][nq][nr][pr][ns][os]LBC[One Move Captures White (28)
+
+
+\b Black to Play\b0 .
+Think carefully and make no mistakes.
+
+Where is the vital point to capture white's group?r
+])
+(;AW[qp][rp][sp][oq][pq][qq][or][rs]AB[qo][ro][so][np][op][pp][nq][nr][pr][ns][os]LB[qr:A]
+;B[ps]
+;W[rr]LB[ps:1][rr:2][qr:A]C[Diagram 1 (Mistake)
+
+
+Black 1, is a mistake. White can live with a single move.
+
+\pard\ltrpar\nowidctlpar\qj Instead of 1, even if black played \b\f1 A\b0\f0 , white will still play 2. Because of the snapback, black has no time to kill white.r
+])
+(;AW[qp][rp][sp][oq][pq][qq][or][rs]AB[qo][ro][so][np][op][pp][nq][nr][pr][ns][os]LB[qs:A]
+;B[qs]
+;W[qr]
+;B[ps]
+;W[sr]LB[qs:1][qr:2][ps:3][sr:4][qs:A]C[Diagram 2 (Alive)
+
+
+Black 1 in this diagram also lets white  live. Up to 4 white secures unconditional life.
+
+So is this white group perfectly alive?
+No, there is a move to capture white's stones.r
+])
+(;AW[qp][rp][sp][oq][pq][qq][or][rs]AB[qo][ro][so][np][op][pp][nq][nr][pr][ns][os]
+;B[sr]
+;W[qr]
+;B[ps]LB[sr:1][qr:2][ps:3]C[Diagram 3 (Correct)
+
+
+With the simple placement of black 1, white dies. White 2, is seonsu, but white's group is still a dead shape.
+
+Wasn't that simple?r
+])
+)

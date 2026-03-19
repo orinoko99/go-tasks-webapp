@@ -1,0 +1,65 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mn][oo][po][qo][ro][np][nq][nr][ps]AB[op][pp][qp][oq][pr][qr][rr][rs]LBC[One Move Captures Black (8)
+
+
+\b White to Play.\b0
+It is a very easy problem. If it were a real game, however, both players might have been mistaken, considering black's group to be alive.
+
+It is a kind of a blind spot.
+One move leaves black helpless.
+
+])
+(;AW[mn][oo][po][qo][ro][np][nq][nr][ps]AB[op][pp][qp][oq][pr][qr][rr][rs]
+;W[rq]
+;B[rp]
+;W[sp]
+;B[qq]LB[rq:1][rp:2][sp:3][qq:4]C[Diagram 1 (Misreading)
+
+
+White 1 is a mistake in reading that you might easily make in a real game.
+
+Black thrusts between whites stones with 2 and then plays dansu at 4 to guarantee life - this might be how both players read the situation here.
+
+However, this is nonsense.
+])
+(;AW[mn][oo][po][qo][ro][np][nq][nr][ps]AB[op][pp][qp][oq][pr][qr][rr][rs]LB[sp:A][sq:B][sr:C]
+;W[rp]
+;B[rq]LB[rp:1][rq:2][sp:A][sq:B][sr:C]C[Diagram 2 (Unenthusiastic)
+
+
+What is white 1 about?
+It is completely unenthusiastic.
+
+\pard\nowidctlpar\qj Black can live with 2. Anyone can see that. Instead of W1, if white plays at \b\f1 A\b0\f0 , black plays \b\f1 B\b0\f0  so this does not work either. If white plays at \b\f1 B\b0\f0 , black answers at \b\f1 C\b0\f0 , so this too does not work.
+])
+(;AW[mn][oo][po][qo][ro][np][nq][nr][ps]AB[op][pp][qp][oq][pr][qr][rr][rs]LB[sr:A]
+;W[sr]
+;B[rq]
+;W[sq]
+;B[sp]
+;W[rp]LB[sr:1][rq:2][sq:3][sp:4][rp:5][sr:A]C[Diagram 3 (Correct)
+
+
+White's attachment at 1 is the blind spot in which the vital point hides. This most likely leaves black stunned. There is no countermeasure.
+
+From 2 to 5, black's death is demonstrated. You cannot find a move like white 1 easily unless you are very attentive.
+])
+(;AW[nn][on][po][qo][ro][mp][lq][nq][nr][or][ps]AB[oo][np][pp][qp][oq][pr][qr][rr]
+;W[qs]
+;B[rs]
+;W[sr]LB[qs:1][rs:2][sr:3]C[Diagram 4 (A Practice Problem)
+
+
+This is a similar position but the technique is the same.
+
+\b White to Play.\b0
+After white 1 is exchanged for black 2, the problem is the same. However, even without the 1-2 exchange, white can attach at 3 and kill black.
+
+Please check for yourself.
+])
+)

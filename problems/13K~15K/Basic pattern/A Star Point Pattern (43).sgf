@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mo][np][mq][nq][pq][qq][or][qr][ps]AB[pj][no][kp][mp][op][pp][qp][oq][nr]LB[lq:B][mr:A]
+;B[lp]LB[lp:1][lq:B][mr:A]C[A Star Point Pattern (43)
+
+
+\b White to Play.\b0
+This is an additional explanation for what we have already studied.
+
+\pard\nowidctlpar\qj In <\b Basic Diagram 40\b0 >, black plays dansu at \b\f1 A\lang1033\kerning2\f2\fs20  \lang1042\kerning0\b0\f0\fs18 first and when white plays at \b\f1 B\b0\f0 , black connects with 1.
+\pard
+What if black were to play at 1 directly?
+])
+(;CR[nr]AW[mo][np][mq][nq][pq][qq][or][qr][ps]AB[pj][no][kp][lp][mp][op][pp][qp][oq][nr]
+;W[mr]
+;B[nn]LB[mr:1][nn:2]CR[nr]C[Diagram 1 (Correct)
+
+
+It's good for white to capture the black \'a1\'e3 stone without complaint.
+
+Black then extends with 2.
+
+This is similar to the original pattern but please try to remember that in this case black makes a small loss.
+])
+(;AW[mo][np][mq][nq][pq][qq][or][qr][ps]AB[pj][no][kp][lp][mp][op][pp][qp][oq][nr]
+;W[lr]
+;B[mr]
+;W[lq]
+;B[kr]
+;W[ns]
+;B[kq]
+;W[ms]
+;B[nn]LB[lr:1][mr:2][lq:3][kr:4][ns:5][kq:6][ms:7][nn:8]C[Diagram 2 (Black, Influence)
+
+
+If you wanted to play a diagonal move at 1, it's because you memorized the pattern incorrectly.
+
+Please check <\b Basic Diagram 40\b0 > once again.
+
+It is a good sacrifice strategy for black to play dansu at 2 and attach with 4.
+
+Up to 6, black seals white in perfectly in seonsu and then extends at 8 and has very impressive influence.
+])
+(;AW[mo][np][mq][nq][pq][qq][or][qr][ps]AB[pj][no][kp][mp][op][pp][qp][oq][nr]
+;B[mr]
+;W[lp]
+;B[lq]
+;W[mp]
+;B[mn]LB[mr:1][lp:2][lq:3][mp:4][mn:5]C[Diagram 3 (Spiral Ladder)
+
+
+This is also an addional explanation.
+
+When black plays dansu with 1, if white captures with 2, white is in trouble.
+
+Black can drive white out with 3 and 5, creating a ladder. This type of ladder is called a spiral ladder.
+
+Be sure to watch out for it!
+])
+)

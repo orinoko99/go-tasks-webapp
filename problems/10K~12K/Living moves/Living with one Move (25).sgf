@@ -1,0 +1,61 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[no][po][qo][ro][op][rp][nq][sq][nr][qs]AB[pp][oq][rq][or][pr][rr][ps]LBC[Living with one Move (25)
+
+
+\b Black to play\b0 .
+The living space is very narrow, so one might wonder if Black can live.
+
+However if Black plays well, he can live.
+])
+(;AW[no][po][qo][ro][op][rp][nq][sq][nr][qs]AB[pp][oq][rq][or][pr][rr][ps]
+;B[sr]
+;W[qq]
+;B[qr]
+;W[rs]LB[sr:1][qq:2][qr:3][rs:4]C[Dia. 01 Greedy
+
+
+Black tries to live with many points by playing at 1 but he has forgot about that White 2 is sente.
+After White 4, Black can't find the way to live.
+
+
+])
+(;AW[no][po][qo][ro][op][rp][nq][sq][nr][qs]AB[pp][oq][rq][or][pr][rr][ps]
+;B[rs]
+;W[qq]
+;B[qr]
+;W[sr]LB[rs:1][qq:2][qr:3][sr:4]C[Dia. 02 White 2, Good Timing
+
+{\colortbl ;\red255\green0\blue0;}
+
+Black can't live with 1 either.
+White 2 is a good timing again.
+Black 3 is unavoidable and then White breaks the eye with 4 and Black\cf1\b  dies\cf0\b0 .
+
+If White plays at 2, Black can't live.
+If it is so?
+
+
+])
+(;AW[no][po][qo][ro][op][rp][nq][sq][nr][qs]AB[pp][oq][rq][or][pr][rr][ps]LB[qr:A]
+;B[qp]
+;W[sr]
+;B[rs]
+;W[qq]
+;B[pq]LB[qp:1][sr:2][rs:3][qq:4][pq:5][qr:A]C[Dia. 03 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+Expanding Black's living shape with 1 is \cf1\b the only way to live\cf0\b0 .
+
+After White 2, Black plays at 3 and against White 4, Black lives with 5.
+White can't play at A, it would be an \cf2\b illegal move\cf0\b0 .
+
+
+
+])
+)

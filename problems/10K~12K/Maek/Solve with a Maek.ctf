@@ -1,0 +1,151 @@
+//19
+4
+Solve with a Maek
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par White went out with 1 and Black resisted with 2. Black is trying to capture the White \'a1\'e2 stones.
+\par
+\par Actually 2 is an overplay.
+\par White should punish Black.
+\par }
+#
+(
+1[pm]
+2[mn]
+1[qo]
+2[mp]
+2[np]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+1[lq]
+1[nq]
+6[oq]
+6[pq]
+1[qq]
+1[kr]
+1[nr]
+6[or]
+6[os]
+)
+2
+W[ro]
+B[qr]
+Dia. 01 Overplay Works
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's cut at 1 doesn't help at all.
+\par Black plays dansu at 2 and then connect with 4.
+\par
+\par White \'a1\'e2 stones are captured, so the \cf1\b overplay worked\cf0\b0 .
+\par }
+#
+(
+1[pm]
+2[mn]
+1[qo]
+2[ro]
+2[mp]
+2[np]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+1[lq]
+1[nq]
+6[oq]
+6[pq]
+1[qq]
+1[kr]
+1[nr]
+6[or]
+1[qr]
+6[os]
+)
+4
+W[po]
+B[oo]
+W[qn]
+B[on]
+Dia. 02 Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a slightly better move. However Black can resist with 2.
+\par
+\par \cf1\b Pae is unavoidable\cf0\b0  with 3 and 5.
+\par So is this the solution? No. There is a maek which solves White's problem without pae.
+\par
+\par
+\par }
+#
+(
+1[pm]
+2[mn]
+1[qo]
+2[ro]
+2[mp]
+2[np]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+1[lq]
+1[nq]
+2[oq]
+2[pq]
+1[qq]
+1[kr]
+1[nr]
+2[or]
+1[qr]
+2[os]
+)
+5
+W[qn]
+B[pn]
+W[po]
+B[oo]
+W[on]
+Dia. 03 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's attachment at 1 is a \cf1\b really nice maek\cf0\b0 .
+\par Black can't save is \'a1\'e3 stones. After Black 2, White plays at 3.
+\par
+\par If Black plays at A instead of 2, White plays at B.
+\par
+\par }
+#
+(
+1[pm]
+2[mn]
+65[qn]
+66[po]
+1[qo]
+2[ro]
+2[mp]
+2[np]
+5[op]
+5[pp]
+2[qp]
+2[rp]
+1[lq]
+1[nq]
+2[oq]
+2[pq]
+1[qq]
+1[kr]
+1[nr]
+2[or]
+1[qr]
+2[os]
+)
+3
+W[pn]
+B[on]
+W[oo]

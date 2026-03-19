@@ -1,0 +1,57 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mq][nq][oq][pq][lr][or][qr][ms][qs][rs]AB[mp][np][op][pp][qp][kq][lq][qq][kr][rr][sr][ks][ps]LBC[Where is a vital point?(100)
+
+
+\f1 It's\b  Black\b0 's turn.\f0
+
+It's a very difficult problem(?)
+
+The first move is importent.
+Many people might consider a ko!!
+
+
+])
+(;AW[mq][nq][oq][pq][lr][or][qr][ms][qs][rs]AB[mp][np][op][pp][qp][kq][lq][qq][kr][rr][sr][ks][ps]
+;B[os]
+;W[ns]
+;B[mr]LB[os:1][ns:2][mr:3]C[Dia.1(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Moving at inside(B1) and throw in at 3 are \cf1\b perfect sequence.\cf0\b0
+
+Now W has nothing to do...
+
+
+
+])
+(;AW[mq][nq][oq][pq][lr][or][qr][ms][qs][rs]AB[mp][np][op][pp][qp][kq][lq][qq][kr][rr][sr][ks][ps]
+;B[mr]
+;W[nr]
+;B[ls]
+;W[os]LB[mr:1][nr:2][ls:3][os:4]C[DIa.2(Ko)
+
+{\colortbl ;\red255\green0\blue0;}
+
+
+Many people consider to throw in at 1 first.
+
+It will be a \cf1\b ko\cf0\b0  perhaps B didn't see the W4.
+
+])
+(;AW[mq][nq][oq][pq][lr][or][qr][ms][qs][rs]AB[mp][np][op][pp][qp][kq][lq][qq][kr][rr][sr][ks][ps]
+;B[ns]
+;W[os]
+;B[ls]
+;W[mr]LB[ns:1][os:2][ls:3][mr:4]C[DIa.3(Weird move)
+
+
+B might misread somthing.(B1)
+Because B can't do anything after W2.
+])
+)

@@ -1,0 +1,125 @@
+//19
+4
+The Vital Point for Death (45)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to Play.\b0
+\par This is a tricky shape.
+\par
+\par If this were a real game, you might have thought black was alive.
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[nq]
+1[oq]
+1[pq]
+2[qq]
+1[rq]
+1[sq]
+2[mr]
+1[nr]
+1[qr]
+1[rs]
+1[ss]
+)
+0
+Diagram 1 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's placement at 1 is a sharp move stabbing black's vital point.
+\par
+\par White is aiming at creating a shortage of liberties hidden in the shape of the three black \'a1\'e3 stones.
+\par
+\par This one move leaves black dead.
+\par
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[nq]
+5[oq]
+5[pq]
+2[qq]
+1[rq]
+1[sq]
+2[mr]
+5[nr]
+1[qr]
+1[rs]
+1[ss]
+)
+1
+W[ps]
+Diagram 2 (Demonstration)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Continuing from the previous diagram, even if black connects at 1, it is a good move for white to hane at 2 and the white \'a1\'e2 stone is connected. This leaves black with no way to live.
+\par
+\par Instead of black 1, if black connects at \b\f1 A\b0\f0 , white still plays at 2 and captures black.
+\par Instead of black 1, if black plays at \b\f1 B\b0\f0 , white plays \b\f1 A\b0\f0  and that's it.
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[nq]
+1[oq]
+1[pq]
+2[qq]
+1[rq]
+1[sq]
+2[mr]
+1[nr]
+65[pr]
+1[qr]
+66[os]
+6[ps]
+1[rs]
+1[ss]
+)
+2
+B[or]
+W[ns]
+Diagram 3 (If it was a real game)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If this were a real game, it might have been easy for white to thoughtlessly play dansu at 1. Black responds by making a hanging connection at 2 and lives.
+\par
+\par Both players might have thought this result was common sense, but that is mistaken.
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[mq]
+2[nq]
+1[oq]
+1[pq]
+2[qq]
+1[rq]
+1[sq]
+2[mr]
+1[nr]
+1[qr]
+1[rs]
+1[ss]
+)
+4
+W[ns]
+B[ps]
+W[or]
+B[pr]

@@ -1,0 +1,111 @@
+//19
+3
+Find the Target
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Where should Black play to save his stones?
+\par }
+#
+(
+2[cm]
+2[em]
+1[fo]
+1[bp]
+1[cp]
+1[dp]
+1[ep]
+2[fp]
+2[gp]
+1[bq]
+2[cq]
+2[dq]
+1[eq]
+2[fq]
+1[hq]
+2[br]
+2[cr]
+2[er]
+1[fr]
+1[gr]
+2[ds]
+2[fs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black should aim at the key stones, the cutting stones. Next, Black needs to find the right capturing technique, here it is a knight's net. Although it seems that White can break out at 4 and 6, Black can succeed with the snapback at 7.
+\par
+\par }
+#
+(
+2[cm]
+2[em]
+1[fo]
+1[bp]
+1[cp]
+1[dp]
+1[ep]
+8[fp]
+8[gp]
+1[bq]
+2[cq]
+2[dq]
+1[eq]
+8[fq]
+1[hq]
+2[br]
+2[cr]
+2[er]
+1[fr]
+1[gr]
+2[ds]
+2[fs]
+)
+7
+B[hn]
+W[hp]
+B[ip]
+W[iq]
+B[ho]
+W[hr]
+B[go]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The one-point jump is too thin and allows White to break out up to 10.
+\par
+\par }
+#
+(
+2[cm]
+2[em]
+1[fo]
+1[bp]
+1[cp]
+1[dp]
+1[ep]
+2[fp]
+2[gp]
+1[bq]
+2[cq]
+2[dq]
+1[eq]
+2[fq]
+1[hq]
+2[br]
+2[cr]
+2[er]
+1[fr]
+1[gr]
+2[ds]
+2[fs]
+)
+10
+B[ho]
+W[go]
+B[gn]
+W[fn]
+B[eo]
+W[hn]
+B[gm]
+W[hp]
+B[io]
+W[ip]

@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dn][eo][cp][dp][fp][gp][bq][dq][fq][hq][br][hr]AB[ep][cq][eq][gq][cr][dr][gr][cs][es][gs]LBC[Sacrifice to Gain More
+
+Black to live.
+])
+(;AW[dn][eo][cp][dp][fp][gp][bq][dq][fq][hq][br][hr]AB[ep][cq][eq][gq][cr][dr][gr][cs][es][gs]
+;B[fr]
+;W[er]
+;B[eq]LB[fr:1][er:2][eq:3]C[Correct
+
+Black should block at 1 to make two eyes. Even though White might capture two stones at 2, Black can recapture at 3 to ensure two real eyes.
+
+])
+(;AW[dn][eo][cp][dp][fp][gp][bq][dq][fq][hq][br][hr]AB[ep][cq][eq][gq][cr][dr][gr][cs][es][gs]
+;B[er]
+;W[fr]LB[er:1][fr:2]C[Wrong
+
+Defending two stones fails because White will capture the whole black group at 2. Black has only one eye and is regretting bitterly.
+
+])
+)

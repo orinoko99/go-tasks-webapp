@@ -1,0 +1,69 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[mr][nr]AW[mp][np][op][hq][kq][mq][lr][nr]AB[qn][pp][nq][oq][qq][mr][or]LBCR[mr][nr]C[Easy Counting(11)
+
+
+Black to play\b0 (or \b White to play\b0 ).
+How much is worth if Black captures White \'a1\'e2 stone?
+It is the same if White captures Black \'a1\'e3 stone.
+
+We have already counted the value of capturing the stone on the second line in the \b 15th\b0  lecture.
+This time the result is different.
+
+])
+(;AW[mp][np][op][hq][kq][mq][lr][nr]AB[qn][pp][nq][oq][qq][mr][or]LB[ls:A][ms:B]
+;B[ns]LB[ns:1][ls:A][ms:B]C[Dia. 03 If Black Plays
+
+
+Let's check the territory after Black plays at 1.
+It is counted as though White is going to have a stone at A and Black at B.
+
+])
+(;AW[mp][np][op][hq][kq][mq][lr][ls]AB[qn][pp][nq][oq][qq][mr][or][ms][ns]LB[qp:?][rp:?][sp:?][iq:?][jq:?][hr:?][hs:?]LB[qp:?][rp:?][sp:?][iq:?][jq:?][hr:?][hs:?]C[Dia. 02 Black 14 Points, White 6 Points
+
+{\colortbl ;\red0\green0\blue255;}
+
+Borderlines are marked again with Xs, for the convenient counting.
+
+\cf1\b Black\cf0\b0  has \cf1\b 14 points\cf0\b0 , \cf1\b White\cf0\b0  has \cf1\b 6 points\cf0\b0 .
+
+])
+(;AW[mp][np][op][hq][kq][mq][lr][nr]AB[qn][pp][nq][oq][qq][mr][or]
+;W[ms]LB[ms:1]C[Dia. 03 If White Plays
+
+{\colortbl ;\red0\green0\blue255;}
+
+If it is White's turn, he \cf1\b also\cf0\b0  captures with 1, but the situation is a bit different.
+
+White has the right for the continuation.
+
+
+])
+(;AW[mp][np][op][hq][kq][mq][lr][nr][ms]AB[qn][pp][nq][oq][qq][or]LB[ns:B][ps:A]
+;W[os]
+;B[pr]LB[os:1][pr:2][ns:B][ps:A]C[Dia. 04 White's Right
+
+{\colortbl ;\red0\green0\blue255;}
+
+The hane at 1 is \cf1\b White's privilege\cf0\b0 . Black has to pull back at 2.
+
+Then it is counted as though Black A and White B were played.
+])
+(;AW[mp][np][op][hq][kq][mq][lr][nr][ms][ns][os]AB[qn][pp][nq][oq][qq][or][pr][ps]LB[qp:?][rp:?][sp:?][iq:?][jq:?][hr:?][hs:?]LB[qp:?][rp:?][sp:?][iq:?][jq:?][hr:?][hs:?]C[Dia. 05 Gote 8 Points
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+Borderlines are made with Xs same as in \b Dia. 02\b0 .
+
+Black has 9 points and White has 9 points.
+
+After counting
+(14-9)+(9-6)=\cf1\b 8 points\cf0\b0 .
+
+The value of capturing the one stone (Black or White) from the \b main diagram\b0  is \cf2\b 8 points\cf0\b0 .
+])
+)

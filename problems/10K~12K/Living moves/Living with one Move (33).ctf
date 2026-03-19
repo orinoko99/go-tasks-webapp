@@ -1,0 +1,130 @@
+//19
+4
+Living with one Move (33)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par It was said "living with one move", but actually White can't live unconditionally.
+\par
+\par Pae is the best variation.
+\par }
+#
+(
+1[ro]
+1[op]
+1[pp]
+1[rp]
+2[sp]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[or]
+2[pr]
+1[qr]
+1[rr]
+1[os]
+2[ps]
+1[qs]
+)
+0
+Dia. 01 Four Space Shape
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Hopefully nobody thought that White can live with 1.
+\par Black 2 is an excellent move.
+\par
+\par It becomes a dead four space shape.
+\par
+\par }
+#
+(
+1[ro]
+1[op]
+1[pp]
+1[rp]
+2[sp]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[or]
+2[pr]
+1[qr]
+1[rr]
+1[os]
+2[ps]
+1[qs]
+)
+2
+W[sr]
+B[rs]
+Dia. 02 White Dies Again
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's connection at 1 is another mistake.
+\par Black plays at 2 and it becomes the dead \cf1\b four space shape again\cf0\b0 .
+\par
+\par If Black plays at A or B instead of 2, it gives the same result, but the easiest way to play like in this diagram.
+\par
+\par
+\par }
+#
+(
+1[ro]
+66[so]
+1[op]
+1[pp]
+65[qp]
+1[rp]
+2[sp]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[or]
+2[pr]
+1[qr]
+1[rr]
+1[os]
+2[ps]
+1[qs]
+)
+2
+W[sq]
+B[rs]
+Dia 03 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The opponent's vital point is my vital point.
+\par So White 1 is the maek.
+\par
+\par Black has to take at 2 and then White makes\cf1\b  pae \cf0\b0 with 3. This is the \cf1\b best result for both players\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+1[ro]
+1[op]
+1[pp]
+1[rp]
+2[sp]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+1[or]
+2[pr]
+1[qr]
+1[rr]
+1[os]
+2[ps]
+1[qs]
+)
+3
+W[rs]
+B[ss]
+W[sr]

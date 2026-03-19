@@ -1,0 +1,63 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qm][rm][qn][sn][qo][nq][pq][qq]AB[rn][ro][rp][rq][qr]LBC[One move problems(49)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Here's a shape we sometimes see in real games.  Black seems to have plenty of eyespace but he has a weakness.  Find the most severe move to attack Black.
+
+\lang1042\f0\fs18
+])
+(;AW[qm][rm][qn][sn][qo][nq][pq][qq]AB[rn][ro][rp][rq][qr]
+;W[pr]
+;B[qs]
+;W[sr]
+;B[rr]
+;W[ss]
+;B[so]
+;W[sq]LB[pr:1][qs:2][sr:3][rr:4][ss:5][so:6][sq:7]C[Dia.1 Bent four in the corner?
+
+In response to White 1, Black will descend with 2, just what he wanted.  White might try playing on the inside but that's easy enough to defend against.  up to 7.  However, we need to think.  Is this Bik (mutual life), or is this bent four in the corner?
+\lang1042\f1\fs18
+
+])
+(;CR[pr]AW[qm][rm][qn][sn][qo][nq][pq][qq][pr]AB[rn][ro][rp][rq][qr]
+;B[sr]
+;W[qs]
+;B[rs]LB[sr:1][qs:2][rs:3]CR[pr]C[Dia.2 Pae
+
+Black might resist wiht 1  in response to the marked stone Black.  In any case, Black still isn't captured.  White has to play out the Pae starting with 2 and 3.  The marked stone wasn't a good move.
+\lang1042\f1\fs18
+])
+(;AW[qm][rm][qn][sn][qo][nq][pq][qq]AB[rn][ro][rp][rq][qr]
+;W[so]
+;B[sr]
+;W[sp]
+;B[rs]LB[so:1][sr:2][sp:3][rs:4]C[Dia.3 Black 2 is the vital point
+
+White could try 1 but then Black will take the vital point to live at 2.  White can erase an eye with 3 but then Black will live with 4 and that's all she wrote.
+\lang1042\f1\fs18
+
+])
+(;AW[qm][rm][qn][sn][qo][nq][pq][qq]AB[rn][ro][rp][rq][qr]
+;W[sr]
+;B[rr]
+;W[pr]
+;B[qs]
+;W[ss]
+;B[so]
+;W[sq]LB[sr:1][rr:2][pr:3][qs:4][ss:5][so:6][sq:7]C[Dia.4 Correct/ Placement attack
+
+White 1 should play the placement attack of 1, forcing Black to connect at 2.  After White 7, this is bent four in the corner, Black is dead.
+\lang1042\f1\fs18
+])
+(;AW[qm][rm][qn][sn][qo][nq][pq][qq]AB[rn][ro][rp][rq][qr]LBC[No diagram name
+
+
+
+])
+)

@@ -1,0 +1,179 @@
+//19
+5
+Living with one Move (18)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Playing the vital point inside or expanding the living shape will decide White's life.
+\par
+\par It is an often seen life and death problem in actual game.
+\par
+\par }
+#
+(
+1[jo]
+1[po]
+1[mp]
+1[np]
+1[kq]
+1[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[kr]
+2[lr]
+2[mr]
+2[pr]
+2[qr]
+1[rr]
+)
+0
+Dia. 01 Suitable?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 expands the living space.
+\par If Black plays the placement at 2, White 3 is a suitable move.
+\par
+\par A and B are miai, so White can easily live. However this variation is not correct.
+\par }
+#
+(
+1[jo]
+1[po]
+1[mp]
+1[np]
+1[kq]
+1[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[kr]
+2[lr]
+2[mr]
+65[nr]
+2[pr]
+2[qr]
+1[rr]
+66[qs]
+)
+3
+W[ls]
+B[ns]
+W[os]
+Dia. 02 False eye
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black shouldn't play the placement, but the hane at 1. It is the \cf1\b proper attack\cf0\b0 .
+\par
+\par Against White 2, Black's placement at 3 is the right order of moves.
+\par
+\par After White 4, if Black connects at 5, A becomes \cf1\b false eye \cf0\b0 and White dies.
+\par
+\par
+\par }
+#
+(
+1[jo]
+1[po]
+1[mp]
+1[np]
+1[kq]
+1[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[kr]
+2[lr]
+2[mr]
+65[or]
+2[pr]
+2[qr]
+1[rr]
+2[ls]
+)
+5
+B[qs]
+W[os]
+B[ns]
+W[nr]
+B[rs]
+Dia. 03 Direction of the Tiger's Mouth Move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black has to play inside if expanding the living space doesn't work.
+\par
+\par White's tiger's mouth move at 1 is a powerful vital point. The question is which is the good side to play tiger's mouth move?
+\par
+\par Black's \cf1\b cut \cf0\b0 at 2 is a\cf1\b  scary move\cf0\b0 .
+\par Black 4 becomes sente and White can't live after Black 6.
+\par
+\par
+\par
+\par }
+#
+(
+1[jo]
+1[po]
+1[mp]
+1[np]
+1[kq]
+1[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[kr]
+2[lr]
+2[mr]
+2[pr]
+2[qr]
+1[rr]
+)
+6
+W[ns]
+B[or]
+W[os]
+B[qs]
+W[ps]
+B[ls]
+Dia. 04 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's tiger's mouth move at 1 on the right side is the\cf1\b  vital point for living\cf0\b0 .
+\par
+\par Against Black's cut at 2, White can live with 3. In actual game, Black is going to play at 3 instead of 2 and White lives with 2.
+\par }
+#
+(
+1[jo]
+1[po]
+1[mp]
+1[np]
+1[kq]
+1[mq]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+1[kr]
+2[lr]
+2[mr]
+2[pr]
+2[qr]
+1[rr]
+)
+3
+W[os]
+B[nr]
+W[qs]

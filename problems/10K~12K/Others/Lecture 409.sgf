@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cm][dm][en][co][eo][go][cp][fp][bq][dq][dr]AB[dn][do][io][dp][ep][eq][iq]LBC[Connection
+
+Where should Black play to connect his stones?
+])
+(;AW[cm][dm][en][co][eo][go][cp][fp][bq][dq][dr]AB[dn][do][io][dp][ep][eq][iq]
+;B[fq]
+;W[gq]
+;B[gr]
+;W[fr]
+;B[hq]
+;W[gp]
+;B[er]LB[fq:1][gq:2][gr:3][fr:4][hq:5][gp:6][er:7]C[Correct
+
+Black should push to go out at 1. Even if White tries to cut at 2, Black will cross underneath at 3. The cut at 4 doesn't work because Black can atari at 5 and then capture the cutting stone at 7.
+
+])
+(;AW[cm][dm][en][co][eo][go][cp][fp][bq][dq][dr]AB[dn][do][io][dp][ep][eq][iq]
+;B[er]
+;W[gq]
+;B[gr]
+;W[hr]
+;B[hq]
+;W[fr]LB[er:1][gq:2][gr:3][hr:4][hq:5][fr:6]C[Wrong
+
+Descending towards the first line doesn't help much. White plays the solid diagonal move at 2 and Black cannot connect at 3 because of White's cut at 4 and 6. Black is in trouble.
+
+])
+)

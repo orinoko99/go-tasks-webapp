@@ -1,0 +1,122 @@
+//19
+4
+Where is a vital point?(91)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \f1 It's\b  Black\b0 's turn.
+\par
+\par Diagonal move looks like a vital point!\f0
+\par But it's a huge mistake.
+\par }
+#
+(
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[nr]
+2[rr]
+2[sr]
+6[qs]
+)
+0
+Dia.1(Right answer)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Could you find a\cf1\b  diagonal move\cf0\b0  at 1??
+\par It's a\cf1\b  severe attack\cf0\b0  for W's three stones(W\'a1\'e2).
+\par
+\par then W can't cut at  A.
+\par
+\par
+\par
+\par }
+#
+(
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[nq]
+6[oq]
+6[pq]
+6[qq]
+1[rq]
+1[nr]
+65[or]
+2[rr]
+2[sr]
+2[qs]
+)
+3
+B[os]
+W[ps]
+B[pr]
+Dia.2(Slack move)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par B1 is a \cf1\b slack move\cf0\b0 .
+\par
+\par Up to 4, B can't rescue one stone.
+\par
+\par }
+#
+(
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[nr]
+690[pr]
+2[rr]
+2[sr]
+2[qs]
+)
+4
+B[pr]
+W[or]
+B[os]
+W[qr]
+Dia.3(W's right move)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par
+\par W should have played at 1 instead of A.
+\par
+\par }
+#
+(
+1[np]
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+1[rq]
+1[nr]
+2[rr]
+2[sr]
+65[qs]
+)
+3
+W[ps]
+B[or]
+W[pr]

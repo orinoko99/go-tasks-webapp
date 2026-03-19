@@ -1,0 +1,136 @@
+//19
+4
+Where is a vital point?(87)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \f1 It's\b  White\b0 's turn.\f0
+\par
+\par Don't pay attention to B\'a1\'e3
+\par Then you can find out a vital point easily!!
+\par }
+#
+(
+2[rm]
+2[po]
+2[qo]
+2[ro]
+5[so]
+2[pp]
+1[qp]
+1[rp]
+2[sp]
+2[oq]
+1[pq]
+1[rq]
+2[or]
+1[pr]
+2[os]
+1[ps]
+1[qs]
+)
+0
+Dia.1(Right answer)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par
+\par Attaching at 2-2 is a vital point.
+\par
+\par Just descending at 3 is very calm.
+\par
+\par Up to 5, W makes a\cf1\b  three space(Space of death)\cf0\b0 .
+\par
+\par if B played at 5 instead of 4, W took off at A and would be connected.
+\par }
+#
+(
+2[rm]
+65[sn]
+2[po]
+2[qo]
+2[ro]
+1[so]
+2[pp]
+1[qp]
+1[rp]
+2[sp]
+2[oq]
+1[pq]
+1[rq]
+2[or]
+1[pr]
+2[os]
+1[ps]
+1[qs]
+)
+5
+W[rr]
+B[rs]
+W[sr]
+B[sq]
+W[qr]
+Dia.2(Another respond)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par How about bending at 1?
+\par
+\par W descends at 2 and B can't play at A.
+\par So It is\cf1\b  also dead\cf0\b0 .
+\par
+\par }
+#
+(
+2[rm]
+2[po]
+2[qo]
+2[ro]
+1[so]
+2[pp]
+1[qp]
+1[rp]
+2[sp]
+2[oq]
+1[pq]
+1[rq]
+2[or]
+1[pr]
+65[qr]
+6[rr]
+2[os]
+1[ps]
+1[qs]
+)
+2
+B[sr]
+W[rs]
+Dia.3(Couldn't find?)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If W pay attention to throw in the one stone, B would have a chance to live!!
+\par
+\par
+\par }
+#
+(
+2[rm]
+2[po]
+2[qo]
+2[ro]
+1[so]
+2[pp]
+1[qp]
+1[rp]
+2[sp]
+2[oq]
+1[pq]
+1[rq]
+2[or]
+1[pr]
+2[os]
+1[ps]
+1[qs]
+)
+2
+W[sn]
+B[rr]

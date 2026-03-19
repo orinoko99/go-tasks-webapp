@@ -1,0 +1,148 @@
+//19
+4
+High Level but
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par It is a high level problem, but actually easy to solve.
+\par
+\par If one meets with this situation in actual game, he might not think about it as a capturing race problem.
+\par
+\par The first move decides everything.
+\par
+\par
+\par }
+#
+(
+1[ql]
+1[qn]
+1[rn]
+1[po]
+2[ro]
+2[op]
+1[pp]
+2[qp]
+2[rp]
+2[nq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+2[pr]
+1[qr]
+2[rr]
+2[ps]
+2[qs]
+1[rs]
+)
+0
+Dia. 01 Hasty Conclusion from Both
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Probably both, Black and White think that this variation is going to happen. However it is a \cf1\b hasty conclusion\cf0\b0 .
+\par
+\par White takes at 1 and then Black fills the liberty with 2 and captures the White \'a1\'e2 stones.
+\par
+\par White shouldn't be satisfied with this result.
+\par }
+#
+(
+1[ql]
+1[qn]
+1[rn]
+1[po]
+6[ro]
+2[op]
+1[pp]
+6[qp]
+6[rp]
+2[nq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+2[pr]
+1[qr]
+2[rr]
+2[ps]
+2[qs]
+1[rs]
+)
+2
+W[ss]
+B[qo]
+Dia. 02 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a \cf1\b brilliant move\cf0\b0 .
+\par If one doesn't know this move originally, it is hard to find it.
+\par
+\par
+\par }
+#
+(
+1[ql]
+1[qn]
+1[rn]
+1[po]
+2[ro]
+2[op]
+1[pp]
+2[qp]
+2[rp]
+2[nq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+2[pr]
+1[qr]
+2[rr]
+2[ps]
+2[qs]
+1[rs]
+)
+1
+W[sr]
+Dia. 03 Follow up
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If Black plays, he has no chance but to capture with 1.
+\par After that White throws-in again with 2 which is the deciding move.
+\par
+\par Black can't save his stones.
+\par Actually the previous variation has \cf1\b already decided the result of the capturing race\cf0\b0 .
+\par
+\par
+\par
+\par }
+#
+(
+1[ql]
+1[qn]
+1[rn]
+1[po]
+2[ro]
+2[op]
+1[pp]
+2[qp]
+2[rp]
+2[nq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+2[pr]
+1[qr]
+2[rr]
+2[sr]
+2[ps]
+2[qs]
+1[rs]
+)
+2
+B[ss]
+W[rr]

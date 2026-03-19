@@ -1,0 +1,57 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[rr]AW[oq][pq][qq][rr]AB[np][op][pp][qp][rp][mq][nr]LBCR[rr]C[Living with one Move(16)
+
+
+\b White to play\b0 .
+White \'a1\'e2 stone is at a strange place.
+
+Should White expand his living space or should he play the vital point directly?
+This is going to decide White's life or death.
+
+])
+(;AW[oq][pq][qq][rr]AB[np][op][pp][qp][rp][mq][nr]
+;W[or]
+;B[sr]
+;W[sq]
+;B[rq]LB[or:1][sr:2][sq:3][rq:4]C[Dia. 01 White Dies
+
+{\colortbl ;\red0\green0\blue255;}
+
+White expands his living space with 1. If White could live with this move, that would be the best, but it doesn't work.
+
+Black's attachment at 2 is a\cf1\b  good move\cf0\b0 . After White 3, Black plays at 4 and White can't live anymore.
+
+
+])
+(;AW[oq][pq][qq][rr]AB[np][op][pp][qp][rp][mq][nr]LB[rq:A]
+;W[ps]
+;B[sr]LB[ps:1][sr:2][rq:A]C[Dia. 02 Black 2 is Good Again
+
+
+White 1 is a vital point but Black's attachment at 2 is a good attack again.
+White dies easily again.
+
+Be careful, if Black plays at A, White lives with 2.
+
+])
+(;AW[oq][pq][qq][rr]AB[np][op][pp][qp][rp][mq][nr]LB[sr:A]
+;W[qs]
+;B[rq]
+;W[sq]LB[qs:1][rq:2][sq:3][sr:A]C[Dia. 03 Correct Answer-Diagonal Move
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's \cf1\b diagonal move\cf0\b0  at 1 is the \cf1\b correct answer\cf0\b0 .
+
+White makes two eyes with this one move.
+After Black 2, White lives with 3.
+
+If Black attaches at A, White lives with 3 again.
+
+])
+)

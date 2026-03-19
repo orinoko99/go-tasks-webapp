@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dn][bo][co][bp][dp][bq][dq][fq][gq][gr]AB[cp][aq][cq][br][dr][er][fr]LBC[Black to live
+
+Where should Black play to save the corner stones?
+])
+(;AW[dn][bo][co][bp][dp][bq][dq][fq][gq][gr]AB[cp][aq][cq][br][dr][er][fr]
+;B[cs]
+;W[cr]
+;B[cq]
+;W[ar]
+;B[as]LB[cs:1][cr:2][cq:3][ar:4][as:5]C[Correct
+
+
+Give up the two stones and Black can easily make two eyes by recapturing at Black 3.
+])
+(;AW[dn][bo][co][bp][dp][bq][dq][fq][gq][gr]AB[cp][aq][cq][br][dr][er][fr]
+;B[cr]
+;W[ar]
+;B[as]
+;W[fs]
+;B[es]
+;W[cs]LB[cr:1][ar:2][as:3][fs:4][es:5][cs:6]C[Wrong
+
+
+If Black tries to save all his stones, he will be captured. Black's eye space is to small to make two eyes.
+])
+)

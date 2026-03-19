@@ -1,0 +1,74 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[np][op][pp][jq][nq][nr][or]AB[po][qo][qp][oq][pq][rq][pr]
+;B[os]
+;W[ns]
+;B[ps]LB[os:1][ns:2][ps:3]C[Sente and Gote(3)
+
+
+\b Black to play\b0 .
+This time the endgame in the lower right corner is going to be discussed.
+
+If it is Black's turn, obviously he is going to play hane and connect with 1 and 3. This endgame is gote but its value is big.
+
+Because...
+
+])
+(;AW[np][op][pp][jq][nq][nr][or]AB[po][qo][qp][oq][pq][rq][pr]
+;W[ps]
+;B[qs]
+;W[os]
+;B[qr]LB[ps:1][qs:2][os:3][qr:4]C[Dia. 01 If White Plays it is Sente
+
+
+It is sente if White plays hane and connects with 1 and 3.
+
+Black has to defend at 4.
+So if White plays, it is sente, but on the contrary, Black played hane and connected at 1 and 3 in the previous diagram. Black has removed White's privilage, which makes the value big.
+])
+(;AW[np][op][pp][jq][nq][nr][or][ns]AB[po][qo][qp][oq][pq][rq][pr][os][ps]LB[kq:?][lq:?][mq:?][sq:?][jr:?][js:?]LB[kq:?][lq:?][mq:?][sq:?][jr:?][js:?]C[Dia. 03 The Value of Hane and Connection
+
+
+Let's check the value of this sequence.
+It is a bit difficult, but it is necessary to know the way of counting.
+
+The borderlines are made for convenient counting.
+So White has 6 points and Black has 7 points inside the Xs.
+
+
+])
+(;AW[np][op][pp][jq][nq][nr][or][os][ps]AB[po][qo][qp][oq][pq][rq][pr][qr][qs]LB[kq:?][lq:?][mq:?][sq:?][jr:?][js:?]LB[kq:?][lq:?][mq:?][sq:?][jr:?][js:?]C[Dia. 04 Counting
+
+{\colortbl ;\red0\green0\blue255;}
+
+This is the shape when White played hane and connected.
+This time the borderlines are made with Xs again.
+
+White has 7 points and Black has 5 points inside the Xs.
+
+After counting it is
+(7\'a3\'ad6)\'a3\'ab(7\'a3\'ad5)\'a3\'bd3 points.
+
+The value of Black's hane and connection is \cf1\b 3 points\cf0\b0 . (Same for White's hane and connection)
+])
+(;AW[np][op][pp][jq][nq][nr][or]AB[po][qo][qp][oq][pq][rq][pr]
+;B[os]
+;W[ns]
+;B[ps]LB[os:1][ns:2][ps:3]C[Dia. 04 Value of Reverse Sente
+
+{\colortbl ;\red0\green0\blue255;}
+
+Let's check Black's hane and connection with 1 and 3.
+It was said that Black's hane and connection is gote, wasn't it?
+Therefore Black 1 and 3 is \cf1\b 3 points gote endgame\cf0\b0 .
+
+This gote endgame which provides the opponent to play sente endgame is on a different level from the simple gote endgame. This kind of endgame is called \cf1\b reverse sente\cf0\b0 .
+
+The value of reverse sente is double. Therefore Black 1 and 3 is not 3, but 6 points.
+
+])
+)

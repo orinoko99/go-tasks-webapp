@@ -1,0 +1,102 @@
+//19
+5
+Star-point joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par Black 1 is a complicated. White 2 is the standart answer. How should Black play now?\lang1042\f1
+\par
+\par
+\par }
+#
+(
+1[pp]
+2[nq]
+)
+2
+B[qm]
+W[qq]
+1st Dia. Bad for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 First you should learn why White has to play 3-3. If White just plays 1 and 3 this result is good for Black. In the normal joseki Black's stone would be at A but now Black was able to play faster.
+\par That's why White has to play 3-3.\lang1042\f1
+\par
+\par }
+#
+(
+5[qm]
+65[qn]
+1[pp]
+2[nq]
+)
+3
+W[pr]
+B[qq]
+W[kq]
+2nd Dia. Variation
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a good move, White has to play 2 and 4.
+\par Be careful, White should not play 4 before playing 2!\lang1042\f1
+\par
+\par }
+#
+(
+1[qm]
+1[pp]
+2[nq]
+2[qq]
+)
+4
+B[pq]
+W[qp]
+B[po]
+W[pr]
+3rd Dia. Joseki
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black has to play 1, White plays 2 and Black 3 is very important. If Black plays A instead of 3 the result is bad for Black.
+\par White would answer B if Black played A.
+\par We will study about this later.\lang1042\f1
+\par
+\par }
+#
+(
+1[qm]
+66[no]
+1[po]
+1[pp]
+2[qp]
+2[nq]
+1[pq]
+2[qq]
+65[nr]
+2[pr]
+)
+5
+B[or]
+W[qr]
+B[oq]
+W[qo]
+B[qn]
+4th Dia. Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a bad move. White will play 2 and force Black to crawl in the second line. Black still has to connect at A. So White will get sente.\lang1042\f1
+\par
+\par }
+#
+(
+1[qm]
+1[po]
+1[pp]
+2[qp]
+2[nq]
+65[oq]
+1[pq]
+2[qq]
+1[or]
+2[pr]
+2[qr]
+)
+4
+B[nr]
+W[mq]
+B[mr]
+W[lq]

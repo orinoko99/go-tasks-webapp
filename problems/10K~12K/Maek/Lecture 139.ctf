@@ -1,0 +1,94 @@
+//19
+3
+Maek/Tesuji
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Where should Black play to capture the white cutting stone?
+\par }
+#
+(
+2[cl]
+2[dl]
+1[dm]
+1[bo]
+1[co]
+1[do]
+2[eo]
+2[bp]
+2[cp]
+2[dp]
+1[ep]
+1[gp]
+2[dq]
+1[eq]
+2[gq]
+2[hq]
+2[dr]
+1[er]
+)
+0
+Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The diagonal move net is the maek here. White can't escape.
+\par }
+#
+(
+2[cl]
+2[dl]
+1[dm]
+1[bo]
+1[co]
+1[do]
+2[eo]
+2[bp]
+2[cp]
+2[dp]
+1[ep]
+1[gp]
+2[dq]
+1[eq]
+2[gq]
+2[hq]
+2[dr]
+1[er]
+)
+7
+B[fn]
+W[en]
+B[em]
+W[fo]
+B[go]
+W[fp]
+B[fq]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Don't play an atari without any thought. White can easily escape.
+\par }
+#
+(
+2[cl]
+2[dl]
+1[dm]
+1[bo]
+1[co]
+1[do]
+2[eo]
+2[bp]
+2[cp]
+2[dp]
+1[ep]
+1[gp]
+2[dq]
+1[eq]
+2[gq]
+2[hq]
+2[dr]
+1[er]
+)
+4
+B[fo]
+W[en]
+B[em]
+W[fn]

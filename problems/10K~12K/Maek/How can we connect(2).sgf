@@ -1,0 +1,59 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[lq][mq][rq][kr][mr][rr][rs]AW[qo][ro][rp][lq][mq][pq][qq][sq][kr][mr][or][qr][qs]AB[lp][mp][op][pp][qp][hq][jq][kq][oq][rq][nr][rr][rs]LBCR[lq][mq][rq][kr][mr][rr][rs]C[Connecting out to live
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 White wants to capture the three \lang1042\f0\fs18\'a1\'e3\lang1033\f1\fs16  marked Black stones and connect his other stones at the same time.  How can he do this?\lang1042\f0\fs18
+])
+(;CR[lq][mq][kr][mr]AW[qo][ro][rp][lq][mq][pq][qq][sq][kr][mr][or][qr][qs]AB[lp][mp][op][pp][qp][hq][jq][kq][oq][rq][nr][rr][rs]
+;W[sr]
+;B[os]
+;W[ss]
+;B[pr]LB[sr:1][os:2][ss:3][pr:4]CR[lq][mq][kr][mr]C[1도(초보자의 발상)
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 If White immediately dansus the three Black stones, then he has made a \cf1 beginner's mistake.\cf0
+
+White has indeed captured the three stones but Black can disconnect both sides.  Black will dansu at 2 and the four \lang1042\f0\fs18\'a1\'e2\lang1033\f1\fs16  marked White stones are now dead.
+
+\lang1042\f0\fs18
+])
+(;AW[qo][ro][rp][lq][mq][pq][qq][sq][kr][mr][or][qr][qs]AB[lp][mp][op][pp][qp][hq][jq][kq][oq][rq][nr][rr][rs]
+;W[nq]
+;B[ps]
+;W[ns]
+;B[pr]
+;W[os]LB[nq:1][ps:2][ns:3][pr:4][os:5]C[Dia.2 White is dead
+
+{\colortbl ;\red255\green0\blue0;}
+If White tries to make the left side live then Black 2 is a severe move.  Now, it looks like Black has captured White instead of White capturing Black.  White lives in husu with 5, and now we can say that this \cf1\b is an awful result for White.\cf0\b0
+
+\lang1042\f1\fs18
+])
+(;AW[qo][ro][rp][lq][mq][pq][qq][sq][kr][mr][or][qr][qs]AB[lp][mp][op][pp][qp][hq][jq][kq][oq][rq][nr][rr][rs]
+;W[ps]
+;B[nq]
+;W[ns]LB[ps:1][nq:2][ns:3]C[Dia.3 Correct
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White can make an eye with 1.  This is a \cf1\b brillaint maek.
+
+\cf0\b0 Now we can be sure that White will be able to connect to the left.
+
+Nothing is wrong with Black 2 and White 3?  Seems easy enough.  We don't even have to do anything to kill the three black stones.
+
+\lang1042\f0\fs18
+])
+(;AW[qo][ro][rp][lq][mq][pq][qq][sq][kr][mr][or][qr][qs]AB[lp][mp][op][pp][qp][hq][jq][kq][oq][rq][nr][rr][rs]LBC[No diagram name
+
+
+
+])
+)

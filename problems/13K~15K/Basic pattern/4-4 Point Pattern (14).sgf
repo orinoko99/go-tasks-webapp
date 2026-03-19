@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nq]AB[qn][pp]LB[op:A][or:B][qr:A]
+;W[pq]
+;B[qq]
+;W[qr]
+;B[oq]
+;W[pr]LB[pq:1][qq:2][qr:3][oq:4][pr:5][op:A][or:B][qr:A]C[Star-point joseki
+
+Black's turn\b0
+We studied this position before. Black played 4 and White defended.
+Let's study what happens when Black plays A and B.\lang1042\f1
+
+])
+(;AW[nq][pq][pr][qr]AB[qn][pp][oq][qq]
+;B[op]
+;W[or]
+;B[rq]LB[op:1][or:2][rq:3]C[1st Dia. Easy way
+
+Black 1 is the easiest way. White will play 2 then Black has to play 3.
+Black 3 is a very important move, please remember it.\lang1042\f1
+
+
+])
+(;CR[op]AW[nq][pq][pr][qr]AB[qn][op][pp][oq][qq]
+;W[qp]
+;B[rq]
+;W[rp]
+;B[rr]
+;W[rs]
+;B[or]
+;W[sr]LB[qp:1][rq:2][rp:3][rr:4][rs:5][or:6][sr:7]CR[op]C[2nd Dia. Joseki
+
+When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  White 1 is also a joseki. After White plays 7, Black has a strong influence and White got territory.This result is acceptable for both.\lang1042\f1
+
+])
+(;AW[nq][pq][pr][qr]AB[qn][pp][oq][qq]
+;B[qp]
+;W[op]
+;B[oo]
+;W[np]LB[qp:1][op:2][oo:3][np:4]C[3rd Dia. Mistake
+
+Black 1 is a mistake, White will play 2 and 4. White is very strong and Black didn't get anything in return.
+\lang1042\f1
+
+])
+(;AW[nq][pq][pr][qr]AB[qn][pp][oq][qq]LB[or:A]
+;B[or]
+;W[qp]
+;B[op]
+;W[qo]
+;B[pn]LB[or:1][qp:2][op:3][qo:4][pn:5][or:A]C[4th Dia. Simple joseki
+
+Black 1 is a strong move. If White plays 2 then it leads to a simple joseki.
+Black plays 4 and White 4. Now White has sente, this is a joseki.
+If Black plays 4 instead of 3 it's more complicated.\lang1042\f1
+
+
+])
+)

@@ -1,0 +1,53 @@
+//19
+2
+Capture White
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par What's Black's best move to capture White?
+\par }
+#
+(
+1[ao]
+1[bo]
+1[co]
+2[ap]
+2[bp]
+1[cp]
+2[aq]
+2[cq]
+1[dq]
+1[eq]
+2[br]
+2[dr]
+1[er]
+2[ds]
+1[es]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black 1 is the only move. White can't help but connects at 2 to prevent a snapback. Next, Black throws in at 3 to make a pae (ko).
+\par }
+#
+(
+1[ao]
+1[bo]
+1[co]
+2[ap]
+2[bp]
+1[cp]
+2[aq]
+2[cq]
+1[dq]
+1[eq]
+2[br]
+2[dr]
+1[er]
+2[ds]
+1[es]
+)
+4
+B[bs]
+W[cr]
+B[ar]
+W[as]

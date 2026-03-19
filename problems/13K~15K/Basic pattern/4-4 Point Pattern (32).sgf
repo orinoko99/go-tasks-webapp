@@ -1,0 +1,53 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[lp][mp][nq]AB[kp][pp][jq][lq]LB[on:A]
+;W[pn]
+;B[oo]LB[pn:1][oo:2][on:A]C[Star-point Joseki
+
+White's turn\b0
+We already studied when White plays 1 Black A is the correct answer. But what if Black plays 2? This move is a mistake.
+How should White punish it?\lang1042\f1
+
+])
+(;AW[pn][lp][mp][nq]AB[oo][kp][pp][jq][lq]
+;W[on]
+;B[no]
+;W[qq]LB[on:1][no:2][qq:3]C[1st Dia. Correct answer
+
+White 1 is the correct answer. Black has to play 2 then White 3 is a good follow up move.\lang1042\f1
+
+])
+(;AW[on][pn][lp][mp][nq][qq]AB[no][oo][kp][pp][jq][lq]
+;B[pq]
+;W[qp]
+;B[po]
+;W[qo]
+;B[nn]
+;W[nm]LB[pq:1][qp:2][po:3][qo:4][nn:5][nm:6]C[2nd Dia. Good for White
+
+If Black plays 1 White will answer 2.
+This result is better for White than the correct joseki.\lang1042\f1
+
+])
+(;CR[qp]AW[on][pn][lp][mp][qp][nq][qq]AB[no][oo][kp][pp][jq][lq][pq]LB[op:A]
+;B[nn]
+;W[po]LB[nn:1][po:2][op:A]CR[qp]C[3rd Dia. Black 1 is a mistake
+
+When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is a mistake. White 2 is a good move. Black has to take care of his aji in A but there's no good move available for that.\lang1042\f1
+
+])
+(;CR[qq]AW[on][pn][lp][mp][nq][qq]AB[no][oo][kp][pp][jq][lq]
+;B[qp]
+;W[pq]
+;B[nn]
+;W[ln]LB[qp:1][pq:2][nn:3][ln:4]CR[qq]C[4th Dia. Good for White
+
+When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is also a mistake. White will play 2 and 4.
+This result is good for White.\lang1042\f1
+
+])
+)

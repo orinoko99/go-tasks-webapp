@@ -1,0 +1,136 @@
+//19
+5
+How should Black play?
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par Black can make this game very favorable for himself if Black thinks carefully.
+\par Where should Black play?\lang1042\f1
+\par
+\par }
+#
+(
+1[dd]
+1[jd]
+1[pd]
+1[dj]
+1[jj]
+1[pj]
+1[dp]
+2[gp]
+1[jp]
+1[pp]
+)
+2
+B[dn]
+W[qf]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 and 3 are common but good moves. Now White's answer is very easy to guess.\lang1042\f1
+\par
+\par }
+#
+(
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+1[dp]
+2[gp]
+1[jp]
+1[pp]
+)
+3
+B[qe]
+W[pf]
+B[nd]
+2nd Dia. Continuation
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White will play 1, Black answers 2. Then White plays 3 and Black 4 is a great move. As the sequence shows this result is very favorable for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[dd]
+1[jd]
+1[nd]
+1[pd]
+1[qe]
+2[pf]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+1[dp]
+2[gp]
+1[jp]
+1[pp]
+)
+6
+W[ph]
+B[nj]
+W[mg]
+B[me]
+W[kg]
+B[lj]
+3rd Dia. Another option
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a mistake. White will answer 2.
+\par Some Baduk books says this result is possible for Black, but considering this is a handicap game the result is more interesting for White.\lang1042\f1
+\par
+\par }
+#
+(
+1[dd]
+1[jd]
+1[nd]
+1[pd]
+1[qe]
+2[pf]
+2[qf]
+2[mg]
+2[ph]
+1[dj]
+1[jj]
+1[nj]
+1[pj]
+1[dn]
+1[dp]
+2[gp]
+1[jp]
+1[pp]
+)
+2
+B[lj]
+W[ld]
+4th Dia. Another option
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black A is a simple answer. Black 1 is the strongest answer.\lang1042\f1
+\par
+\par }
+#
+(
+1[dd]
+1[jd]
+1[nd]
+1[pd]
+1[qe]
+2[pf]
+2[qf]
+6[ph]
+1[dj]
+1[jj]
+65[nj]
+1[pj]
+1[dn]
+1[dp]
+2[gp]
+1[jp]
+1[pp]
+)
+1
+B[qi]

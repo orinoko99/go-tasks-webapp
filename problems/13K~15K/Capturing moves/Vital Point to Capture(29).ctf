@@ -1,0 +1,184 @@
+//19
+5
+Vital Point to Capture?(29)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Black has surrounded the White \'a1\'e2 stones and secured a big eye-space.
+\par
+\par However Black doesn't have outside liberty. It means Black has shortage of liberties and White can capture him.
+\par
+\par
+\par }
+#
+(
+2[mp]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+2[mr]
+1[nr]
+1[or]
+6[pr]
+2[ms]
+1[ns]
+6[os]
+6[ps]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \cf1\b There is death in the hane!
+\par \cf0\b0 You have heard this proverb several times, didn't you?
+\par
+\par White 1 was the vital point to capture Black. After Black 2, White 3 is a good move and Black dies.
+\par If Black plays at A instead of 2, White kills with 3.
+\par
+\par
+\par
+\par }
+#
+(
+2[mp]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+2[mr]
+1[nr]
+1[or]
+2[pr]
+65[rr]
+2[ms]
+1[ns]
+2[os]
+2[ps]
+)
+3
+W[sq]
+B[qr]
+W[sr]
+Dia. 02 Side Attachment?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's side attacment at 1 looks good.
+\par After Black 2 White can connect with 3.
+\par However if Black captures with 4 the situation becomes strange.
+\par
+\par }
+#
+(
+2[mp]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+2[mr]
+1[nr]
+1[or]
+2[pr]
+65[rr]
+2[ms]
+1[ns]
+2[os]
+2[ps]
+)
+4
+W[rr]
+B[qr]
+W[sq]
+B[qs]
+Dia. 03 Miai
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Continuously, White \cf1\b breaks the eye\cf0\b0  with 1 but it is an \cf1\b overplay\cf0\b0 .
+\par Black's squeeze with 2 and 4 work.
+\par
+\par In reality Black will prevants the squeeze and he will live with 1. Therefore White's side attachment at \b Dia. 02\b0  was a failure.
+\par
+\par
+\par }
+#
+(
+2[mp]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+2[sq]
+2[mr]
+1[nr]
+1[or]
+1[qr]
+2[rr]
+2[ms]
+1[ns]
+1[qs]
+)
+4
+W[ps]
+B[sr]
+W[ss]
+B[rs]
+Dia. 04 Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is the \cf1\b 1-2\cf0\b0  vital point.
+\par It is a powerful attack but if Black cuts at 2, White has to play the diagonal move at 3.
+\par
+\par After Black 4, White plays at 5 and the pae is unavoidable. This is not the best result.
+\par
+\par
+\par }
+#
+(
+2[mp]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+2[mr]
+1[nr]
+1[or]
+2[pr]
+2[ms]
+1[ns]
+2[os]
+2[ps]
+)
+5
+W[sr]
+B[sq]
+W[rs]
+B[rr]
+W[sp]

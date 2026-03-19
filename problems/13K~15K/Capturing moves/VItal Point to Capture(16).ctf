@@ -1,0 +1,157 @@
+//19
+5
+VItal Point to Capture?(16)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par
+\par Where is the vital point which captures Black?
+\par }
+#
+(
+2[po]
+2[ro]
+2[so]
+2[qp]
+1[rp]
+2[nq]
+2[oq]
+2[pq]
+1[qq]
+2[nr]
+1[or]
+1[pr]
+1[qr]
+1[sr]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's \cf1\b placement\cf0\b0  at 1 is the vital point.
+\par
+\par If Black plays at 2, White destroys the eye with 3 and after Black 4, White captures Black with 5.
+\par
+\par
+\par }
+#
+(
+2[po]
+2[ro]
+2[so]
+2[qp]
+1[rp]
+2[nq]
+2[oq]
+2[pq]
+1[qq]
+2[nr]
+1[or]
+1[pr]
+1[qr]
+1[sr]
+)
+5
+W[rs]
+B[rq]
+W[sp]
+B[os]
+W[qs]
+Dia. 02 Easy to Miss
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White can easily think that he can capture Black if he cuts at 1.
+\par
+\par If Black answers with 2, White plays hane at 3 and after White's placement at 5 Black can't live.
+\par
+\par However it is White's \cf1\b wishful thinking\cf0\b0 .
+\par
+\par Black 2 is a wrong move. If Black plays at 5 instead of 2, Black lives.
+\par }
+#
+(
+2[po]
+2[ro]
+2[so]
+2[qp]
+1[rp]
+2[nq]
+2[oq]
+2[pq]
+1[qq]
+2[nr]
+1[or]
+1[pr]
+1[qr]
+1[sr]
+)
+5
+W[rq]
+B[rr]
+W[os]
+B[ps]
+W[rs]
+Dia. 03 Beginner's Move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a beginner's attack.
+\par Black can live with many points at 2.
+\par Up to 4, Black has a \cf1\b four space \cf0\b0 living shape.
+\par
+\par }
+#
+(
+2[po]
+2[ro]
+2[so]
+2[qp]
+1[rp]
+65[sp]
+2[nq]
+2[oq]
+2[pq]
+1[qq]
+2[nr]
+1[or]
+1[pr]
+1[qr]
+1[sr]
+)
+4
+W[sp]
+B[os]
+W[rq]
+B[rr]
+Dia. 04 Worst Result
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \cf1\b There is death in the hane\cf0\b0 .
+\par So some people might think that White 1 is the starting move.
+\par However this is the \cf2\b worst result\cf0\b0 .
+\par
+\par Black blocks with 2 and lives with many points.
+\par }
+#
+(
+2[po]
+2[ro]
+2[so]
+2[qp]
+1[rp]
+2[nq]
+2[oq]
+2[pq]
+1[qq]
+2[nr]
+1[or]
+1[pr]
+1[qr]
+1[sr]
+)
+2
+W[os]
+B[sp]

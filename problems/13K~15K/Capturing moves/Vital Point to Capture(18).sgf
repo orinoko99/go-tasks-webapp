@@ -1,0 +1,54 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qm][no][oo][qo][mp][qp][mq][qq][mr][rr][ps][qs]AB[op][pp][nq][pq][nr][pr][qr][os]
+;B[rq]LB[rq:1]C[Vital Point to Capture?(18)
+
+
+\b White to play\b0 .
+Black is in trouble he has only one eye on the left.
+
+Black cuts at 1 to make an eye on the right side as well.
+How should White play to
+])
+(;AW[qm][no][oo][qo][mp][qp][mq][qq][mr][rr][ps][qs]AB[op][pp][nq][pq][rq][nr][pr][qr][os]LB[rs:A]
+;W[ss]LB[ss:1][rs:A]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+Did you find White 1?
+It is cool, isn't it? Sometimes \cf1\b 1-1\cf0\b0  is \cf2\b also a vital point\cf0\b0 .
+If Black takes with A, White can re-capture and Black is dead.
+
+
+])
+(;AW[qm][no][oo][qo][mp][qp][mq][qq][mr][rr][ps][qs]AB[op][pp][nq][pq][rq][nr][pr][qr][os]LB[rp:A]
+;W[rp]
+;B[rs]
+;W[sr]
+;B[qs]LB[rp:1][rs:2][sr:3][qs:4][rp:A]C[Dia. 02 Lives in a Good way
+
+{\colortbl ;\red255\green0\blue0;}
+
+\cf1\b Black's plan\cf0\b0  was that White answers with 1. Taking with 2 becomes sente and White lives up to 4.
+
+
+])
+(;AW[qm][no][oo][qo][mp][qp][mq][qq][mr][rr][ps][qs]AB[op][pp][nq][pq][nr][pr][qr][os]
+;B[rs]
+;W[qs]
+;B[rq]
+;W[ss]LB[rs:1][qs:2][rq:3][ss:4]C[Dia. 03 If Captures
+
+{\colortbl ;\red0\green0\blue255;}
+
+From the beginning if Black captures the two stones with 1, White throws-in at 2.
+
+After Black's dansu at 3, White captures with 4 and Black is dead. From this variation it is possible to know that \cf1\b 4 is the vital point\cf0\b0 .
+
+
+])
+)

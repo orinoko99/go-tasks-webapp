@@ -1,0 +1,62 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qf]AB[nc][dd][jd][pd][dj][jj][pj][dp][jp][pp]
+;W[fq]
+;B[dn]
+;W[mp]LB[fq:1][dn:2][mp:3]C[How should Black play?
+
+Black's turn\b0
+White played 1. This time Black decided to answer 2. Then White played 3. How should Black answer?\lang1042\f1
+
+
+
+])
+(;CR[jp][fq]AW[qf][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][cn][dp][jp][pp]
+;B[jn]
+;W[mn]
+;B[pn]
+;W[ml]
+;B[pl]LB[jn:1][mn:2][pn:3][ml:4][pl:5]CR[jp][fq]C[1st Dia. Correct answer
+
+Black 1 is the common answer. It's a possible move. Then White plays 2 and Black plays 3.
+Do you think Black's \lang1042\f1\'a1\'e3\lang1043\f0  stone is weak?
+Actually White's \lang1042\f1\'a1\'e2\lang1043\f0  stone is far weaker. This result is good for Black.\lang1042\f1
+
+])
+(;CR[jp]AW[qf][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][dp][jp][pp]LB[pn:A]
+;B[qn]
+;W[jn]LB[qn:1][jn:2][pn:A]CR[jp]C[2nd Dia. Another option
+
+Black 1 or A are both possible. White will answer 2. White's goal is to attack Black's \lang1042\f1\'a1\'e3\lang1043\f0  stone.
+\lang1042\f1
+])
+(;AW[qf][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][dp][jp][pp]
+;B[fp]
+;W[gp]
+;B[eq]
+;W[fo]
+;B[ep]LB[fp:1][gp:2][eq:3][fo:4][ep:5]C[3rd Dia. Not recommendable
+
+I don't recommend Black 1. White will answer 2. Black plays 3 and 5.
+After this-\lang1042\f1
+
+])
+(;CR[jp]AW[qf][fo][gp][mp][fq]AB[nc][dd][jd][pd][dj][jj][pj][cn][dp][ep][fp][jp][pp][eq]LB[jn:A]
+;W[go]
+;B[gq]
+;W[hq]
+;B[fr]
+;W[gr]
+;B[fq]
+;W[io]LB[go:1][gq:2][hq:3][fr:4][gr:5][fq:6][io:7][jn:A]CR[jp]C[4th Dia. Bad for Black
+
+White will play 1. Black has to answer 2 and 4. White plays 5. Then Black 6 is a mistake, White answers 7.
+As the sequence shows Black's \lang1042\f1\'a1\'e3\lang1043\f0  stone is weak.
+Black should have played A instead of 6. Then the result is acceptable for Black.\lang1042\f1
+
+])
+)

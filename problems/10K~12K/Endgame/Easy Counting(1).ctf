@@ -1,0 +1,169 @@
+//19
+4
+Easy Counting(1)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 (or \b White to play\b0 ).
+\par
+\par How much \b A\b0  and \b B\b0  are worth?
+\par
+\par Both moves are counted with simple counting method. It is always the way when only one side's territory is changing.
+\par
+\par }
+#
+(
+2[mp]
+2[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[jq]
+2[kq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+66[sq]
+2[jr]
+1[kr]
+1[lr]
+1[mr]
+1[rr]
+2[sr]
+2[js]
+65[ks]
+2[ls]
+1[ms]
+1[rs]
+)
+0
+Dia. 01 A is 2 points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If Black plays at 1 (A), Black's territory has increased by 2 points.
+\par One captured stone and one point makes 2 points.
+\par
+\par If White plays at 1, White's territory doesn't increase.
+\par Therefore either Black or White plays at \b A\b0 , it is \b 2 points\b0 .
+\par
+\par
+\par }
+#
+(
+2[mp]
+2[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[jq]
+2[kq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+2[jr]
+1[kr]
+1[lr]
+1[mr]
+1[rr]
+2[sr]
+2[js]
+2[ls]
+1[ms]
+1[rs]
+)
+1
+B[ks]
+Dia.02 B is 3 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Let's check the value of Black 1 (\b B\b0 ).
+\par After Black cuts White's stone, Black's territory has increased by 3 points. (one captured stone and 2 points)
+\par
+\par Nobody should forget that there is one point at X.
+\par
+\par }
+#
+(
+2[mp]
+2[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[jq]
+2[kq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+2[jr]
+1[kr]
+1[lr]
+1[mr]
+1[rr]
+2[sr]
+2[js]
+2[ls]
+1[ms]
+1[rs]
+691[ss]
+)
+1
+B[sq]
+Dia. 03 White 1 is Also 3 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If White saves his stone with 1 (\b B\b0 ), White's territory doesn't increase.
+\par White only takes away Black's possibility to make points.
+\par
+\par Black got 0 point at the place where he could have got 3 points, so \cf1\b White 1 is also 3 points\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+2[mp]
+2[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[jq]
+2[kq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+2[jr]
+1[kr]
+1[lr]
+1[mr]
+1[rr]
+2[sr]
+2[js]
+2[ls]
+1[ms]
+1[rs]
+)
+1
+W[sq]

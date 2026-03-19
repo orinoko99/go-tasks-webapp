@@ -1,0 +1,91 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[nq]AW[qf][qn]AB[nc][dd][jd][pd][dj][jj][pj][dp][jp][pp][nq]
+;W[qp]
+;B[qq]
+;W[po]LB[qp:1][qq:2][po:3]CR[nq]C[Knight's Approach(10)
+
+{\colortbl ;\red255\green0\blue0;}
+
+It is Black's turn.\b
+
+\cf1 W1 \cf0\b0 and \cf1\b 3\cf0\b0  are oppressive skills normally used by strong players.
+
+How should Black answer now?
+
+])
+(;AW[qf][qn][po][qp]AB[nc][dd][jd][pd][dj][jj][pj][dp][jp][pp][nq][qq]
+;B[pq]
+;W[qd]
+;B[qc]
+;W[pe]
+;B[pc]
+;W[nj]LB[pq:1][qd:2][qc:3][pe:4][pc:5][nj:6]C[Dia1(Black's in trouble)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b B1 \cf0\b0 is too \b submissive\b0 . Black is afraid of the Ko which players shouldn't worry about.
+White will be elated and play 2, 4. After waiting for the submissive move 5, and 6. Severe!
+Apperently, Black is in trouble.
+
+])
+(;AW[qf][qn][po][qp]AB[nc][dd][jd][pd][dj][jj][pj][dp][jp][pp][nq][qq]
+;B[rp]
+;W[ro]
+;B[qo]LB[rp:1][ro:2][qo:3]C[Dia2(Recommendation)
+
+
+Black has to make Dansoo.
+As mentioned, we do not have to worry about ko in the opening.
+
+Where is White's ko threat?
+After 2, take it out and just connect.
+
+ If you play like this, strong players will regret for what he has done before.
+
+])
+(;CR[rp]AW[qf][qn][po][qp]AB[nc][dd][jd][pd][dj][jj][pj][dp][jp][pp][rp][nq][qq]
+;W[op]
+;B[qo]
+;W[pq]
+;B[qp]
+;W[oq]
+;B[oo]
+;W[np]
+;B[pn]LB[op:1][qo:2][pq:3][qp:4][oq:5][oo:6][np:7][pn:8]CR[rp]C[Dia3(Solution)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+When \'a1\'e3, Black's concern is White's counterattack, \cf1\b W1\cf0\b0 .
+
+Not only there is no problem with 2, but Black is in trouble.
+After \cf1\b W3\cf0\b0 , Black just connects with 4.
+White has too many weak points wo defend without any damage.
+If White connects with 5, \cf2\b B6\cf0\b0 .
+
+Cutting off is very severe.
+To 8, game is almost decided. Black is leading by 100 points at least.
+
+])
+(;AW[qf][qn][po][qp]AB[nc][dd][jd][pd][dj][jj][pj][dp][jp][pp][nq][qq]LB[rp:B][rq:A]
+;B[op]
+;W[nj]
+;B[ok]
+;W[nk]
+;B[om]LB[op:1][nj:2][ok:3][nk:4][om:5][rp:B][rq:A]C[Dia4(Solution2)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b B1 \cf0\b0 is mild.
+However you have to have the prepared move 2 when White bends.
+What if White makes 2?
+There are several ways to respond.
+Black is ok with 3, 5.
+
+This forces strong players to start the ko.
+])
+)

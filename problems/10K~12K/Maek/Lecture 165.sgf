@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cm][dm][fn][gn][ho][fp][gq][gr]AB[bn][cn][hn][in][eo][io][cp][ep][ip][eq][hq][jq]LBC[How to Cut
+
+White is very thin. Where should Black play?
+])
+(;AW[cm][dm][fn][gn][ho][fp][gq][gr]AB[bn][cn][hn][in][eo][io][cp][ep][ip][eq][hq][jq]
+;B[gp]
+;W[go]
+;B[hp]LB[gp:1][go:2][hp:3]C[Correct
+
+
+The bamboo joint vital point is the right starting point. After Black 3, White can't connect because two cutting points remain.
+])
+(;AW[cm][dm][fn][gn][ho][fp][gq][gr]AB[bn][cn][hn][in][eo][io][cp][ep][ip][eq][hq][jq]
+;B[go]
+;W[fo]LB[go:1][fo:2]C[Wrong
+
+
+Oh, what's this? Is Black fond of capturing single stones? White happily connects at 2.
+])
+)

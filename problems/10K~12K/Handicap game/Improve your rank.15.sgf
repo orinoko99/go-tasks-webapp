@@ -1,0 +1,65 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qf][fp][fq]AB[nc][dd][jd][pd][dj][jj][pj][dn][dp][jp][pp][eq]LB[np:A]
+;W[nq]
+;B[pn]
+;W[jn]
+;B[mp]
+;W[pq]LB[nq:1][pn:2][jn:3][mp:4][pq:5][np:A]C[Improve your rank
+
+Black's turn\b0
+White played 1, Black 2, White 3 and Black 4.
+White decided that A is not a good move so this time he played 1.
+How should Black answer?\lang1042\f1
+
+])
+(;AW[qf][jn][fp][fq][nq][pq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][dp][jp][mp][pp][eq]
+;B[np]
+;W[qq]
+;B[qp]
+;W[dg]
+;B[fd]
+;W[dl]LB[np:1][qq:2][qp:3][dg:4][fd:5][dl:6]C[1st Dia. Terrible for Black
+
+Black 1 is a mistake. As the sequence shows White will take Black's corner in sente and then play 6. It's very painful for Black.\lang1042\f1
+
+])
+(;CR[jp][mp]AW[qf][jn][fp][fq][nq][pq]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][dp][jp][mp][pp][eq]
+;B[qq]
+;W[qr]
+;B[qp]
+;W[np]
+;B[pr]
+;W[mo]LB[qq:1][qr:2][qp:3][np:4][pr:5][mo:6]CR[jp][mp]C[2nd Dia. Black 5 is a bad move
+
+Black has to play 1. White will answer 2. Black 3 and 5 are mistake. It makes Black's \lang1042\f1\'a1\'e3\lang1043\f0  stones weaker.
+Black should play 5 somewhere else-\lang1042\f1
+
+])
+(;AW[qf][jn][fp][np][fq][nq][pq][qr]AB[nc][dd][jd][pd][dj][jj][pj][dn][pn][dp][jp][mp][pp][qp][eq][qq]
+;B[mo]
+;W[no]
+;B[nn]
+;W[mn]LB[mo:1][no:2][nn:3][mn:4]C[3rd Dia. Black 3 is overplay
+
+Black has to play 1, White will answer 2. Then Black 3 is an overplay. White will  cut with 4.\lang1042\f1
+\lang1043\f0 This result is favorable for White, especially in a handicap game.\lang1042\f1
+])
+(;AW[qf][jn][mn][no][fp][np][fq][nq][pq][qr]AB[nc][dd][jd][pd][dj][jj][pj][dn][nn][pn][mo][dp][jp][mp][pp][qp][eq][qq]
+;B[nm]
+;W[ln]
+;B[mq]
+;W[mr]
+;B[lr]
+;W[or]LB[nm:1][ln:2][mq:3][mr:4][lr:5][or:6]C[4th Dia White's wish
+
+If Black plays 1, White will answer 3, Black plays 3. White 4 and 6 are good moves. This result is slightly good for White.
+We will discuss how Black should play in the next problem.\lang1042\f1
+
+
+])
+)

@@ -1,0 +1,91 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[oq]AW[qn][mp][nq][oq]AB[no][np][pp]LB[po:‚][qo:ƒ][pq:„]LB[po:‚][qo:ƒ][pq:„]CR[oq]C[4-4 Point Joseki (2)
+
+{\colortbl ;\red0\green0\blue255;}
+
+It's\cf1\b  Black\cf0\b0 's turn.\f1
+This shape is White plays a double approach.
+
+Which one is best response A, B, C ?
+
+])
+(;AW[qn][mp][nq][oq]AB[no][np][pp]LB[po:B][op:A]
+;B[pq]
+;W[pm]
+;B[qo]LB[pq:1][pm:2][qo:3][po:B][op:A]C[Dia 1 (Solution)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+Black block at \cf1\b B1 \cf0\b0 is easy and reliable response.
+\cf2\b W2 \cf0\b0 is good move.
+\cf2\b W2 \cf0\b0 is a meaningful play which plans to cut the Black's stone.
+
+That's why \cf1\b Black \cf0\b0 plays at \cf1\b 3\cf0\b0 , it protects himself.
+
+Connect at A or making a bamboo joint at B are bad moves.
+
+])
+(;AW[pm][qn][mp][nq][oq]AB[no][qo][np][pp][pq]
+;W[ro]
+;B[pn]
+;W[rn]
+;B[rp]LB[ro:1][pn:2][rn:3][rp:4]C[Dia 2(B2 is important)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+Continuing When \cf1\b White \cf0\b0 plays at \cf1\b 2\cf0\b0 , next the sequense is important.
+
+\cf2\b B2 \cf0\b0 is best way in this situation.
+
+\cf1\b White \cf0\b0 must play at \cf1\b 3\cf0\b0 , and then Black blocks the corner.
+
+
+])
+(;AW[pm][qn][rn][ro][mp][nq][oq]AB[pn][no][qo][np][pp][rp][pq]LB[mo:A]
+;W[nm]
+;B[mn]
+;W[kq]
+;B[or]LB[nm:1][mn:2][kq:3][or:4][mo:A]C[Dia 3(Joseki)
+
+{\colortbl ;\red0\green0\blue255;}
+
+One space jump at \cf1\b B1 \cf0\b0 is necessary move. and \cf1\b B2 \cf0\b0 also good haengma.
+
+Up to \cf1\b B4 \cf0\b0 , is joseki.
+
+It is a basic double approach joseki.
+
+Instead of 2, Black pushes at A is a bad move.
+])
+(;AW[qn][mp][nq][oq]AB[no][np][pp]
+;B[po]
+;W[qq]LB[po:1][qq:2]C[Dia 4 (Inefficiency)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+Bamboo joint at \cf1\b B1 \cf0\b0 is too inefficient.
+
+\cf2\b W2 \cf0\b0 is a good move.
+Suddenly Black is robbed of Black's basis.
+])
+(;CR[pp]AW[qn][mp][nq][oq]AB[no][np][pp]
+;B[qo]
+;W[pn]
+;B[po]
+;W[qr]LB[qo:1][pn:2][po:3][qr:4]CR[pp]C[Dia 5 (Empty triangle)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+\cf1\b B1 \cf0\b0 is the bad response.
+If \cf2\b White \cf0\b0 plays at \cf2\b 2\cf0\b0 , Black has to make a bamboo joint.
+
+White gains Black's basis.
+And \cf1\b B1\cf0\b0 , \cf1\b B3\cf0\b0 , \cf1\b\'a1\'e2 \cf0\b0 are  an empty triangle.
+This is bad shape.
+])
+)

@@ -1,0 +1,57 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pr]AW[qq][rq][nr][or][sr][rs]AB[op][pp][qp][rp][sp][mq][oq][sq][mr][pr]LB[pq:A]LB[pq:A]CR[pr]C[Alive in one move(55)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf0\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Black has just come in with the \lang1042\f0\fs18\'a1\'e3\lang1033\f1\fs16  marked stone.
+
+Should White cut at A?  You need to be careful and read this one out from beginning to end.\lang1042\f0\fs18
+])
+(;AW[qq][rq][nr][or][sr][rs]AB[op][pp][qp][rp][sp][mq][oq][sq][mr][pr]LB[ps:A]
+;W[pq]
+;B[qr]
+;W[rr]LB[pq:1][qr:2][rr:3][ps:A]C[Dia.1 Can we cut?
+
+White cuts at 1.  Does this look OK to you?
+Black plays dansu at 2 and then White will connect at 3.  Nothing strange about that.  White is alive.
+
+If Black were to play 2 at A then that is also no problem.  Are we to think the cut is fine?
+\lang1042\f1\fs18
+
+])
+(;AW[qq][rq][nr][or][sr][rs]AB[op][pp][qp][rp][sp][mq][oq][sq][mr][pr]
+;W[pq]
+;B[qs]
+;W[rr]
+;B[nq]LB[pq:1][qs:2][rr:3][nq:4]C[Dia.2 No liberties
+
+{\colortbl ;\red255\green0\blue0;}
+The problem is the previous diagram is not the way it will play out.  White wasn't thinking about how Black should respond in a way that is best for Black.
+
+In response to the cut, Black will play the maek at 2.  Even if White connects Black 4 takes away a vital liberty and \cf1\b White is dead due to a lack of liberties.\cf0\b0
+\lang1042\f1\fs18
+
+])
+(;AW[qq][rq][nr][or][sr][rs]AB[op][pp][qp][rp][sp][mq][oq][sq][mr][pr]
+;W[qr]
+;B[pq]
+;W[ps]LB[qr:1][pq:2][ps:3]C[Dia.3 Correct / Instead of cutting
+
+Instead of cutting White should play 1.  When Black connects at 2 White can play 3 and he has two eyes, no problem.
+
+This is a shape where you could easily make a mistake in a real game.
+\lang1042\f1\fs18
+
+])
+(;AW[qq][rq][nr][or][sr][rs]AB[op][pp][qp][rp][sp][mq][oq][sq][mr][pr]LBC[No diagram name
+
+
+
+])
+)

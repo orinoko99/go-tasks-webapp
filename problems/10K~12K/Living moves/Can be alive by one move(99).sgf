@@ -1,0 +1,51 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[no][oo][po][iq][kq][lq][mq][nq][pq][qq][rq][jr][rr][ms]AB[op][oq][kr][lr][mr][nr][pr][qr][ks][rs]LBC[Can be alive by one move(99)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\cf1\lang1042\b\f0
+The best answer is draw.\cf0\b0
+
+])
+(;AW[no][oo][po][iq][kq][lq][mq][nq][pq][qq][rq][jr][rr][ms]AB[op][oq][kr][lr][mr][nr][pr][qr][ks][rs]
+;B[or]
+;W[qs]
+;B[ps]
+;W[ns]LB[or:1][qs:2][ps:3][ns:4]C[Dia.1(It's small space)
+
+
+Connecting at 1 is the most common move but it doesn't work.
+
+Because throw in at 2 and W4 are good sequence to kill B.
+
+
+])
+(;AW[no][oo][po][iq][kq][lq][mq][nq][pq][qq][rq][jr][rr][ms]AB[op][oq][kr][lr][mr][nr][pr][qr][ks][rs]LB[or:A][qs:A]
+;B[ns]
+;W[qs]LB[ns:1][qs:2][or:A][qs:A]C[Dia.2(Also dead)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Playing at 1 is also bed move.
+After 2,\cf1\b  B is dead.
+\cf0\b0
+W can play at A instead of 2.
+])
+(;AW[no][oo][po][iq][kq][lq][mq][nq][pq][qq][rq][jr][rr][ms]AB[op][oq][kr][lr][mr][nr][pr][qr][ks][rs]LB[ns:A][qs:A]
+;B[qs]
+;W[os]
+;B[or]LB[qs:1][os:2][or:3][ns:A][qs:A]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+B1 is the only way to live and it is\cf1\b  the enemy's vital point!!\cf0\b0
+
+Up to 3, if W played at A, it would be a draw.\cf1\b
+])
+)

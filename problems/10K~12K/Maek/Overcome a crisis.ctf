@@ -1,0 +1,160 @@
+//19
+4
+Overcome a crisis
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  Black\b0 's turn.\f2
+\par \lang1042\f0
+\par B has two weak groups.
+\par You should rescue both of them.
+\par }
+#
+(
+2[qm]
+1[on]
+1[pn]
+2[qn]
+2[ko]
+2[oo]
+1[po]
+1[qo]
+2[ro]
+2[mp]
+2[op]
+2[pp]
+1[qp]
+2[rp]
+2[iq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[lr]
+1[pr]
+2[qr]
+)
+0
+Dia.1(Double dansu)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Many people think about breaking at 1 is the first move because B can dansu both of W'stones.
+\par
+\par But B still can't rescue all of them.
+\par
+\par Continue the next page.
+\par }
+#
+(
+2[qm]
+1[on]
+1[pn]
+2[qn]
+2[ko]
+2[oo]
+1[po]
+1[qo]
+2[ro]
+2[mp]
+2[op]
+2[pp]
+1[qp]
+2[rp]
+2[iq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[lr]
+1[pr]
+2[qr]
+)
+3
+B[np]
+W[no]
+B[mo]
+Dia.2(Big sacrifice)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Up to 4, B's one group can escape but five stones are dead.
+\par
+\par This result is painful for B.
+\par
+\par }
+#
+(
+2[qm]
+5[on]
+5[pn]
+2[qn]
+2[ko]
+1[mo]
+2[no]
+2[oo]
+5[po]
+5[qo]
+2[ro]
+2[mp]
+1[np]
+2[op]
+2[pp]
+5[qp]
+2[rp]
+2[iq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[lr]
+1[pr]
+2[qr]
+)
+4
+W[nn]
+B[mn]
+W[nm]
+B[lp]
+Dia.3(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B1 is a clever tesuji.
+\par W's three stones can't escape.
+\par
+\par Now B \cf1\b captures key moves\cf0\b0  and conncets two groups.
+\par
+\par }
+#
+(
+2[qm]
+1[on]
+1[pn]
+2[qn]
+2[ko]
+6[oo]
+1[po]
+1[qo]
+2[ro]
+2[mp]
+6[op]
+6[pp]
+1[qp]
+2[rp]
+2[iq]
+2[lq]
+1[mq]
+1[nq]
+1[oq]
+1[pq]
+2[qq]
+2[lr]
+1[pr]
+2[qr]
+)
+1
+B[mo]

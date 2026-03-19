@@ -1,0 +1,192 @@
+//19
+5
+Improve your rank
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par When White plays 1, Black answers 2, White plays 3.
+\par White thinks A is not a good move, so he decided to play 3.
+\par How should Black answer?\lang1042\f1
+\par
+\par }
+#
+(
+2[fc]
+65[ic]
+1[dd]
+1[jd]
+1[pd]
+1[cf]
+2[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+3
+W[jc]
+B[kc]
+W[kb]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is the correct answer. White will be disappointed.
+\par White's \lang1042\f1\'a1\'e2\lang1043\f0  stone is very weak. White will be busy taking care of it.
+\par \lang1042\f1
+\par
+\par }
+#
+(
+2[kb]
+2[fc]
+2[jc]
+1[kc]
+1[dd]
+1[jd]
+1[pd]
+1[cf]
+6[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+3
+B[kd]
+W[jb]
+B[mc]
+2nd Dia. Good for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If White plays 1, Black will happily play 2.
+\par When White plays 3, Black 4 is a good move, you should remember it.
+\par Now White's \lang1042\f1\'a1\'e2\lang1043\f0  is in trouble.
+\par This result is good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+2[kb]
+2[fc]
+690[ic]
+2[jc]
+1[kc]
+1[dd]
+1[jd]
+1[kd]
+1[pd]
+1[cf]
+2[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+4
+W[ic]
+B[lb]
+W[db]
+B[qe]
+3rd Dia. Keep looking
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black playing 1 and 3 to cut White's \lang1042\f1\'a1\'e2\lang1043\f0  stone is White's wish. White will play 4 and 6. Now Black is in trouble.
+\par To save Black's \lang1042\f1\'a1\'e3 \lang1043\f0 stone will be hard.
+\par \lang1042\f1
+\par }
+#
+(
+6[kb]
+2[fc]
+2[jc]
+1[kc]
+1[dd]
+5[jd]
+1[pd]
+1[cf]
+2[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+6
+B[jb]
+W[ic]
+B[lb]
+W[kd]
+B[lc]
+W[ke]
+4th Dia. Keep looking
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When White plays 1, Black 2, White 3. Black 4 is a good answer.
+\par This result is almost same as the second diagram.\lang1042\f1
+\par
+\par }
+#
+(
+2[fc]
+1[dd]
+690[id]
+1[jd]
+1[pd]
+1[cf]
+2[qh]
+1[dj]
+1[jj]
+1[pj]
+1[qj]
+1[dn]
+2[jn]
+1[pn]
+1[dp]
+2[gp]
+1[jp]
+2[np]
+1[pp]
+2[nq]
+1[oq]
+)
+6
+W[jc]
+B[kc]
+W[id]
+B[kd]
+W[ic]
+B[qe]

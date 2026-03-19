@@ -1,0 +1,75 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[rp][rq][pr][qr]AB[on][qo][ro][oq][pq][qq][or]LBC[Living with one Moves (27)
+
+
+\b White to play\b0 .
+It is a basic life and death problem from actual game.
+What is the vital point for living?
+Connection, tiger's mouth move, or?
+
+
+
+])
+(;AW[rp][rq][pr][qr]AB[on][qo][ro][oq][pq][qq][or]
+;W[rr]
+;B[ps]
+;W[qs]
+;B[sp]
+;W[sq]
+;B[ss]LB[rr:1][ps:2][qs:3][sp:4][sq:5][ss:6]C[Dia. 01 Death in Hane
+
+{\colortbl ;\red0\green0\blue255;}
+
+White 1 is not good.
+Just as the proverb says, \cf1\b there is death in the hane\cf0\b0 , Black plays at 2 and 4 then 6 is the deciding move.
+
+
+])
+(;AW[rp][rq][pr][qr]AB[on][qo][ro][oq][pq][qq][or]LB[sp:B][rr:A][sr:C]
+;W[ps]
+;B[rs]LB[ps:1][rs:2][sp:B][rr:A][sr:C]C[Dia. 02 Greedy
+
+{\colortbl ;\red255\green0\blue0;}
+
+White 1 is a \cf1\b greedy move\cf0\b0 .
+After Black 2 White can't live anymore.
+If White connects at A Black can play elsewhere and White is still dead.
+
+If White plays at B instead of 1, Black plays the placement at C and White is dead again.
+
+
+])
+(;AW[rp][rq][pr][qr]AB[on][qo][ro][oq][pq][qq][or]LB[qs:A]
+;W[sr]
+;B[rs]
+;W[sp]
+;B[ps]LB[sr:1][rs:2][sp:3][ps:4][qs:A]C[Dia. 03 Wrong Direction
+
+{\colortbl ;\red255\green0\blue0;}
+
+The conclusion is, White has to play the tiger's mouth move.
+Therefore White 1 is a good try, but the direction is wrong.
+
+Black's \cf1\b placement\cf0\b0  at 2 is \cf1\b severe\cf0\b0 . After White 3, Black plays hane at 4 and White dies. It is painful for White that he can't cut with A.
+
+
+])
+(;AW[rp][rq][pr][qr]AB[on][qo][ro][oq][pq][qq][or]
+;W[rs]
+;B[sr]
+;W[ps]LB[rs:1][sr:2][ps:3]C[Dia. 04 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's tiger's mouth move at 1 is the \cf1\b proper direction\cf0\b0 .
+After Black's placement at 2, White can live with 3.
+
+The difference compared to the previous diagram, that Black can't connect out his one stone.
+
+])
+)

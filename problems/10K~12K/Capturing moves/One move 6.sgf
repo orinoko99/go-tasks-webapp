@@ -1,0 +1,45 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[lo][ro][np][op][pp][qp][mq][rq][sq][mr][nr][rs]AB[nq][oq][pq][qq][or][rr][sr][qs]LBC[One move 6
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Black might look fairly solid but that White stone in the corner is quite annoying.  How can White kill Black?
+
+\lang1042\f0\fs18
+])
+(;AW[lo][ro][np][op][pp][qp][mq][rq][sq][mr][nr][rs]AB[nq][oq][pq][qq][or][rr][sr][qs]
+;W[ps]
+;B[pr]LB[ps:1][pr:2]C[Dia.1 Pae
+
+If you dansu straightaway with 1 then you are going to start a Pae.  However this isn't a Pae problem, it's a capturing problem.  Try a different move.
+\lang1042\f1\fs18
+
+])
+(;AW[lo][ro][np][op][pp][qp][mq][rq][sq][mr][nr][rs]AB[nq][oq][pq][qq][or][rr][sr][qs]LB[pr:A][ss:B]
+;W[os]
+;B[ps]
+;W[qr]LB[os:1][ps:2][qr:3][pr:A][ss:B]C[Dia.2 Correct / White 1
+
+White 1 is a scary move that can be hard to find in actual games.  Black has no good response.  If he plays 2, then White will dansu at 3 and now we have snapback at A and B, meaning Black is dead.
+\lang1042\f1\fs18
+
+])
+(;CR[os]AW[lo][ro][np][op][pp][qp][mq][rq][sq][mr][nr][os][rs]AB[nq][oq][pq][qq][or][rr][sr][qs]LB[ps:A]
+;B[pr]
+;W[ns]LB[pr:1][ns:2][ps:A]CR[os]C[Dia.3 Variation
+
+Black 1 looks like a good candidate for possible defense but this move isn't it.  White can play the quiet move at 2 and now Black cannot play at A because he lacks liberties.
+\lang1042\f1\fs18
+
+])
+(;AW[lo][ro][np][op][pp][qp][mq][rq][sq][mr][nr][rs]AB[nq][oq][pq][qq][or][rr][sr][qs]LBC[No diagram name
+
+
+
+])
+)

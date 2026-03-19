@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[np][lq][nq][lr][or][pr][qr]AB[mo][no][kp][lp][op][kq][pq][qq][rq][kr][rr][qs]LBC[Living with one Move (21)
+
+
+\b White to play\b0 .
+White's living space is limited, however the shape is very flexible.
+
+Find the vital point and live.
+
+])
+(;AW[np][lq][nq][lr][or][pr][qr]AB[mo][no][kp][lp][op][kq][pq][qq][rq][kr][rr][qs]
+;W[ns]
+;B[mr]
+;W[mq]
+;B[ps]LB[ns:1][mr:2][mq:3][ps:4]C[Dia. 01 Black 2, Vital Point
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's tiger's mouth move is an often used technique.
+However it is easy to find its weakness.\cf1\b  Black's vital point at 2 \cf0\b0 becomes obvious.
+
+White dies up to 4.
+
+
+
+])
+(;AW[np][lq][nq][lr][or][pr][qr]AB[mo][no][kp][lp][op][kq][pq][qq][rq][kr][rr][qs]
+;W[mp]
+;B[mr]LB[mp:1][mr:2]C[Dia. 02 Death Again
+
+{\colortbl ;\red0\green0\blue255;}
+
+After White 1, Black 2 is the vital point again and White is captured easily.
+
+The vital point is at the same place in this and the previous variation as well.
+
+Hint: "\cf1\b The opponent's vital point is my vital point\cf0\b0 ".
+
+])
+(;AW[np][lq][nq][lr][or][pr][qr]AB[mo][no][kp][lp][op][kq][pq][qq][rq][kr][rr][qs]
+;W[mr]
+;B[mp]
+;W[ns]LB[mr:1][mp:2][ns:3]C[Dia. 03 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White 1 is the\cf1\b  vital point for living\cf0\b0 .
+This move makes 2 and 3 miai, so White's life is decided.
+
+])
+)

@@ -1,0 +1,132 @@
+//19
+4
+3 liberties VS 4 liberties
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  Black\b0 's turn.\f2
+\par \lang1042\f0
+\par B has 3 liberties VS W has 4 liberties
+\par W must beat this game.
+\par
+\par But there are the two way to capture W's four stones!!
+\par }
+#
+(
+1[ql]
+2[on]
+2[oo]
+1[po]
+1[qo]
+2[np]
+1[op]
+2[pp]
+1[oq]
+2[pq]
+1[rq]
+2[mr]
+1[or]
+2[pr]
+2[qr]
+1[rr]
+)
+0
+Dia.1(Less liberties)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Just reduction can't beat the game.
+\par
+\par B still has \cf1\b one less liberty. \cf0\b0
+\par
+\par }
+#
+(
+1[ql]
+2[on]
+2[oo]
+1[po]
+1[qo]
+2[np]
+1[op]
+2[pp]
+1[oq]
+2[pq]
+1[rq]
+2[mr]
+1[or]
+2[pr]
+2[qr]
+1[rr]
+)
+2
+B[qp]
+W[nq]
+Dia.2(Right move)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Descent at 1 is a\cf1\b  good move.\cf0\b0
+\par B's liberties don't increase but B can make W in self-dansu.
+\par
+\par Up to 5, B has one more liberty and beats the game.
+\par
+\par }
+#
+(
+1[ql]
+2[on]
+2[oo]
+1[po]
+1[qo]
+2[np]
+1[op]
+2[pp]
+1[oq]
+2[pq]
+1[rq]
+2[mr]
+1[or]
+2[pr]
+2[qr]
+1[rr]
+)
+5
+B[os]
+W[nq]
+B[qs]
+W[ps]
+B[qp]
+Dia.3(Bending is also ok)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par In this case,\cf1\b  bending at 1 is also ok.\cf0\b0
+\par
+\par Up to 5, B also has one more liberty and beats the game.
+\par
+\par }
+#
+(
+1[ql]
+2[on]
+2[oo]
+1[po]
+1[qo]
+2[np]
+1[op]
+2[pp]
+1[oq]
+2[pq]
+1[rq]
+2[mr]
+1[or]
+2[pr]
+2[qr]
+1[rr]
+)
+5
+B[qs]
+W[os]
+B[ns]
+W[ps]
+B[qp]

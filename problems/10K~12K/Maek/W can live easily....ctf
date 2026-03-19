@@ -1,0 +1,160 @@
+//19
+4
+W can live easily...
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par B had a mistake(B2)
+\par
+\par W can live easily but there is something more to do.
+\par
+\par
+\par
+\par }
+#
+(
+1[lo]
+1[oo]
+1[po]
+1[qo]
+1[ro]
+1[mp]
+1[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+1[sp]
+1[pq]
+1[qq]
+2[rq]
+1[nr]
+1[pr]
+2[qr]
+2[sr]
+2[qs]
+)
+2
+W[ps]
+B[os]
+DIa.1(Not bed but..)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Just living at 1 is not bed but B has a weakpoint.
+\par You should find it out!!
+\par
+\par
+\par }
+#
+(
+1[lo]
+1[oo]
+1[po]
+1[qo]
+1[ro]
+1[mp]
+1[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+1[sp]
+1[pq]
+1[qq]
+2[rq]
+1[nr]
+1[pr]
+2[qr]
+2[sr]
+1[os]
+2[ps]
+2[qs]
+)
+1
+W[rs]
+Dia.2(Better than before)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par How about the sequence of diagram??
+\par
+\par It's better than before but this isn't the right answer.
+\par
+\par
+\par
+\par
+\par }
+#
+(
+1[lo]
+1[oo]
+1[po]
+1[qo]
+1[ro]
+1[mp]
+1[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+1[sp]
+1[pq]
+1[qq]
+2[rq]
+1[nr]
+1[pr]
+2[qr]
+2[sr]
+1[os]
+2[ps]
+2[qs]
+)
+7
+W[oq]
+B[or]
+W[nq]
+B[mr]
+W[mq]
+B[lq]
+W[rs]
+Dia.3(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W1 is a \cf1\b good tesuji.\cf0\b0
+\par
+\par Up to 3, W captures B's three stone.
+\par If B played at A instead of B2, W would play at B, this is a snapback.
+\par
+\par }
+#
+(
+1[lo]
+1[oo]
+1[po]
+1[qo]
+1[ro]
+1[mp]
+1[np]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+1[sp]
+1[pq]
+1[qq]
+2[rq]
+65[mr]
+1[nr]
+66[or]
+1[pr]
+2[qr]
+2[sr]
+1[os]
+2[ps]
+2[qs]
+)
+3
+W[nq]
+B[mq]
+W[oq]

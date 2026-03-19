@@ -1,0 +1,178 @@
+//19
+5
+Avoid Pae
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par At first it looks like the capturing race is favorable for White. However if White is careless, Black can resist.
+\par
+\par Find the way to win the capturing race.
+\par }
+#
+(
+1[om]
+1[qn]
+1[oo]
+1[ro]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[nr]
+1[or]
+1[qr]
+1[rr]
+2[sr]
+)
+0
+Dia. 01 Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's dansu at 1 gives chance for Black to resist.
+\par Black can make a pae with 2.
+\par Once White has time to connect at 3, but anyway he has to continue with the pae.
+\par
+\par
+\par
+\par }
+#
+(
+1[om]
+1[qn]
+1[oo]
+1[ro]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[nr]
+1[or]
+1[qr]
+1[rr]
+2[sr]
+)
+4
+W[os]
+B[ps]
+W[ns]
+B[po]
+Dia. 02 Eye vs. no eye
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par After the hane at 1, White is going to be in really big trouble.
+\par Black was able to resist in the previous diagram, but this time he can also win the capturing race.
+\par
+\par Making an eye with Black 2 is a great move.
+\par White is captured by \cf1\b eye vs. no eye\cf0\b0 . The sequence up to 6 is the proof of it.
+\par
+\par }
+#
+(
+1[om]
+1[qn]
+1[oo]
+1[ro]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[nr]
+1[or]
+1[qr]
+1[rr]
+2[sr]
+)
+6
+W[rs]
+B[ps]
+W[ns]
+B[os]
+W[sq]
+B[po]
+Dia. 03 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's placement at 1 is the \cf1\b maek\cf0\b0 . When Black got to play here in Dia. 01 or Dia. 02, White was in trouble, right?
+\par
+\par \cf1\b The opponent vital point is my vital point\cf0\b0 .
+\par
+\par After Black 2, White plays the hane at 3 and Black is easily captured.
+\par
+\par
+\par }
+#
+(
+1[om]
+1[qn]
+1[oo]
+1[ro]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[nr]
+1[or]
+1[qr]
+1[rr]
+2[sr]
+)
+3
+W[ps]
+B[os]
+W[rs]
+Dia. 04 Variation
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par After White \'a1\'e2, Black aims at the shortage of liberties with 1. However even if White plays simple he can capture Black with 2 and 4.
+\par
+\par In other words, after White plays at \'a1\'e2, White wins the capturing race.
+\par }
+#
+(
+1[om]
+1[qn]
+1[oo]
+1[ro]
+1[op]
+2[pp]
+2[qp]
+2[rp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+2[rq]
+2[nr]
+1[or]
+1[qr]
+1[rr]
+2[sr]
+6[ps]
+)
+4
+B[rs]
+W[pr]
+B[po]
+W[os]

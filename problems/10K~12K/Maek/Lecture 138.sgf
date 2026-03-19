@@ -1,0 +1,41 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dn][bo][do][cp][ep][ip][bq][eq][ar][er][ir]AB[eo][fo][dp][cq][dq][br][dr][bs][cs][ds]LBC[Maek (Tesuji) to capture
+
+Black is in danger. He needs a maek (tesuji) to capture some white stones and save his own stones. Where should he play?
+])
+(;AW[dn][bo][do][cp][ep][ip][bq][eq][ar][er][ir]AB[eo][fo][dp][cq][dq][br][dr][bs][cs][ds]
+;B[fr]
+;W[fq]
+;B[gq]
+;W[gr]
+;B[es]
+;W[fs]
+;B[fp]LB[fr:1][fq:2][gq:3][gr:4][es:5][fs:6][fp:7]C[Correct answer
+
+
+Attaching at 1 is the correct maek (tesuji). When White pushes out, Black spins around and squeezes White. White can't escape.
+])
+(;AW[dn][bo][do][cp][ep][ip][bq][eq][ar][er][ir]AB[eo][fo][dp][cq][dq][br][dr][bs][cs][ds]
+;B[fp]
+;W[gq]
+;B[fq]
+;W[fr]LB[fp:1][gq:2][fq:3][fr:4]C[Wrong
+
+
+This move is too slow. White can easily jump out and escapes.
+])
+(;AW[dn][bo][do][cp][ep][ip][bq][eq][ar][er][ir]AB[eo][fo][dp][cq][dq][br][dr][bs][cs][ds]
+;B[gq]
+;W[es]
+;B[fp]
+;W[aq]LB[gq:1][es:2][fp:3][aq:4]C[Wrong
+
+The knight's at 1 looks also good, but White just fills in liberties and wins the capturing race.
+
+])
+)

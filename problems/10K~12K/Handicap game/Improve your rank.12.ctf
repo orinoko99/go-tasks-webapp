@@ -1,0 +1,192 @@
+//19
+5
+Improve your rank
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par White played 1, Black 2, White 3, Black 4 and now White decided to make a one-space jump.
+\par How should Black answer?\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+1[dp]
+2[fp]
+1[jp]
+1[pp]
+1[eq]
+2[fq]
+)
+5
+W[mp]
+B[pn]
+W[jn]
+B[ko]
+W[mn]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black has to play 1. This is the only move!
+\par If White plays 2 then Black will answer 3,
+\par this move is to make White heavy.
+\par After White defends with 4, Black will play 5.
+\par White can resign already.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+2[mn]
+1[pn]
+1[ko]
+1[dp]
+6[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+6[fq]
+)
+5
+B[kn]
+W[ml]
+B[nm]
+W[mm]
+B[jm]
+2nd Dia. Continuation
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  if White plays 1 Black will cut immediately.
+\par There's no need to be afraid of cutting.
+\par This fighting is obviously favorable for Black.
+\par After Black plays 6-\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+1[dn]
+2[jn]
+5[kn]
+2[mn]
+1[pn]
+1[ko]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+)
+6
+W[km]
+B[jm]
+W[kl]
+B[in]
+W[jl]
+B[im]
+3rd Dia. Keep looking
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When White plays 1 Black 2 and 4 are good moves. Now White's 2 \lang1042\f1\'a1\'e2\lang1043\f0  stones are very weak. Even if White somehow manages to live, this game is still very good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+2[jl]
+2[kl]
+1[im]
+1[jm]
+2[km]
+1[dn]
+1[in]
+2[jn]
+1[kn]
+2[mn]
+1[pn]
+1[ko]
+1[dp]
+6[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+6[fq]
+)
+4
+W[ml]
+B[nm]
+W[mm]
+B[fm]
+4th Dia. Keep looking
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 or A are good options. But after White plays 2 it's rather complicated for Black. This is what White wants. Black 3 is a good move, so the result is good for Black.\lang1042\f1
+\par
+\par
+\par }
+#
+(
+1[nc]
+1[dd]
+1[jd]
+1[pd]
+2[qf]
+1[dj]
+1[jj]
+1[pj]
+2[jl]
+2[kl]
+6[ml]
+1[im]
+1[jm]
+2[km]
+1[dn]
+65[fn]
+1[in]
+2[jn]
+1[kn]
+2[mn]
+1[pn]
+1[ko]
+1[dp]
+2[fp]
+1[jp]
+2[mp]
+1[pp]
+1[eq]
+2[fq]
+)
+3
+B[fm]
+W[pl]
+B[oq]

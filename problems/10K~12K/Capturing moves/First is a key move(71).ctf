@@ -1,0 +1,144 @@
+//19
+4
+First is a key move(71)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par First is a key move!
+\par Use properly inside two stones.
+\par
+\par }
+#
+(
+2[mo]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+2[pr]
+1[sr]
+2[ns]
+1[os]
+2[rs]
+)
+0
+Dia.1(Lightening four)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par How about connect two stones?
+\par
+\par B2 is \cf1\b a good move\cf0\b0  so B can make W's stones are the lightening four format which living format.
+\par
+\par }
+#
+(
+2[mo]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+2[pr]
+1[sr]
+2[ns]
+1[os]
+2[rs]
+)
+4
+W[qr]
+B[rr]
+W[qs]
+B[ps]
+Dia.2(Outside also can't)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par How about attacking from outside(W1)?
+\par B2 is calm so up to 4, B's group is \cf1\b alive.\cf0\b0
+\par
+\par }
+#
+(
+2[mo]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+2[pr]
+1[sr]
+2[ns]
+1[os]
+65[ps]
+2[rs]
+)
+4
+W[sq]
+B[rr]
+W[qr]
+B[qs]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+\viewkind4\uc1\pard\ltrpar\f0\fs18
+\par W1 is \cf1\b the enemy's vital point.\cf0\b0
+\par
+\par After 2, connecting at 3 is a good attack.
+\par If B played at A, W would make flower five.
+\par
+\par }
+#
+(
+2[mo]
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+2[pr]
+1[sr]
+2[ns]
+1[os]
+65[ps]
+66[qs]
+2[rs]
+)
+3
+W[rr]
+B[sq]
+W[qr]

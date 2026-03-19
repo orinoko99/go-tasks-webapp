@@ -1,0 +1,96 @@
+//19
+5
+Star-point Joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par White decided to play 2. How should Black answer?\lang1042\f1
+\par
+\par }
+#
+(
+1[pp]
+2[nq]
+)
+2
+B[qm]
+W[qk]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a good move. White now has to take care of both stones at the same time. This result is good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+2[qk]
+1[qm]
+1[pp]
+2[nq]
+)
+1
+B[pq]
+2nd Dia. Miai
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If White plays 1 Black will answer 2. White's \lang1042\f1\'a1\'e2\lang1043\f0  stone is now very weak. If White plays A instead of 1 Black will just play B and the result is very similar.\lang1042\f1
+\par \lang1043\f0 It's a miai for Black.\lang1042\f1
+\par
+\par }
+#
+(
+65[qh]
+6[qk]
+1[qm]
+1[pp]
+66[lq]
+2[nq]
+1[pq]
+)
+2
+W[kq]
+B[qi]
+3rd Dia. Depending on the situation...
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black can play 1 depending on the situation. As the sequence shows Black was able to make a strong influence and White's \lang1042\f1\'a1\'e2\lang1043\f0  stone is still weak.
+\par A is a better move than 11, since it leaves less weak points.
+\par This result is good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+6[qk]
+1[qm]
+65[pn]
+1[pp]
+2[nq]
+)
+11
+B[kp]
+W[qq]
+B[pq]
+W[qp]
+B[po]
+W[pr]
+B[or]
+W[qr]
+B[oq]
+W[qo]
+B[qn]
+4th Dia. Black 3 is a mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is not a bad move but when White plays 2 Black 3 is a mistake.
+\par Black thinks he already secured the corner but there's still aji left at A and B.\lang1042\f1
+\par
+\par }
+#
+(
+2[qk]
+1[qm]
+65[qo]
+66[ro]
+1[pp]
+2[nq]
+)
+4
+B[oq]
+W[np]
+B[or]
+W[jq]

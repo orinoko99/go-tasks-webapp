@@ -1,0 +1,143 @@
+//19
+6
+Star-point Joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is a mistake. White will play 2.
+\par We've already studied that before.
+\par How should Black play instead? \lang1042\f1
+\par
+\par
+\par }
+#
+(
+2[om]
+1[on]
+2[pn]
+1[oo]
+1[kp]
+2[lp]
+2[mp]
+1[pp]
+1[jq]
+1[lq]
+2[nq]
+6[qq]
+)
+2
+B[qp]
+W[pq]
+1st Dia. Joseki
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a good move. White will play 2 and Black 3 is a joseki.
+\par This joseki is complicated, Black playing 2 instead of 1 leads to an easier variation.\lang1042\f1
+\par
+\par }
+#
+(
+2[om]
+1[on]
+2[pn]
+1[oo]
+1[kp]
+2[lp]
+2[mp]
+1[pp]
+1[jq]
+1[lq]
+2[nq]
+2[qq]
+)
+3
+B[pm]
+W[pq]
+B[pl]
+2nd Dia. Another option
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black can also play 1 then White will answer 2.
+\par After this-\lang1042\f1
+\par
+\par }
+#
+(
+1[kp]
+2[lp]
+2[mp]
+1[pp]
+1[lq]
+2[nq]
+)
+2
+B[pn]
+W[kq]
+3rd Dia. Joseki
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 This sequence is also a joseki. Black can also play A instead of 5.\lang1042\f1
+\par
+\par }
+#
+(
+1[pn]
+1[kp]
+2[lp]
+2[mp]
+1[pp]
+2[kq]
+1[lq]
+2[nq]
+65[oq]
+)
+5
+B[jq]
+W[kr]
+B[jp]
+W[lr]
+B[or]
+4th Dia. Joseki
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 leads to another joseki. White will cut and Black plays 3 and 5, White answers 6 and then Black 7 is a strong move.\lang1042\f1
+\par
+\par }
+#
+(
+1[kp]
+2[lp]
+2[mp]
+1[pp]
+1[lq]
+2[nq]
+)
+7
+B[oq]
+W[kq]
+B[jq]
+W[kr]
+B[jp]
+W[lr]
+B[nr]
+5th Dia. Simple joseki
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 This is a simple joseki. If White plays 4 instead of 3 Black will answer 3.\lang1042\f1
+\par
+\par }
+#
+(
+1[jp]
+1[kp]
+2[lp]
+2[mp]
+1[pp]
+1[jq]
+2[kq]
+1[lq]
+2[nq]
+1[oq]
+2[kr]
+2[lr]
+1[nr]
+)
+4
+W[mr]
+B[np]
+W[mq]
+B[no]

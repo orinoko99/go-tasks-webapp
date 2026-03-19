@@ -1,0 +1,78 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qq][sq][nr][or][pr][rr]AB[qo][pp][rp][lq][nq][oq][pq][rq][mr]
+;W[``]
+;W[``]
+;W[``]LB[``:1][``:2][``:3]C[Living with one Moves (23)
+
+
+\b White to play\b0 .
+It is one among the basic life and death problems but if White misses the first move, it is easy to capture him.
+
+The question is always the same, should White play inside or expand the living space?
+])
+(;AW[qq][sq][nr][or][pr][rr]AB[qo][pp][rp][lq][nq][oq][pq][rq][mr]LB[qr:A][ps:B]
+;W[sr]
+;B[qs]
+;W[rs]LB[sr:1][qs:2][rs:3][qr:A][ps:B]C[Dia. 01 Black 2, Mistake
+
+{\colortbl ;\red255\green0\blue0;}
+
+White expands his living space with 1.
+If Black plays at 2, White lives with 3.
+
+After Black A, White takes with B and he is safe.
+
+However White lived because\cf1\b  Black 2 was bad\cf0\b0 .
+
+
+
+
+])
+(;AW[qq][sq][nr][or][pr][rr][sr]AB[qo][pp][rp][lq][nq][oq][pq][rq][mr]
+;B[ns]
+;W[os]
+;B[qs]
+;W[rs]
+;B[qr]LB[ns:1][os:2][qs:3][rs:4][qr:5]C[Dia. 02 Death in Hane
+
+{\colortbl ;\red0\green0\blue255;}
+
+"\cf1\b There is death in the hane\cf0\b0 " proverb is useful this time.
+
+First White plays at 2 and then Black's placement at 3 is the right order of the moves.
+
+4 and 5 are miai so White can't live.
+])
+(;AW[qq][sq][nr][or][pr][rr]AB[qo][pp][rp][lq][nq][oq][pq][rq][mr]LB[qs:B][ss:A]
+;W[ns]
+;B[sr]LB[ns:1][sr:2][qs:B][ss:A]C[Dia. 03 Wrong Vital Point
+
+{\colortbl ;\red255\green0\blue0;}
+
+White 1 in this diagram has the same meaning as White 1 has in Dia. 01. Both moves expand the living space. Usually these moves are powerful, but this time they are \cf1\b wrong\cf0\b0 .
+
+Black's throw-in at 2 is sharp. White can't live after this move.
+If White plays at A, Black's placement at B is the deciding move.
+
+])
+(;AW[qq][sq][nr][or][pr][rr]AB[qo][pp][rp][lq][nq][oq][pq][rq][mr]
+;W[qs]
+;B[sp]
+;W[sr]
+;B[qp]
+;W[qr]LB[qs:1][sp:2][sr:3][qp:4][qr:5]C[Dia. 04 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White 1 is the \cf1\b only move \cf0\b0 for living.
+White gets one eye on the left and right side as well.
+White lives up to 5.
+
+
+])
+)

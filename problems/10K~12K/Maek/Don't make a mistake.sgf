@@ -1,0 +1,60 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pn][rn][qo][op][pp][rp][oq][rq][sq][or][pr][sr]AB[no][oo][po][np][qp][nq][qq][nr][qr][rr]LBC[Don't make a mistake
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 This is a capturing race between WHite's five stones and Black's four stones.
+
+White places first, so it may look like he can easily win the race but be careful and read it all out.
+
+\lang1042\f0\fs18
+])
+(;AW[pn][rn][qo][op][pp][rp][oq][rq][sq][or][pr][sr]AB[no][oo][po][np][qp][nq][qq][nr][qr][rr]
+;W[rs]
+;B[qs]
+;W[ps]
+;B[ss]LB[rs:1][qs:2][ps:3][ss:4]C[Dia.1 A Pae
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 If White jjeotchim's from the right then Black will play at 2.  White can then play 2 and Black will take with 4, starting a Pae.
+
+This is a \cf1\b favourable Pae for White \cf0\b0 but not the best result.
+
+\lang1042\f0\fs18
+])
+(;AW[pn][rn][qo][op][pp][rp][oq][rq][sq][or][pr][sr]AB[no][oo][po][np][qp][nq][qq][nr][qr][rr]
+;W[qs]
+;B[ps]
+;W[os]
+;B[rs]LB[qs:1][ps:2][os:3][rs:4]C[Dia.2 Another Pae
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 If White jjeotchim's from the left at 1 then Black will throw in at 2 and then descend at 4 to create a Pae.  This is still not \cf1\b the best result\cf0\lang1042\b0\f0\fs18 .
+
+
+])
+(;AW[pn][rn][qo][op][pp][rp][oq][rq][sq][or][pr][sr]AB[no][oo][po][np][qp][nq][qq][nr][qr][rr]
+;W[ps]
+;B[qs]
+;W[ss]LB[ps:1][qs:2][ss:3]C[Dia.3 Correct/Bend
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White should quietly\lang1042\f0\fs18  \cf1\lang1033\b\f1\fs16 bend at 1\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Black will play 2 and then White can play the calm and collected move at 3 to unconditionally the capturing race.
+\lang1042\f0\fs18
+
+])
+(;AW[pn][rn][qo][op][pp][rp][oq][rq][sq][or][pr][sr]AB[no][oo][po][np][qp][nq][qq][nr][qr][rr]LBC[No diagram name
+
+
+
+])
+)

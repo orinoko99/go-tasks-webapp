@@ -1,0 +1,122 @@
+//19
+4
+One Move Captures Black (21)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to Play.\b0
+\par Black's eyespace is narrow but it is still not easy to kill.
+\par
+\par If you can solve this problem without making any mistakes, you are most likely stronger than 8k.
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[op]
+1[qp]
+2[rp]
+2[oq]
+1[pq]
+1[rq]
+2[mr]
+2[or]
+1[pr]
+1[sr]
+2[ps]
+1[qs]
+)
+0
+Diagram 1 (Pae)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's cut at 1 is comes to mind first. Of course, black capturing white at 2 is the strongest response. White can only play 3 and black cuts at 4 creating a pae.
+\par
+\par In this case, a pae is a failure. There is a move to capture black unconditionally.
+\par
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[op]
+1[qp]
+2[rp]
+2[oq]
+1[pq]
+1[rq]
+2[mr]
+2[or]
+1[pr]
+1[sr]
+2[ps]
+1[qs]
+)
+4
+W[qr]
+B[os]
+W[rs]
+B[rr]
+Diagram 2 (Alive)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's dansu from the outside with 1 lets black live. Black 2 is the vital point for life.
+\par
+\par Where should white play then? There is only one place white can play.
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[op]
+1[qp]
+2[rp]
+2[oq]
+1[pq]
+1[rq]
+2[mr]
+2[or]
+1[pr]
+1[sr]
+2[ps]
+1[qs]
+)
+4
+W[pp]
+B[rs]
+W[qq]
+B[qr]
+Diagram 3 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It is clever for white to play dansu with 1. Please note that this is the 2-1 point.
+\par
+\par Black can do no more than capture with 2. Then, white plays dansu with 3, finishing black off. Black is left with a dead shape.
+\par
+\par \pard\nowidctlpar\qj Instead of 2, if black plays \b\f1 A\b0\f0 , white plays at 3 and there is no way for black to live.
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[op]
+1[qp]
+2[rp]
+2[oq]
+1[pq]
+1[rq]
+2[mr]
+2[or]
+1[pr]
+65[qr]
+1[sr]
+2[ps]
+1[qs]
+)
+3
+W[rs]
+B[os]
+W[pp]

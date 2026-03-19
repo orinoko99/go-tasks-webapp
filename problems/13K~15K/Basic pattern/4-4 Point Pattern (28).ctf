@@ -1,0 +1,98 @@
+//19
+5
+Star-point Joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par White 1 and 3 are overplays.
+\par People who like kos a lot maybe inclined to play like this, but it's a big overplay.
+\par How should Black answer?\lang1042\f1
+\par
+\par
+\par }
+#
+(
+1[pp]
+1[lq]
+2[nq]
+)
+3
+W[pq]
+B[qq]
+W[op]
+1st Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is the correct move.
+\par You don't have to be afraid of the ko.
+\par There are no ko threats in the opening.\lang1042\f1
+\par
+\par }
+#
+(
+2[op]
+1[pp]
+1[lq]
+2[nq]
+2[pq]
+1[qq]
+)
+1
+B[po]
+2nd Dia. Continuation
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If White plays 1 Black has to answer 2. You should play strongly here. Don't let the opponent look down on you!\lang1042\f1
+\par
+\par
+\par }
+#
+(
+1[po]
+2[op]
+1[pp]
+1[lq]
+2[nq]
+2[pq]
+1[qq]
+)
+4
+W[qr]
+B[pr]
+W[or]
+B[oq]
+3rd Dia. Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When White plays \lang1042\f1\'a1\'e2\lang1043\f0  Black 1 is a mistake. The result is very good for White.\lang1042\f1
+\par
+\par }
+#
+(
+1[po]
+2[op]
+1[pp]
+1[lq]
+2[nq]
+2[pq]
+1[qq]
+6[qr]
+)
+2
+B[rq]
+W[or]
+4th Dia. Very good for White
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White 1 is a weak move. Black will happily play 2. Since White's \lang1042\f1\'a1\'e2\lang1043\f0  move was an overplay, there's no good sequence for White in this situation.\lang1042\f1
+\par
+\par }
+#
+(
+1[rh]
+1[po]
+6[op]
+1[pp]
+1[lq]
+2[nq]
+2[pq]
+1[qq]
+)
+2
+W[pr]
+B[qr]

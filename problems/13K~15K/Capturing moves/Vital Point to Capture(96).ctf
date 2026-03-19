@@ -1,0 +1,124 @@
+//19
+4
+Where is a vital point?(96)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par It's\b  Black\b0 's turn.\f1
+\par
+\par W has a lots space.
+\par
+\par But you can find a vital point!
+\par }
+#
+(
+1[po]
+1[mp]
+1[np]
+1[op]
+1[qp]
+1[rp]
+1[lq]
+2[nq]
+2[oq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+2[nr]
+2[qr]
+2[rr]
+)
+0
+Dia.1(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B1 is the right answer to kill W's group.
+\par
+\par W tries to increase the space but B can erase them(B3)
+\par
+\par }
+#
+(
+1[po]
+1[mp]
+1[np]
+1[op]
+1[qp]
+1[rp]
+1[lq]
+2[nq]
+2[oq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+2[nr]
+2[qr]
+2[rr]
+)
+3
+B[sr]
+W[ms]
+B[os]
+Dia.2(Variation)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W1 also doesn't work.
+\par Bending at 2 or A are a\cf1\b  good attack\cf0\b0 .
+\par
+\par }
+#
+(
+1[po]
+1[mp]
+1[np]
+1[op]
+1[qp]
+1[rp]
+1[lq]
+2[nq]
+2[oq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+2[nr]
+2[qr]
+2[rr]
+1[sr]
+65[rs]
+)
+2
+W[pq]
+B[ms]
+Dia.3(W can have a lots space)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par It doesn't help reduce the W spaces.
+\par Descending at 2 is that \cf1\b 'The enemy's vital point is your own'\cf0\b0 .
+\par }
+#
+(
+1[po]
+1[mp]
+1[np]
+1[op]
+1[qp]
+1[rp]
+1[lq]
+2[nq]
+2[oq]
+2[qq]
+1[rq]
+1[lr]
+2[mr]
+2[nr]
+2[qr]
+2[rr]
+65[ms]
+)
+2
+B[ms]
+W[sr]

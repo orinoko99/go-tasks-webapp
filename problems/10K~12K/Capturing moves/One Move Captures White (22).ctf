@@ -1,0 +1,174 @@
+//19
+5
+One Move Captures White (22)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to Play.\b0
+\par White tries to live with 1 but this is a careless move.
+\par
+\par Now black has a chance to capture white. Where is the vital point?
+\par Instead of 1, where should white play?
+\par }
+#
+(
+1[no]
+1[oo]
+1[po]
+1[ro]
+1[mp]
+2[op]
+2[pp]
+1[qp]
+1[mq]
+2[qq]
+1[rq]
+1[mr]
+2[qr]
+2[rr]
+1[sr]
+1[ms]
+2[os]
+2[rs]
+)
+1
+W[or]
+Diagram 1 (Matbogi)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's wedge at B1 is creative but hasty.
+\par
+\par White can answer simplly at 2 and leave black with no follow up moves.
+\par
+\par \pard\nowidctlpar\qj Now, \b\f1 A\b0\f0  and \b\f1 B\b0\f0  are matbogi for live and the white group lives easily.
+\par }
+#
+(
+1[no]
+1[oo]
+1[po]
+1[ro]
+1[mp]
+2[op]
+2[pp]
+1[qp]
+1[mq]
+65[nq]
+2[qq]
+1[rq]
+1[mr]
+2[or]
+2[qr]
+2[rr]
+1[sr]
+1[ms]
+2[os]
+66[ps]
+2[rs]
+)
+2
+B[oq]
+W[pq]
+Diagram 2 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's placement at 1 is an extraordinary attack. This exposes white's weak points. In response to white 2, black can now wedge with 3.
+\par
+\par Up to 5, black captures white.
+\par }
+#
+(
+1[no]
+1[oo]
+1[po]
+1[ro]
+1[mp]
+2[op]
+2[pp]
+1[qp]
+1[mq]
+2[qq]
+1[rq]
+1[mr]
+2[or]
+2[qr]
+2[rr]
+1[sr]
+1[ms]
+2[os]
+2[rs]
+)
+5
+B[ps]
+W[pr]
+B[oq]
+W[nq]
+B[np]
+Diagram 3 (Calm)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par In response to black \'a1\'e3, it is useless for white to attempt to create more eyespace with 1. Black 2 (or 3) is calm. If white plays at 3, black plays at 4 and that's it.
+\par
+\par \pard\nowidctlpar\qj Instead of 3, if white plays at \b\f1 A\b0\f0 , black a throw-in at \b\f1 B\b0\f0  and it becomes the same as the previous diagram.
+\par }
+#
+(
+1[no]
+1[oo]
+1[po]
+1[ro]
+1[mp]
+2[op]
+2[pp]
+1[qp]
+1[mq]
+66[oq]
+2[qq]
+1[rq]
+1[mr]
+2[or]
+65[pr]
+2[qr]
+2[rr]
+1[sr]
+1[ms]
+2[os]
+5[ps]
+2[rs]
+)
+4
+W[nq]
+B[np]
+W[nr]
+B[pq]
+Diagram 4 (White Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset129 \'b9\'d9\'c5\'c1;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par In the beginning, it is correct for white to live at 1. This secures a living shape for white.
+\par
+\par \pard\nowidctlpar\qj For your information, white 1 is not the only move for white to live. White can live by playing at \b\f1 A\lang1033\kerning2\f2\fs20  \lang1042\kerning0\b0\f0\fs18 also. Please make yourself sure of it.
+\par \pard
+\par }
+#
+(
+1[no]
+1[oo]
+1[po]
+1[ro]
+1[mp]
+2[op]
+2[pp]
+1[qp]
+1[mq]
+2[qq]
+1[rq]
+1[mr]
+65[nr]
+2[qr]
+2[rr]
+1[sr]
+1[ms]
+2[os]
+2[rs]
+)
+1
+W[oq]

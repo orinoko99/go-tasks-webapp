@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cn][dn][fn][fo][ho][cp][gp][cq][fq][cr][dr][fr]AB[do][dp][fp][ip][dq][eq][gq][hq][er]LBC[Black's next move
+
+Where should Black play next? Look for a maek (tesuji) to connect the black stones.
+])
+(;AW[cn][dn][fn][fo][ho][cp][gp][cq][fq][cr][dr][fr]AB[do][dp][fp][ip][dq][eq][gq][hq][er]
+;B[fs]
+;W[ep]
+;B[gr]LB[fs:1][ep:2][gr:3]C[Correct
+
+
+The atari on the first line is the correct way. When White captures at 2, Black can go round and connect at 3.
+])
+(;AW[cn][dn][fn][fo][ho][cp][gp][cq][fq][cr][dr][fr]AB[do][dp][fp][ip][dq][eq][gq][hq][er]
+;B[ep]
+;W[es]LB[ep:1][es:2]C[Wrong
+
+
+Connecting the cutting stone is not a good idea here because White also connects at 2 and captures seven black stones.
+])
+)

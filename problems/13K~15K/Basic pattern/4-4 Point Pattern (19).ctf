@@ -1,0 +1,122 @@
+//19
+6
+Star-point Joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par If White plays 1 and 3, how should Black answer?
+\par This is also a joseki, there's nothing to be afraid.\lang1042\f1
+\par
+\par }
+#
+(
+1[qm]
+1[pp]
+2[nq]
+)
+3
+W[pq]
+B[qq]
+W[qp]
+1st Dia. White's wish
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 and 3 are mistakes, this is what White wants. White was able to capture Black's 1 stones. This result is good for White.\lang1042\f1
+\par
+\par }
+#
+(
+1[qm]
+5[pp]
+2[qp]
+2[nq]
+2[pq]
+1[qq]
+)
+6
+B[rp]
+W[qo]
+B[pr]
+W[oq]
+B[rr]
+W[po]
+2nd Dia. Joseki
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a strong and simple answer. It leads to a standart joseki.\lang1042\f1
+\par
+\par }
+#
+(
+1[qm]
+1[pp]
+2[qp]
+2[nq]
+2[pq]
+1[qq]
+)
+7
+B[po]
+W[qr]
+B[rq]
+W[or]
+B[rr]
+W[rs]
+B[qo]
+3rd Dia. Strongest answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is the strongest answer. If White plays 2 and 4 then the result is good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[qm]
+1[pp]
+2[qp]
+2[nq]
+2[pq]
+1[qq]
+)
+4
+B[rq]
+W[op]
+B[po]
+W[pr]
+4th Dia. Very good for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White 1 and 3 are also mistakes. Black will play 4. Now White's \lang1042\f1\'a1\'e2\lang1043\f0  stone is very weak. This result is very good for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[qm]
+1[pp]
+2[qp]
+6[nq]
+2[pq]
+1[qq]
+1[rq]
+)
+4
+W[po]
+B[op]
+W[qo]
+B[oq]
+5th Dia. Good for White
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 White 1 is a good move. Black will answer 2 and then White gets sente. This result is better for White than the one played in the 2nd diagram.\lang1042\f1
+\par
+\par
+\par }
+#
+(
+1[qm]
+1[pp]
+2[qp]
+2[nq]
+2[pq]
+1[qq]
+1[rq]
+)
+4
+W[pr]
+B[qo]
+W[op]
+B[po]

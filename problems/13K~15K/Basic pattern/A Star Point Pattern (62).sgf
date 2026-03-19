@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pm][qn][nq]AB[on][pn][kp][pp]
+;W[qo]LB[qo:1]C[Star point jeongseok (62)
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 After all that, we now know that White 1 is the response to Black attaching and extending.  Should we block or should we play something else?  What is Black's response?
+
+\lang1042\f0\fs18
+])
+(;AW[pm][qn][qo][nq]AB[on][pn][kp][pp]
+;B[op]
+;W[qq]LB[op:1][qq:2]C[Dia.1 Too slow
+
+Black 1 is solid shape, that's for sure, but it's a big slow and boring.  White will take the corner easily and Black hasn't gotten much in return.
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][qo][nq][qq]AB[on][pn][kp][op][pp]LB[qp:A]
+;B[qp]
+;W[rp]
+;B[qm]
+;W[ql]
+;B[rm]
+;W[rn]LB[qp:1][rp:2][qm:3][ql:4][rm:5][rn:6][qp:A]C[Dia.2 No cut
+
+Now we'll continue from the previous diagram.  White looks rather weak doesn't he?  He's not, because you can't make use of any of his cutting points.  When Black cuts at 3 White just plays 6 and now it's ahrd for Black to play.
+
+\lang1042\f1\fs18
+
+
+
+])
+(;AW[pm][qn][qo][nq]AB[on][pn][kp][pp]
+;B[qq]
+;W[po]
+;B[oo]
+;W[op]LB[qq:1][po:2][oo:3][op:4]C[Dia.3 A hard fight
+
+If Black plays the 3,3 point he's opening himself up to be cut in half.  This fight is going to be hard on Black so he'll have to find another method.
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][qo][nq]AB[on][pn][kp][pp]LB[qj:A]
+;B[qp]
+;W[qk]
+;B[oq]LB[qp:1][qk:2][oq:3][qj:A]C[Dia.4 Good for Black
+
+Black 1 is the correct move.  White has to play at 2, or at A, to make a base and then Black can play the diagonal move of 3 to get a good result.  Black 3 is necessary, and we'll get into why in the next problem.
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][nq]AB[on][pn][kp][pp]
+;W[qo]LB[qo:1]C[No diagram name
+
+
+
+])
+)

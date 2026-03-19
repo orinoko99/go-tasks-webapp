@@ -1,0 +1,193 @@
+//19
+6
+Vital Point to Capture?(4)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 .
+\par It looks like White is alive.
+\par However there is a weak point in White's shape.
+\par
+\par \pard\qj
+\par }
+#
+(
+1[rn]
+1[oo]
+1[po]
+1[qo]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+1[oq]
+2[pq]
+2[rq]
+1[or]
+2[pr]
+2[qr]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's jump at 1 is a sharp move.
+\par After White 2, Black plays dansu at 3 and White is  captured.
+\par
+\par Even if White connects at A, it is useless.
+\par
+\par }
+#
+(
+1[nm]
+1[rn]
+1[oo]
+1[po]
+1[qo]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+1[oq]
+2[pq]
+65[qq]
+2[rq]
+1[or]
+2[pr]
+2[qr]
+)
+3
+B[sr]
+W[sq]
+B[rr]
+Dia. 02 Dead?
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It is an \cf1\b illusion\cf0\b0  if Black believes that he can capture White with the attachment at 1.
+\par
+\par However White's dansu at 2 is a \cf1\b big mistake\cf0\b0 . If Black goes out at 3, White is dead. White has shortage of liberties so he can't play at A.
+\par
+\par White is captured because 2 was a bad move.
+\par
+\par }
+#
+(
+1[rn]
+1[oo]
+1[po]
+1[qo]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+1[oq]
+2[pq]
+2[rq]
+65[sq]
+1[or]
+2[pr]
+2[qr]
+)
+3
+B[rr]
+W[rs]
+B[sr]
+Dia. 03 Correct Direction
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against Black 1, White's dansu at 2 is correct. White lives with many points up to 4.
+\par
+\par Therefore Black can' t capture White with 1.
+\par
+\par
+\par
+\par }
+#
+(
+1[rn]
+1[oo]
+1[po]
+1[qo]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+1[oq]
+2[pq]
+2[rq]
+1[or]
+2[pr]
+2[qr]
+)
+4
+B[rr]
+W[sr]
+B[rs]
+W[qs]
+Dia. 04 Pity
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par The exchange of Black 1 for White 2 is pity.
+\par
+\par If Black thinks he can't capture White, there is big chance that he plays like this in the actual game.
+\par
+\par
+\par
+\par }
+#
+(
+1[rn]
+1[oo]
+1[po]
+1[qo]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+1[oq]
+2[pq]
+2[rq]
+1[or]
+2[pr]
+2[qr]
+)
+2
+B[sq]
+W[sr]
+Dia. 05 White's Good Move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If Black follows the proverb which says "there is death in the hane", he starts with 1. However White 2 is the vital point for White as well.
+\par
+\par If White answers at A instead of 2, Black gets another chance. If Black plays at 2, White is dead.
+\par
+\par
+\par
+\par }
+#
+(
+1[rn]
+1[oo]
+1[po]
+1[qo]
+1[op]
+2[pp]
+2[qp]
+1[rp]
+1[sp]
+1[oq]
+2[pq]
+2[rq]
+1[or]
+2[pr]
+2[qr]
+65[qs]
+)
+2
+B[ps]
+W[sr]

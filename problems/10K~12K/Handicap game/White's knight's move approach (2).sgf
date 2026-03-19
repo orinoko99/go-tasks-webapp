@@ -1,0 +1,97 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AB[dd][jd][pd][dj][jj][pj][dp][jp][pp]
+;W[qf]
+;B[pf]
+;W[pg]
+;B[of]
+;W[qe]
+;B[qd]
+;W[nc]LB[qf:1][pf:2][pg:3][of:4][qe:5][qd:6][nc:7]C[Knight approach(2)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+It's \cf1\b Black\cf0\b0 's turn.
+
+\cf2\b White\cf0\b0  plays at \cf2\b 7\cf0\b0 , instead of making tiger mouth.
+
+
+])
+(;AW[nc][qe][qf][pg]AB[dd][jd][pd][qd][of][pf][dj][jj][pj][dp][jp][pp]LB[od:A]
+;B[oc]
+;W[nd]
+;B[pe]LB[oc:1][nd:2][pe:3][od:A]C[Dia 1 (Solution/B1 Diagonal move)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+In this situation \cf1\b B1 \cf0\b0 is strong move.
+
+If \cf2\b White\cf0\b0  plays at \cf2\b 2\cf0\b0  , \cf1\b B3\cf0\b0  is vital.
+
+Althoth black makes a empty triangle it has no option.
+
+Compare to A,  \cf1\b B3\cf0\b0  is the more approprite move.
+
+Continuing-
+])
+(;AW[nc][nd][qe][qf][pg]AB[oc][dd][jd][pd][qd][pe][of][pf][dj][jj][pj][dp][jp][pp]LB[me:A]
+;W[qh]
+;B[ld]LB[qh:1][ld:2][me:A]C[Dia 2 (Attack the upperside)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+If White protects its weakness by playing at \cf1\b W1\cf0\b0  , black will play at \cf2\b B2\cf0\b0 .
+
+Whit can not escape but can not give up two stones.
+If playing at 2 is difficult playing at A is good enough.
+
+])
+(;AW[nc][nd][qe][qf][pg]AB[oc][dd][jd][pd][qd][pe][of][pf][dj][jj][pj][dp][jp][pp]
+;W[ld]
+;B[qg]
+;W[qh]
+;B[rg]LB[ld:1][qg:2][qh:3][rg:4]C[Dia 3 (Big territory)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+If \cf1\b White\cf0\b0  protect at \cf1\b 1\cf0\b0 , \cf2\b Black\cf0\b0  will cut at \cf2\b 2\cf0\b0 .
+
+Until 4, White is not satisfied because Black gains huge territory.
+
+Until now white is not safe.
+
+])
+(;AW[nc][qe][qf][pg]AB[dd][jd][pd][qd][of][pf][dj][jj][pj][dp][jp][pp]
+;B[nd]
+;W[md]
+;B[oc]
+;W[ne]
+;B[od]
+;W[qh]LB[nd:1][md:2][oc:3][ne:4][od:5][qh:6]C[Dia 4 (B1)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+You can play\cf1\b  B1\cf0\b0 .
+\cf2\b W4\cf0\b0  is painful for black, it is ok.
+Black gains strong shape.
+
+If \cf2\b White\cf0\b0  protect at \cf2\b 6\cf0\b0 . -
+])
+(;AW[nc][md][ne][qe][qf][pg][qh]AB[oc][dd][jd][nd][od][pd][qd][of][pf][dj][jj][pj][dp][jp][pp]
+;B[me]
+;W[le]
+;B[mf]
+;W[lc]
+;B[qj]LB[me:1][le:2][mf:3][lc:4][qj:5]C[Dia 5 (Iron Pillar)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b Black\cf0\b0  cuts at \cf1\b 1\cf0\b0  is enough.
+
+White protect itself, black also the same at 5.
+])
+)

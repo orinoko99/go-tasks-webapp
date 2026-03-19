@@ -1,0 +1,130 @@
+//19
+4
+One Move Captures Black(26)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \b White to Play\b0 .
+\par
+\par White 1, is played following the proverb which states, "there is death in a hane".
+\par Black 2 attempts to defend the group.
+\par
+\par Black is, however, still in trouble. How should white attack?
+\par r
+\par }
+#
+(
+2[oo]
+2[qo]
+2[pp]
+2[rp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[rr]
+2[ns]
+1[ps]
+)
+2
+W[sq]
+B[sr]
+Diagram 1 (Correct?)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Throwing-in with white 1 seems to be a good point, preventing black from making two eyes.
+\par
+\par Black 2, is a natural response. When white plays 3, if black resists at 4 the result is a pae.
+\par
+\par Is this correct? No. There is a way to capture black unconditionally.r
+\par }
+#
+(
+2[oo]
+2[qo]
+2[pp]
+2[rp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[sq]
+2[nr]
+1[or]
+1[rr]
+1[sr]
+2[ns]
+1[ps]
+)
+4
+W[pr]
+B[qr]
+W[os]
+B[rs]
+Diagram 2 (Alive)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par White 1, in this diagram also fails.
+\par
+\par Black 2 is a calm move leaving white with no further moves. Black lives unconditionally.
+\par
+\par \pard\ltrpar\nowidctlpar\qj Instead 2, if  black had played \b\f1 A\b0\f0 , white could play at 2 and black dies.r
+\par }
+#
+(
+2[oo]
+2[qo]
+2[pp]
+2[rp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[sq]
+2[nr]
+1[or]
+65[qr]
+1[rr]
+1[sr]
+2[ns]
+1[ps]
+)
+2
+W[qs]
+B[rs]
+Diagram 3 (Correct)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par White's attachment at 1 is a clever move. Responding with black 2, is unavoidable.
+\par
+\par \pard\ltrpar\nowidctlpar\qj Next white can throw-in with 3 and black can't play at \b\f1 A\b0\f0 . Black is finished.r
+\par }
+#
+(
+2[oo]
+2[qo]
+2[pp]
+2[rp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[sq]
+2[nr]
+1[or]
+1[rr]
+1[sr]
+2[ns]
+65[os]
+1[ps]
+65[rs]
+)
+3
+W[rs]
+B[qs]
+W[pr]

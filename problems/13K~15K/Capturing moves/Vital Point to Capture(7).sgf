@@ -1,0 +1,68 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[rr]AW[qp][rp][sp][oq][pq][or]AB[qq][rq][pr][rr][ps]LBCR[rr]C[Vital Point to Capture?(7)
+
+
+\b White to play\b0 .
+Black tries to live with \'a1\'e3.
+
+Punish Black's mistake.
+The result is pae, the important part is what kind of pae it is.
+
+
+])
+(;AW[qp][rp][sp][oq][pq][or]AB[qq][rq][pr][rr][ps]
+;W[rs]
+;B[sq]
+;W[os]
+;B[ss]LB[rs:1][sq:2][os:3][ss:4]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's attaching move at the 1-2 point is the vital point.
+
+Black 2 is the best answer and then White 3 is a good move. Black has to play at 4 so it becomes a \cf1\b pae when White takes first\cf0\b0 .
+
+
+
+])
+(;CR[rs]AW[qp][rp][sp][oq][pq][or][rs]AB[qq][rq][pr][rr][ps]LB[sq:A]
+;B[qs]
+;W[sr]LB[qs:1][sr:2][sq:A]CR[rs]C[Dia. 02 Dead Shape
+
+
+Against the attachment at \'a1\'e2, if Black answers with 1, he is going to be in big trouble.
+
+After White plays at 2, the shape is dead.
+
+Black can't cut because of shortage of liberties.
+])
+(;AW[qp][rp][sp][oq][pq][or]AB[qq][rq][pr][rr][ps]
+;W[sr]
+;B[sq]
+;W[rs]LB[sr:1][sq:2][rs:3]C[Dia. 03 Failure
+
+{\colortbl ;\red255\green0\blue0;}
+
+White's attachment at 1 is another vital point, but if it is compared with the correct answer, there is a big difference.
+
+After Black 2, White has to play at 3 and this time it is a \cf1\b pae when Black takes first\cf0\b0 .
+
+It is a \b failure\b0 .
+
+])
+(;AW[qp][rp][sp][oq][pq][or]AB[qq][rq][pr][rr][ps]LB[qs:A]
+;W[os]
+;B[rs]LB[os:1][rs:2][qs:A]C[Dia. 04 Endgame
+
+
+White's block at 1 is only an endgame move.
+Black lives easily with 2 (or A).
+
+
+])
+)

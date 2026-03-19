@@ -1,0 +1,80 @@
+//19
+3
+Maek/Tesuji
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Look out for a maek to capture the white cutting stone.
+\par }
+#
+(
+2[cm]
+2[em]
+1[bp]
+1[cp]
+2[dp]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+2[gq]
+2[dr]
+2[cs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Playing atari once and then using a net is the correct way of capturing White.
+\par }
+#
+(
+2[cm]
+2[em]
+1[bp]
+1[cp]
+2[dp]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+2[gq]
+2[dr]
+2[cs]
+)
+5
+B[do]
+W[ep]
+B[fo]
+W[gp]
+B[fp]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Unfortunately Black fails if he tries to capture White in a ladder.
+\par }
+#
+(
+2[cm]
+2[em]
+1[bp]
+1[cp]
+2[dp]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+2[gq]
+2[dr]
+2[cs]
+)
+8
+B[do]
+W[ep]
+B[fp]
+W[eo]
+B[en]
+W[fo]
+B[go]
+W[fn]

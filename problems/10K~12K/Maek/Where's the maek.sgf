@@ -1,0 +1,61 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[or][pr][qr][rr][rs]AW[on][ro][np][rp][nq][rq][or][pr][qr]AB[po][qp][oq][pq][qq][mr][nr][rr][rs]LB[sr:A][os:B]LB[sr:A][os:B]CR[or][pr][qr][rr][rs]C[Where's the maek?
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 White's three \lang1042\f0\fs18\'a1\'e2\lang1033\f1\fs16  marked stones are in trouble. He's stuck in a capturing race with Black.  If White plays at A then Black will play at B and that's that.
+
+So, if we're going to fight with Black...
+\lang1042\f0\fs18
+])
+(;CR[qp][oq][pq][qq]AW[on][ro][np][rp][nq][rq][or][pr][qr]AB[po][qp][oq][pq][qq][mr][nr][rr][rs]
+;W[pn]
+;B[os]LB[pn:1][os:2]CR[qp][oq][pq][qq]C[Dia.1 White / Not enough liberties
+
+White 1 may be the move that first comes to mind but it's not going to work.
+Black plays 2 and White is behind by 2 liberties.
+
+White 1 doesn't take away liberties from the \lang1042\f1\fs18\'a1\'e3\lang1033\f0\fs16  marked Black stones so this move is slack.
+\lang1042\f1\fs18
+
+])
+(;AW[on][ro][np][rp][nq][rq][or][pr][qr]AB[po][qp][oq][pq][qq][mr][nr][rr][rs]
+;W[op]
+;B[qo]
+;W[qn]
+;B[os]LB[op:1][qo:2][qn:3][os:4]C[Dia.2 Black 2 is a good move
+
+{\colortbl ;\red255\green0\blue0;}
+What if White plays at 1 to take away a liberty?
+The problem is \cf1\b Black 2 is a good move.
+\cf0\b0 When White plays Black wins the capturing race with 4.  White has two liberties and Black has three.  White is short by one.
+
+\lang1042\f1\fs18
+])
+(;AW[on][ro][np][rp][nq][rq][or][pr][qr]AB[po][qp][oq][pq][qq][mr][nr][rr][rs]
+;W[qo]
+;B[pn]
+;W[pp]
+;B[op]
+;W[oo]
+;B[pp]
+;W[pm]LB[qo:1][pn:2][pp:3][op:4][oo:5][pp:6][pm:7]C[Dia.3 Correct / A sharp maek
+
+{\colortbl ;\red0\green0\blue255;}
+Our opponent's vital point is our vital point.
+
+\cf0\b0 White 1 is just the move we need to solve our problem.  Black could try to escape with 2 but White 3 puts a stop to that.  Up to White 7 we see that Black is caught in a ladder.
+
+\lang1042\f1\fs18
+])
+(;AW[on][ro][np][rp][nq][rq][or][pr][qr]AB[po][qp][oq][pq][qq][mr][nr][rr][rs]LBC[No diagram name
+
+
+
+])
+)

@@ -1,0 +1,53 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[qr]AW[pq][qq][rq][or][qr][sr]AB[pp][qp][rp][sp][kq][nq][oq][sq][nr]LB[rs:A]LB[rs:A]CR[qr]C[First is a key move(82)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\lang1042\f0
+
+Playing at \'a1\'e2 is mistake.
+W should have played at A, it is \cf1\b a proper move.\cf0\b0
+])
+(;AW[pq][qq][rq][or][qr][sr]AB[pp][qp][rp][sp][kq][nq][oq][sq][nr]
+;B[os]
+;W[ps]LB[os:1][ps:2]C[Dia.1(Ko)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Dansu at 1 is one of the beginner's mistake.
+W will make a \cf1\b ko.
+\cf0\b0
+
+])
+(;AW[pq][qq][rq][or][qr][sr][ps]AB[pp][qp][rp][sp][kq][nq][oq][sq][nr][os]LB[qs:A]
+;B[rs]
+;W[ns]
+;B[ms]
+;W[mr]LB[rs:1][ns:2][ms:3][mr:4][qs:A]C[Dia.2(Also ko)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Playing inside at 1 is also not good.
+
+Up to 4, this result is \cf1\b also a ko.\cf0\b0
+
+])
+(;AW[pq][qq][rq][or][qr][sr]AB[pp][qp][rp][sp][kq][nq][oq][sq][nr]LB[pr:C][os:A][qs:B]
+;B[rs]
+;W[ps]
+;B[ns]LB[rs:1][ps:2][ns:3][pr:C][os:A][qs:B]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Playing insied at 2 to 1 point is \cf1\b the right answer.\cf0\b0
+
+Making an eye(W2) seems to be able to live but descent at 3 is a good attack so C spot turns to a false eye.
+
+])
+)

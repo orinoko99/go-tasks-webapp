@@ -1,0 +1,76 @@
+//19
+3
+Increasing Liberties
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black is behind in liberties. How can he still win the capturing race?
+\par }
+#
+(
+2[cn]
+2[do]
+2[bp]
+2[cp]
+1[dp]
+1[ep]
+1[fp]
+1[hp]
+1[cq]
+2[dq]
+2[eq]
+2[fq]
+1[gq]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Descending to 1 is Black's best play here to increase his liberties and capture White.
+\par
+\par }
+#
+(
+2[cn]
+2[do]
+2[bp]
+2[cp]
+1[dp]
+1[ep]
+1[fp]
+1[hp]
+1[cq]
+2[dq]
+2[eq]
+2[fq]
+1[gq]
+)
+5
+B[cr]
+W[dr]
+B[fr]
+W[br]
+B[ds]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The hane at 1 fails because White will cut at 2 and capture first.
+\par
+\par }
+#
+(
+2[cn]
+2[do]
+2[bp]
+2[cp]
+1[dp]
+1[ep]
+1[fp]
+1[hp]
+1[cq]
+2[dq]
+2[eq]
+2[fq]
+1[gq]
+)
+4
+B[dr]
+W[cr]
+B[fr]
+W[bq]

@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[qq][rq][sq][rr]AW[mp][op][pp][qq][rq][sq][nr][rr]AB[qn][qp][rp][sp][pq][pr][ps]LBCR[qq][rq][sq][rr]C[Difficult?
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+Capturing race between B and W seems to be bed for W's four stones(\'a1\'e2).
+
+But there is a tesuji!!
+
+
+])
+(;AW[mp][op][pp][qq][rq][sq][nr][rr]AB[qn][qp][rp][sp][pq][pr][ps]LB[ss:A]
+;W[oq]
+;B[rs]LB[oq:1][rs:2][ss:A]C[DIa.1(Disadvantageous ko for W)
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+Reduction liberties from outside is the basic rule of capturing race.
+
+But in this case, the rule is bed because B2 is a\cf1\b  good move\cf0\b0 .
+W has to make ko(A) which is a \cf2\b disadvantageous ko\cf0\b0  for W.
+
+])
+(;AW[mp][op][pp][qq][rq][sq][nr][rr]AB[qn][qp][rp][sp][pq][pr][ps]LB[qs:A]
+;W[qr]
+;B[qs]LB[qr:1][qs:2][qs:A]C[DIa.2(Self-dansu)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W1 is very heavy and a \cf1\b self-dansu move.
+
+\cf0\b0
+])
+(;AW[mp][op][pp][qq][rq][sq][nr][rr]AB[qn][qp][rp][sp][pq][pr][ps]LB[qr:A][qs:A]
+;W[rs]
+;B[qr]
+;W[oq]
+;B[sr]
+;W[or]LB[rs:1][qr:2][oq:3][sr:4][or:5][qr:A][qs:A]C[DIa.3(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Descent at 1 is a tesuji.
+
+Up to 5, B can't play at A.
+This result is \f1 the \cf1\b one eye versus no eye.\fs24
+\cf0\b0\f0\fs18
+
+])
+)

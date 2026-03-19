@@ -1,0 +1,73 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cc][fc][ge][qh][jn][gp][np][nq]AB[dd][jd][pd][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[cd]
+;W[dc]
+;B[ed]
+;W[gd]LB[cd:1][dc:2][ed:3][gd:4]C[Training problem(44)
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 When Black blocks at 1, it means that he is emphasizing the left side of the board  White 2 and Black 3 are vital points.  This is where White pulls back at 4, and we're left with the question of whether or not White has any weaknesses.  Where should Black play?
+
+
+])
+(;AW[cc][dc][fc][gd][ge][qh][jn][gp][np][nq]AB[cd][dd][ed][jd][pd][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[ff:A]
+;B[hf]
+;W[bc]LB[hf:1][bc:2][ff:A]C[Dia.1 A decent position but
+
+{\colortbl ;\red255\green0\blue0;}
+If Black extends at 1 then he can say he is in a decent position but he has some problems he needs to look out for.
+
+White will quietly descend with 2.  At this moment, White has \cf1\b covered up all of his weaknesses \cf0\b0 and still has the cut at A to aim at later.
+\lang1042\f1\fs18
+
+
+])
+(;AW[cc][dc][fc][gd][ge][qh][jn][gp][np][nq]AB[cd][dd][ed][jd][pd][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[ec]
+;W[eb]
+;B[db]
+;W[cb]LB[ec:1][eb:2][db:3][cb:4]C[Dia.2 A severe sequence
+
+{\colortbl ;\red0\green0\blue255;}
+Black 1 is his chance to stab into White's shape.  Black's cut at 3 is a \cf1\b severe move.   \cf0\b0 White needs to make a decision.  We've uncovered a hole in White's position haven't we?  After White 4...
+\lang1042\f1\fs18
+])
+(;AW[cb][eb][cc][dc][fc][gd][ge][qh][jn][gp][np][nq]AB[db][ec][cd][dd][ed][jd][pd][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[fd:A][hd:B]
+;B[fb]
+;W[da]
+;B[gc]LB[fb:1][da:2][gc:3][fd:A][hd:B]C[Dia.3 Capturing the right side
+
+Black 1 is seonsu and the dansu of Black 3 captures the White stone on the right.    If White tries to connect at A then Black will ladder White with B.  If White...
+
+\lang1042\f1\fs18
+
+])
+(;CR[db]AW[eb][cc][dc][fc][gd][ge][qh][jn][gp][np][nq]AB[db][ec][cd][dd][ed][jd][pd][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;W[fb]
+;B[cb]
+;W[hf]
+;B[gg]LB[fb:1][cb:2][hf:3][gg:4]CR[db]C[Dia.4 Win by 100 points
+
+{\colortbl ;\red0\green0\blue255;}
+If White connects in response to the marked Black stone\cf1\b Black can capture two stones and is satisfied.\cf0\b0   This is because the profit we took in the corner is huge.
+
+White can push at 3 and Black will just walk ahead with 4.  If you play like this Black will undoubtedly win by 100 points, no sweat.
+
+\lang1042\f1\fs18
+])
+(;AW[cc][fc][ge][qh][jn][gp][np][nq]AB[dd][jd][pd][fe][gf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[cd]
+;W[dc]
+;B[ed]
+;W[gd]LB[cd:1][dc:2][ed:3][gd:4]C[No diagram name
+
+
+
+])
+)

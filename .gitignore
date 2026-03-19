@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Тесты
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Логи
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

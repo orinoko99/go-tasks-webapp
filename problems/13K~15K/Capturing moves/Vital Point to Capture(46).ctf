@@ -1,0 +1,136 @@
+//19
+4
+The Vital Point for Death (46)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to Play.\b0
+\par It is impossible for white to save the two white stones that have been engulfed by black.
+\par
+\par The point of this problem is to consider how to sacrifice them efficiently and lead black into a dead shape.
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[op]
+1[qp]
+1[rp]
+1[sp]
+2[oq]
+1[qq]
+2[rq]
+2[or]
+1[pr]
+1[sr]
+2[os]
+1[ps]
+2[rs]
+)
+0
+Diagram 1 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a good starting point. If you can find this move, there is no way you will get this problem wrong.
+\par
+\par Black 2 is unavoidable. Black has to avoid the snapback.
+\par
+\par White connects at 3 and black is dead. Now even if black connects at \b\f1 A\b0\f0 , it does no good.
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[op]
+1[qp]
+1[rp]
+1[sp]
+2[oq]
+1[qq]
+2[rq]
+65[sq]
+2[or]
+1[pr]
+1[sr]
+2[os]
+1[ps]
+2[rs]
+)
+3
+W[qr]
+B[pq]
+W[rr]
+Diagram 2 (Snapback)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par This is a variant of the correct answer.
+\par As mentioned before, in response to white \'a1\'e2 if black tries to resist and cuts with 1, white creates a snapback at 2.
+\par
+\par In this case, black is also dead.
+\par
+\par As soon as black suffers the blow of white \'a1\'e2, black has no way to live.
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[op]
+1[qp]
+1[rp]
+1[sp]
+2[oq]
+1[qq]
+2[rq]
+2[or]
+1[pr]
+6[qr]
+1[sr]
+2[os]
+1[ps]
+2[rs]
+)
+2
+B[rr]
+W[pq]
+Diagram 3 (Alive in Pik)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It is a careless move for white to connect with 1.
+\par
+\par Black 2 is a good move that applies the proverb stating, "the enemy's key point is your own".
+\par
+\par If white plays 3, black plays 4 and lives in pik.
+\par
+\par Instead of 3, if white plays at 4, it just allows black to live with more points when black plays \b\f1 A\b0\f0 .
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[op]
+1[qp]
+1[rp]
+1[sp]
+2[oq]
+1[qq]
+2[rq]
+2[or]
+1[pr]
+1[sr]
+2[os]
+1[ps]
+65[qs]
+2[rs]
+)
+4
+W[rr]
+B[qr]
+W[pp]
+B[sq]

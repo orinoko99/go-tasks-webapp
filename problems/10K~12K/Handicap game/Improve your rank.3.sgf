@@ -1,0 +1,71 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[fc][qh][jn][gp][np][nq]AB[dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[jc:A]
+;W[nc]LB[nc:1][jc:A]C[Improve your rank
+
+Black's turn\b0
+White A didn't work. So White decided to play 1. How should Black answer?\lang1042\f1
+
+
+])
+(;CR[nc]AW[fc][nc][qh][jn][gp][np][nq]AB[dd][jd][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[nd]
+;W[md]
+;B[oc]
+;W[ne]
+;B[od]LB[nd:1][md:2][oc:3][ne:4][od:5]CR[nc]C[1st Dia. Correct answer
+
+When White plays \lang1042\f1\'a1\'e2\lang1043\f0 , Black 1 and 3 are good answers. If Black play like this Black is able to get territory and White doesn't even have many options for the next move. Since White has sente now, Black should be able to answer correctly to not get in trouble.\lang1042\f1
+
+])
+(;CR[qh]AW[fc][nc][md][ne][qh][jn][gp][np][nq]AB[oc][dd][jd][nd][od][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[mc:A]
+;W[me]
+;B[mc]
+;W[lc]
+;B[nb]
+;W[mb]
+;B[pg]LB[me:1][mc:2][lc:3][nb:4][mb:5][pg:6][mc:A]CR[qh]C[2nd Dia. Good for Black
+
+If White plays 1, Black will answer 2 and 4. Black 6 is a good move.
+Now White's \lang1042\f1\'a1\'e2\lang1043\f0  stone is very weak. It's difficult for White to answer.\lang1042\f1
+
+
+])
+(;AW[fc][nc][md][ne][qh][jn][gp][np][nq]AB[oc][dd][jd][nd][od][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[mc:?]
+;W[mc]
+;B[me]
+;W[kd]
+;B[mf]
+;W[ke]
+;B[qf]LB[mc:1][me:2][kd:3][mf:4][ke:5][qf:6][mc:?]C[3rd Dia. Black has big territory
+
+If White plays 1, Black 2 is a good answer. White 3 is a good move but Black 4 counters it very well, it's a patient move.
+White has to play 5 and Black plays 6.
+Black was able to get a big territory.
+This result is good for Black.\lang1042\f1
+
+])
+(;CR[ne]AW[fc][nc][md][ne][qh][jn][gp][np][nq]AB[oc][dd][jd][nd][od][pd][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;W[nb]
+;B[me]
+;W[le]
+;B[mf]
+;W[lc]
+;B[nf]LB[nb:1][me:2][le:3][mf:4][lc:5][nf:6]CR[ne]C[4th Dia. Good for Black
+
+If White plays 1 Black will answer 2. White plays 3 and 5. Black will then play 6. Black is able to capture White's \lang1042\f1\'a1\'e2\lang1043\f0  stone. Black is satisfied with this result.\lang1042\f1
+
+])
+(;CR[me]AW[nb][fc][nc][md][ne][qh][jn][gp][np][nq]AB[oc][dd][jd][nd][od][pd][me][cf][dj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;W[ld]
+;B[le]LB[ld:1][le:2]CR[me]C[5th Dia. Another option
+
+When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  if White answers 1, Black 2 is a good move.
+This result is very good for Black, so White will not play like this.\lang1042\f1
+
+])
+)

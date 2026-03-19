@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dp][ep][cq][eq][cr][er][fr][gr][cs][hs]AB[do][eo][fo][ho][bp][cp][bq][fq][gq][br][hr][ir][gs]LBC[Vital Point First
+
+Where should Black play to capture White?
+])
+(;AW[dp][ep][cq][eq][cr][er][fr][gr][cs][hs]AB[do][eo][fo][ho][bp][cp][bq][fq][gq][br][hr][ir][gs]
+;B[dr]
+;W[ds]
+;B[fs]
+;W[es]
+;B[gs]LB[dr:1][ds:2][fs:3][es:4][gs:5]C[Correct
+
+Black should first play at the vital point at 1. If White plays at 2, Black increases the sacrifice at 3 and throws in once more at 5 to make the second eye false.
+
+])
+(;AW[dp][ep][cq][eq][cr][er][fr][gr][cs][hs]AB[do][eo][fo][ho][bp][cp][bq][fq][gq][br][hr][ir][gs]
+;B[fs]
+;W[es]
+;B[gs]
+;W[dr]LB[fs:1][es:2][gs:3][dr:4]C[Wrong
+
+The order of moves is important. First raising the sacrifice at 1 and throwing in at 3 fails because White will make two eyes at 4.
+
+])
+)

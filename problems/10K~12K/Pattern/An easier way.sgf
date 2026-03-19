@@ -1,0 +1,79 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nq]AB[kp][pp]LB[po:B][ro:A]
+;W[qq]
+;B[pq]
+;W[qp]
+;B[qo]LB[qq:1][pq:2][qp:3][qo:4][po:B][ro:A]C[An easier way
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 In response to Black 4, we've seen that \b A \b0 is just too passive.
+
+The cut at \b A \b0 is also really complicated and not very straightforward.  Is there an easier way for White to counterattack?
+
+\lang1042\f0\fs18
+])
+(;CR[qo]AW[qp][nq][qq]AB[qo][kp][pp][pq]LB[po:A][qr:‚]
+;W[qr]LB[qr:1][po:A][qr:‚]CR[qo]C[Dia.1 Correct/Descend
+
+
+\lang1033\f1\fs16 White should descend at 1 in response to the \lang1042\f0\fs18\'a1\'e3\lang1033\f1\fs16  marked stone.
+
+This move aims at cutting at A and connecting under, making both points matbogi.
+
+Now White can be happy.
+\lang1042\f0\fs18
+])
+(;CR[nq]AW[qp][nq][qq][qr]AB[qo][kp][pp][pq]
+;B[po]
+;W[pr]LB[po:1][pr:2]CR[nq]C[Dia.2 White is satisfied
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 Black has to connect with 1, no choice there. \cf1\b White can be satisfied coming under with 2\cf0\lang1042\b0\f0\fs18 . \lang1033\f1\fs16 Now White has taken all of the territory and saved his other stone.
+
+Instead if 1-
+\lang1042\f0\fs18
+])
+(;AW[qp][nq][qq][qr]AB[qo][kp][pp][pq]LB[pr:?]
+;B[pr]
+;W[po]
+;B[qn]
+;W[op]LB[pr:1][po:2][qn:3][op:4][pr:?]C[Dia.3 White 2 is severe
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 Black could try and resist by playing at 1 to prevent White from connecting, but now, \lang1042\f0\fs18  \cf1\lang1033\b\f1\fs16 White 2 is a severe cut\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Black saves his stone at 3 but White captures everything with 4.  \cf2\b Black gets an awful result.
+
+\cf0\b0 Instead of 3-
+
+\lang1042\f0\fs18
+])
+(;AW[po][qp][nq][qq][qr]AB[qo][kp][pp][pq][pr]
+;B[oo]
+;W[pn]
+;B[np]
+;W[qn]LB[oo:1][pn:2][np:3][qn:4]C[Dia.4 White gets a lot of territory
+
+
+\lang1033\f1\fs16 If Black tries 1 he can cut off the one white stone with the tiger's mouth at 3.  The problem is White takes his other stone with 4 and makes a huge corner.
+
+Compared with the jeongseok White is better.
+\lang1042\f0\fs18
+])
+(;AW[nq]AB[kp][pp]
+;W[qq]
+;B[pq]
+;W[qp]
+;B[qo]LB[qq:1][pq:2][qp:3][qo:4]C[No diagram name
+
+
+
+])
+)

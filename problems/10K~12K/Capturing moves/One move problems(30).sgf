@@ -1,0 +1,65 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[np][op][pp][qp][rp][sp][mq][pq][mr][ms]AB[oq][qq][rq][sq][nr][pr][ps]LBC[One move problems(30)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 We have a sure fire eye on the right but the space on the left looks a bit ambiguous.
+
+There is a way we can capture this group if we read it all out correctly.  The move might surrpise you, considering how simple it is.
+
+Where is the vital point?
+
+\lang1042\f0\fs18
+])
+(;AW[np][op][pp][qp][rp][sp][mq][pq][mr][ms]AB[oq][qq][rq][sq][nr][pr][ps]
+;W[ns]
+;B[rs]LB[ns:1][rs:2]C[Dia.1 Endgame problem?
+
+
+\lang1033\f1\fs16 White 1 does get rid of the eye ont he left but it doesn't affect Black's status, Black 2 lives.
+
+This isn't an endgame problem, it's a life and death problem.  Let's find a move that does more than reduce.
+
+\lang1042\f0\fs18
+])
+(;AW[np][op][pp][qp][rp][sp][mq][pq][mr][ms]AB[oq][qq][rq][sq][nr][pr][ps]
+;W[rs]
+;B[rr]
+;W[sr]LB[rs:1][rr:2][sr:3]C[Dia.2 Pae
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 White's placement attack at 1 on the \cf1\b 2,1 point\cf0\lang1042\b0\f0\fs18  \lang1033\f1\fs16 looks like a sharp move.
+But Black has a move prepared to counter White.  Black can resist with 2 and  then the status of the corner group is decided by a \cf1\b Pae.
+
+\cf0\b0 You can capture outright, trust me.
+
+\lang1042\f0\fs18
+])
+(;AW[np][op][pp][qp][rp][sp][mq][pq][mr][ms]AB[oq][qq][rq][sq][nr][pr][ps]
+;W[rr]
+;B[qr]
+;W[rs]
+;B[ns]
+;W[or]LB[rr:1][qr:2][rs:3][ns:4][or:5]C[Dia.3 Correct/Attach
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White 1 on the\lang1042\f0\fs18  \lang1033\f1\fs16 2,2 point is the correct move, a \cf1\b severe move\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Black plays 2, then White reduces Black to a dead shape with 3.
+
+The key here is that the left side cannot turn into an eye even if Black plays their first.  Black 4 is answered by White 5 and that's that.
+
+\lang1042\f0\fs18
+])
+(;AW[np][op][pp][qp][rp][sp][mq][pq][mr][ms]AB[oq][qq][rq][sq][nr][pr][ps]LBC[No diagram name
+
+
+
+])
+)

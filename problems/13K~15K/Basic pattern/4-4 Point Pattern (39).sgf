@@ -1,0 +1,57 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nq]AB[pj][kp][pp]LB[oq:A]
+;W[qq]
+;B[qp]
+;W[pq]
+;B[op]
+;W[rq]LB[qq:1][qp:2][pq:3][op:4][rq:5][oq:A]C[Star-point Joseki
+
+Black's turn\b0
+When White plays 1 Black 2 is good move because of Black's \lang1042\f1\'a1\'e3\lang1043\f0  stone.
+White will play 3, Black plays 4 and White decided to play 5 instead of A.
+How should Black answer?\lang1042\f1
+
+])
+(;AW[nq][pq][qq][rq]AB[pj][kp][op][pp][qp]LB[qn:B][rp:A]
+;B[np]
+;W[mq]
+;B[mp]
+;W[lq]
+;B[lp]LB[np:1][mq:2][mp:3][lq:4][lp:5][qn:B][rp:A]C[1st Dia. Correct answer
+
+Black 1 and 3 are good moves. Black is able to develop a strong center. Later if White plays A Black will answer B.\lang1042\f1
+
+])
+(;AW[nq][pq][qq][rq]AB[pj][kp][op][pp][qp]
+;B[rp]
+;W[np]LB[rp:1][np:2]C[2nd Dia. Mistake
+
+Black 1is a mistake. White will play 2 and Black's center is much weaker than in the previous diagram.
+After this-\lang1042\f1
+
+])
+(;AW[np][nq][pq][qq][rq]AB[pj][kp][op][pp][qp][rp]
+;B[no]
+;W[mo]
+;B[mp]
+;W[nn]
+;B[oo]
+;W[mr]LB[no:1][mo:2][mp:3][nn:4][oo:5][mr:6]C[3rd Dia. Continuation
+
+Black plays 1, White 2, Black 3 and White plays 4. This is very painful for Black. This result is good for White.\lang1042\f1
+
+])
+(;AW[nq][pq][qq][rq]AB[pj][kp][op][pp][qp]
+;B[mo]
+;W[rp]
+;B[qn]LB[mo:1][rp:2][qn:3]C[4th Dia. Another option
+
+Black 1 is a very slow move. Black has to play as in the 1st diagram.\lang1042\f1
+
+])
+)

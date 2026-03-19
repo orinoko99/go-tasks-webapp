@@ -1,0 +1,171 @@
+//19
+5
+One Move Captures Black (8)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to Play.\b0
+\par It is a very easy problem. If it were a real game, however, both players might have been mistaken, considering black's group to be alive.
+\par
+\par It is a kind of a blind spot.
+\par One move leaves black helpless.
+\par
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+1[oq]
+2[nr]
+1[pr]
+1[qr]
+1[rr]
+2[ps]
+1[rs]
+)
+0
+Diagram 1 (Misreading)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a mistake in reading that you might easily make in a real game.
+\par
+\par Black thrusts between whites stones with 2 and then plays dansu at 4 to guarantee life - this might be how both players read the situation here.
+\par
+\par However, this is nonsense.
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+1[oq]
+2[nr]
+1[pr]
+1[qr]
+1[rr]
+2[ps]
+1[rs]
+)
+4
+W[rq]
+B[rp]
+W[sp]
+B[qq]
+Diagram 2 (Unenthusiastic)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par What is white 1 about?
+\par It is completely unenthusiastic.
+\par
+\par \pard\nowidctlpar\qj Black can live with 2. Anyone can see that. Instead of W1, if white plays at \b\f1 A\b0\f0 , black plays \b\f1 B\b0\f0  so this does not work either. If white plays at \b\f1 B\b0\f0 , black answers at \b\f1 C\b0\f0 , so this too does not work.
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[np]
+1[op]
+1[pp]
+1[qp]
+65[sp]
+2[nq]
+1[oq]
+66[sq]
+2[nr]
+1[pr]
+1[qr]
+1[rr]
+67[sr]
+2[ps]
+1[rs]
+)
+2
+W[rp]
+B[rq]
+Diagram 3 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's attachment at 1 is the blind spot in which the vital point hides. This most likely leaves black stunned. There is no countermeasure.
+\par
+\par From 2 to 5, black's death is demonstrated. You cannot find a move like white 1 easily unless you are very attentive.
+\par }
+#
+(
+2[mn]
+2[oo]
+2[po]
+2[qo]
+2[ro]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[nq]
+1[oq]
+2[nr]
+1[pr]
+1[qr]
+1[rr]
+65[sr]
+2[ps]
+1[rs]
+)
+5
+W[sr]
+B[rq]
+W[sq]
+B[sp]
+W[rp]
+Diagram 4 (A Practice Problem)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par This is a similar position but the technique is the same.
+\par
+\par \b White to Play.\b0
+\par After white 1 is exchanged for black 2, the problem is the same. However, even without the 1-2 exchange, white can attach at 3 and kill black.
+\par
+\par Please check for yourself.
+\par }
+#
+(
+2[nn]
+2[on]
+1[oo]
+2[po]
+2[qo]
+2[ro]
+2[mp]
+1[np]
+1[pp]
+1[qp]
+2[lq]
+2[nq]
+1[oq]
+2[nr]
+2[or]
+1[pr]
+1[qr]
+1[rr]
+2[ps]
+)
+3
+W[qs]
+B[rs]
+W[sr]

@@ -1,0 +1,167 @@
+//19
+5
+Living with one Move (19)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 .
+\par Black has to live unconditionally.
+\par Black has to sacrafice something for life.
+\par
+\par If Black wants to save everything he can't get a good result.
+\par }
+#
+(
+2[qn]
+2[pp]
+2[qp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[qr]
+2[rr]
+2[ns]
+1[os]
+2[qs]
+2[ss]
+)
+0
+Dia. 01 Captured
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black 1 is \cf1\b greedy\cf0\b0 .
+\par It is understandable that Black wants to save his two stones as well, but after White 2 his \cf2\b whole group dies\cf0\b0 .
+\par
+\par If Black plays at A now, he dies in gote.
+\par }
+#
+(
+2[qn]
+2[pp]
+2[qp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+65[sq]
+2[nr]
+1[or]
+1[qr]
+2[rr]
+2[ns]
+1[os]
+2[qs]
+2[ss]
+)
+2
+B[pr]
+W[rp]
+Dia. 02 Meaningless
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Trying to go out with Black 1 is \cf1\b meaningless\cf0\b0 .
+\par
+\par White captures the Black two stones with a snapback at 2 and kills the whole group at the same time.
+\par
+\par
+\par }
+#
+(
+2[qn]
+2[pp]
+2[qp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[qr]
+2[rr]
+2[ns]
+1[os]
+2[qs]
+2[ss]
+)
+2
+B[rp]
+W[pr]
+Dia. 03 Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par How about Black 1?
+\par After White 2, Black makes \cf1\b pae \cf0\b0 with 3.
+\par However it was said that Black has to live unconditionally.
+\par
+\par Pae is a failure.
+\par
+\par
+\par }
+#
+(
+2[qn]
+2[pp]
+2[qp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[qr]
+2[rr]
+65[sr]
+2[ns]
+1[os]
+2[qs]
+2[ss]
+)
+4
+B[sr]
+W[sq]
+B[sp]
+W[pr]
+Dia. 04 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's descending move at 1 is the \cf1\b only way to live\cf0\b0 .
+\par
+\par Black can't do anything against White 2, he has to sacrafice his two stones then he can capture the two White stones with \cf1\b continuous dansu\cf0\b0 .
+\par It is unnecessary to explain that White can't connect at A, right?
+\par
+\par
+\par }
+#
+(
+2[qn]
+2[pp]
+2[qp]
+2[nq]
+2[oq]
+1[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[qr]
+6[rr]
+2[ns]
+1[os]
+2[qs]
+65[rs]
+6[ss]
+)
+3
+B[sq]
+W[pr]
+B[sr]

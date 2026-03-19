@@ -1,0 +1,210 @@
+//19
+6
+Use the Shortage of Liberties
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 .
+\par
+\par It is a capturing race between Black \'a1\'e3 stones and White \'a1\'e2 stones.
+\par
+\par Black has two liberties and White has three, so it seems it is hard for Black to win this capturing race. However if he makes use of the shortage of liberties, he can win.
+\par }
+#
+(
+2[qn]
+2[po]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+2[sp]
+1[nq]
+6[pq]
+5[qq]
+5[rq]
+5[sq]
+1[nr]
+6[or]
+6[pr]
+5[qr]
+2[sr]
+)
+0
+Dia. 01 Bad Reading 1
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Some people might though about playing on the outside liberty at 1.
+\par If White plays dansu at 2, Black plays a 3 and wins.
+\par
+\par White can't play from both side because of shortage of liberties. However this sequence is terrible.
+\par
+\par White could play dansu at 3 instead of 2 and then Black is captured.
+\par
+\par }
+#
+(
+2[qn]
+2[po]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+2[sp]
+1[nq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+1[nr]
+2[or]
+2[pr]
+1[qr]
+2[sr]
+)
+3
+B[oq]
+W[rr]
+B[qs]
+Dia. 02 Bad Reading 2
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Shall we check Black 1?
+\par If White plays dansu at 2, Black captures at 3 and wins the capturing race.
+\par
+\par It is \cf1\b eye vs. no eye\cf0\b0  situation up to 5.
+\par
+\par However this is another bad reading. White can play at A instead of 2 and resist with pae.
+\par
+\par It is a failure, because Black can win without pae.
+\par }
+#
+(
+2[qn]
+2[po]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+2[sp]
+1[nq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+1[nr]
+2[or]
+2[pr]
+1[qr]
+2[sr]
+65[rs]
+)
+5
+B[rr]
+W[qs]
+B[ss]
+W[ps]
+B[oq]
+Dia. 03 Bad Reading 3
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par How about the 1-2 vital point in the corner?
+\par If Black plays the diagonal move at 1, it looks like he is going to win the capturing race.
+\par
+\par If White plays at 2, Black fills the liberty with 3 and Black wins. It is \cf1\b eye vs. no eye\cf0\b0  situation.
+\par However this is another bad reading.
+\par }
+#
+(
+2[qn]
+2[po]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+2[sp]
+1[nq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+1[nr]
+2[or]
+2[pr]
+1[qr]
+2[sr]
+)
+3
+B[rs]
+W[ps]
+B[oq]
+Dia. 04 White's Plan/Pae
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par After Black \'a1\'e3, White has a nice play with 1. It is a bit difficult move.
+\par
+\par Black has to capture with 2 and then what happens if White plays at 3?
+\par Yes, that's right. It is pae.
+\par Therefore Black \'a1\'e3 is not the vital point, but a careless move.
+\par
+\par
+\par
+\par }
+#
+(
+2[qn]
+2[po]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+2[sp]
+1[nq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+1[nr]
+2[or]
+2[pr]
+1[qr]
+2[sr]
+5[rs]
+)
+5
+W[qs]
+B[ps]
+W[os]
+B[oq]
+W[qs]
+Dia. 05 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black 1 is the only move we haven't tried yet.
+\par Black can win the capturing race with this calm descending move at 1.
+\par
+\par It makes use of White's shortage of liberties.
+\par }
+#
+(
+2[qn]
+2[po]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+2[sp]
+1[nq]
+2[pq]
+1[qq]
+1[rq]
+1[sq]
+1[nr]
+2[or]
+2[pr]
+1[qr]
+2[sr]
+)
+1
+B[qs]

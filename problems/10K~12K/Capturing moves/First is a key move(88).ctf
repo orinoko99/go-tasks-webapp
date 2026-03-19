@@ -1,0 +1,120 @@
+//19
+4
+First is a key move(88)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par B seems to be alive completely.
+\par But there is a weakpoint!!
+\par
+\par
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[pq]
+1[qq]
+2[rq]
+1[sq]
+2[nr]
+1[rr]
+1[sr]
+1[ps]
+)
+0
+Dia.1(Vital point?)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Playing at 2 to 1 point \cf1\b isn't good reading.
+\par \cf0\b0
+\par W can live easily.
+\par
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[pq]
+1[qq]
+2[rq]
+1[sq]
+2[nr]
+1[rr]
+1[sr]
+1[ps]
+)
+2
+W[rs]
+B[qs]
+Dia.2(B is already alive?)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Diagonal move didn't try to capture B's group.
+\par \cf1\b W might think about B is already alive.\cf0\b0
+\par
+\par B can live easily!
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[pq]
+1[qq]
+2[rq]
+1[sq]
+2[nr]
+1[rr]
+1[sr]
+1[ps]
+)
+2
+W[os]
+B[pr]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Attaching inside is a\cf1\b  good vital point.
+\par \cf0\b0
+\par B can't dansu at A but dansu at B also can't be alive because W would make an empty triangle which the shape of death.
+\par
+\par }
+#
+(
+2[op]
+2[pp]
+2[qp]
+2[rp]
+2[sp]
+2[nq]
+1[pq]
+1[qq]
+2[rq]
+1[sq]
+2[nr]
+66[pr]
+1[rr]
+1[sr]
+1[ps]
+65[rs]
+)
+3
+W[qs]
+B[or]
+W[qr]

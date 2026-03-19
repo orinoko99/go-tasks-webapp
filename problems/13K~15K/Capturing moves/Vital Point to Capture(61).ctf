@@ -1,0 +1,150 @@
+//19
+4
+Where is a vital point?(61)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par It's\b  White\b0 's turn\b  \b0
+\par
+\par First move is very important.
+\par }
+#
+(
+2[pn]
+2[qn]
+2[rn]
+2[sn]
+2[oo]
+1[qo]
+1[ro]
+2[so]
+2[op]
+1[qp]
+1[sp]
+2[oq]
+1[pq]
+1[qq]
+2[or]
+2[pr]
+1[qr]
+1[sr]
+1[ps]
+2[rs]
+)
+0
+Dia.1(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \cf1\b Playing inside\cf0\b0  at 1 is a right move.
+\par
+\par Up to 3, B can't make two real eyes.
+\par
+\par If B plays at 3 W would make a straight three.
+\par
+\par The straight three has a vital point at the middle.
+\par
+\par }
+#
+(
+2[pn]
+2[qn]
+2[rn]
+2[sn]
+2[oo]
+1[qo]
+1[ro]
+2[so]
+2[op]
+1[qp]
+1[sp]
+2[oq]
+1[pq]
+1[qq]
+2[or]
+2[pr]
+1[qr]
+1[sr]
+1[ps]
+2[rs]
+)
+3
+W[rq]
+B[rr]
+W[qs]
+DIa.2(Another answer?)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par How about W1??
+\par
+\par In this sequence is the same as before(Dia.1)
+\par
+\par So does this problem have two
+\par answer??
+\par
+\par Nope!!
+\par }
+#
+(
+2[pn]
+2[qn]
+2[rn]
+2[sn]
+2[oo]
+1[qo]
+1[ro]
+2[so]
+2[op]
+1[qp]
+1[sp]
+2[oq]
+1[pq]
+1[qq]
+2[or]
+2[pr]
+1[qr]
+1[sr]
+1[ps]
+2[rs]
+)
+3
+W[qs]
+B[rr]
+W[rq]
+Dia.3(Enemy's vital point)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If W saved one stone to play at \'a1\'e2, B would make eyes.
+\par
+\par B1 is\cf1\b  a good move\cf0\b0  and \f1 coming from the proverb, which says the opponent's vital point is my vital point.\f0
+\par
+\par Playing at A is suicide so B is already alive.
+\par
+\par }
+#
+(
+2[pn]
+2[qn]
+2[rn]
+2[sn]
+2[oo]
+1[qo]
+1[ro]
+2[so]
+2[op]
+1[qp]
+1[sp]
+2[oq]
+1[pq]
+1[qq]
+2[or]
+2[pr]
+1[qr]
+65[rr]
+1[sr]
+1[ps]
+6[qs]
+2[rs]
+)
+1
+B[rq]

@@ -1,0 +1,54 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mn][oo][po][qo][ro][so][np][sp][nq][nr][pr][ns][os][rs]AB[op][pp][qp][rp][oq][rq][sq][or][qr][qs]LBC[Vital Point to Capture?(15)
+
+
+\b White to play\b0 .
+Black's shape is quite strange.
+It is hard to admit that it is alive, isn't it?
+
+White can capture Black if he finds the move which creates shortage of liberties.
+
+])
+(;AW[mn][oo][po][qo][ro][so][np][sp][nq][nr][pr][ns][os][rs]AB[op][pp][qp][rp][oq][rq][sq][or][qr][qs]LB[ps:A]
+;W[rr]LB[rr:1][ps:A]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White 1 is a \cf1\b good vital point \cf0\b0 which creates a shortage of liberties.
+
+It is painful for Black that he can't play at A.
+
+The shape which looked alive suddenly  looks like dying.
+
+])
+(;AW[mn][oo][po][qo][ro][so][np][sp][nq][nr][pr][rr][ns][os][rs]AB[op][pp][qp][rp][oq][rq][sq][or][qr][qs]
+;B[sr]
+;W[ps]
+;B[ss]
+;W[pq]LB[sr:1][ps:2][ss:3][pq:4]C[Dia. 02 Follow up
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black has to play dansu at 1 and then White plays dansu while connecting at 2. Black can't make an eye on the left side, can he?
+
+\cf1\b Black dies\cf0\b0  up to 4.
+
+])
+(;AW[mn][oo][po][qo][ro][so][np][sp][nq][nr][pr][ns][os][rs]AB[op][pp][qp][rp][oq][rq][sq][or][qr][qs]
+;W[ps]
+;B[rr]
+;W[pq]
+;B[ss]LB[ps:1][rr:2][pq:3][ss:4]C[Dia. 03 Black Escapes
+
+{\colortbl ;\red0\green0\blue255;}
+
+If White is not careful he might simply play at 1. After that Black \cf1\b saves \cf0\b0 his corner with 2.
+
+White made sente endgame up to 4, but he missed the nice chance to kill Black.
+])
+)

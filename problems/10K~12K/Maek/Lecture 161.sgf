@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[gn][co][dp][fp][gp][bq][cq][fq][ar]AB[dm][cn][bo][do][eo][bp][ip][gq][hq][br][cr][er][fr]LBC[How to Cut
+
+Where should Black play to cut the white stones?
+])
+(;AW[gn][co][dp][fp][gp][bq][cq][fq][ar]AB[dm][cn][bo][do][eo][bp][ip][gq][hq][br][cr][er][fr]
+;B[dq]
+;W[ep]
+;B[cp]LB[dq:1][ep:2][cp:3]C[Correct
+
+
+The clamp at 1 is the called the "bamboo joint vital point" and makes miai of cutting at 2 and 3. White can connect only at one of them.
+])
+(;AW[gn][co][dp][fp][gp][bq][cq][fq][ar]AB[dm][cn][bo][do][eo][bp][ip][gq][hq][br][cr][er][fr]
+;B[dr]
+;W[dq]LB[dr:1][dq:2]C[Wrong
+
+
+If Black connects at 1, White will also connect with the bamboo joint at 2.
+])
+)

@@ -1,0 +1,67 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[sm]AW[rn][ro][qp][sp][qq][qr][rr][ps]AB[qm][rm][sm][qn][sn][qo][pp][pq][nr][pr][qs]LBCR[sm]C[Can be alive by one move(71)
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+This is a little bit difficult!!
+
+])
+(;AW[rn][ro][qp][sp][qq][qr][rr][ps]AB[qm][rm][sm][qn][sn][qo][pp][pq][nr][pr][qs]LB[os:A]
+;W[rp]
+;B[sq]
+;W[rs]
+;B[sr]LB[rp:1][sq:2][rs:3][sr:4][os:A]C[Dia.1(Misreading)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W1 tries to defend throw in move and wants B capture at A.
+But \cf1\b it is misreding.\cf0\b0
+
+Playing inside at 2 is a strong attack.
+Up to 4, W is dead.
+])
+(;AW[rn][ro][qp][sp][qq][qr][rr][ps]AB[qm][rm][sm][qn][sn][qo][pp][pq][nr][pr][qs]
+;W[rs]
+;B[rp]
+;W[rq]
+;B[so]
+;W[sr]LB[rs:1][rp:2][rq:3][so:4][sr:5]C[Dia.2(Common move)
+
+
+Capturing at 1 seems to be a common move but it is the way to be death.
+
+However, throw in at 2 is a slack move so up to 5, W can make two eyes.
+
+
+])
+(;AW[rn][ro][qp][sp][qq][qr][rr][ps][rs]AB[qm][rm][sm][qn][sn][qo][pp][pq][nr][pr]
+;B[sr]
+;W[sq]
+;B[rp]LB[sr:1][sq:2][rp:3]C[Dia.3(2 to 1 point)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b 2 to 1 point\cf0\b0  is the right vital point to kill W.
+
+Up to 3, W can't make two eyes.
+
+])
+(;AW[rn][ro][qp][sp][qq][qr][rr][ps]AB[qm][rm][sm][qn][sn][qo][pp][pq][nr][pr][qs]
+;W[sq]
+;B[os]
+;W[rs]LB[sq:1][os:2][rs:3]C[Dia.4(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+W1 is the vital point of life.\cf0\b0
+
+This is the best result of both.
+
+])
+)

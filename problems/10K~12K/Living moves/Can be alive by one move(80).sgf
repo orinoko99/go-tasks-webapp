@@ -1,0 +1,57 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qp][pq][qq][rq][or][qr][ns][os][ss]AB[po][qo][ro][op][rp][mq][oq][sq][nr][ms]LBC[Can be alive by one move(80)
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+\lang1033\f1 First move is important.\f2
+\lang1042\f0
+])
+(;AW[qp][pq][qq][rq][or][qr][ns][os][ss]AB[po][qo][ro][op][rp][mq][oq][sq][nr][ms]LB[ps:A][rs:B]
+;W[sr]
+;B[qs]LB[sr:1][qs:2][ps:A][rs:B]C[Dia.1(Nothing to do)
+
+{\colortbl ;\red0\green0\blue255;}
+
+You might think extent eye space but it is the way to be failure.
+
+\cf1\b Attaching at 2 is a good attack.\cf0\b0
+
+W can't dansu both of A and B.
+
+])
+(;AW[qp][pq][qq][rq][or][qr][sr][ns][os][ss]AB[po][qo][ro][op][rp][mq][oq][sq][nr][ms]LB[rr:A][rs:A]
+;B[rs]
+;W[qs]LB[rs:1][qs:2][rr:A][rs:A]C[Dia.2(The worst move)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Dansu at 1 instead of attaching at 2 is \cf1\b the worst move.
+\cf0\b0
+W can live easily!
+
+And W can play at A instead of 2.
+
+])
+(;AW[qp][pq][qq][rq][or][qr][ns][os][ss]AB[po][qo][ro][op][rp][mq][oq][sq][nr][ms]
+;W[ps]
+;B[rs]
+;W[sr]
+;B[rr]
+;W[sr]LB[ps:1][rs:2][sr:3][rr:4][sr:5]C[Dia.3 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b Making an eye\cf0\b0  is the only way to live.
+
+B2 is a strong move but W3 is an excellent move.
+
+B's two stones are in \lang1033\f1 chokchoksu.\f2
+\lang1042\f0
+])
+)

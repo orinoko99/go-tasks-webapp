@@ -1,0 +1,101 @@
+//19
+3
+Black's skillfull move
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black and White are in a in a capturing race. Where should Black play?
+\par }
+#
+(
+2[dn]
+1[bo]
+1[fo]
+2[bp]
+1[cp]
+2[dp]
+2[ep]
+1[fp]
+1[aq]
+1[bq]
+2[cq]
+2[dq]
+1[eq]
+1[fq]
+2[gq]
+2[iq]
+2[br]
+1[cr]
+1[dr]
+2[er]
+2[fr]
+2[bs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black should wedge in at 1 to squeeze White. If White connects at 4, Black will go round at 5 to capture White.
+\par }
+#
+(
+2[dn]
+1[bo]
+1[fo]
+2[bp]
+1[cp]
+2[dp]
+2[ep]
+1[fp]
+1[aq]
+1[bq]
+2[cq]
+2[dq]
+1[eq]
+1[fq]
+2[gq]
+2[iq]
+2[br]
+1[cr]
+1[dr]
+2[er]
+2[fr]
+2[bs]
+)
+5
+B[do]
+W[co]
+B[eo]
+W[cp]
+B[cn]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black 1 allows White to make the strong bamboo connection at 2. Black failed.
+\par }
+#
+(
+2[dn]
+1[bo]
+1[fo]
+2[bp]
+1[cp]
+2[dp]
+2[ep]
+1[fp]
+1[aq]
+1[bq]
+2[cq]
+2[dq]
+1[eq]
+1[fq]
+2[gq]
+2[iq]
+2[br]
+1[cr]
+1[dr]
+2[er]
+2[fr]
+2[bs]
+)
+2
+B[co]
+W[en]

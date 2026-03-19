@@ -1,0 +1,122 @@
+//19
+4
+Vital Point to Capture?(34)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Black has a complete eye on the right side, then how about the left side?
+\par
+\par White's descending move at \'a1\'e2 gives big support to capture this Black group.
+\par
+\par
+\par
+\par }
+#
+(
+2[qn]
+2[ro]
+2[pp]
+2[qp]
+1[rp]
+2[nq]
+2[oq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+1[rr]
+6[ns]
+1[rs]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's \cf1\b attachment on the first line\cf0\b0  at 1 is a \cf1\b sharp attack\cf0\b0 .
+\par
+\par If Black cuts with 2, White breaks the eye with 3 and Black dies.
+\par
+\par
+\par }
+#
+(
+2[qn]
+2[ro]
+2[pp]
+2[qp]
+1[rp]
+2[nq]
+2[oq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+1[rr]
+2[ns]
+1[rs]
+)
+3
+W[ps]
+B[os]
+W[qr]
+Dia. 02 False eye
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Against White \'a1\'e2, if Black pulls back with 1, White plays at 2 and Black has not enough space to make an eye.
+\par
+\par It is false eye up to 4, so Blck is dead again.
+\par
+\par }
+#
+(
+2[qn]
+2[ro]
+2[pp]
+2[qp]
+1[rp]
+2[nq]
+2[oq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+1[rr]
+2[ns]
+6[ps]
+1[rs]
+)
+4
+B[qq]
+W[os]
+B[qs]
+W[pq]
+Dia. 03 Big Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's hane at 1 is a \cf1\b big mistake\cf0\b0 .
+\par Black can make his second eye with 2.
+\par
+\par
+\par }
+#
+(
+2[qn]
+2[ro]
+2[pp]
+2[qp]
+1[rp]
+2[nq]
+2[oq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+1[rr]
+2[ns]
+1[rs]
+)
+2
+W[sp]
+B[os]

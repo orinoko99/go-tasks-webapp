@@ -1,0 +1,53 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pp][qp][rp][oq][pq][rq][nr][qr][os]AB[mo][po][qo][ro][np][op][sp][nq][sq][mr][rr][sr][ms]LBC[First is a key move(95)
+
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\lang1042\f0
+Ko is the best result?
+
+])
+(;AW[pp][qp][rp][oq][pq][rq][nr][qr][os]AB[mo][po][qo][ro][np][op][sp][nq][sq][mr][rr][sr][ms]
+;B[or]
+;W[pr]
+;B[ns]
+;W[qs]LB[or:1][pr:2][ns:3][qs:4]C[Dia.1(Ko)
+
+{\colortbl ;\red255\green0\blue0;}
+
+In the actual game, B might throw in at 1 that is a sharp move.
+
+Up to 4, B can make a\cf1\b  ko\cf0\b0  but it isn't the best result!
+
+])
+(;AW[pp][qp][rp][oq][pq][rq][nr][qr][os]AB[mo][po][qo][ro][np][op][sp][nq][sq][mr][rr][sr][ms]LB[ns:A]
+;B[qs]
+;W[ps]
+;B[or]LB[qs:1][ps:2][or:3][ns:A]C[Dia.2(Right answer)
+
+
+Bending at 1 is an excellent attack to erase W's eye.
+
+W must block at 2 and B3 is the final blow.
+Then W can't connect at A it is self-dansu.
+
+])
+(;CR[rs]AW[pp][qp][rp][oq][pq][rq][nr][qr][os][rs]AB[mo][po][qo][ro][np][op][sp][nq][sq][mr][rr][sr][ms]
+;B[or]
+;W[pr]
+;B[ns]
+;W[qs]LB[or:1][pr:2][ns:3][qs:4]CR[rs]C[Dia.3(An applied problem)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+
+If W occupied at \'a1\'e2, the best result is a ko.
+\cf1\b Dia.1 is the right answer in this  case! \cf0\b0
+])
+)

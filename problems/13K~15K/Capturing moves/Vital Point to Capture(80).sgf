@@ -1,0 +1,60 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qm][qo][ro][np][op][pp][nq][nr][qr][ns][os][rs]AB[qp][rp][oq][pq][qq][or][rr][ps]LBC[Where is a vital point?(80)
+
+
+\f1 It's\b  White\b0 's turn.\f0
+
+Making ko is simple but that is the best answer??
+
+])
+(;AW[qm][qo][ro][np][op][pp][nq][nr][qr][ns][os][rs]AB[qp][rp][oq][pq][qq][or][rr][ps]
+;W[qs]
+;B[pr]
+;W[sp]LB[qs:1][pr:2][sp:3]C[Dia.1(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Connecting at 1 is a \cf1\b\f1 brilliant move\cf0\b0 .\f0
+
+B has to connect(B2) and W3 is a \f1 trenchancy attack.\f0
+
+Continue the next page!
+])
+(;AW[qm][qo][ro][np][op][pp][sp][nq][nr][qr][ns][os][qs][rs]AB[qp][rp][oq][pq][qq][or][pr][rr][ps]
+;B[ss]
+;W[sq]LB[ss:1][sq:2]C[Dia.2(Continue)
+
+
+After B captured three stone(W1),W erases eye shape(B2).
+
+B can't make real eyes.
+])
+(;AW[qm][qo][ro][np][op][pp][nq][nr][qr][ns][os][rs]AB[qp][rp][oq][pq][qq][or][rr][ps]LB[sp:B][rq:A]
+;W[sr]
+;B[sq]LB[sr:1][sq:2][sp:B][rq:A]C[DIa.3(Ko)
+
+{\colortbl ;\red255\green0\blue0;}
+
+If you couldn't find right answer(Dia.1)
+B could make a \cf1\b ko\cf0\b0 !!
+
+Playing at A instead of 2 is not working because W1 can escape at B.
+])
+(;AW[qm][qo][ro][np][op][pp][nq][nr][qr][ns][os][rs]AB[qp][rp][oq][pq][qq][or][rr][ps]LB[pr:A]
+;W[sp]
+;B[sq]
+;W[qs]
+;B[ss]LB[sp:1][sq:2][qs:3][ss:4][pr:A]C[Dia.4(The wrong sequence)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Playing at 1 first is the\cf1\b  wrong sequence\cf0\b0 .
+
+After W3, B is no longer play at A and it turnes to be a ko(B4).
+])
+)

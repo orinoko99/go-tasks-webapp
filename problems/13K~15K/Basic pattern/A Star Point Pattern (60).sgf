@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[rp]AW[pm][qn][rp][nq]AB[on][pn][kp][pp]LBCR[rp]C[Star point jeongseok (60)
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 More variations on jeongseok!  We'll continue looking at this one where Black attaches and extends.  White's kngiht's move is not a good move.  It's pretty weak don't you think? How should we respond?\lang1042\f0\fs18
+
+
+])
+(;AW[pm][qn][rp][nq]AB[on][pn][kp][pp]LB[po:A]
+;B[qq]
+;W[rq]
+;B[rr]
+;W[qo]LB[qq:1][rq:2][rr:3][qo:4][po:A]C[Dia.1 Is it solid?
+
+Black could play at the 3,3 point.  This seems like a solid response but it's rather weak and doesn't do much against White.  White will push at 2, Black blocks at 3 and then when White extends at 4 we see that Black has a weakness at A.  Black's shape is weak.
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][rp][nq]AB[on][pn][kp][pp]
+;B[rq]
+;W[qq]
+;B[qp]
+;W[rr]LB[rq:1][qq:2][qp:3][rr:4]C[Dia.2 A strong move?
+
+Black 1 looks like it cuts off White's advance into the corner but in fact this move is overplay.  White was actually waiting for Black to play this move.  white plays at 2, Black cuts at 3, and then White captures a stone with 4.  Next...
+\lang1042\f1\fs18
+
+])
+(;CR[nq]AW[pm][qn][rp][nq][qq][rr]AB[on][pn][kp][pp][qp][rq]
+;B[ro]
+;W[sq]
+;B[qo]LB[ro:1][sq:2][qo:3]CR[nq]C[Dia.3 Great for White
+
+The only thing Black can do is counter dansu at 1 and then connect.  Notice how the marked White stone is still connected.  White gets large territory and seonsu, so this result is really great for him.  Your homework is to find a better sequence for Black.
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][rp][nq]AB[on][pn][kp][pp]LBC[No diagram name
+
+
+
+])
+)

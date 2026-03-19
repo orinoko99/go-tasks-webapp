@@ -1,0 +1,162 @@
+//19
+4
+First is a key move(98)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+\par
+\par The ko isn't the right answer.
+\par }
+#
+(
+1[rm]
+1[nn]
+1[on]
+1[qn]
+1[no]
+2[oo]
+2[po]
+2[qo]
+1[ro]
+2[op]
+2[qp]
+1[rp]
+1[jq]
+1[lq]
+1[mq]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+2[mr]
+2[qr]
+1[rr]
+)
+0
+Dia.1(Ko)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B1 is that \cf1\b anybody can think about this move.\cf0\b0
+\par
+\par W must play at 2.
+\par B3 is a good move but it will be a\cf1\b  ko\cf0\b0  so this result is not the right answer.
+\par
+\par }
+#
+(
+1[rm]
+1[nn]
+1[on]
+1[qn]
+1[no]
+2[oo]
+2[po]
+2[qo]
+1[ro]
+2[op]
+2[qp]
+1[rp]
+1[jq]
+1[lq]
+1[mq]
+65[nq]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+66[lr]
+2[mr]
+2[qr]
+1[rr]
+)
+7
+B[nr]
+W[or]
+B[ms]
+W[ps]
+B[rs]
+W[qs]
+B[os]
+Dia.2(Also ko)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B1 and 3 are common attack.
+\par
+\par W4 is a good respond so up to 9, this result is also a \cf1\b ko\cf0\b0  and \cf2\b not the right answer.
+\par \cf0\b0
+\par }
+#
+(
+1[rm]
+1[nn]
+1[on]
+1[qn]
+1[no]
+2[oo]
+2[po]
+2[qo]
+1[ro]
+2[op]
+2[qp]
+1[rp]
+1[jq]
+1[lq]
+1[mq]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+2[mr]
+65[pr]
+2[qr]
+1[rr]
+)
+9
+B[pr]
+W[or]
+B[qs]
+W[nq]
+B[lr]
+W[ns]
+B[ls]
+W[ms]
+B[os]
+Dia.3 (Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par Attaching at 1 is \cf1\b an excellent vital point.
+\par \cf0\b0 W has nothing to do anymore.\cf1\b
+\par \cf0\b0
+\par }
+#
+(
+1[rm]
+1[nn]
+1[on]
+1[qn]
+1[no]
+2[oo]
+2[po]
+2[qo]
+1[ro]
+2[op]
+2[qp]
+1[rp]
+1[jq]
+1[lq]
+1[mq]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+2[mr]
+2[qr]
+1[rr]
+)
+3
+B[or]
+W[pr]
+B[nr]

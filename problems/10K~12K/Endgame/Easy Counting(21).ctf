@@ -1,0 +1,156 @@
+//19
+4
+Easy Counting(21)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 (or \b Black to play\b0 ).
+\par
+\par Either White plays at \b A\b0  or Black at \b B\b0  the value of these moves are same. How many points are they worth?
+\par }
+#
+(
+2[ql]
+2[on]
+2[pn]
+1[no]
+2[oo]
+1[po]
+2[ro]
+1[mp]
+1[op]
+2[pp]
+2[qp]
+1[jq]
+1[oq]
+2[pq]
+1[qq]
+2[rq]
+1[or]
+2[pr]
+1[qr]
+1[rr]
+2[sr]
+1[ps]
+66[qs]
+65[rs]
+)
+0
+Dia. 01 If White Plays
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If White plays, he can get many points by \cf1\b capturing the three Black \'a1\'e3 stones \cf0\b0 with 1.
+\par
+\par It is possible to judge how big this move is, if we compare the result when Black plays at A.
+\par
+\par Later White A-Black B exchange is going to be played.
+\par
+\par }
+#
+(
+2[ql]
+2[on]
+2[pn]
+1[no]
+2[oo]
+1[po]
+2[ro]
+1[mp]
+1[op]
+2[pp]
+2[qp]
+1[jq]
+1[oq]
+2[pq]
+1[qq]
+2[rq]
+1[or]
+2[pr]
+1[qr]
+1[rr]
+2[sr]
+66[os]
+1[ps]
+65[qs]
+)
+1
+W[rs]
+Dia. 02 Total 8 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's territory has increased by capturing the three stones (6 points-Ys) plus with 2 points (Xs)
+\par \cf1\b All together\cf0\b0  it is \cf1\b 8 points\cf0\b0 .
+\par
+\par
+\par
+\par }
+#
+(
+2[ql]
+2[on]
+2[pn]
+1[no]
+2[oo]
+1[po]
+2[ro]
+1[mp]
+1[op]
+2[pp]
+2[qp]
+1[jq]
+1[oq]
+2[pq]
+89[qq]
+2[rq]
+691[sq]
+1[or]
+2[pr]
+89[qr]
+89[rr]
+2[sr]
+1[os]
+1[ps]
+2[qs]
+2[rs]
+691[ss]
+)
+0
+Dia. 03 8 Points
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Even Black plays at 1, his territory doesn't increase.
+\par Black only takes away White's opportunity to make points.
+\par
+\par Therefore the value of White \b A\b0  (Black \b B\b0 ) is \cf1\b 8 points\cf0\b0 .
+\par
+\par
+\par }
+#
+(
+2[ql]
+2[on]
+2[pn]
+1[no]
+2[oo]
+1[po]
+2[ro]
+1[mp]
+1[op]
+2[pp]
+2[qp]
+1[jq]
+1[oq]
+2[pq]
+1[qq]
+2[rq]
+1[or]
+2[pr]
+1[qr]
+1[rr]
+2[sr]
+1[ps]
+)
+1
+B[qs]

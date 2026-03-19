@@ -1,0 +1,155 @@
+//19
+4
+Vital Point 1
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par Black just made an eye with 1.
+\par Black thought he lived with this move, but actually it was a big mistake.
+\par
+\par Where should White play?
+\par }
+#
+(
+2[ln]
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[mp]
+1[np]
+1[pp]
+2[qp]
+2[mq]
+1[nq]
+1[pq]
+2[qq]
+2[mr]
+1[nr]
+1[or]
+1[qr]
+2[rr]
+1[ns]
+2[os]
+2[ps]
+)
+1
+B[op]
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's descending move at 1 is a \cf1\b calm and brilliant\cf0\b0  move.
+\par
+\par After this move, Black can't capture the White \'a1\'e2 stones, because he can't play at A.
+\par
+\par So Black died.
+\par }
+#
+(
+2[ln]
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[mp]
+1[np]
+1[op]
+1[pp]
+2[qp]
+2[mq]
+1[nq]
+1[pq]
+2[qq]
+2[mr]
+1[nr]
+1[or]
+1[qr]
+2[rr]
+1[ns]
+6[os]
+6[ps]
+65[qs]
+)
+1
+W[rs]
+Dia. 02 Black's Plan
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a normal idea.
+\par Black thought White is going to play like this, so that's why he made an eye on the upper side.
+\par
+\par Black's throw-in at 2 is effective so he makes one more eye.
+\par
+\par Next, if White plays at A, the \cf1\b squeeze works\cf0\b0  with B.
+\par
+\par However White had a brilliant move, showed in \b Dia. 01\b0 .
+\par
+\par }
+#
+(
+2[ln]
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[mp]
+1[np]
+1[op]
+1[pp]
+2[qp]
+2[mq]
+1[nq]
+1[pq]
+2[qq]
+2[mr]
+1[nr]
+1[or]
+66[pr]
+1[qr]
+2[rr]
+1[ns]
+2[os]
+2[ps]
+65[ss]
+)
+2
+W[qs]
+B[rs]
+Dia. 03 Black's Correct Move
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par From the beginning how should Black play?
+\par Black's \cf1\b hane \cf0\b0 at 1 is a \cf1\b good move\cf0\b0 . After the exchange for White 2, Black has an eye on the lower side already so he can live with 3.
+\par }
+#
+(
+2[ln]
+2[no]
+2[oo]
+2[po]
+2[qo]
+2[mp]
+1[np]
+1[pp]
+2[qp]
+2[mq]
+1[nq]
+1[pq]
+2[qq]
+2[mr]
+1[nr]
+1[or]
+1[qr]
+2[rr]
+1[ns]
+2[os]
+2[ps]
+65[rs]
+)
+3
+B[rs]
+W[sq]
+B[op]

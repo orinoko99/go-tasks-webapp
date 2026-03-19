@@ -1,0 +1,29 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cn][en][fn][gn][bo][eo][ho][cp][dp][hp][eq][hq]AB[fo][go][bp][ep][gp][bq][cq][dq][gq]
+;W[``]
+;W[``]
+;W[``]LB[``:1][``:2][``:3]C[Black's best answer
+
+How should Black response to White's cut?
+])
+(;AW[cn][en][fn][gn][bo][eo][ho][cp][dp][hp][eq][hq]AB[fo][go][bp][ep][gp][bq][cq][dq][gq]
+;B[er]
+;W[fp]
+;B[gr]LB[er:1][fp:2][gr:3]C[Correct
+
+
+Go around at 1 is the best way to handle White's cut. If White takes at 2, Black descends to 3.
+])
+(;AW[cn][en][fn][gn][bo][eo][ho][cp][dp][hp][eq][hq]AB[fo][go][bp][ep][gp][bq][cq][dq][gq]
+;B[fp]
+;W[gr]LB[fp:1][gr:2]C[Wrong
+
+
+Don't save this single stone! White goes round at 2 and captures many black stones.
+])
+)

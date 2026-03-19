@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cm][cp][dp][cq][cr]AB[eo][ep][gp][dq][dr][hr]LB[ds:]LB[ds:]C[How to Respond
+
+White played the hane at x. Where should Black answer?
+])
+(;AW[cm][cp][dp][cq][cr][ds]AB[eo][ep][gp][dq][dr][hr]
+;B[fr]
+;W[fs]
+;B[gs]
+;W[es]LB[fr:1][fs:2][gs:3][es:4]C[Correct
+
+Black should play the one-point jump at 1 to gain seonsu/sente. After White 4 Black can play elsewhere.
+])
+(;AW[cm][cp][dp][cq][cr][ds]AB[eo][ep][gp][dq][dr][hr]
+;B[er]
+;W[es]
+;B[fs]
+;W[cs]
+;B[fr]LB[er:1][es:2][fs:3][cs:4][fr:5]C[Wrong
+
+Black 1 is not as good as shown in the solution because Black will end in husu/gote.
+])
+)

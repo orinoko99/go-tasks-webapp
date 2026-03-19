@@ -1,0 +1,132 @@
+//19
+4
+First is a key move(96)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+\par
+\par In the actual game, B might play at A and W can be alive by playing at B
+\par
+\par \cf1\b But there is a vital point!\cf0\b0
+\par }
+#
+(
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[mq]
+1[oq]
+2[pq]
+65[qq]
+2[rq]
+2[sq]
+1[nr]
+2[pr]
+66[qr]
+1[sr]
+2[os]
+2[rs]
+)
+0
+Dia.1(The death of straigh three?)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par You would consider playing at 1 first because it is \cf1\b the enemy's vital point is your own.\cf0\b0
+\par
+\par Up to 5, B can capture W's group easily by straight three.
+\par But W won't play like this!!
+\par
+\par }
+#
+(
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[mq]
+1[oq]
+2[pq]
+2[rq]
+2[sq]
+1[nr]
+2[pr]
+1[sr]
+2[os]
+130[qs]
+2[rs]
+)
+5
+B[qr]
+W[qq]
+B[rr]
+W[qs]
+B[or]
+Dia.2(The life of bent four)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W1 is a good answer to B's attack.
+\par
+\par Up to 3, \cf1\b W can be alive by bent four.\cf0\b0
+\par
+\par }
+#
+(
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[mq]
+1[oq]
+2[pq]
+2[qq]
+2[rq]
+2[sq]
+1[nr]
+2[pr]
+1[qr]
+1[rr]
+1[sr]
+2[os]
+2[rs]
+)
+3
+W[or]
+B[qs]
+W[ps]
+Dia.3(Right answer)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par B1 is the enemy's vital point.
+\par After this, W has no way to live.
+\par
+\par Up to 5, this result is\cf1\b  real straight three.\cf0\b0
+\par \cf1\b
+\par }
+#
+(
+1[op]
+1[pp]
+1[qp]
+1[rp]
+1[mq]
+1[oq]
+2[pq]
+2[rq]
+2[sq]
+1[nr]
+2[pr]
+1[sr]
+2[os]
+2[rs]
+)
+5
+B[or]
+W[ps]
+B[qr]
+W[qq]
+B[rr]

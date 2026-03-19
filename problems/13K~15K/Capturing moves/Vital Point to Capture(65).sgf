@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mn][nn][on][lo][po][qo][ro][lp][op][lq][oq][rq][lr][qr]AB[mo][no][oo][mp][pp][mq][pq][mr][pr][ms]LBC[Where is a vital point?(65)
+
+
+\f1 It's\b  White\b0 's turn.\f0
+
+
+W's two stone are dead.
+so B looks like live.
+
+But there is a vital point.
+])
+(;AW[mn][nn][on][lo][po][qo][ro][lp][op][lq][oq][rq][lr][qr]AB[mo][no][oo][mp][pp][mq][pq][mr][pr][ms]LB[qs:A]
+;W[os]
+;B[or]
+;W[ps]
+;B[ns]
+;W[nq]LB[os:1][or:2][ps:3][ns:4][nq:5][qs:A]C[Dia.1(Right move)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Playing inside at 1 is an \cf1\b excellent attack\cf0\b0 .
+
+B 2, 4 try to make an eye space but
+W5 is an empty triangle.
+There is no way to make two eye.
+])
+(;CR[os]AW[mn][nn][on][lo][po][qo][ro][lp][op][lq][oq][rq][lr][qr][os]AB[mo][no][oo][mp][pp][mq][pq][mr][pr][ms]
+;B[ps]
+;W[or]LB[ps:1][or:2]CR[os]C[Dia.2(B is dead)
+
+
+
+Up to 2, It seems to be a capturing race
+But W has one more liberty.
+])
+(;AW[mn][nn][on][lo][po][qo][ro][lp][op][lq][oq][rq][lr][qr]AB[mo][no][oo][mp][pp][mq][pq][mr][pr][ms]LB[ns:A]
+;W[or]
+;B[os]
+;W[nr]
+;B[nq]LB[or:1][os:2][nr:3][nq:4][ns:A]C[Dia.3(The life of bent four)
+
+{\colortbl ;\red255\green0\blue0;}
+
+If W attacked at 1, B2 would be a vital point.
+
+And B4 is a proper move that is '\cf1\b The life of bent four'\cf0\b0
+
+but if B played at A instead of B4, W can make a flower five.
+])
+)

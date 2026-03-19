@@ -1,0 +1,72 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oo][qo][pp][rp][mq][nq][oq][rq][mr][ns]AB[pq][qq][sq][nr][or][rr][ps][ss]LBC[One move problems(39)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 This shape looks like it could go either way, maybe we can capture it, maybe we can't.
+
+Of coruse we can capture it though.  Finding the vital point comes first.
+
+\lang1042\f0\fs18
+])
+(;AW[oo][qo][pp][rp][mq][nq][oq][rq][mr][ns]AB[pq][qq][sq][nr][or][rr][ps][ss]
+;W[sp]
+;B[qr]LB[sp:1][qr:2]C[Dia.1 Endgame
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 White's dansu at 1 is an \cf1\b endgame move\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Black connects at 2 and lives.
+There's an eye on both sides right?
+
+\lang1042\f0\fs18
+])
+(;AW[oo][qo][pp][rp][mq][nq][oq][rq][mr][ns]AB[pq][qq][sq][nr][or][rr][ps][ss]LB[sr:A]
+;W[qr]
+;B[qs]
+;W[sp]LB[qr:1][qs:2][sp:3][sr:A]C[Dia.2 Pae is not enough
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 White 1 might give you a hint as to what the right answer is.
+\cf1\b Your opponent's vital point is your vital point.
+\cf0\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Black plays 2 and White dansus at 3, preventing Black from directly connecting at A, making this result a Pae.  However \cf2\b Pae is not enough\cf0\lang1042\b0\f0\fs18 .
+])
+(;AW[oo][qo][pp][rp][mq][nq][oq][rq][mr][ns]AB[pq][qq][sq][nr][or][rr][ps][ss]
+;W[ms]
+;B[qs]LB[ms:1][qs:2]C[Dia.3 Black 2 is the vital point
+
+
+\lang1033\f1\fs16 What about connecting at 1?
+Black lives with 2, the vital point.
+
+There's no way to capture now, is there?  \lang1042\f0\fs18
+])
+(;AW[oo][qo][pp][rp][mq][nq][oq][rq][mr][ns]AB[pq][qq][sq][nr][or][rr][ps][ss]LB[pr:A]
+;W[qs]
+;B[qr]
+;W[ms]LB[qs:1][qr:2][ms:3][pr:A]C[Dia.4 Correct/Attach
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White 1 is the\lang1042\f0\fs18  \cf1\lang1033\b\f1\fs16 vital point of this shape\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Black blocks with 2, the only move.
+Now White connects at 3.
+
+Black cannot form another eye because of a lack of liberties, and A is now a false eye.
+
+\lang1042\f0\fs18
+
+])
+(;AW[oo][qo][pp][rp][mq][nq][oq][rq][mr][ns]AB[pq][qq][sq][nr][or][rr][ps][ss]LBC[No diagram name
+
+
+
+])
+)

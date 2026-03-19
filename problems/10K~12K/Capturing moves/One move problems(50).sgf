@@ -1,0 +1,65 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[lo][np][op][pp][qp][rp][mq][rq][mr]AB[nq][pq][qq][nr][rr][sr]LBC[One move problems(50)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 This is a pretty difficult problem.  However once you finally settle on a move you'll leap out of your chair and scream "This is it!"  Maybe not.  Anyway just find the next move.
+
+\lang1042\f0\fs18
+])
+(;AW[lo][np][op][pp][qp][rp][mq][rq][mr]AB[nq][pq][qq][nr][rr][sr]LB[ps:A]
+;W[oq]
+;B[or]
+;W[ns]
+;B[pr]LB[oq:1][or:2][ns:3][pr:4][ps:A]C[Dia.1 Day lat, dollar short
+
+White 1 is not quite it.  When Black plays at 2 and White plays 3, Black can just connect at 4.  It may have been White's plan to play at A to make use of Black's lack of liberties, but when Black plays dansu White cannot connect, so White is a day late and a dollar short with this move.
+\lang1042\f1\fs18
+
+])
+(;AW[lo][np][op][pp][qp][rp][mq][rq][mr]AB[nq][pq][qq][nr][rr][sr]
+;W[ns]
+;B[or]
+;W[ps]
+;B[os]
+;W[pr]LB[ns:1][or:2][ps:3][os:4][pr:5]C[Dia.2 Let's read it out
+
+Does White 1 kill Black?  If Black plays 2, we can jump in at 3 and then when Black cuts us, we play 5 and it's connect and die.  This clearly doesn't work for Black.
+\lang1042\f1\fs18
+
+])
+(;CR[ns]AW[lo][np][op][pp][qp][rp][mq][rq][mr][ns]AB[nq][pq][qq][nr][rr][sr]
+;B[ps]
+;W[or]
+;B[oq]
+;W[os]
+;B[pr]
+;W[ms]
+;B[qs]LB[ps:1][or:2][oq:3][os:4][pr:5][ms:6][qs:7]CR[ns]C[Dia.3 Mutual vital points
+
+Let's try to find the vital point for this shape.  In response to the marked White stone, Black could play 1 which is a good move.  This is where White played in the previous diagram, isn't it?  Our opponent's vital point is our vital point.  White could try some more stuff but in the end Black gets two eyes.
+\lang1042\f1\fs18
+])
+(;AW[lo][np][op][pp][qp][rp][mq][rq][mr]AB[nq][pq][qq][nr][rr][sr]LB[oq:A]
+;W[ps]
+;B[or]
+;W[ns]
+;B[os]
+;W[pr]LB[ps:1][or:2][ns:3][os:4][pr:5][oq:A]C[Dia.4 Correct / The placement attack
+
+White's placement attack at 1 is the vital point and a severe move.  There really isn't anything Black can do against it.  Once White plays the dansu at 5 Black is caught in a shortage of liberties and dies.
+\lang1042\f1\fs18
+
+
+])
+(;AW[lo][np][op][pp][qp][rp][mq][rq][mr]AB[nq][pq][qq][nr][rr][sr]LBC[No diagram name
+
+
+
+])
+)

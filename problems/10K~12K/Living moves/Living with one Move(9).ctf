@@ -1,0 +1,192 @@
+//19
+5
+Living with one Move(9)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par White's space in the corner is very wide. However there is only one move he can save his group.
+\par
+\par After the first move it becomes clear.
+\par }
+#
+(
+1[qn]
+1[rn]
+1[sn]
+1[qo]
+2[ro]
+1[np]
+1[op]
+1[pp]
+2[qp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+2[rq]
+2[sq]
+1[nr]
+2[or]
+1[os]
+1[ps]
+2[qs]
+)
+0
+Dia. 01 Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a \cf1\b mistake\cf0\b0 . Probably White forgot that even if he captures the Black two stones he can't live.
+\par
+\par Black's placement at 2 is the vital point of the five space shape.
+\par
+\par If White plays at A, Black captures White with the throw-in.
+\par
+\par
+\par }
+#
+(
+1[qn]
+1[rn]
+1[sn]
+1[qo]
+2[ro]
+1[np]
+1[op]
+1[pp]
+2[qp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+2[rq]
+2[sq]
+1[nr]
+2[or]
+65[ns]
+1[os]
+1[ps]
+2[qs]
+)
+2
+W[pr]
+B[rr]
+Dia. 02 Severe Placement
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is the 1-2 vital point, but it is wrong in this situation.
+\par Black 2 is a \cf1\b severe placement\cf0\b0 .
+\par
+\par After White 3, Black destroys the eye with 4 and White can't live anymore.
+\par
+\par Be careful! If Black plays at 3 instead of 2, White lives with the dansu at A.
+\par
+\par }
+#
+(
+1[qn]
+1[rn]
+1[sn]
+1[qo]
+2[ro]
+1[np]
+1[op]
+1[pp]
+2[qp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+2[rq]
+2[sq]
+1[nr]
+2[or]
+65[qr]
+1[os]
+1[ps]
+2[qs]
+)
+4
+W[rs]
+B[sr]
+W[pr]
+B[rr]
+Dia. 03 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is the only vital point for saving this corner.
+\par In some situation, the \cf1\b 2-2\cf0\b0  is the vital point.
+\par It is the second most often used move in the corner.
+\par
+\par After Black 2, White can make two eyes with 3.
+\par
+\par }
+#
+(
+1[qn]
+1[rn]
+1[sn]
+1[qo]
+2[ro]
+1[np]
+1[op]
+1[pp]
+2[qp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+2[rq]
+2[sq]
+1[nr]
+2[or]
+1[os]
+1[ps]
+2[qs]
+)
+3
+W[rr]
+B[pr]
+W[ss]
+Dia. 04 Practice Problem
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par The shape is very similar, isn't it?
+\par Only one stone was moves to another place.
+\par
+\par It is easier like this, isn't it?
+\par White can live easily with the diagonal attachment at 1.\b
+\par }
+#
+(
+1[qn]
+1[rn]
+1[sn]
+1[qo]
+2[ro]
+1[np]
+1[op]
+1[pp]
+2[qp]
+1[rp]
+1[nq]
+2[oq]
+2[pq]
+2[qq]
+2[rq]
+2[sq]
+1[nr]
+2[or]
+2[rr]
+1[os]
+1[ps]
+)
+1
+W[qs]

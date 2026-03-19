@@ -1,0 +1,103 @@
+//19
+5
+Star-point Joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par White just played \lang1042\f1\'a1\'e2\lang1043\f0 . We have studied this before.The difference is that now Black has a stone at \lang1042\f1\'a1\'e3\lang1043\f0 .
+\par How should Black answer?\lang1042\f1
+\par
+\par }
+#
+(
+5[qj]
+1[pp]
+66[qp]
+1[lq]
+2[nq]
+65[pq]
+6[qq]
+)
+0
+1st Dia. It's joseki but...
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If Black plays 1 White will play 2 to 8. It's a joseki but it's not good for Black.
+\par Black's \lang1042\f1\'a1\'e3\lang1043\f0  stone is meaningless now.\lang1042\f1
+\par
+\par }
+#
+(
+5[qj]
+1[pp]
+1[lq]
+2[nq]
+2[qq]
+)
+8
+B[pq]
+W[qp]
+B[po]
+W[pr]
+B[or]
+W[qr]
+B[oq]
+W[qn]
+2nd Dia. Correct answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When Black has a stone at \lang1042\f1\'a1\'e3\lang1043\f0 , Black 1 is the correct answer. This is a very famous joseki.  White gets territory and Black gets influence.\lang1042\f1
+\par
+\par }
+#
+(
+5[qj]
+1[pp]
+1[lq]
+2[nq]
+690[pq]
+2[qq]
+)
+5
+B[qp]
+W[pq]
+B[op]
+W[nr]
+B[mo]
+3rd Dia. Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black can't play tenuki. White 1 is a really good move. This result is terrible for Black.\lang1042\f1
+\par
+\par }
+#
+(
+1[qj]
+1[pp]
+1[qp]
+1[lq]
+2[nq]
+2[pq]
+2[qq]
+)
+1
+W[op]
+4th Dia. Very good for White
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If Black plays tenuki White will play 1 to 5. Now Black's \lang1042\f1\'a1\'e3\lang1043\f0  stone is very weak. Black should have played 3 and 5 as in the 2nd diagram.
+\par \lang1042\f1
+\par }
+#
+(
+1[qj]
+1[op]
+1[pp]
+1[qp]
+1[lq]
+2[nq]
+2[pq]
+2[qq]
+2[nr]
+)
+5
+W[np]
+B[no]
+W[mo]
+B[nn]
+W[lp]

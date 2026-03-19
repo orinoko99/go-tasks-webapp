@@ -1,0 +1,102 @@
+//19
+5
+Star-point Joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par When White plays 1, Black will answer 2.
+\par White 3 is an overplay, White should have played at A.
+\par Depending on the situation it's possible for White to play here but not right now. How should Black answer?\lang1042\f1
+\par
+\par
+\par }
+#
+(
+1[qn]
+1[pp]
+65[kq]
+2[nq]
+)
+3
+W[pr]
+B[qq]
+W[ql]
+1st Dia. Simple but slow
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a simple but slow answer.
+\par If White plays 2 Black will answer 3.
+\par If White plays A instead of 2 Black will be able to attack White's \lang1042\f1\'a1\'e2\lang1043\f0  stone, then it would be ok for Black.\lang1042\f1
+\par
+\par
+\par }
+#
+(
+6[ql]
+1[qn]
+1[pp]
+65[kq]
+2[nq]
+1[qq]
+2[pr]
+)
+3
+B[qr]
+W[qi]
+B[lq]
+2nd Dia. Black's strongest answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is the stronest answer. It's a good attacking move against White's 2 \lang1042\f1\'a1\'e2\lang1043\f0  stones.\lang1042\f1
+\par
+\par }
+#
+(
+2[ql]
+1[qn]
+1[pp]
+690[lq]
+6[nq]
+1[qq]
+6[pr]
+)
+1
+B[lq]
+3rd Dia. Black 2 is good
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If White plays 1 then Black 2 is a good move. White plays 3 then Black 4.
+\par Now if White plays A Black will play B and continue the attack on the bottom stones.\lang1042\f1
+\par
+\par }
+#
+(
+65[qj]
+66[nl]
+2[ql]
+1[qn]
+1[pp]
+1[lq]
+2[nq]
+1[qq]
+2[pr]
+)
+4
+W[no]
+B[pl]
+W[pk]
+B[pm]
+4th Dia. Good for Black
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 If White plays 1 Black will play 2. This is usually bad for White. White's \lang1042\f1\'a1\'e2\lang1043\f0  stone is too weak now.\lang1042\f1
+\par
+\par }
+#
+(
+6[ql]
+1[qn]
+1[pp]
+1[lq]
+2[nq]
+1[qq]
+2[pr]
+)
+2
+W[qr]
+B[np]

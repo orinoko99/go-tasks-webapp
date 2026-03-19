@@ -1,0 +1,94 @@
+//19
+3
+Despite lack of Liberties
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Where should Black play to capture White?
+\par }
+#
+(
+2[cp]
+2[dp]
+2[ep]
+2[fp]
+1[gp]
+1[hp]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+2[gq]
+1[hq]
+2[br]
+1[cr]
+2[fr]
+2[gr]
+1[hr]
+1[bs]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The one-point jump to the first line is a nice maek/tesuji to win the capturing race. After 3 White can't approach at A or B because of jachung.
+\par
+\par }
+#
+(
+2[cp]
+2[dp]
+2[ep]
+2[fp]
+1[gp]
+1[hp]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+2[gq]
+1[hq]
+2[br]
+1[cr]
+2[fr]
+2[gr]
+1[hr]
+66[as]
+1[bs]
+65[fs]
+)
+3
+B[es]
+W[er]
+B[dr]
+Failure
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Blocking at 1 fails because White can capture Black by continuously playing atari at 2 and 4.
+\par
+\par }
+#
+(
+2[cp]
+2[dp]
+2[ep]
+2[fp]
+1[gp]
+1[hp]
+2[bq]
+2[cq]
+1[dq]
+1[eq]
+1[fq]
+2[gq]
+1[hq]
+2[br]
+1[cr]
+2[fr]
+2[gr]
+1[hr]
+1[bs]
+)
+4
+B[er]
+W[es]
+B[dr]
+W[ds]

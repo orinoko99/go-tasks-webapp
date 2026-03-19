@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[ep][gp][bq][dq][eq][fq][hq][iq][ar][cr][dr][bs]AB[dn][eo][fo][bp][cp][dp][fp][cq][gq][fr][gr]LBC[Save Black
+
+How can Black save his three isolated stones on the bottom?
+])
+(;AW[ep][gp][bq][dq][eq][fq][hq][iq][ar][cr][dr][bs]AB[dn][eo][fo][bp][cp][dp][fp][cq][gq][fr][gr]
+;B[hp]
+;W[go]
+;B[ip]
+;W[jp]
+;B[gn]
+;W[ho]
+;B[io]
+;W[hn]
+;B[in]
+;W[hm]
+;B[jq]
+;W[jr]
+;B[kq]
+;W[hr]
+;B[hs]
+;W[ir]
+;B[kr]LB[hp:1][go:2][ip:3][jp:4][gn:5][ho:6][io:7][hn:8][in:9][hm:10][jq:11][jr:12][kq:13][hr:14][hs:15][ir:16][kr:17]C[Correct
+
+"Make a sound in the east, then strike in the west." is one of the famous Thirty-six Stratagems. Black first attacks the center stones to gather power and then captures the stones on the lower side.
+])
+)

@@ -1,0 +1,167 @@
+//19
+5
+Living with one Move(40)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to play\b0 .
+\par White has not enough space to make two eyes in the corner.
+\par
+\par Therefore White should find the weakness in Black's shape and make an eye on the right side.
+\par Where is the vital point?
+\par }
+#
+(
+1[nm]
+1[pn]
+1[qn]
+1[oo]
+2[po]
+1[op]
+2[pp]
+1[qp]
+1[oq]
+2[pq]
+1[rq]
+1[or]
+2[pr]
+2[qr]
+2[rr]
+2[sr]
+)
+0
+Dia. 01 Correct Answer-Side Attachment
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White's \cf1\b side attachment\cf0\b0  at 1 was the \cf1\b vital point for living\cf0\b0 .
+\par Like this, Black can't save his \'a1\'e3 stone.
+\par
+\par If White can capture this one stone, he can get one eye for sure.
+\par
+\par Let's see it.
+\par }
+#
+(
+1[nm]
+1[pn]
+1[qn]
+1[oo]
+2[po]
+1[op]
+2[pp]
+1[qp]
+1[oq]
+2[pq]
+5[rq]
+1[or]
+2[pr]
+2[qr]
+2[rr]
+2[sr]
+)
+1
+W[rp]
+Dia. 02 Follow up
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Continuously, even if Black plays dansu at 1, White goes out with 2.
+\par After Black 3, White lives with 4.
+\par
+\par
+\par }
+#
+(
+1[nm]
+1[pn]
+1[qn]
+1[oo]
+2[po]
+1[op]
+2[pp]
+1[qp]
+2[rp]
+1[oq]
+2[pq]
+1[rq]
+1[or]
+2[pr]
+2[qr]
+2[rr]
+2[sr]
+)
+4
+B[ro]
+W[sp]
+B[qo]
+W[qq]
+Dia. 03 Practice Problem
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Practice problem\b0 .
+\par \b White to play\b0 .
+\par
+\par If there is a Black stone at \'a1\'e3, how does the life and death problem change?
+\par
+\par White has to play the first move at 1 again.
+\par If Black plays dansu at A, White can live, but-
+\par
+\par
+\par }
+#
+(
+1[nm]
+5[rm]
+1[pn]
+1[qn]
+1[oo]
+2[po]
+65[ro]
+1[op]
+2[pp]
+1[qp]
+1[oq]
+2[pq]
+1[rq]
+1[or]
+2[pr]
+2[qr]
+2[rr]
+2[sr]
+)
+1
+W[rp]
+Dia. 04 Can't Live
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black connects at 1.
+\par After White 2, Black can take away the eye with 3 and 5, so White is captured.
+\par
+\par The conclusion is that White can't live because of the Black \'a1\'e3 stone.
+\par }
+#
+(
+1[nm]
+1[rm]
+1[pn]
+1[qn]
+1[oo]
+2[po]
+1[op]
+2[pp]
+1[qp]
+2[rp]
+1[oq]
+2[pq]
+1[rq]
+1[or]
+2[pr]
+2[qr]
+2[rr]
+2[sr]
+)
+5
+B[qo]
+W[qq]
+B[sp]
+W[sq]
+B[so]

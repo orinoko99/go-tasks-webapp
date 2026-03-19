@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[sq]AW[pp][qp][rp][sp][pq][rq][qr]AB[nn][po][qo][ro][so][op][oq][sq][pr][ps]LBCR[sq]C[Where is a vital point?(84)
+
+
+\f1 It's\b  Black\b0 's turn.\f0
+
+Use the B stone in the W's area.
+])
+(;AW[pp][qp][rp][sp][pq][rq][qr]AB[nn][po][qo][ro][so][op][oq][sq][pr][ps]
+;B[rr]
+;W[sr]
+;B[rs]LB[rr:1][sr:2][rs:3]C[Dia.1(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Dansu at 1 can make \cf1\b W be in a self-dansu.\cf0\b0
+As you can see, W has no chance to live.
+
+
+
+])
+(;AW[pp][qp][rp][sp][pq][rq][qr]AB[nn][po][qo][ro][so][op][oq][sq][pr][ps]
+;B[rs]
+;W[rr]
+;B[qs]
+;W[sr]LB[rs:1][rr:2][qs:3][sr:4]C[Dia.2(Endgame)
+
+{\colortbl ;\red255\green0\blue0;}
+
+How about switching the order?
+It doesn't work because W has a solution(W2).
+
+\cf1\b This result is that B just reduces W's territory...\cf0\b0
+])
+(;AW[pp][qp][rp][sp][pq][rq][qr]AB[nn][po][qo][ro][so][op][oq][sq][pr][ps]
+;B[nr]
+;W[qs]LB[nr:1][qs:2]C[Dia.3(Too kind?)
+
+
+Making a tiger's mouth(B1) is too kind for W.
+
+
+])
+)

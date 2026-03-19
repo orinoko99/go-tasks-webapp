@@ -1,0 +1,168 @@
+//19
+4
+Where is a vital point?(67)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \f1 It's\b  Black\b0 's turn.\f0
+\par
+\par W seems to be perfectly alive.
+\par
+\par But there is a weakpoint.
+\par Let's figure it out.
+\par
+\par }
+#
+(
+1[qm]
+1[nn]
+1[on]
+1[pn]
+1[mo]
+2[no]
+2[oo]
+2[po]
+1[qo]
+1[mp]
+2[np]
+2[pp]
+1[qp]
+1[mq]
+2[nq]
+2[pq]
+1[qq]
+1[rq]
+1[mr]
+2[qr]
+2[rr]
+1[sr]
+1[ms]
+2[os]
+2[rs]
+)
+0
+Dia.1(Right move)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par
+\par Attaching at 1 is \cf1\b an excellent attack.
+\par \cf0\b0
+\par
+\par }
+#
+(
+1[qm]
+1[nn]
+1[on]
+1[pn]
+1[mo]
+2[no]
+2[oo]
+2[po]
+1[qo]
+1[mp]
+2[np]
+2[pp]
+1[qp]
+1[mq]
+2[nq]
+2[pq]
+1[qq]
+1[rq]
+1[mr]
+2[qr]
+2[rr]
+1[sr]
+1[ms]
+2[os]
+2[rs]
+)
+1
+B[or]
+Dia.2(Double self Dansu)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par W1 is the only answer in this case.
+\par But cutting at 4 is a final blow.
+\par
+\par W can't play A and B.
+\par It's a\cf1\b  double self dansu.
+\par }
+#
+(
+1[qm]
+1[nn]
+1[on]
+1[pn]
+1[mo]
+2[no]
+2[oo]
+2[po]
+1[qo]
+1[mp]
+2[np]
+2[pp]
+1[qp]
+1[mq]
+2[nq]
+65[oq]
+2[pq]
+1[qq]
+1[rq]
+1[mr]
+1[or]
+2[qr]
+2[rr]
+1[sr]
+1[ms]
+2[os]
+66[qs]
+2[rs]
+)
+4
+W[nr]
+B[ps]
+W[ns]
+B[pr]
+Dia.3(White can be alive)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Answering the other side(3) is a wrong direction.
+\par
+\par W can be alive.
+\par }
+#
+(
+1[qm]
+1[nn]
+1[on]
+1[pn]
+1[mo]
+2[no]
+2[oo]
+2[po]
+1[qo]
+1[mp]
+2[np]
+2[pp]
+1[qp]
+1[mq]
+2[nq]
+2[pq]
+1[qq]
+1[rq]
+1[mr]
+65[or]
+2[qr]
+2[rr]
+1[sr]
+1[ms]
+2[os]
+2[rs]
+)
+4
+B[or]
+W[nr]
+B[ns]
+W[ps]

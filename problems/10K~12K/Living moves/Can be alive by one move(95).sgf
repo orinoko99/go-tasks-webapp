@@ -1,0 +1,62 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pp][qp][rp][lq][nq][oq][qr][rr]AB[pq][qq][rq][sq][pr]LBC[Can be alive by one move(95)
+
+
+\pard\ltrpar\tx1697\lang1033\f1 It's\b  Black\b0 's turn.\f2\tab
+\pard\ltrpar\lang1042\f0
+How to kill W's two stones is important.
+
+])
+(;AW[pp][qp][rp][lq][nq][oq][qr][rr]AB[pq][qq][rq][sq][pr]
+;B[sr]
+;W[rs]
+;B[or]
+;W[nr]
+;B[os]
+;W[qs]LB[sr:1][rs:2][or:3][nr:4][os:5][qs:6]C[Dia.1(Flower five)
+
+{\colortbl ;\red255\green0\blue0;}
+
+B1 is a careless move.
+
+W2 is a good attack so up to 6, W can make\cf1\b  flower five.\cf0\b0
+
+])
+(;AW[pp][qp][rp][lq][nq][oq][qr][rr]AB[pq][qq][rq][sq][pr]LB[rs:A]
+;B[rs]
+;W[qs]
+;B[sr]
+;W[ss]
+;B[ps]LB[rs:1][qs:2][sr:3][ss:4][ps:5][rs:A]C[Dia.2(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Attaching at \cf1\b 2 to 1 point \cf0\b0 is a proper move and it is also the enemy's vital point.
+
+Up to 5, W can't connect at A because it is illegal.
+
+
+
+])
+(;CR[rs]AW[pp][qp][rp][lq][nq][oq][qr][rr]AB[pq][qq][rq][sq][pr][rs]LB[sp:?][ns:?]
+;W[sr]
+;B[or]
+;W[nr]
+;B[os]
+;W[qs]
+;B[ps]LB[sr:1][or:2][nr:3][os:4][qs:5][ps:6][sp:?][ns:?]CR[rs]C[Dia.3(Variation)
+
+
+How about W1??
+
+B should go out first(B2) and extend eye space(B4).
+Then up to 6, B can live.
+
+If W occupied at X spot(which is ok),it would be eye vs no eye.
+])
+)

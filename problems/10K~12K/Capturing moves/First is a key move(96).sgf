@@ -1,0 +1,59 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pq][rq][sq][pr][os][rs]AB[op][pp][qp][rp][mq][oq][nr][sr]LB[qq:A][qr:B]LB[qq:A][qr:B]C[First is a key move(96)
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1 It's\b  Black\b0 's turn.\lang1042\f0
+
+In the actual game, B might play at A and W can be alive by playing at B
+
+\cf1\b But there is a vital point!\cf0\b0
+])
+(;AW[pq][rq][sq][pr][os][rs]AB[op][pp][qp][rp][mq][oq][nr][sr]LB[qs:‚]
+;B[qr]
+;W[qq]
+;B[rr]
+;W[qs]
+;B[or]LB[qr:1][qq:2][rr:3][qs:4][or:5][qs:‚]C[Dia.1(The death of straigh three?)
+
+{\colortbl ;\red255\green0\blue0;}
+
+You would consider playing at 1 first because it is \cf1\b the enemy's vital point is your own.\cf0\b0
+
+Up to 5, B can capture W's group easily by straight three.
+But W won't play like this!!
+
+])
+(;AW[pq][qq][rq][sq][pr][os][rs]AB[op][pp][qp][rp][mq][oq][nr][qr][rr][sr]
+;W[or]
+;B[qs]
+;W[ps]LB[or:1][qs:2][ps:3]C[Dia.2(The life of bent four)
+
+{\colortbl ;\red255\green0\blue0;}
+
+W1 is a good answer to B's attack.
+
+Up to 3, \cf1\b W can be alive by bent four.\cf0\b0
+
+])
+(;AW[pq][rq][sq][pr][os][rs]AB[op][pp][qp][rp][mq][oq][nr][sr]
+;B[or]
+;W[ps]
+;B[qr]
+;W[qq]
+;B[rr]LB[or:1][ps:2][qr:3][qq:4][rr:5]C[Dia.3(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+B1 is the enemy's vital point.
+After this, W has no way to live.
+
+Up to 5, this result is\cf1\b  real straight three.\cf0\b0
+\cf1\b
+])
+)

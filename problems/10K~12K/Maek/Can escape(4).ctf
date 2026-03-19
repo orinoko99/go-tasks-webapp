@@ -1,0 +1,149 @@
+//19
+4
+Can escape?(4)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \lang1033\f1 It's\b  White\b0 's turn.
+\par \lang1042\f0
+\par W's two stones can escape??
+\par }
+#
+(
+1[ql]
+2[mm]
+2[ln]
+2[lp]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+5[nq]
+6[oq]
+6[pq]
+1[qq]
+2[rq]
+2[sq]
+2[lr]
+1[or]
+1[pr]
+2[qr]
+2[sr]
+2[rs]
+)
+0
+Dia.1(Thank you move)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red255\green0\blue0;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par W thought about two stones can't escape so he tried to use them(W1)
+\par But it's a\cf1\b  thank you move.
+\par \cf0\b0
+\par After B2, there is no more chance to escape.
+\par
+\par
+\par }
+#
+(
+1[ql]
+2[mm]
+2[ln]
+2[lp]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+6[oq]
+6[pq]
+1[qq]
+2[rq]
+2[sq]
+2[lr]
+1[or]
+1[pr]
+2[qr]
+2[sr]
+2[rs]
+)
+2
+W[qn]
+B[pn]
+DIa.2(Nothing to do)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par How about invaid at 1?
+\par
+\par B2 is a \cf1\b calm answer\cf0\b0  so W had nothing to do.
+\par
+\par }
+#
+(
+1[ql]
+2[mm]
+2[ln]
+2[lp]
+1[pp]
+1[qp]
+1[rp]
+1[sp]
+1[nq]
+2[oq]
+2[pq]
+1[qq]
+2[rq]
+2[sq]
+2[lr]
+1[or]
+1[pr]
+2[qr]
+2[sr]
+2[rs]
+)
+4
+W[pn]
+B[no]
+W[om]
+B[qm]
+DIa.3(W can escape)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\cf1\lang1042\b\f0\fs18
+\par \cf0\b0
+\par Going out at 1 can be possible because B's three stones have a weakpoint so B has to play at 6.
+\par
+\par Up to 7, B five stones are in trouble.
+\par
+\par \cf1\b W can escape!!\cf0\b0
+\par }
+#
+(
+1[ql]
+2[mm]
+2[ln]
+2[lp]
+5[pp]
+5[qp]
+5[rp]
+5[sp]
+1[nq]
+2[oq]
+2[pq]
+5[qq]
+2[rq]
+2[sq]
+2[lr]
+1[or]
+1[pr]
+2[qr]
+2[sr]
+2[rs]
+)
+7
+W[op]
+B[no]
+W[oo]
+B[on]
+W[po]
+B[np]
+W[qo]

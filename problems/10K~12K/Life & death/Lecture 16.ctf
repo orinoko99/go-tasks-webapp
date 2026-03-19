@@ -1,0 +1,84 @@
+//19
+3
+Capture the white stones
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Where should Black play to capture White?
+\par }
+#
+(
+1[co]
+1[dp]
+1[ep]
+1[fp]
+1[gp]
+1[bq]
+1[cq]
+2[dq]
+2[eq]
+2[fq]
+1[gq]
+1[ar]
+2[br]
+2[cr]
+2[ds]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Simply descending to 1 is Black's best answer. Even if White makes an eye at 2, Black has the tesuji at 3 to break the other eye.
+\par }
+#
+(
+1[co]
+1[dp]
+1[ep]
+1[fp]
+1[gp]
+1[bq]
+1[cq]
+2[dq]
+2[eq]
+2[fq]
+1[gq]
+1[ar]
+2[br]
+2[cr]
+2[ds]
+)
+5
+B[gr]
+W[bs]
+B[fs]
+W[es]
+B[er]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black 1 doesn't work that well. After White 4 Black can only make a pae (ko). Compare it with the correct answer.
+\par }
+#
+(
+1[co]
+1[dp]
+1[ep]
+1[fp]
+1[gp]
+1[bq]
+1[cq]
+2[dq]
+2[eq]
+2[fq]
+1[gq]
+1[ar]
+2[br]
+2[cr]
+2[ds]
+)
+6
+B[bs]
+W[gr]
+B[hr]
+W[er]
+B[gs]
+W[fs]

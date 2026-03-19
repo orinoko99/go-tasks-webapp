@@ -1,0 +1,51 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[ps]AW[oo][po][ro][mp][np][qp][mq][rq][mr][sr][ms][ps]AB[op][pp][nq][qq][nr][pr][qr][rr][ns]LBCR[ps]C[How to kill? (59)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Black has a weakness in the center of his group and we need to make use of it.  The marked White stone is lurking in the shadows, waiting to strike, but how?
+
+\lang1042\f0\fs18
+])
+(;AW[oo][po][ro][mp][np][qp][mq][rq][mr][sr][ms][ps]AB[op][pp][nq][qq][nr][pr][qr][rr][ns]LB[oq:?][os:A]
+;W[oq]
+;B[pq]
+;W[rs]
+;B[or]
+;W[qs]LB[oq:1][pq:2][rs:3][or:4][qs:5][oq:?][os:A]C[Dia.1 Correct
+
+White should dansu at 1 first since Black cannot cut off 3 since he does not have enough liberties.  When Black takes it doesn't matter because when White plays 5, he doesn't have enough liberties to play at A.
+\lang1042\f1\fs18
+
+
+
+])
+(;AW[oo][po][ro][mp][np][qp][mq][rq][mr][sr][ms][ps]AB[op][pp][nq][qq][nr][pr][qr][rr][ns]LB[rs:A]
+;W[rs]
+;B[oq]LB[rs:1][oq:2][rs:A]C[Dia.2 Black takes the point
+
+Playing dansu first is vital.  If we play 1 straight away then Black can play at 2 and now if we try to take away Black's second eye we will be cut off since Black has more liberties than before.  \lang1042\f1\fs18
+
+])
+(;AW[oo][po][ro][mp][np][qp][mq][rq][mr][sr][ms][ps][rs]AB[op][pp][nq][qq][nr][pr][qr][rr][ns]
+;B[qs]
+;W[oq]
+;B[ss]
+;W[or]
+;B[sq]
+;W[rp]LB[qs:1][oq:2][ss:3][or:4][sq:5][rp:6]C[Dia.3 Both sides make mistakes
+
+In this diagram, Black has messed up just as bad as White has.  When Black plays 1, White will take the vital point at 2.  Here's where it gets tricky.  Black will take at 3 but since White knows Black is low on liberties he can play at 4.  Black can take a stone but that only gives him one eye, and as you can see, Black is dead once we reach 6.
+\lang1042\f1\fs18
+])
+(;AW[oo][po][ro][mp][np][qp][mq][rq][mr][sr][ms][ps]AB[op][pp][nq][qq][nr][pr][qr][rr][ns]LBC[No diagram name
+
+
+
+])
+)

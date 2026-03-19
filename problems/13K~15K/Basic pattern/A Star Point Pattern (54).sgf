@@ -1,0 +1,57 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[qq]AW[pm][qn][nq][qq]AB[on][pn][kp][pp]
+;B[qm]LB[qm:1]CR[qq]C[Star Point Joseki 54
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 White has just invaded the 3,3 point.  Black's cut at 1 looks like a power ful move.  How should White respond?
+
+\lang1042\f0\fs18
+])
+(;CR[qm]AW[pm][qn][nq][qq]AB[qm][on][pn][kp][pp]
+;W[pq]
+;B[qo]LB[pq:1][qo:2]CR[qm]C[Dia.1 Reverts to Jeongseok
+
+When White plays 1 then the marked Black stone looks lke a quiet move and Black to reverts to jeongseok.  It looks like Black first played the tiger's mouth,then White blocks, then Black cuts.
+\lang1042\f1\fs18
+
+])
+(;CR[pq]AW[pm][qn][nq][pq][qq]AB[qm][on][pn][kp][pp]LB[qo:A]
+;B[pl]LB[pl:1][qo:A]CR[pq]C[Dia.2 White is dissatisfied
+
+When White plays the marked stone Black isn't going to play at A.  Instead, he will ladder the White stone with 1 to take strength on the outside.  White is dissatisfied with this result. White can fight back, however, if he finds a different move.
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][nq][qq]AB[qm][on][pn][kp][pp]
+;W[ro]
+;B[pl]
+;W[pq]
+;B[om]LB[ro:1][pl:2][pq:3][om:4]C[Dia.3 Good for Black
+
+If White plays 1 then Black will ladder the outside White stone.  If White links up all of his stones with 3 and the territory in the corner is quite big.  However Black is very thick on the outside since he captured one stone so this is good for Black.
+\lang1042\f1\fs18
+
+
+])
+(;CR[qm]AW[pm][qn][nq][qq]AB[qm][on][pn][kp][pp]LB[qo:B][ro:A]
+;W[ql]
+;B[rm]
+;W[rn]LB[ql:1][rm:2][rn:3][qo:B][ro:A]CR[qm]C[Dia.4 White's strongest move
+
+White 1 is the strongest response.  White descends at 3 to reduce Blacks' liberties.  White could also play 3 at A.  This is why instead of playing the marked stone Black should've played the Tiger's Mouth at B.
+\lang1042\f1\fs18
+
+])
+(;AW[pm][qn][nq][qq]AB[on][pn][kp][pp]
+;B[qm]LB[qm:1]C[No diagram name
+
+
+
+])
+)

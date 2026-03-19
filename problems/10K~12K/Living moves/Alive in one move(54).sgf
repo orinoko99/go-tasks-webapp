@@ -1,0 +1,68 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[qs]AW[rn][po][qo][pp][rp][sp][mq][nq][oq][pq][kr][mr][qs]AB[qp][qq][rq][nr][or][pr][sr][ss]LBCR[qs]C[Alive in one move(54)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 White has just played the marked stone as a placement attack.  Can Black live?
+
+\lang1042\f0\fs18
+\cf1 1)\cf2\lang1033\f1\fs16 Black is alive\lang1042\f0\fs18
+\cf1 2)\cf2\lang1033\f1\fs16 Black is dead\lang1042\f0\fs18
+\cf0\lang1033\f1\fs16
+
+\cf1\lang1042\f0\fs18
+])
+(;AW[rn][po][qo][pp][rp][sp][mq][nq][oq][pq][kr][mr][qs]AB[qp][qq][rq][nr][or][pr][sr][ss]
+;B[ns]
+;W[qr]LB[ns:1][qr:2]C[Dia.1 Greedy
+
+Black 1 tries to expand his eyespace.  I can understand wanted to live with the most amount of points but this move is greedy.  White can easily capture with 2.
+
+\lang1042\f1\fs18
+
+
+
+])
+(;AW[rn][po][qo][pp][rp][sp][mq][nq][oq][pq][kr][mr][qs]AB[qp][qq][rq][nr][or][pr][sr][ss]
+;B[qr]
+;W[rs]
+;B[ns]
+;W[sq]
+;B[ps]
+;W[rr]
+;B[sr]LB[qr:1][rs:2][ns:3][sq:4][ps:5][rr:6][sr:7]C[Dia.2 Correct / Bik
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+Black should play at 1 and connect.  White plays 2 and then Black will try to  extend his eyespace with 3.
+
+From White 4 up to 7 we see that Black lives.  White 4 at 5 is Bik (mutual life) and this is best for both sides, so the answer is
+\cf1\lang1042\f1\fs18 1)\cf2\lang1033\f0\fs16 Black can live\cf0
+\lang1042\f1\fs18
+
+
+])
+(;CR[qr]AW[rn][po][qo][pp][rp][sp][mq][nq][oq][pq][kr][mr][qs]AB[qp][qq][rq][nr][or][pr][qr][sr][ss]LB[rr:A]
+;W[sq]
+;B[ps]
+;W[rs]
+;B[ns]LB[sq:1][ps:2][rs:3][ns:4][rr:A]CR[qr]C[Dia.3 Variation / Still Alive
+
+In response to the marked Black stone, if White tries 1 to attack Black 2 is a good move.
+White will add one more stone with 3 and then Black can live with 4.
+
+If White plays at A next it's pretty pointless.
+\lang1042\f1\fs18
+
+])
+(;AW[rn][po][qo][pp][rp][sp][mq][nq][oq][pq][kr][mr][qs]AB[qp][qq][rq][nr][or][pr][sr][ss]LBC[No diagram name
+
+
+
+])
+)

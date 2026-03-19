@@ -1,0 +1,70 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oq][pq][qq][rq][or][sr]AB[qo][np][op][pp][rp][jq][nq][nr][qr][rr]
+;W[qs]
+;B[ps]LB[qs:1][ps:2]C[Alive in one move(44)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 This is a basic Life and Death shape.
+
+White's attachment at 1 is a maek.
+
+Black plays 2.  How can White live?
+
+\lang1042\f0\fs18
+])
+(;AW[oq][pq][qq][rq][or][sr][qs]AB[qo][np][op][pp][rp][jq][nq][nr][qr][rr][ps]
+;W[pr]
+;B[rs]
+;W[os]
+;B[qs]LB[pr:1][rs:2][os:3][qs:4]C[Dia.1 Bulky Five
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White tries 1 but the result won't be much to his liking.  When Black plays 2 there is no way for White to live.
+
+White plays 3 and Black connects 4, giving White the \cf1\b bulky five shape\cf0\lang1042\b0\f0\fs18 .
+])
+(;CR[qr][rr]AW[oq][pq][qq][rq][or][sr][qs]AB[qo][np][op][pp][rp][jq][nq][nr][qr][rr][ps]LB[pr:B][os:A]
+;W[rs]
+;B[ss]
+;W[rs]LB[rs:1][ss:2][rs:3][pr:B][os:A]CR[qr][rr]C[Dia.2 Correct
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 The correct answer is to sacrifice one more stone by playing at 1, so that when Black takes, White takes back.  This is a\lang1042\f0\fs18  \cf1\lang1033\b\f1\fs16 brilliant move\cf0\lang1042\b0\f0\fs18 .
+
+\lang1033\f1\fs16 Now White lives because if Black A, White B takes 2 stones.\lang1042\f0\fs18
+
+
+])
+(;AW[oq][pq][qq][rq][or][sr]AB[qo][np][op][pp][rp][jq][nq][nr][qr][rr]
+;W[qs]
+;B[rs]
+;W[ps]
+;B[ns]
+;W[os]
+;B[sp]
+;W[sq]LB[qs:1][rs:2][ps:3][ns:4][os:5][sp:6][sq:7]C[Dia.3 White lives in Bik
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 In the beginning, when White attached Black should have jjeotchimed.  It would have beena strong move.
+
+Then White plays 3, Black 4, White 5, and up to 7, White lives in \cf1\b Bik \cf0\b0 so he gets no points.
+
+\lang1042\f0\fs18
+])
+(;AW[oq][pq][qq][rq][or][sr]AB[qo][np][op][pp][rp][jq][nq][nr][qr][rr]
+;W[qs]
+;B[ps]LB[qs:1][ps:2]C[No diagram name
+
+
+
+])
+)

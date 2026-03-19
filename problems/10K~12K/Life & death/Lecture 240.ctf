@@ -1,0 +1,103 @@
+//19
+3
+How to Capture
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Where should Black play to capture White?
+\par }
+#
+(
+1[bj]
+1[cj]
+2[bk]
+1[ck]
+2[bl]
+1[cl]
+2[bm]
+2[cm]
+1[dm]
+2[cn]
+1[dn]
+2[bo]
+2[co]
+1[do]
+1[bp]
+2[cp]
+1[dp]
+2[aq]
+2[bq]
+1[cq]
+1[dq]
+1[ar]
+1[br]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black should first hit the vital point at 1. If White were allowed to play there, he would live at once. When White captures at 2, Black can take the eye with the atari at 3.
+\par
+\par }
+#
+(
+1[bj]
+1[cj]
+2[bk]
+1[ck]
+2[bl]
+1[cl]
+2[bm]
+2[cm]
+1[dm]
+2[cn]
+1[dn]
+2[bo]
+2[co]
+1[do]
+1[bp]
+2[cp]
+1[dp]
+2[aq]
+2[bq]
+1[cq]
+1[dq]
+1[ar]
+1[br]
+)
+4
+B[an]
+W[ap]
+B[ao]
+W[bp]
+Wrong
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Capturing two stones allows White to live at 2.
+\par
+\par }
+#
+(
+1[bj]
+1[cj]
+2[bk]
+1[ck]
+2[bl]
+1[cl]
+2[bm]
+2[cm]
+1[dm]
+2[cn]
+1[dn]
+2[bo]
+2[co]
+1[do]
+1[bp]
+2[cp]
+1[dp]
+2[aq]
+2[bq]
+1[cq]
+1[dq]
+1[ar]
+1[br]
+)
+2
+B[ap]
+W[an]

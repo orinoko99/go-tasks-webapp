@@ -1,0 +1,53 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pq][pr][ps]AW[lp][np][op][mq][pq][lr][pr][ps]AB[pp][qp][nq][oq][qq][mr][nr][qr]LBCR[pq][pr][ps]C[Resisting Fiercly
+
+
+\b White to play\b0 .
+It looks that White \'a1\'e2 stones are captured but White can resist fiercly.
+
+])
+(;AW[lp][np][op][mq][pq][lr][pr][ps]AB[pp][qp][nq][oq][qq][mr][nr][qr]
+;W[ms]
+;B[ns]
+;W[ls]
+;B[qs]LB[ms:1][ns:2][ls:3][qs:4]C[Dia. 01 White is Satisfied?
+
+{\colortbl ;\red255\green0\blue0;}
+
+White plays the hane at 1 and after Black answers with 2 White can easily live with 3.
+Some people might think this problem was too easy.
+
+If the sequence is played liked this, Black has to play at 4 and make bik. This would be a very big success for White.
+However this variation is \cf1\b fake\cf0\b0 .
+
+
+])
+(;CR[ms]AW[lp][np][op][mq][pq][lr][pr][ms][ps]AB[pp][qp][nq][oq][qq][mr][nr][qr]
+;B[os]LB[os:1]CR[ms]C[Dia. 02 White's Hane
+
+{\colortbl ;\red0\green0\blue255;}
+
+After White's hane at \'a1\'e2, Black doesn't block directly but plays the \cf1\b diagonal attachment\cf0\b0  at 1. This is a vital point.
+
+If it is played like this, White is captured because he can't play from both sides.
+
+
+])
+(;AW[lp][np][op][mq][pq][lr][pr][ps]AB[pp][qp][nq][oq][qq][mr][nr][qr]
+;W[ns]
+;B[ms]
+;W[or]LB[ns:1][ms:2][or:3]C[Dia. 03 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's attachment at 1 is a great move.
+Black 2 is the only answer then White's \cf1\b resistance with a pae\cf0\b0  at 3 is a \cf1\b fierce technique\cf0\b0 .
+This is the best result for both players.
+
+])
+)

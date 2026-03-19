@@ -1,0 +1,33 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[co][eo][ho][io][bp][cp][ep][gp][dq][gq][jq][cr]AB[gm][bn][cn][dn][en][bo][do][fo][go][hp][hq][gr]LBC[Maek to Cut
+
+
+Where should Black play to cut White?
+])
+(;AW[co][eo][ho][io][bp][cp][ep][gp][dq][gq][jq][cr]AB[gm][bn][cn][dn][en][bo][do][fo][go][hp][hq][gr]
+;B[eq]
+;W[er]
+;B[fq]
+;W[dp]
+;B[fp]LB[eq:1][er:2][fq:3][dp:4][fp:5]C[Correct
+
+
+Again, the bamboo joint vital point is the correct answer to cut White.
+])
+(;AW[co][eo][ho][io][bp][cp][ep][gp][dq][gq][jq][cr]AB[gm][bn][cn][dn][en][bo][do][fo][go][hp][hq][gr]
+;B[fq]
+;W[fp]
+;B[eq]
+;W[dp]
+;B[er]
+;W[ir]LB[fq:1][fp:2][eq:3][dp:4][er:5][ir:6]C[Wrong
+
+
+Oops! Black missed a great chance to save his stones. Up to 6 White connects his stones and captures the black stones. Black is in big trouble.
+])
+)

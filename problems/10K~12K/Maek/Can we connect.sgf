@@ -1,0 +1,55 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qm][qn][lp][qp][rp][lq][mq][pq][pr][qr][os]AB[mm][mo][po][mp][pp][nq][oq][qq][rq][sq][rr][rs]LBC[Can we connect?
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 If White wants to save the four \lang1042\f0\fs18\'a1\'e2\lang1033\f1\fs16  marked White stones then he'll need to find a way to connect to his stones n the left.  Where's the maek to connect?
+
+\lang1042\f0\fs18
+])
+(;AW[qm][qn][lp][qp][rp][lq][mq][pq][pr][qr][os]AB[mm][mo][po][mp][pp][nq][oq][qq][rq][sq][rr][rs]
+;W[mr]
+;B[or]LB[mr:1][or:2]C[Dia.1 A big miscalculation
+
+{\colortbl ;\red255\green0\blue0;}
+If White tries 1 to connect his stones to the left then he's made a \cf1\b big miscalculation.
+\cf0\lang1042\b0\f1\fs18
+\lang1033\f0\fs16 Black 2 is effective in capturing the White stones.
+
+\lang1042\f1\fs18
+])
+(;AW[qm][qn][lp][qp][rp][lq][mq][pq][pr][qr][os]AB[mm][mo][po][mp][pp][nq][oq][qq][rq][sq][rr][rs]LB[ms:B][ps:A]
+;W[ns]
+;B[mr]
+;W[lr]
+;B[or]LB[ns:1][mr:2][lr:3][or:4][ms:B][ps:A]C[Dia.2 Seems like a maek
+
+White 1 might look like the maek for  this position but Black can play the combination of 2 and 4 thwarts White's ambitions.
+
+Next if White plays at A then Black can cut him off with B and vice versa.  White has no luck today.
+\lang1042\f1\fs18
+
+])
+(;AW[qm][qn][lp][qp][rp][lq][mq][pq][pr][qr][os]AB[mm][mo][po][mp][pp][nq][oq][qq][rq][sq][rr][rs]LB[nr:A][ns:B]
+;W[ms]
+;B[or]
+;W[ps]LB[ms:1][or:2][ps:3][nr:A][ns:B]C[Dia.3 Correct / One space jump on the first line
+
+{\colortbl ;\red0\green0\blue255;}
+White should \cf1\b play the one space jump on the first line, the maek for this position.
+\cf0\lang1042\b0\f1\fs18
+\lang1033\f0\fs16 If Black plays 2 White is safe by connecting at 3.  If Black plays 2 at A then White can play B in response.
+
+\lang1042\f1\fs18
+])
+(;AW[qm][qn][lp][qp][rp][lq][mq][pq][pr][qr][os]AB[mm][mo][po][mp][pp][nq][oq][qq][rq][sq][rr][rs]LBC[No diagram name
+
+
+
+])
+)

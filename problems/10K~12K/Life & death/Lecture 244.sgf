@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[do][eo][fo][bp][cp][fp][bq][gq][br][gr][gs]AB[dp][ep][cq][fq][cr][dr][fr]LBC[Living Move
+
+Where should Black play to live?
+])
+(;AW[do][eo][fo][bp][cp][fp][bq][gq][br][gr][gs]AB[dp][ep][cq][fq][cr][dr][fr]
+;B[eq]
+;W[fs]
+;B[es]LB[eq:1][fs:2][es:3]C[Correct
+
+Black should first play at the vital point at 1 to ensure life.
+
+])
+(;AW[do][eo][fo][bp][cp][fp][bq][gq][br][gr][gs]AB[dp][ep][cq][fq][cr][dr][fr]
+;B[fs]
+;W[eq]
+;B[dq]
+;W[cs]
+;B[ds]
+;W[er]LB[fs:1][eq:2][dq:3][cs:4][ds:5][er:6]C[Wrong
+
+The descent to 1 fails because White will occupy the vital point at 2. Black must answer the atari at 3 and White's hane at 4 narrows Black's eye space. When Black blocks at 5 White plays inside at the vital point at 6.
+
+])
+)

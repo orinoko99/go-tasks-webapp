@@ -1,0 +1,38 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cm][em][fp][gp][cq][dq][fq][br][cr][er][ds][fs]AB[fo][bp][cp][dp][ep][bq][eq][hq][fr][gr]LBC[Find the Target
+
+Where should Black play to save his stones?
+])
+(;AW[cm][em][cq][dq][br][cr][er][ds][fs]AB[fo][bp][cp][dp][ep][bq][eq][hq][fr][gr]LB[fp:][gp:][fq:]
+;B[hn]
+;W[hp]
+;B[ip]
+;W[iq]
+;B[ho]
+;W[hr]
+;B[go]LB[hn:1][hp:2][ip:3][iq:4][ho:5][hr:6][go:7][fp:][gp:][fq:]C[Correct
+
+Black should aim at the key stones, the cutting stones. Next, Black needs to find the right capturing technique, here it is a knight's net. Although it seems that White can break out at 4 and 6, Black can succeed with the snapback at 7.
+
+])
+(;AW[cm][em][fp][gp][cq][dq][fq][br][cr][er][ds][fs]AB[fo][bp][cp][dp][ep][bq][eq][hq][fr][gr]
+;B[ho]
+;W[go]
+;B[gn]
+;W[fn]
+;B[eo]
+;W[hn]
+;B[gm]
+;W[hp]
+;B[io]
+;W[ip]LB[ho:1][go:2][gn:3][fn:4][eo:5][hn:6][gm:7][hp:8][io:9][ip:10]C[Wrong
+
+The one-point jump is too thin and allows White to break out up to 10.
+
+])
+)

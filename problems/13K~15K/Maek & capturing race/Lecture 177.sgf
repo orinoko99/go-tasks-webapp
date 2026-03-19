@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dn][bp][dp][ep][cq][dq][gq][iq][br][er][fr][bs]AB[bo][fo][cp][fp][aq][bq][eq][fq][cr][dr]LBC[Black's skillfull move
+
+Black and White are in a in a capturing race. Where should Black play?
+])
+(;AW[dn][bp][dp][ep][cq][dq][gq][iq][br][er][fr][bs]AB[bo][fo][cp][fp][aq][bq][eq][fq][cr][dr]
+;B[do]
+;W[co]
+;B[eo]
+;W[cp]
+;B[cn]LB[do:1][co:2][eo:3][cp:4][cn:5]C[Correct
+
+
+Black should wedge in at 1 to squeeze White. If White connects at 4, Black will go round at 5 to capture White.
+])
+(;AW[dn][bp][dp][ep][cq][dq][gq][iq][br][er][fr][bs]AB[bo][fo][cp][fp][aq][bq][eq][fq][cr][dr]
+;B[co]
+;W[en]LB[co:1][en:2]C[Wrong
+
+
+Black 1 allows White to make the strong bamboo connection at 2. Black failed.
+])
+)

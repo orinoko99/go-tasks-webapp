@@ -1,0 +1,27 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[bl][cm][dm][em][an][bn][fn][gn][do][eo][go][ap][gp][gq][er][gr][fs][gs]AB[cn][dn][bo][co][fo][cp][dp][ep][fp][aq][bq][cq][fq][cr][fr][cs][ds]LB[en:C][ao:B][es:A]LB[en:C][ao:B][es:A]C[Value of Endgame Moves
+
+Where should Black play, at A, B or C?
+])
+(;AW[bl][cm][dm][em][an][bn][fn][gn][do][eo][go][ap][gp][gq][er][gr][fs][gs]AB[cn][dn][bo][co][fo][cp][dp][ep][fp][aq][bq][cq][fq][cr][fr][cs][ds]
+;B[es]
+;W[en]
+;B[ao]LB[es:1][en:2][ao:3]C[Correct
+
+Black should first play at 1 (five points), White at 2 (four points) and Black at 3 (three points). The result is eight points for Black and four points for White (8:4).
+
+])
+(;AW[bl][cm][dm][em][an][bn][fn][gn][do][eo][go][ap][gp][gq][er][gr][fs][gs]AB[cn][dn][bo][co][fo][cp][dp][ep][fp][aq][bq][cq][fq][cr][fr][cs][ds]
+;B[en]
+;W[es]
+;B[ao]LB[en:1][es:2][ao:3]C[Wrong
+
+This way Black gains four points at 1, three points at 3 and White gains 5 points at 2. The result is 7:5, that is two points worse for Black compared to the solution.
+
+])
+)

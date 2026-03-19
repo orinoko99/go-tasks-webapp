@@ -1,0 +1,116 @@
+//19
+4
+One Move Captures Black (12)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \b White to Play.\b0
+\par Engulfing a white stone, the black group appears to be alive.
+\par
+\par However, there is a serious defect in this shape, which can lead to a shortage of liberties.
+\par
+\par Please keep this in mind and attack the black group.
+\par }
+#
+(
+2[rn]
+2[qp]
+2[rp]
+2[nq]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+1[rr]
+)
+0
+Diagram 1 (Correct?)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par White hanes at 1 and when black answer it at 2, if white descends at 3, black cannot play dansu from either direction!
+\par
+\par Do you think this is the answer? Does black have to play this way?
+\par
+\par }
+#
+(
+2[rn]
+2[qp]
+2[rp]
+2[nq]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+1[rr]
+)
+3
+W[sq]
+B[sr]
+W[qs]
+Diagram 2 (A Pae)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par When white hanes at \'a1\'e2, instead of blocking directly, black can simply capture white at 1.
+\par
+\par White 2 is a natural follow up but if black tries to live with 3, white has to start a pae with 4 and cannot kill black cleanly.
+\par
+\par White can do better.r
+\par }
+#
+(
+2[rn]
+2[qp]
+2[rp]
+2[nq]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+6[sq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+1[rr]
+)
+4
+B[qs]
+W[sr]
+B[os]
+W[rs]
+Diagram 3 (Correct)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par It is the correct order of moves for white to descend with 1 first. When black answers at 2, white can then hanes at 3.
+\par
+\par \pard\ltrpar\nowidctlpar\qj Because of shortage a liberties, black cannot block white at \b\f1 A\b0\f0 . Black's group looked perfectly alive but now it has been captured.r
+\par }
+#
+(
+2[rn]
+2[qp]
+2[rp]
+2[nq]
+2[oq]
+2[pq]
+1[qq]
+1[rq]
+2[nr]
+1[or]
+1[pr]
+2[qr]
+1[rr]
+65[sr]
+)
+3
+W[qs]
+B[rs]
+W[sq]

@@ -1,0 +1,148 @@
+//19
+4
+One Move Captures Black (23)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to Play.\b0
+\par White \'a1\'e2 plays a big part in this problem.
+\par
+\par The first move is obvious. The fifth move is the vital point that is not easy to find.
+\par
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[rp]
+2[nq]
+1[oq]
+1[pq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+6[pr]
+2[ns]
+1[os]
+)
+6
+W[``]
+W[``]
+W[``]
+W[``]
+W[``]
+W[``]
+Diagram 1 (No Reading)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a beginner's move.
+\par
+\par After connecting at 2, there are no follow up moves left for white. This move is based on no reading at all.
+\par
+\par Up to 4, black lives with a lot of points.
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[rp]
+2[nq]
+1[oq]
+1[pq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+2[pr]
+2[ns]
+1[os]
+)
+4
+W[ps]
+B[qq]
+W[sp]
+B[qr]
+Diagram 2 (Pae)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is the starting point and black 2 is absolute. White 3 is also, completely necessary.
+\par
+\par Now here is the problem.
+\par White 5 is regrettable. It allows black to play at 6 and make a pae. This is a one move approach ko, and a failure for white.
+\par
+\par Instead of 5 -
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[rp]
+2[nq]
+1[oq]
+1[pq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+2[pr]
+2[ns]
+1[os]
+)
+6
+W[qr]
+B[qq]
+W[rr]
+B[sr]
+W[qs]
+B[rs]
+Diagram 3 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par White 1 is a severe move. If black plays at 2, white plays at 3 creating a dead shape.
+\par
+\par Instead of 2, throwing-in at 3 seems to be a maek, but when white captures at 2, because of a shortage of liberties, black cannot capture the white stones and is dead.
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[np]
+2[op]
+1[pp]
+1[qp]
+2[rp]
+2[nq]
+1[oq]
+1[pq]
+1[qq]
+1[rq]
+1[sq]
+2[nr]
+1[or]
+2[pr]
+2[qr]
+2[rr]
+1[sr]
+2[ns]
+1[os]
+)
+3
+W[rs]
+B[ps]
+W[qs]

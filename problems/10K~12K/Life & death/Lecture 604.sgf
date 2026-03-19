@@ -1,0 +1,17 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[bm][cm][dn][ao][do][ap][dp][aq][dq][dr][bs][cs]AB[an][bn][co][bp][cp][cq][ar][br][cr]LBC[Black to Live
+
+There is a special technique to live.
+])
+(;AW[bm][cm][dn][ao][do][ap][dp][aq][dq][dr][bs][cs]AB[an][bn][co][bp][cp][cq][ar][br][cr]
+;B[cn]LB[cn:1]C[Correct
+
+If Black protects his weakness at 1, he lives in bik/seki/mutual life.
+
+])
+)

@@ -1,0 +1,68 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[nc][pm][cn]AB[dd][jd][pd][qf][dj][jj][pj][dp][jp][np][pp]
+;B[gq]
+;W[cp]
+;B[cq]
+;W[dq]LB[gq:1][cp:2][cq:3][dq:4]C[How should Black play?
+
+Black's turn
+Black 1 is not a common move in handicap games. You should study this move properly.
+White will play 2 and 4.
+How should Black answer now?\lang1042\f1
+
+])
+(;AW[nc][pm][cn][cp][dq]AB[dd][jd][pd][qf][dj][jj][pj][dp][jp][np][pp][cq][gq]
+;B[ep]LB[ep:1]C[1st Dia. Correct answer
+
+Black 1 is the correct answer. This is the best move for this situation.
+After this-\lang1042\f1
+
+])
+(;CR[jp]AW[nc][pm][cn][cp][dq]AB[dd][jd][pd][qf][dj][jj][pj][dp][ep][jp][np][pp][cq][gq]
+;W[bq]
+;B[cr]
+;W[bo]
+;B[br]
+;W[ar]
+;B[eq]LB[bq:1][cr:2][bo:3][br:4][ar:5][eq:6]CR[jp]C[2nd Dia. Joseki
+
+White will play 1 and 3. Then Black answers 4 and 6. This is a common joseki. It seems Black's \lang1042\f1\'a1\'e3\lang1043\f0  stone is too near but it's not so bad, since it's quite strong.\lang1042\f1
+
+])
+(;AW[nc][pm][cn][cp][bq][dq]AB[dd][jd][pd][qf][dj][jj][pj][dp][ep][jp][np][pp][cq][gq][cr]
+;W[br]
+;B[co]
+;W[bp]
+;B[dr]
+;W[do]
+;B[eo]
+;W[dn]
+;B[nm]LB[br:1][co:2][bp:3][dr:4][do:5][eo:6][dn:7][nm:8]C[3rd Dia. Good for Black
+
+{\colortbl ;\red0\green0\blue255;}
+If White plays 1, Black 2 and 4 are the correct answers. White will then play 5.
+Black can play 6 or tenuki is also possible.
+This result is good for Black.\lang1042\f1
+\cf1\b
+\cf0\b0
+])
+(;AW[nc][pm][cn][cp][dq]AB[dd][jd][pd][qf][dj][jj][pj][dp][jp][np][pp][cq][gq]
+;B[co]
+;W[bp]
+;B[eq]
+;W[dr]
+;B[do]
+;W[bo]
+;B[cr]
+;W[dn]LB[co:1][bp:2][eq:3][dr:4][do:5][bo:6][cr:7][dn:8]C[4th Dia. Mistake
+
+Black 1 and 3 are mistake. White will answer with this sequence.
+I recommend Black to play the 1st or the 2nd diagrams.\lang1042\f1
+
+])
+)

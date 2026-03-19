@@ -1,0 +1,58 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qp][rp][sp][mq][nq][oq][pq][mr][ms][os]AB[qq][rq][sq][nr][or][pr][rs]LB[qr:B][ps:A]LB[qr:B][ps:A]C[Which is better?(9)
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+
+Which is better? A or B?\f2
+\lang1042\f0
+
+])
+(;AW[qp][rp][sp][mq][nq][oq][pq][mr][ms][os]AB[qq][rq][sq][nr][or][pr][rs]LB[rr:A]
+;W[qr]
+;B[qs]
+;W[ns]
+;B[ps]LB[qr:1][qs:2][ns:3][ps:4][rr:A]C[Dia.1(B2!!)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Cutting at A looks a good move and you might think B is dead.
+
+But B2 is \cf1\b calm answer\cf0\b0  so B can live.
+
+If B played at A instead of 2, W can kill B by playing at 4.
+
+
+
+
+])
+(;AW[qp][rp][sp][mq][nq][oq][pq][mr][ms][os]AB[qq][rq][sq][nr][or][pr][rs]LB[ps:A]
+;W[ps]
+;B[qr]
+;W[ns]
+;B[sr]LB[ps:1][qr:2][ns:3][sr:4][ps:A]C[Dia.2 (Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Playing at B is the right answer.
+
+B can live but it is \cf1\b the best result for both.
+\cf0\b0
+])
+(;AW[qp][rp][sp][mq][nq][oq][pq][mr][ms][os]AB[qq][rq][sq][nr][or][pr][rs]LB[qr:A]
+;W[ns]
+;B[ps]LB[ns:1][ps:2][qr:A]C[Dia.3(Careless)
+
+{\colortbl ;\red255\green0\blue0;}
+
+<Reference>
+Connecting at 1 is \cf1\b a careless move. \cf0\b0
+After 2, B can live easily.
+
+])
+)

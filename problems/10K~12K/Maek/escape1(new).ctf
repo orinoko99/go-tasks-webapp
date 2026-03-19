@@ -1,0 +1,79 @@
+//19
+3
+Haengma to Escape
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Black's stones on the bottom seem to be in big trouble because they are surrounded completely. How should Black play?
+\par }
+#
+(
+2[co]
+2[eo]
+2[ho]
+1[dp]
+2[ep]
+1[fp]
+2[cq]
+2[dq]
+1[eq]
+1[gq]
+2[iq]
+2[cr]
+1[dr]
+1[er]
+)
+0
+Correct
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 The knight's move is the correct haengma to escape in this situation. If White tries to resist by cutting at 2 and 4, Black can counter with the double atari at 5.
+\par
+\par }
+#
+(
+2[co]
+2[eo]
+2[ho]
+1[dp]
+2[ep]
+1[fp]
+2[cq]
+2[dq]
+1[eq]
+1[gq]
+2[iq]
+2[cr]
+1[dr]
+1[er]
+)
+5
+B[gn]
+W[go]
+B[fo]
+W[fn]
+B[en]
+Failure
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Pushing out at 1 and then playing the diagonal move at 3 is heavy way of playing and is not recommended.
+\par
+\par }
+#
+(
+2[co]
+2[eo]
+2[ho]
+1[dp]
+2[ep]
+1[fp]
+2[cq]
+2[dq]
+1[eq]
+1[gq]
+2[iq]
+2[cr]
+1[dr]
+1[er]
+)
+4
+B[fo]
+W[en]
+B[gn]
+W[im]

@@ -1,0 +1,71 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[np][op][pp][qp][rp][nq][nr][ns][os]AB[oq][pq][qq][rq][or][sr][ps]LBC[Vital Point to Capture?(22)
+
+
+\b White to play\b0 .
+The title says "vital point to capture" but it is not possible to capture Black unconditionally.
+The best result is pae.
+
+Vital point for pae-would be the correct title.
+])
+(;AW[np][op][pp][qp][rp][nq][nr][ns][os]AB[oq][pq][qq][rq][or][sr][ps]
+;W[rs]
+;B[qr]
+;W[qs]LB[rs:1][qr:2][qs:3]C[Dia. 01 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+White's \cf1\b placement \cf0\b0 at 1 is a \cf1\b severe\cf0\b0  vital point.
+
+As it was already said several times, the 1-2 point is a great place.
+
+Black 2 is the strongest answer then White plays dansu at 3 and it becomes pae.
+
+This is the \cf1\b best \cf0\b0 result for \cf1\b both players\cf0\b0 .
+
+])
+(;AW[np][op][pp][qp][rp][nq][nr][ns][os]AB[oq][pq][qq][rq][or][sr][ps]LB[rr:A]
+;W[qr]
+;B[rs]LB[qr:1][rs:2][rr:A]C[Dia. 02 White 1, Greedy
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+
+Trying to capture the whole group with White 1 is \cf1\b greedy\cf0\b0 .
+Black's \cf2\b diagonal move\cf0\b0  at 2 is a \cf2\b good move\cf0\b0 .
+
+If Black answers with A instead of 2, White plays at 2 and Black is dead.
+
+
+
+])
+(;AW[np][op][pp][qp][rp][nq][nr][ns][os]AB[oq][pq][qq][rq][or][sr][ps]
+;W[qs]
+;B[qr]
+;W[rs]LB[qs:1][qr:2][rs:3]C[Dia. 03 Big Illusion
+
+{\colortbl ;\red255\green0\blue0;}
+
+It is a \cf1\b big illusion\cf0\b0  if White thinks he can make pae with White 1 as well.
+
+However in the variation Black made a mistake as well.
+Black 2 is a bad move.
+After that White plays at 3 and it becomes same with the correct variation.
+
+])
+(;AW[np][op][pp][qp][rp][nq][nr][ns][os][qs]AB[oq][pq][qq][rq][or][sr][ps]
+;B[rs]
+;W[pr]
+;B[qr]LB[rs:1][pr:2][qr:3]C[Dia. 04 Black 1, Gote
+
+
+Playing dansu from 1 is a good move for Black.
+The variation on the previous diagram was a wrong sequence.
+
+White has to capture with 2 and then Black lives easily with 3.
+])
+)

@@ -1,0 +1,37 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[co][bp][cp]AW[cm][bn][dn][dp][ep][bq][cq][dr][er]AB[co][bp][cp][dq][eq][fq][gq][fr]LBCR[co][bp][cp]C[Tesuji
+
+Black to play. How can he save his three isolated stones?
+])
+(;AW[cm][bn][dn][dp][ep][bq][cq][dr][er]AB[co][bp][cp][dq][eq][fq][gq][fr]
+;B[br]
+;W[cr]
+;B[aq]LB[br:1][cr:2][aq:3]C[Success
+
+Black can win the capturing race by using the belly attachment tesuji at 1. When White connects at 2, Black will link at 3.
+
+])
+(;AW[cm][bn][dn][dp][ep][bq][cq][dr][er]AB[co][bp][cp][dq][eq][fq][gq][fr]
+;B[br]
+;W[ar]
+;B[cr]LB[br:1][ar:2][cr:3]C[Variation
+
+If White responds to 1 by playing the hane at 1, Black will cut at 3.
+
+])
+(;AW[cm][bn][dn][dp][ep][bq][cq][dr][er]AB[co][bp][cp][dq][eq][fq][gq][fr]
+;B[aq]
+;W[br]
+;B[ar]
+;W[cs]
+;B[bs]LB[aq:1][br:2][ar:3][cs:4][bs:5]C[Failure
+
+The hane at 1 is inferior to the solution. White will play at the tiger's mouth vital point at 2 and make an eye at 4. Black will start a ko at 5.
+
+])
+)

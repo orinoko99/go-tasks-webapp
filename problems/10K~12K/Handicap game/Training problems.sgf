@@ -1,0 +1,86 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dg][fg][qh][dl][jn][gp][np][nq]AB[dd][fd][jd][pd][dj][fj][jj][pj][qj][dn][pn][dp][jp][pp][oq]LB[bi:A][dk:B]
+;B[em]
+;W[cj]
+;B[ci]
+;W[di]LB[em:1][cj:2][ci:3][di:4][bi:A][dk:B]C[Training problems(50)
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Now we reach the conclusion of the previous problem.\lang1042\f0\fs18
+
+\lang1033\f1\fs16 What's a good counter to White's crosscut?  We already saw that A and B don't lead to anything good.
+
+\lang1042\f0\fs18
+])
+(;AW[dg][fg][qh][di][cj][dl][jn][gp][np][nq]AB[dd][fd][jd][pd][ci][dj][fj][jj][pj][qj][em][dn][pn][dp][jp][pp][oq]
+;B[ch]
+;W[dh]
+;B[ck]
+;W[bj]
+;B[bk]LB[ch:1][dh:2][ck:3][bj:4][bk:5]C[1µµ(¸ÚÁö´Ù?)
+
+{\colortbl ;\red255\green0\blue0;}
+What do you think about Black 1, a move that tries to extend Black's space?  If White connects at 2 then Black can easily capture with 3.
+
+But will our opponent really play this way?  This is \cf1\b wishful thinking\cf0\b0  for Black.  Instead of 2...
+
+\lang1042\f1\fs18
+])
+(;AW[dg][fg][qh][di][cj][dl][jn][gp][np][nq]AB[dd][fd][jd][pd][ch][ci][dj][fj][jj][pj][qj][em][dn][pn][dp][jp][pp][oq]
+;W[ej]
+;B[dk]
+;W[ek]
+;B[ck]
+;W[cl]
+;B[bk]
+;W[el]LB[ej:1][dk:2][ek:3][ck:4][cl:5][bk:6][el:7]C[Dia.2 Pierce through
+
+{\colortbl ;\red255\green0\blue0;}
+White should play like this.  White can continuously dansu with 3 and 5 then connect at 7.
+
+This is not unlike the result we saw in the first diagram of the previous problem.  It's \cf1\b obviously bad for black.
+\cf0\lang1042\b0\f1\fs18
+
+])
+(;AW[dg][fg][qh][di][cj][dl][jn][gp][np][nq]AB[dd][fd][jd][pd][ci][dj][fj][jj][pj][qj][em][dn][pn][dp][jp][pp][oq]LB[bk:A][bl:B]
+;B[ei]
+;W[dh]
+;B[ck]
+;W[bj]
+;B[dk]LB[ei:1][dh:2][ck:3][bj:4][dk:5][bk:A][bl:B]C[Dia.3 The simple way
+
+{\colortbl ;\red0\green0\blue255;}
+Simple is best.  Black should let his inside stone go.  Black can dansu at 1 and 3 then connect at 5.  \cf1\b This is the simple way to play.\cf0\b0   There aren't a lot of variations White can try are there?  Next if White A, Black B.
+
+\lang1042\f1\fs18
+])
+(;AW[dg][fg][qh][di][cj][dl][jn][gp][np][nq]AB[dd][fd][jd][pd][ci][dj][fj][jj][pj][qj][em][dn][pn][dp][jp][pp][oq]
+;B[ck]
+;W[bj]
+;B[bi]
+;W[dk]
+;B[ej]
+;W[bk]
+;B[cf]LB[ck:1][bj:2][bi:3][dk:4][ej:5][bk:6][cf:7]C[Dia.4 Another way
+
+Black could dansu at 1 and then descend at 3.  This would be the strongest way to play.    White 4 captures a stone and then Black connects.
+
+Black 7 connects his group to the upper left corner.  White's 3 stones on the outside are floating.  We can see this is a success for Black.
+\lang1042\f1\fs18
+])
+(;AW[dg][fg][qh][dl][jn][gp][np][nq]AB[dd][fd][jd][pd][dj][fj][jj][pj][qj][dn][pn][dp][jp][pp][oq]
+;B[em]
+;W[cj]
+;B[ci]
+;W[di]LB[em:1][cj:2][ci:3][di:4]C[No diagram name
+
+
+
+])
+)

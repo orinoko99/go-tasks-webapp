@@ -1,0 +1,82 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pn][rn][qp][rp][oq][pq][mr][nr][pr][ps]AB[op][pp][lq][mq][nq][qq][rq][lr][qr][qs]LBC[Excellent Plan
+
+
+\b White to play\b0 .
+Black has three liberties, how about White?
+Black can play dansu and then another dansu, so White can be captured very fast.
+
+Is there an excellent plan for White to extend liberties?
+
+])
+(;AW[pn][rn][qp][rp][oq][pq][mr][nr][pr][ps]AB[op][pp][lq][mq][nq][qq][rq][lr][qr][qs]
+;W[rs]
+;B[os]
+;W[or]
+;B[ms]LB[rs:1][os:2][or:3][ms:4]C[Dia. 01 Black Wins
+
+{\colortbl ;\red255\green0\blue0;}
+
+If White wants to attack Black in the corner, the attachment at 1 is the only move.
+
+However the problem is Black plays dansu at 2 and then White has only two liberties left. Up to 4 White is in dansu.
+So \cf1\b Black wins \cf0\b0 the \cf1\b capturing race\cf0\b0 .
+
+
+])
+(;CR[qq][rq][qr][qs]AW[pn][rn][qp][rp][oq][pq][mr][nr][pr][ps]AB[op][pp][lq][mq][nq][qq][rq][lr][qr][qs]
+;W[ls]
+;B[os]
+;W[or]
+;B[ks]
+;W[ns]LB[ls:1][os:2][or:3][ks:4][ns:5]CR[qq][rq][qr][qs]C[Dia. 02 Step pae
+
+{\colortbl ;\red255\green0\blue0;}
+
+White 1 has a plan.
+After the exchange of Black 2 for White 3, if Black blocks at 4, White takes at 5 and resists with pae.
+
+However the four Black \'a1\'e3 stones have three liberties, therefore this is \cf1\b very unfavorable pae\cf0\b0  for White. (It is step pae)
+
+Therefore this variation is also a \cf1\b failure for White\cf0\b0 .
+
+])
+(;AW[pn][rn][qp][rp][oq][pq][mr][nr][pr][ps]AB[op][pp][lq][mq][nq][qq][rq][lr][qr][qs]
+;W[os]
+;B[ms]
+;W[rs]
+;B[rr]
+;W[sq]LB[os:1][ms:2][rs:3][rr:4][sq:5]C[Dia. 03 Correct Answer
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\b Making one eye\cf0\b0  with 1 is the \cf1\b vital point of this capturing race\cf0\b0 .
+After this maek White has more liberties than before.
+
+Whenever Black played at 1 on \b Dia. 01 \b0 or \b Dia. 02\b0 , White was captured. It means 1 is the vital point for both players.
+
+Black has to play at 2 and then White \cf1\b wins the capturing race\cf0\b0  with the attack at 3.
+
+
+])
+(;AW[pn][rn][qp][rp][oq][pq][mr][nr][pr][os][ps]AB[op][pp][lq][mq][nq][qq][rq][lr][qr][ms][qs]
+;W[sq]
+;B[sr]
+;W[rs]
+;B[sp]
+;W[so]LB[sq:1][sr:2][rs:3][sp:4][so:5]C[Dia. 04 Careless
+
+
+White's hane at 1 is a careless move.
+
+Black 2 and 4 are sente so the pae is unavoidable.
+
+
+
+])
+)

@@ -1,0 +1,61 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[mp][np][op][kq][lq][pq][kr][pr][ps]AB[pn][pp][qp][rp][mq][nq][oq][lr][mr][or][rr]LBC[One more time.
+
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+This is \lang1033\f1 similar problem before.\f2
+\lang1042\f0
+
+])
+(;AW[mp][np][op][kq][lq][pq][kr][pr][ps]AB[pn][pp][qp][rp][mq][nq][oq][lr][mr][or][rr]
+;W[ls]
+;B[ns]
+;W[ks]
+;B[qr]
+;W[ms]
+;B[qq]LB[ls:1][ns:2][ks:3][qr:4][ms:5][qq:6]C[Dia.1(One eye versus no eye)
+
+{\colortbl ;\red0\green0\blue255;}
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+
+Do you remember bending at 1 is a bed move?
+Because making one eye is a vital point.
+
+Up to 6, \cf1\b B wins by the one eye versus no eye.
+\cf0\b0
+
+])
+(;AW[mp][np][op][kq][lq][pq][kr][pr][ps]AB[pn][pp][qp][rp][mq][nq][oq][lr][mr][or][rr]
+;W[os]
+;B[ns]
+;W[ls]
+;B[qr]LB[os:1][ns:2][ls:3][qr:4]C[DIa.2(Beginners mistake)
+
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+
+Beginners usually make mistakes which is kind of seif-dansu(W1).
+
+Up to 4, B has a three liberties and W has a two. so B wins the capturing race.
+])
+(;AW[mp][np][op][kq][lq][pq][kr][pr][ps]AB[pn][pp][qp][rp][mq][nq][oq][lr][mr][or][rr]
+;W[ns]
+;B[os]
+;W[ls]LB[ns:1][os:2][ls:3]C[DIa.3(Right answer)
+
+{\info{\horzdoc}{\*\lchars ([\{$\'5c([\{$\'a1\'ae\'a1\'b0\'a1\'b2\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'bc\'a3\'a8\'a3\'db\'a3\'fb\'a3\'a4\'a3\'dc\'a1\'cc}{\*\fchars )]\},.:\'3b!?)]\},.:\'3b!?\'a1\'a1\'a1\'af\'a1\'b1\'a1\'b3\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bd\'a1\'a2\'a3\'a9\'a3\'dd\'a3\'fd\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'a1\'a1\'c6\'a1\'c7\'a1\'c8\'a1\'c9\'a1\'cb\'a3\'a5}}
+
+I think, now you can find the playing inside at 1 easily!!
+
+Up to 3, W wins the capturing race.
+
+])
+)

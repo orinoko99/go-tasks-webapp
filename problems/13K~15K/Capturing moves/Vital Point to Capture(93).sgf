@@ -1,0 +1,54 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pq][qq][or][sr][ps]AB[pp][qp][rp][nq][oq][nr]LBC[Where is a vital point?(93)
+
+
+\f1 It's\b  Black\b0 's turn.\f0
+
+The first is a key move!!
+
+
+])
+(;AW[pq][qq][or][sr][ps]AB[pp][qp][rp][nq][oq][nr]
+;B[rs]
+;W[rr]
+;B[ns]
+;W[qs]
+;B[pr]LB[rs:1][rr:2][ns:3][qs:4][pr:5]C[Dia.1(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Playing inside at 2-1\cf0\b0  is a vital point in this case.
+
+W keeps playing to make the two eyes(W2,4) but B3,5
+])
+(;AW[pq][qq][or][sr][ps]AB[pp][qp][rp][nq][oq][nr]
+;B[qr]
+;W[rr]
+;B[rq]
+;W[pr]LB[qr:1][rr:2][rq:3][pr:4]C[DIa.2(Bed choice)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Attaching at 1 seems to be a good move but it lets W can live.
+
+W2 is a \cf1\b proper move\cf0\b0  so W's group is alive.
+
+])
+(;AW[pq][qq][or][sr][ps]AB[pp][qp][rp][nq][oq][nr]
+;B[ns]
+;W[rs]
+;B[rq]
+;W[rr]LB[ns:1][rs:2][rq:3][rr:4]C[DIa.3(Enemy's vital point)
+
+{\colortbl ;\red255\green0\blue0;}
+
+Descending at 1 looks like a good move but W2 is \cf1\b an enemy's vital point\cf0\b0 .
+
+So W can live easily.
+])
+)

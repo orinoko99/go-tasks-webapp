@@ -1,0 +1,54 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qk][cm][dn][on][pn][qn][qo][qp][rp][aq][bq][cq][dq][eq][qq][sq][ar][er][qr][bs]AB[fo][no][po][fp][mp][pp][fq][jq][pq][rq][br][cr][dr][fr][pr][rr][es][fs][ps]LB[ds:A][qs:B]LB[ds:A][qs:B]C[Which side is bigger?(28)
+
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue255;}
+Let's see which is bigger, A or B?  This one will be an easy problem to figure out.
+
+Multiple choice:
+\cf1\lang1042\f1\fs18 1)\cf0\lang1033\b\f0\fs16 A \cf2\b0 is bigger.\lang1042\f1\fs18
+\cf1 2)\cf0\lang1033\b\f0\fs16 B \cf2\b0 is bigger.\lang1042\f1\fs18  \cf0
+\cf1 3)\cf2\lang1033\f0\fs16 They're the same size.\cf0\lang1042\f1\fs18
+\cf2
+\cf1
+])
+(;AW[qk][cm][dn][on][pn][qn][qo][qp][rp][aq][bq][cq][dq][eq][qq][sq][ar][er][qr][bs]AB[fo][no][po][fp][mp][pp][fq][jq][pq][rq][br][cr][dr][fr][pr][rr][es][fs][ps]LB[as:?][cs:?]
+;W[ds]LB[ds:1][as:?][cs:?]C[Dia.1 How big is A?
+
+{\colortbl ;\red0\green0\blue255;}
+Let's start off with the calculation for A?  White 1 takes the three Black stones for six points, plus we get two juicy points at the x marked spots giving us a grand total of \cf1\lang1042\b\f1\fs18 8\lang1033\f0\fs16  points.\cf0\b0
+\lang1042\f1\fs18
+
+])
+(;AW[qk][cm][dn][on][pn][qn][qo][qp][rp][aq][bq][cq][dq][eq][qq][sq][ar][er][qr][bs]AB[fo][no][po][fp][mp][pp][fq][jq][pq][rq][br][cr][dr][fr][pr][rr][es][fs][ps]
+;B[ds]LB[ds:1]C[Dia.2 8 points in husu
+
+{\colortbl ;\red0\green0\blue255;}
+Black plays at 1 to save his stones but this doesn't give Black any points, so it isn't worth anything.  That means that the worth of A is 0+8 = \cf1\lang1042\b\f1\fs18 8\lang1033\f0\fs16  points in husu.
+\cf0\lang1042\b0\f1\fs18
+])
+(;AW[qk][cm][dn][on][pn][qn][qo][qp][rp][aq][bq][cq][dq][eq][qq][sq][ar][er][qr][bs]AB[fo][no][po][fp][mp][pp][fq][jq][pq][rq][br][cr][dr][fr][pr][rr][es][fs][ps]LB[sp:?][sr:?][rs:?][ss:?]
+;W[qs]LB[qs:1][sp:?][sr:?][rs:?][ss:?]C[Dia.3 How big is B
+
+{\colortbl ;\red0\green0\blue255;}
+White can descend at 1 and block off a lot of points.  The two Black stones are captured and White gains the four x marked spots.  This is a lot of points, \cf1\lang1042\b\f1\fs18 8\lang1033\f0\fs16  points of territory in all.\cf0\b0
+\lang1042\f1\fs18
+
+])
+(;AW[qk][cm][dn][on][pn][qn][qo][qp][rp][aq][bq][cq][dq][eq][qq][sq][ar][er][qr][bs]AB[fo][no][po][fp][mp][pp][fq][jq][pq][rq][br][cr][dr][fr][pr][rr][es][fs][ps]LB[qs:?]
+;B[qs]
+;W[sr]
+;B[rs]LB[qs:1][sr:2][rs:3][qs:?]C[Dia.4 Both sides are worth 8 points
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+White connects at 1 and then connects with 3 so that White can't take any of his stones.  Therefore, the value of Black B is 0 + 8 = \cf1\lang1042\b\f1\fs18 8\lang1033\f0\fs16  points in husu.
+
+\cf0\b0 This means that in the end,  the answer is:\cf1\b
+\cf2\lang1042\b0\f1\fs18 3)\cf1\lang1033\f0\fs16 They're the same size.\cf0
+\lang1042\f1\fs18
+])
+)

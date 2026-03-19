@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[op][qp][rp][sp][nq][pq][pr]AB[on][rn][po][pp][qq][rq][sq][qr]LBC[Three liberties in the corner
+
+
+\lang1033\f1 It's\b  White\b0 's turn.
+\lang1042\f0
+Easy capturing race.
+
+First move is important.
+])
+(;CR[qq][rq][sq][qr]AW[op][qp][rp][sp][nq][pq][pr]AB[on][rn][po][pp][qq][rq][sq][qr]
+;W[rs]
+;B[qo]
+;W[qs]
+;B[ro]LB[rs:1][qo:2][qs:3][ro:4]CR[qq][rq][sq][qr]C[Dia.1(Weird move)
+
+
+Playing inside at 1 looks a good move but it's a weird move.
+Because W didn't reduce B's four stones liberties at all.
+
+Up to 4, B has one more liberty.
+
+])
+(;AW[op][qp][rp][sp][nq][pq][pr]AB[on][rn][po][pp][qq][rq][sq][qr]
+;W[qs]
+;B[rs]
+;W[sr]
+;B[ps]
+;W[os]
+;B[or]LB[qs:1][rs:2][sr:3][ps:4][os:5][or:6]C[Dia.2(Ko)
+
+
+Bent at 1 is better than before because W tries to reduce B's liberty.
+
+But it will be a ko, this isn't the right answer.
+
+])
+(;CR[qq][rq][sq][qr]AW[op][qp][rp][sp][nq][pq][pr]AB[on][rn][po][pp][qq][rq][sq][qr]
+;W[sr]
+;B[qo]
+;W[qs]LB[sr:1][qo:2][qs:3]CR[qq][rq][sq][qr]C[Dia.3(Right move)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Attaching at\cf1\b  2 to 1 point\cf0\b0  is a vital point.
+
+Now W has one more liberty!!
+
+
+])
+)

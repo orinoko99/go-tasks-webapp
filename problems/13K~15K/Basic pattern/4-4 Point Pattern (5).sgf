@@ -1,0 +1,72 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[qq]AW[qn][mp][nq][qq]AB[no][np][pp]LB[qp:B][oq:A][pq:C]LB[qp:B][oq:A][pq:C]CR[qq]C[4-4Point joseki(5)
+
+{\colortbl ;\red0\green0\blue255;}
+
+It's \cf1\b Black\cf0\b0 's turn.
+In this situation White invades at 3-3 point.
+\f1 Which one is best response A, B, C ?\f0
+])
+(;AW[qn][mp][nq][qq]AB[no][np][pp]
+;B[oq]
+;W[qp]
+;B[mq]LB[oq:1][qp:2][mq:3]C[Dia1(Basic joseki)
+
+{\colortbl ;\red0\green0\blue255;}
+
+The best move is \cf1\b B1\cf0\b0 .
+Up to move 3, \f1 It is a basic double approach joseki.\f0
+])
+(;CR[qn]AW[qn][mp][nq][qq]AB[no][np][pp]LB[qj:A]
+;B[qp]
+;W[pq]
+;B[oq]
+;W[or]
+;B[op]
+;W[mr]
+;B[mo]
+;W[lp]
+;B[qk]LB[qp:1][pq:2][oq:3][or:4][op:5][mr:6][mo:7][lp:8][qk:9][qj:A]CR[qn]C[Dia2(Underestimation)
+
+{\colortbl ;\red0\green0\blue255;}
+
+The upperhand player must've underestimated the the White player.
+
+If Black stone has at A, \cf1\b B1 \cf0\b0 is good move.
+
+
+])
+(;AW[qn][mp][nq][qq]AB[no][np][pp]LB[lp:D][lq:B][mq:A][mr:C]
+;B[pq]
+;W[qp]
+;B[po]
+;W[qr]LB[pq:1][qp:2][po:3][qr:4][lp:D][lq:B][mq:A][mr:C]C[Dia3 (Wrong direction)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black blocks at 1 is the wrong direction.
+\cf1\b B1\cf0\b0 's position is not efficient for White.
+
+Continuing, Black has to cut off at A.
+White plays atari with B.
+After D, White gains sente.
+])
+(;AW[qn][mp][nq][qq]AB[no][np][pp]
+;B[qo]
+;W[ro]
+;B[rp]
+;W[qp]
+;B[po]
+;W[rn]
+;B[pq]
+;W[qr]LB[qo:1][ro:2][rp:3][qp:4][po:5][rn:6][pq:7][qr:8]C[Dia 4(Worst)
+
+
+\f1 Worst result.\f0
+])
+)

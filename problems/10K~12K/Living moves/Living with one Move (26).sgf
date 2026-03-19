@@ -1,0 +1,77 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[oo][qo][pp][rp][nq][oq][nr]AB[pq][qq][or][rr]LBC[Living with one Move (26)
+
+
+\b Black to play\b0 .
+Connection, tiger's mouth or descending move?
+
+Black has several choices. Which is the correct one?
+])
+(;AW[oo][qo][pp][rp][nq][oq][nr]AB[pq][qq][or][rr]
+;B[pr]
+;W[qs]LB[pr:1][qs:2]C[Dia. 01 White 2, Severe
+
+{\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+
+First let's study Black's connection at 1.
+\cf1\b White's placement at 2\cf0\b0  is \cf2\b severe\cf0\b0  so Black can't live anymore.
+
+White 2 is the only way to capture Black.
+
+
+
+
+])
+(;AW[oo][qo][pp][rp][nq][oq][nr]AB[pq][qq][or][rr]
+;B[pr]
+;W[sr]
+;B[qs]
+;W[rq]
+;B[os]
+;W[rs]LB[pr:1][sr:2][qs:3][rq:4][os:5][rs:6]C[Dia. 02 Pae
+
+{\colortbl ;\red0\green0\blue255;}
+
+After Black 1, White's attachment at 2 is another powerful attack, however Black can resist with 3.
+\cf1\b The opponent's vital point is my vital point\cf0\b0 .
+
+After White 4, Black resists with 5 and it becomes pae up to 6.
+
+
+])
+(;AW[oo][qo][pp][rp][nq][oq][nr]AB[pq][qq][or][rr]LB[ps:A]
+;B[os]
+;W[qs]
+;B[qr]
+;W[ns]LB[os:1][qs:2][qr:3][ns:4][ps:A]C[Dia. 03 Descending Move, Dead
+
+{\colortbl ;\red0\green0\blue255;}
+
+Black wants to expand his living space and live with the descending move at 1.
+\cf1\b White's placement at 2\cf0\b0  is the \cf1\b right attack\cf0\b0  again.
+
+If Black plays at 3, White blocks at 4 and captures Black easily.
+If White plays at A instead of 4, Black is still dead.
+
+
+])
+(;AW[oo][qo][pp][rp][nq][oq][nr]AB[pq][qq][or][rr]LB[pr:A][os:B]
+;B[qs]
+;W[rq]
+;B[sr]LB[qs:1][rq:2][sr:3][pr:A][os:B]C[Dia. 04 Correct Answer
+
+
+Black's tiger's mouth move at 1 is the proper move.
+After White 2, Black makes an eye in the corner with 3.
+
+Against White A, Black B works.
+In real game, White is going to play dansu at B, and Black lives with A.
+
+
+])
+)

@@ -1,0 +1,119 @@
+//19
+5
+Star-point joseki
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\b\f0\fs18 Black's turn\b0
+\par We studied this position before. Black played 4 and White defended.
+\par Let's study what happens when Black plays A and B.\lang1042\f1
+\par
+\par }
+#
+(
+1[qn]
+65[op]
+1[pp]
+2[nq]
+66[or]
+65[qr]
+)
+5
+W[pq]
+B[qq]
+W[qr]
+B[oq]
+W[pr]
+1st Dia. Easy way
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is the easiest way. White will play 2 then Black has to play 3.
+\par Black 3 is a very important move, please remember it.\lang1042\f1
+\par
+\par
+\par }
+#
+(
+1[qn]
+1[pp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+2[pr]
+2[qr]
+)
+3
+B[op]
+W[or]
+B[rq]
+2nd Dia. Joseki
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  White 1 is also a joseki. After White plays 7, Black has a strong influence and White got territory.This result is acceptable for both.\lang1042\f1
+\par
+\par }
+#
+(
+1[qn]
+5[op]
+1[pp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+2[pr]
+2[qr]
+)
+7
+W[qp]
+B[rq]
+W[rp]
+B[rr]
+W[rs]
+B[or]
+W[sr]
+3rd Dia. Mistake
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a mistake, White will play 2 and 4. White is very strong and Black didn't get anything in return.
+\par \lang1042\f1
+\par
+\par }
+#
+(
+1[qn]
+1[pp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+2[pr]
+2[qr]
+)
+4
+B[qp]
+W[op]
+B[oo]
+W[np]
+4th Dia. Simple joseki
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fswiss\fcharset0 Tahoma;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1043\f0\fs18 Black 1 is a strong move. If White plays 2 then it leads to a simple joseki.
+\par Black plays 4 and White 4. Now White has sente, this is a joseki.
+\par If Black plays 4 instead of 3 it's more complicated.\lang1042\f1
+\par
+\par
+\par }
+#
+(
+1[qn]
+1[pp]
+2[nq]
+1[oq]
+2[pq]
+1[qq]
+65[or]
+2[pr]
+2[qr]
+)
+5
+B[or]
+W[qp]
+B[op]
+W[qo]
+B[pn]

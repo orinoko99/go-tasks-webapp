@@ -1,0 +1,52 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[rn][so][op][pp][qp][rp][oq][mr][nr][rs]AB[sp][pq][qq][rq][or][ns][ps][qs]LBC[One move problems (42)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+])
+(;AW[rn][so][op][pp][qp][rp][oq][mr][nr][rs]AB[sp][pq][qq][rq][or][ns][ps][qs]
+;W[rr]
+;B[qr]
+;W[sq]
+;B[sr]
+;W[ms]LB[rr:1][qr:2][sq:3][sr:4][ms:5]C[Dia.1 Pae
+
+White could make a Pae by throwing in at 3 and then coming back at 5.  Notice how Black cannot just simply connect because he lacks the liberties.  Pae isn't the best result though.  There is a move to capture Black.
+\lang1042\f1\fs18
+
+])
+(;AW[rn][so][op][pp][qp][rp][oq][mr][nr][rs]AB[sp][pq][qq][rq][or][ns][ps][qs]
+;W[sq]
+;B[sr]LB[sq:1][sr:2]C[Dia.2 Still Pae
+
+This is similar to the result we saw in the last problem, just a different move order.  Still, where is the vital point for capturing this group?
+\lang1042\f1\fs18
+
+])
+(;AW[rn][so][op][pp][qp][rp][oq][mr][nr][rs]AB[sp][pq][qq][rq][or][ns][ps][qs]
+;W[sr]
+;B[sq]
+;W[qr]
+;B[pr]
+;W[rr]LB[sr:1][sq:2][qr:3][pr:4][rr:5]C[Dia.3 Correct/ 2,1 point
+
+The infamous 2,1 point is at it again.  Black must connect at 2 or White will run out, and now White can reduce Black to a dead shape.  White will wedge at 2 and then once we get to 5, Black is dead.
+\lang1042\f1\fs18
+
+])
+(;AW[rn][so][op][pp][qp][rp][oq][mr][nr][rs]AB[sp][pq][qq][rq][or][ns][ps][qs]LBC[No diagram name
+
+
+
+])
+(;AW[rn][so][op][pp][qp][rp][oq][mr][nr][rs]AB[sp][pq][qq][rq][or][ns][ps][qs]LBC[No diagram name
+
+
+
+])
+)

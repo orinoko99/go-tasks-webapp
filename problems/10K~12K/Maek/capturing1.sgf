@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dn][co][bp][cp][gp][dq][gq][dr][gr]AB[dp][ep][bq][cq][cr]LBC[Common Tesuji
+
+Can you find Black's tesuji to capture some white stones?
+])
+(;AW[dn][co][bp][cp][gp][dq][gq][dr][gr]AB[dp][ep][bq][cq][cr]
+;B[er]
+;W[eq]
+;B[fq]LB[er:1][eq:2][fq:3]C[Correct
+
+The belly attachment at 1 is a common tesuji. Even if White tries to break out with 2, Black can block at 3.
+
+])
+(;CR[gp][gq][gr]AW[dn][co][bp][cp][gp][dq][gq][dr][gr]AB[dp][ep][bq][cq][cr]
+;B[eq]
+;W[er]LB[eq:1][er:2]CR[gp][gq][gr]C[Failure
+
+Simply filling liberties with 1 fails because White can connect to his friends with 2.
+
+])
+)

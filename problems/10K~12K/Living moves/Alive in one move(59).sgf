@@ -1,0 +1,65 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[qq]AW[op][pp][qp][sp][oq][rq][pr]AB[no][oo][po][qo][ro][np][rp][nq][qq][nr]LBCR[qq]C[Alive in one move(59)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Black has just cut with the\lang1042\f0\fs18  \'a1\'e3\lang1033\f1\fs16  marked stone.
+
+How should White respond while keeping in mind the best move for endgame?
+
+Where is the vital point?
+
+\lang1042\f0\fs18
+])
+(;AW[op][pp][qp][sp][oq][rq][pr]AB[no][oo][po][qo][ro][np][rp][nq][qq][nr]
+;W[qr]
+;B[rr]
+;W[pq]
+;B[sr]
+;W[sq]
+;B[so]LB[qr:1][rr:2][pq:3][sr:4][sq:5][so:6]C[Dia.1 Black's aim
+
+Black 2 is what Black is aiming to play in this shape.
+
+White captures with 3 and then Black descends with 4 so that he can set up the dansu at 6 and force White into a clump.
+
+\lang1042\f1\fs18
+
+])
+(;CR[rr]AW[op][pp][qp][sp][oq][rq][pr][qr]AB[no][oo][po][qo][ro][np][rp][nq][qq][nr][rr]
+;W[sr]LB[sr:1]CR[rr]C[Dia.2 A way to resist with Pae
+
+
+\lang1033\f1\fs16 White can resist and make a Pae  if he plays the dansu against the \lang1042\f0\fs18\'a1\'e3\lang1033\f1\fs16  marked Black stone.  This sets up the Pae and White isn't directly captured.
+
+There is a way to live though, and it's rather simple.
+
+\lang1042\f0\fs18
+])
+(;AW[op][pp][qp][sp][oq][rq][pr]AB[no][oo][po][qo][ro][np][rp][nq][qq][nr]
+;W[rr]
+;B[or]
+;W[pq]
+;B[ps]
+;W[qr]LB[rr:1][or:2][pq:3][ps:4][qr:5]C[Dia.3 Correct / Descend
+
+{\colortbl ;\red0\green0\blue255;}
+White should descend at 1, and this is \cf1\b the vital point.
+\cf0\lang1042\b0\f1\fs18
+\lang1033\f0\fs16 After you play it, it looks like a very easy to find move, right?
+
+Black will play 2 and 4 in seonsu and then White just lives with 5.
+
+\lang1042\f1\fs18
+])
+(;AW[op][pp][qp][sp][oq][rq][pr]AB[no][oo][po][qo][ro][np][rp][nq][qq][nr]LBC[No diagram name
+
+
+
+])
+)

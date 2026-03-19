@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[dm][cn][gn][hn][do][fo][jp][eq][fq][iq][gr][hr]AB[co][go][cp][gp][dq][gq][er][fr]LBC[Maek to Cut
+
+Where should Black play?
+])
+(;AW[dm][cn][gn][hn][do][fo][jp][eq][fq][iq][gr][hr]AB[co][go][cp][gp][dq][gq][er][fr]LB[fn:B][fp:A]
+;B[eo]
+;W[en]
+;B[ep]LB[eo:1][en:2][ep:3][fn:B][fp:A]C[Correct
+
+Black has the attachment at 1 to cut White. When White ataris at 2, Black pulls back and White can't connect at A because Black would capture at B.
+
+])
+(;AW[dm][cn][gn][hn][do][fo][jp][eq][fq][iq][gr][hr]AB[co][go][cp][gp][dq][gq][er][fr]
+;B[ep]
+;W[fp]
+;B[eo]
+;W[fn]LB[ep:1][fp:2][eo:3][fn:4]C[Wrong
+
+The atari at 1 and 3 is crude play and doesn't work. After 4 White is perfectly connected.
+
+])
+)

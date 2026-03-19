@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[am][bm][an][cn][bo][co][dp][fp][dq][br][cr]AB[dk][al][bl][cm][dm][dn][do][bp][cp][bq]LBC[How to Win the Capturing Race
+
+
+Does Black have any way to win the capturing race? What's his best move?
+])
+(;AW[am][bm][an][cn][bo][co][dp][fp][dq][br][cr]AB[dk][al][bl][cm][dm][dn][do][bp][cp][bq]
+;B[ao]
+;W[ap]
+;B[aq]
+;W[ar]
+;B[ao]LB[ao:1][ap:2][aq:3][ar:4][ao:5]C[Correct
+
+
+Beginning with the sacrifice at 1, a pae (ko) is the best Black can do.
+])
+(;AW[am][bm][an][cn][bo][co][dp][fp][dq][br][cr]AB[dk][al][bl][cm][dm][dn][do][bp][cp][bq]
+;B[aq]
+;W[ar]
+;B[ao]
+;W[ap]LB[aq:1][ar:2][ao:3][ap:4]C[Wrong
+
+Descending at 1 first makes also a ko, but Black is the first who needs a ko-threat. This is inferior to the solution.
+])
+)

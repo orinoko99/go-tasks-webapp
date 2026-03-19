@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[co][eo][ho][ep][cq][dq][iq][cr]AB[dp][fp][eq][gq][dr][er]LBC[Haengma to Escape
+
+Black's stones on the bottom seem to be in big trouble because they are surrounded completely. How should Black play?
+])
+(;AW[co][eo][ho][ep][cq][dq][iq][cr]AB[dp][fp][eq][gq][dr][er]
+;B[gn]
+;W[go]
+;B[fo]
+;W[fn]
+;B[en]LB[gn:1][go:2][fo:3][fn:4][en:5]C[Correct
+
+The knight's move is the correct haengma to escape in this situation. If White tries to resist by cutting at 2 and 4, Black can counter with the double atari at 5.
+
+])
+(;AW[co][eo][ho][ep][cq][dq][iq][cr]AB[dp][fp][eq][gq][dr][er]
+;B[fo]
+;W[en]
+;B[gn]
+;W[im]LB[fo:1][en:2][gn:3][im:4]C[Failure
+
+Pushing out at 1 and then playing the diagonal move at 3 is heavy way of playing and is not recommended.
+
+])
+)

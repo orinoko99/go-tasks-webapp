@@ -1,0 +1,48 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[op]AW[nq][pq][qq]AB[pj][kp][op][pp][qp]
+;W[np]LB[np:1]CR[op]C[Star-point Joseki
+
+Black's turn\b0
+When Black plays \lang1042\f1\'a1\'e3\lang1043\f0  White 1 is a very popular move.
+How should Black answer?\lang1042\f1
+
+
+])
+(;AW[np][nq][pq][qq]AB[pj][kp][op][pp][qp]
+;B[oq]
+;W[or]
+;B[pr]LB[oq:1][or:2][pr:3]C[1st Dia. Correct answer
+
+Black should play 1 and 3.
+Because-\lang1042\f1
+
+])
+(;AW[np][nq][pq][qq][or]AB[pj][kp][op][pp][qp][oq][pr]
+;W[qr]
+;B[nr]
+;W[ps]
+;B[no]
+;W[mo]
+;B[mp]
+;W[mq]LB[qr:1][nr:2][ps:3][no:4][mo:5][mp:6][mq:7]C[2nd Dia. Continuation
+
+White has to answer 1, then Black plays 2 to 6. White will answer 7.
+After this-\lang1042\f1
+
+])
+(;AW[mo][np][mq][nq][pq][qq][or][qr][ps]AB[pj][no][kp][mp][op][pp][qp][oq][nr]
+;B[mr]
+;W[lq]
+;B[lp]
+;W[kr]
+;B[nn]LB[mr:1][lq:2][lp:3][kr:4][nn:5]C[3rd Dia. Continuation 2
+
+Black has to follow this sequence, so does White. This is a joseki.\lang1042\f1
+
+])
+)

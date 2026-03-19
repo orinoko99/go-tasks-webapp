@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[pp][qp][nq][oq][qq][mr][nr][qr][ls]AB[mp][np][op][mq][pq][kr][lr][pr][ns][ps]LBC[Don't be Careless
+
+
+\b White to play\b0 .
+The first move might be unexpected.
+White should think calmly.
+
+
+
+])
+(;AW[pp][qp][nq][oq][qq][mr][nr][qr][ls]AB[mp][np][op][mq][pq][kr][lr][pr][ns][ps]
+;W[ms]
+;B[or]LB[ms:1][or:2]C[Dia. 01 Pae
+
+{\colortbl ;\red255\green0\blue0;}
+
+There is a big chance that White plays at 1 in actual game and thinks he can win the capturing race with this move.
+
+However Black can resist with 2 and it becomes pae. \cf1\b White 1\cf0\b0  was \cf1\b careless\cf0\b0 .
+
+
+])
+(;AW[pp][qp][nq][oq][qq][mr][nr][qr][ls]AB[mp][np][op][mq][pq][kr][lr][pr][ns][ps]LB[or:A]
+;W[qs]
+;B[ks]
+;W[os]LB[qs:1][ks:2][os:3][or:A]C[Dia. 02 Correct Answer
+
+
+Blocking from outside at 1 is the way to win the capturing race for White.
+Black can't play at A. After Black 2 White wins with 3.
+
+
+])
+(;CR[ms]AW[pp][qp][nq][oq][qq][mr][nr][qr]AB[mp][np][op][kq][mq][pq][lr][pr][ms][ps]LB[ls:B][ns:A]LB[ls:B][ns:A]CR[ms]C[Dia. 03 Practice Problem
+
+
+\b White to play\b0 .
+
+Black just played the hane at \'a1\'e3.
+How should White play?
+If White plays at A, Black connects at B and it becomes gote bik for White.
+
+])
+(;CR[pq][pr][ps]AW[pp][qp][nq][oq][qq][mr][nr][qr]AB[mp][np][op][kq][mq][pq][lr][pr][ms][ps]
+;W[os]LB[os:1]CR[pq][pr][ps]C[Dia. 04 Diagonal Move
+
+
+White's diagonal move at 1 is a basic maek. Black \'a1\'e3 stones are captured liked this.
+])
+)

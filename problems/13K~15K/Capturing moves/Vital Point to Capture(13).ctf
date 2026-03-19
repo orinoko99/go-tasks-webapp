@@ -1,0 +1,134 @@
+//19
+4
+Vital Point to Capture?(13)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b Black to play\b0 .
+\par The Black two stones are captured in a strange way. If Black wants to capture the White group, he has to use his two stones.
+\par
+\par Where is White's weakness? Make use of the Black \'a1\'e3 stone too and capture White.
+\par }
+#
+(
+1[qo]
+1[ro]
+5[so]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+1[mq]
+1[oq]
+2[pq]
+1[qq]
+2[rq]
+1[nr]
+2[or]
+2[pr]
+1[rr]
+2[sr]
+)
+0
+Dia. 01 Correct Answer
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black's\cf1\b  throw-in \cf0\b0 at 1 is a good move.
+\par White has no way to resist.
+\par
+\par If White captures with 2, Black also captures at 3. Black is connected so White is dead.
+\par }
+#
+(
+1[qo]
+1[ro]
+1[so]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+1[mq]
+1[oq]
+2[pq]
+1[qq]
+2[rq]
+1[nr]
+2[or]
+2[pr]
+1[rr]
+2[sr]
+)
+3
+B[sq]
+W[qr]
+B[ss]
+Dia. 02 Meaningless
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par Black' descending move at 2 is \cf1\b meaningless\cf0\b0 .
+\par White takes at 2 and lives. Black can't attack White anymore.
+\par The sequence up to 6 is the proof of life. White lived with many points.
+\par
+\par
+\par }
+#
+(
+1[qo]
+1[ro]
+1[so]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+1[mq]
+1[oq]
+2[pq]
+1[qq]
+2[rq]
+1[nr]
+2[or]
+2[pr]
+1[rr]
+2[sr]
+)
+6
+B[rs]
+W[qr]
+B[sp]
+W[sq]
+B[os]
+W[qs]
+Dia. 03 The Hane Fails
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \cf1\b There is death in the hane\cf0\b0  proverb is not useful all the time. It is important to use it in the right moment.
+\par
+\par After Black's hane at 1, White lives with 2. White can also play the dansu at A instead of 2.
+\par
+\par }
+#
+(
+1[qo]
+1[ro]
+1[so]
+1[op]
+1[pp]
+2[qp]
+2[rp]
+1[mq]
+1[oq]
+2[pq]
+1[qq]
+2[rq]
+1[nr]
+2[or]
+2[pr]
+1[rr]
+2[sr]
+65[rs]
+)
+2
+B[os]
+W[qr]

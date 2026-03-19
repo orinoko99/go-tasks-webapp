@@ -1,0 +1,128 @@
+//19
+4
+One Move Captures Black (27)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par \b White to Play\b0 .
+\par At first glance, black seems to have plenty of eyespace.
+\par
+\par However, with a single blow to the vital point, the eyespace disappears.r
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[np]
+2[pp]
+1[qp]
+1[rp]
+2[kq]
+2[mq]
+2[pq]
+1[qq]
+2[lr]
+1[mr]
+1[nr]
+1[or]
+1[pr]
+)
+0
+Diagram 1 (Pae)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par If white hanes with 1, black will calmly takie the vital point with 2.
+\par
+\par Up to 5, the best white can get is a pae.r
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[np]
+2[pp]
+1[qp]
+1[rp]
+2[kq]
+2[mq]
+2[pq]
+1[qq]
+2[lr]
+1[mr]
+1[nr]
+1[or]
+1[pr]
+)
+5
+W[sp]
+B[rr]
+W[sr]
+B[rs]
+W[rq]
+Diagram 2 (Black, Comfortable)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par White 1, is very bad.
+\par
+\par Black can cut the stone off after 2, so white 3 is absolute. After 4, black lives comfortably.r
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[np]
+2[pp]
+1[qp]
+1[rp]
+2[kq]
+2[mq]
+2[pq]
+1[qq]
+2[lr]
+1[mr]
+1[nr]
+1[or]
+1[pr]
+)
+4
+W[sq]
+B[rr]
+W[sp]
+B[sr]
+Diagram 3 (Correct)
+[{\rtf1\fbidis\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\ltrpar\lang1042\f0\fs18
+\par White 1, is the vital point to kill.\cf1\b  \cf0\b0 The enemy's key point is your own!
+\par
+\par Black 2 is forced. White can now hane at 3, taking black's eyespace. Black has no way to live.r
+\par }
+#
+(
+2[po]
+2[qo]
+2[ro]
+2[so]
+2[np]
+2[pp]
+1[qp]
+1[rp]
+2[kq]
+2[mq]
+2[pq]
+1[qq]
+2[lr]
+1[mr]
+1[nr]
+1[or]
+1[pr]
+)
+3
+W[rr]
+B[qr]
+W[sp]

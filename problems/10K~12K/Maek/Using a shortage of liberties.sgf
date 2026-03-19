@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[lp][mp][kq][nq][oq][pq][kr][nr][qr]AB[np][op][pp][qp][mq][qq][lr][mr][pr][rr]LBC[Using a shortage of liberties
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 Whichever way you slice it, WHite has 2 liberties and Black has 3.
+
+That doesn't mean White should be afraid, because he has a maek to win the capturing race, just have to find it.
+
+\lang1042\f0\fs18
+])
+(;AW[lp][mp][kq][nq][oq][pq][kr][nr][qr]AB[np][op][pp][qp][mq][qq][lr][mr][pr][rr]
+;W[os]
+;B[ps]
+;W[lq]LB[os:1][ps:2][lq:3]C[Dia.1 White wins?
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 White exchanges 1 for 2 then White plays 3 and White wins the capturing race.
+
+Not really.  Black isn't going to play at 2.  \cf1\b White needs to read things from Black's perspective\cf0\lang1042\b0\f0\fs18 .
+
+])
+(;CR[os]AW[lp][mp][kq][nq][oq][pq][kr][nr][qr][os]AB[np][op][pp][qp][mq][qq][lr][mr][pr][rr]
+;B[qs]
+;W[lq]
+;B[or]LB[qs:1][lq:2][or:3]CR[os]C[Dia.2 White dies
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 When White plays the\lang1042\f0\fs18\'a1\'e2\lang1033\f1\fs16  marked stone Black will take with 1.
+At this moment White is dead.
+\cf1\b Rather surprising isn't it?
+
+\cf0\b0 Up to 3 White dies.
+
+\lang1042\f0\fs18
+])
+(;CR[qr]AW[lp][mp][kq][nq][oq][pq][kr][nr][qr]AB[np][op][pp][qp][mq][qq][lr][mr][pr][rr]
+;W[ns]
+;B[os]
+;W[lq]LB[ns:1][os:2][lq:3]CR[qr]C[Dia.3 Descend
+
+{\colortbl ;\red0\green0\blue255;}
+
+\cf1\lang1033\b\f1\fs16 White should descend at 1\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 This is the maek that'll win the capturing race for White.
+
+Now neither of Black's group have enough liberties to capture White because of the \lang1042\f0\fs18
+\'a1\'e2\lang1033\f1\fs16  marked stone.
+
+\lang1042\f0\fs18
+])
+(;AW[lp][mp][kq][nq][oq][pq][kr][nr][qr]AB[np][op][pp][qp][mq][qq][lr][mr][pr][rr]LBC[No diagram name
+
+
+
+])
+)

@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[cn][en][bo][bp][cq][dq][eq][cr][er]AB[go][cp][dp][ep][bq][fq][br][dr][fr]LBC[Win the capturing race
+
+Where's Black's move to win the capturing race?
+])
+(;AW[cn][en][bo][bp][cq][dq][eq][cr][er]AB[go][cp][dp][ep][bq][fq][br][dr][fr]
+;B[ds]
+;W[cs]
+;B[bs]
+;W[es]
+;B[fs]
+;W[aq]
+;B[dr]LB[ds:1][cs:2][bs:3][es:4][fs:5][aq:6][dr:7]C[Correct
+
+
+Descending to 1 is the vital point. White plays atari at 2 and Black surrounds at 3. When White takes at 4, Black continues to take liberties from the outside at 5.
+])
+(;AW[cn][en][bo][bp][cq][dq][eq][cr][er]AB[go][cp][dp][ep][bq][fq][br][dr][fr]
+;B[es]
+;W[ds]
+;B[fs]
+;W[bs]LB[es:1][ds:2][fs:3][bs:4]C[Wrong
+
+
+The hane at either side doesn't work. White can make an eye at 2 and the stones in the corner are lost (one eye versus no eye).
+])
+)

@@ -1,0 +1,48 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[pq][qq][ps]AW[op][pp][qp][rp][oq][rq][or][rr][os]AB[mn][oo][po][qo][ro][np][sp][nq][pq][qq][sq][nr][sr][ns][ps]LBCR[pq][qq][ps]C[One move 7
+
+
+\lang1033\b\f1\fs16 Black to play\lang1042\b0\f0\fs18
+\lang1033\f1\fs16 Who is killing who here?  How can we capture White when it looks like White is capturing us?
+
+\lang1042\f0\fs18
+])
+(;AW[op][pp][qp][rp][oq][rq][or][rr][os]AB[mn][oo][po][qo][ro][np][sp][nq][pq][qq][sq][nr][sr][ns][ps]
+;B[rs]
+;W[qr]
+;B[qs]
+;W[pr]LB[rs:1][qr:2][qs:3][pr:4]C[Dia.1 Connect and die
+
+Black 1 looks like it gets the ball rolling but Black doesn't have the liberties for this.  White 2 is the only move.White will dansu at 4, and now Black doesn't have the liberties to connect because if he did, he'd just connect and die.
+\lang1042\f1\fs18
+
+])
+(;AW[op][pp][qp][rp][oq][rq][or][rr][os]AB[mn][oo][po][qo][ro][np][sp][nq][pq][qq][sq][nr][sr][ns][ps]LB[qr:A][rs:B]
+;B[pr]
+;W[qs]LB[pr:1][qs:2][qr:A][rs:B]C[Dia.2 Living shape
+
+Black 1 is interesting but it also fails.  White can play 2 and now Black cannot play at A to force White into a dead shape, and White doesn't care about B because he can just take at A.  Let's try and find a different move.
+
+\lang1042\f1\fs18
+
+])
+(;AW[op][pp][qp][rp][oq][rq][or][rr][os]AB[mn][oo][po][qo][ro][np][sp][nq][pq][qq][sq][nr][sr][ns][ps]LB[qr:A]
+;B[qr]
+;W[rs]
+;B[pr]LB[qr:1][rs:2][pr:3][qr:A]C[Dia.3 Correct / 5 - spaces
+
+Black 1 changes White's eyespace into 5 spaces which means White dies.  White can try to extend at 2 but Black 3 makes it clear that White will only have 5 spaces in the middle, meaning White will die.
+\lang1042\f1\fs18
+
+])
+(;AW[op][pp][qp][rp][oq][rq][or][rr][os]AB[mn][oo][po][qo][ro][np][sp][nq][pq][qq][sq][nr][sr][ns][ps]LBC[No diagram name
+
+
+
+])
+)

@@ -1,0 +1,63 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;AW[qo][ro][so][op][pp][sp][oq][or][os][rs]AB[qp][rp][pq][pr][rr][sr][ps][ss]LBC[One move problems(34)
+
+
+\lang1033\b\f1\fs16 White to play\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 This looks like an easy problem but when it comes to actually capturing Black, well, that's easier said than done.
+
+If you don't read it out right you'll end up helping Black.
+
+Where should White play?
+
+\lang1042\f0\fs18
+])
+(;AW[qo][ro][so][op][pp][sp][oq][or][os][rs]AB[qp][rp][pq][pr][rr][sr][ps][ss]
+;W[rq]
+;B[qq]
+;W[sq]
+;B[qs]LB[rq:1][qq:2][sq:3][qs:4]C[Dia.1 Giving up
+
+
+\lang1033\f1\fs16 In a real game some people may get stumped and not know where to kill Black.  White dansus at 1 and then connects at 3, and any beginner could live now.
+
+Let's do a bit better shall we?
+
+\lang1042\f0\fs18
+
+])
+(;AW[qo][ro][so][op][pp][sp][oq][or][os][rs]AB[qp][rp][pq][pr][rr][sr][ps][ss]
+;W[sq]
+;B[rq]LB[sq:1][rq:2]C[Dia.2 Worst result for White
+
+{\colortbl ;\red255\green0\blue0;}
+
+\lang1033\f1\fs16 White 1 is strange isn't it?
+Black responds with 2 and now he lives with 5 points.
+
+\cf1\b This is the worst result for White\cf0\lang1042\b0\f0\fs18 .
+])
+(;AW[qo][ro][so][op][pp][sp][oq][or][os][rs]AB[qp][rp][pq][pr][rr][sr][ps][ss]LB[rq:B][qr:A]
+;W[qs]
+;B[sq]
+;W[qq]LB[qs:1][sq:2][qq:3][rq:B][qr:A]C[Dia.3 Correct/Natural move
+
+{\colortbl ;\red0\green0\blue255;}
+
+\lang1033\f1\fs16 White should \cf1\b sacrifice one more stone to kill Black, a brilliant move\cf0\lang1042\b0\f0\fs18 .
+\lang1033\f1\fs16 This is the natural way.
+
+Black plays 2, and then White 3 is double dansu!
+
+If Black plays 2 at A then White plays B and it's all over.  \lang1042\f0\fs18
+])
+(;AW[qo][ro][so][op][pp][sp][oq][or][os][rs]AB[qp][rp][pq][pr][rr][sr][ps][ss]LBC[No diagram name
+
+
+
+])
+)

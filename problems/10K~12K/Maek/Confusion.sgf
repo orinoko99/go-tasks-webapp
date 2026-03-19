@@ -1,0 +1,54 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+C[Converted by ctf2sgf.
+
+ https://github.com/sorokinpf/ctf2sgf]
+(;CR[rs]AW[np][op][pp][qq][rq][nr][qr][rs]AB[qk][qn][po][qp][rp][pq][pr][ps]LBCR[rs]C[Confusion
+
+
+\lang1033\f1 It's\b  Black\b0 's turn.\f2
+\lang1042\f0
+This is very famous formation which the three liberties in the corner and B usually win the capturing race.
+
+But W\'a1\'e2 tried to make the game is complicate.
+])
+(;AW[np][op][pp][qq][rq][nr][qr][rs]AB[qk][qn][po][qp][rp][pq][pr][ps]
+;B[qs]
+;W[sr]LB[qs:1][sr:2]C[Dia.1(mistake)
+
+
+You shouldn't think about playing at 1.
+W can live easily.
+
+Beginners usually made sort of this mistake.
+])
+(;AW[np][op][pp][qq][rq][nr][qr][rs]AB[qk][qn][po][qp][rp][pq][pr][ps]
+;B[sq]
+;W[sr]
+;B[sp]
+;W[qs]LB[sq:1][sr:2][sp:3][qs:4]C[DIa.2(Give up?)
+
+{\colortbl ;\red255\green0\blue0;}
+
+B might think that it can't be work so \cf1\b give up the capruting race\cf0\b0 .
+
+B1,3 are just sente endgame and three stone is dead.
+
+
+])
+(;AW[np][op][pp][qq][rq][nr][qr][rs]AB[qk][qn][po][qp][rp][pq][pr][ps]
+;B[sr]
+;W[sq]
+;B[sp]
+;W[or]
+;B[qs]LB[sr:1][sq:2][sp:3][or:4][qs:5]C[DIa.3(Right answer)
+
+{\colortbl ;\red0\green0\blue255;}
+
+Playing inside at 1 is a \cf1\b vital point.\cf0\b0
+
+Up to 5, B has one more liberty!
+
+])
+)

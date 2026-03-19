@@ -1,0 +1,151 @@
+//19
+4
+A Star Point Pattern (43)
+[{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fmodern\fprq2\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\froman\fprq2\fcharset129 \'b9\'d9\'c5\'c1;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par \b White to Play.\b0
+\par This is an additional explanation for what we have already studied.
+\par
+\par \pard\nowidctlpar\qj In <\b Basic Diagram 40\b0 >, black plays dansu at \b\f1 A\lang1033\kerning2\f2\fs20  \lang1042\kerning0\b0\f0\fs18 first and when white plays at \b\f1 B\b0\f0 , black connects with 1.
+\par \pard
+\par What if black were to play at 1 directly?
+\par }
+#
+(
+1[pj]
+2[mo]
+1[no]
+1[kp]
+1[mp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+66[lq]
+2[mq]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+65[mr]
+1[nr]
+2[or]
+2[qr]
+2[ps]
+)
+1
+B[lp]
+Diagram 1 (Correct)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par It's good for white to capture the black \'a1\'e3 stone without complaint.
+\par
+\par Black then extends with 2.
+\par
+\par This is similar to the original pattern but please try to remember that in this case black makes a small loss.
+\par }
+#
+(
+1[pj]
+2[mo]
+1[no]
+1[kp]
+1[lp]
+1[mp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[mq]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+5[nr]
+2[or]
+2[qr]
+2[ps]
+)
+2
+W[mr]
+B[nn]
+Diagram 2 (Black, Influence)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par If you wanted to play a diagonal move at 1, it's because you memorized the pattern incorrectly.
+\par
+\par Please check <\b Basic Diagram 40\b0 > once again.
+\par
+\par It is a good sacrifice strategy for black to play dansu at 2 and attach with 4.
+\par
+\par Up to 6, black seals white in perfectly in seonsu and then extends at 8 and has very impressive influence.
+\par }
+#
+(
+1[pj]
+2[mo]
+1[no]
+1[kp]
+1[lp]
+1[mp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[mq]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+1[nr]
+2[or]
+2[qr]
+2[ps]
+)
+8
+W[lr]
+B[mr]
+W[lq]
+B[kr]
+W[ns]
+B[kq]
+W[ms]
+B[nn]
+Diagram 3 (Spiral Ladder)
+[{\rtf1\ansi\ansicpg949\deff0{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18
+\par This is also an addional explanation.
+\par
+\par When black plays dansu with 1, if white captures with 2, white is in trouble.
+\par
+\par Black can drive white out with 3 and 5, creating a ladder. This type of ladder is called a spiral ladder.
+\par
+\par Be sure to watch out for it!
+\par }
+#
+(
+1[pj]
+2[mo]
+1[no]
+1[kp]
+1[mp]
+2[np]
+1[op]
+1[pp]
+1[qp]
+2[mq]
+2[nq]
+1[oq]
+2[pq]
+2[qq]
+1[nr]
+2[or]
+2[qr]
+2[ps]
+)
+5
+B[mr]
+W[lp]
+B[lq]
+W[mp]
+B[mn]
