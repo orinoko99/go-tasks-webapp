@@ -1,7 +1,7 @@
 {
-  "task_id": "UserModel",
+  "task_id": "SolvedTaskModel",
   "tests_written": true,
   "last_run_result": "pass",
-  "test_file": "tests/test_user_model.py",
-  "tests_count": 10
+  "test_file": "tests/test_solved_task.py",
+  "tests_count": 20
 }
