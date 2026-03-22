@@ -29,3 +29,21 @@
 Файлы: backend/models/user.py
 Воспроизведение: тесты test_user_model.py падают с ошибкой "failed to locate a name SolvedTask"
 Решение: Временно убрать relationship из модели User до создания модели SolvedTask (Этап 2.3)
+
+## 2026-03-22 12:00
+Проблема: Несовместимость passlib + bcrypt с Python 3.14
+Файлы: backend/utils/security.py
+Воспроизведение: тесты test_security.py падают с ошибкой "AttributeError: module 'bcrypt' has no attribute '__about__'"
+Решение: Использовать bcrypt напрямую вместо passlib.context.CryptContext
+
+## 2026-03-22 12:05
+Проблема: bcrypt ограничение 72 байта для паролей
+Файлы: backend/utils/security.py, tests/test_security.py
+Воспроизведение: ValueError: password cannot be longer than 72 bytes
+Решение: Обрезать пароль до 72 байт перед хешированием, обновить тесты
+
+## 2026-03-22 12:10
+Проблема: Отсутствие claim 'iat' в JWT токене
+Файлы: backend/utils/security.py
+Воспроизведение: тесты падают с KeyError: 'iat'
+Решение: Добавлять 'iat' вручную в функции create_access_token()

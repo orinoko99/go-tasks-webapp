@@ -1,9 +1,17 @@
 {
-  "task_id": "SolvedTaskModel",
+  "task_id": "SecurityModule",
   "tests_written": true,
   "last_run_result": "pass",
-  "test_file": "tests/test_solved_task.py",
-  "tests_count": 20,
+  "test_file": "tests/test_security.py",
+  "tests_count": 36,
+  "test_categories": {
+    "TestHashPassword": 7,
+    "TestVerifyPassword": 7,
+    "TestCreateAccessToken": 9,
+    "TestDecodeAccessToken": 5,
+    "TestGetUserFromToken": 4,
+    "TestSecurityIntegration": 4
+  },
   "integration_tests": {
     "written": true,
     "test_file": "tests/test_integration.py",

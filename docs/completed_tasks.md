@@ -37,3 +37,24 @@
     - TestDataIntegrityIntegration (3 теста): уникальность имени пользователя, уникальность task_id, тест метода to_dict()
   - Все тесты пройдены успешно (13 passed in 3.07s)
   - Обновлён .ai/tests.json с информацией об интеграционных тестах
+
+- [x] Этап 3.1 – Создание модуля безопасности (security.py) – 2026-03-22
+  - Создан backend/utils/security.py с функциями:
+    - hash_password() - хеширование паролей с bcrypt
+    - verify_password() - проверка паролей
+    - create_access_token() - создание JWT токенов
+    - decode_access_token() - декодирование JWT токенов
+    - get_user_from_token() - извлечение данных пользователя из токена
+  - Написаны тесты (36 тестов) в 6 категориях:
+    - TestHashPassword (7 тестов): проверка хеширования паролей
+    - TestVerifyPassword (7 тестов): проверка проверки паролей
+    - TestCreateAccessToken (9 тестов): проверка создания JWT токенов
+    - TestDecodeAccessToken (5 тестов): проверка декодирования токенов
+    - TestGetUserFromToken (4 теста): проверка извлечения данных пользователя
+    - TestSecurityIntegration (4 теста): интеграционные тесты полного потока
+  - Все тесты пройдены успешно (36 passed in 22.92s)
+  - Исправлены ошибки:
+    - Несовместимость passlib + bcrypt с Python 3.14 → используется bcrypt напрямую
+    - Ограничение bcrypt 72 байта → добавлена обрезка длинных паролей
+    - Отсутствие claim 'iat' в JWT → добавлено вручную в create_access_token()
+  - Обновлены .ai/state.json, .ai/tests.json, docs/error_log.md

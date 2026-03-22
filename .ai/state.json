@@ -1,26 +1,31 @@
 {
-  "current_task": null,
-  "plan": [],
-  "step_index": 0,
+  "current_task": "Этап 3.1 — Создать utils/security.py (хеширование паролей, JWT)",
+  "plan": [
+    "1. Создать backend/utils/security.py с функциями хеширования паролей и работы с JWT",
+    "2. Реализовать функцию hash_password() для хеширования паролей с bcrypt",
+    "3. Реализовать функцию verify_password() для проверки паролей",
+    "4. Реализовать функцию create_access_token() для генерации JWT токенов",
+    "5. Реализовать функцию decode_access_token() для декодирования JWT токенов",
+    "6. Добавить зависимости JWT_SECRET_KEY и JWT_ALGORITHM",
+    "7. Написать comprehensive тесты для всех функций security.py",
+    "8. Запустить тесты и убедиться в прохождении",
+    "9. Обновить .ai/state.json и .ai/tests.json",
+    "10. Обновить docs/completed_tasks.md"
+  ],
+  "step_index": 10,
   "mode": "GIT",
-  "status": "done",
-  "attempts": 0,
+  "status": "git",
+  "attempts": 1,
   "tests": {
     "written": true,
-    "last_result": "pass",
-    "integration_tests": {
-      "written": true,
-      "test_file": "tests/test_integration.py",
-      "tests_count": 13,
-      "last_run_result": "pass"
-    }
+    "last_result": "pass"
   },
   "review": {
     "done": true
   },
   "logging": {
-    "bugs_recorded": false,
-    "fixes_recorded": false
+    "bugs_recorded": true,
+    "fixes_recorded": true
   },
   "git": {
     "committed": false,
