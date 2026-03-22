@@ -3,5 +3,11 @@
   "tests_written": true,
   "last_run_result": "pass",
   "test_file": "tests/test_solved_task.py",
-  "tests_count": 20
+  "tests_count": 20,
+  "integration_tests": {
+    "written": true,
+    "test_file": "tests/test_integration.py",
+    "tests_count": 13,
+    "last_run_result": "pass"
+  }
 }

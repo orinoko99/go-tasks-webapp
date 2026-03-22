@@ -1,22 +1,22 @@
 {
-  "current_task": "Этап 2.3 - Создание модели SolvedTask",
-  "plan": [
-    "Создать backend/models/solved_task.py",
-    "Добавить relationship в модель User",
-    "Создать тесты для модели SolvedTask",
-    "Запустить тесты и проверить прохождение",
-    "Обновить completed_tasks.md и state.json"
-  ],
+  "current_task": null,
+  "plan": [],
   "step_index": 0,
-  "mode": "PLANNER",
-  "status": "planning",
+  "mode": "GIT",
+  "status": "done",
   "attempts": 0,
   "tests": {
-    "written": false,
-    "last_result": null
+    "written": true,
+    "last_result": "pass",
+    "integration_tests": {
+      "written": true,
+      "test_file": "tests/test_integration.py",
+      "tests_count": 13,
+      "last_run_result": "pass"
+    }
   },
   "review": {
-    "done": false
+    "done": true
   },
   "logging": {
     "bugs_recorded": false,
