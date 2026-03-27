@@ -80,3 +80,27 @@
     - Улучшен валидатор username (trim перед проверкой символов)
     - Заменён class Config на ConfigDict (Pydantic v2)
   - Обновлены .ai/state.json, .ai/tests.json
+
+- [x] Этап 3.3 – Создание сервиса аутентификации (services/auth.py) – 2026-03-27
+  - Создан backend/services/auth.py с функциями:
+    - get_user_by_username() - получение пользователя по имени
+    - get_user_by_id() - получение пользователя по ID
+    - register_user() - регистрация нового пользователя
+    - authenticate_user() - аутентификация (логин/пароль → JWT токен)
+    - create_user_tokens() - создание токенов для пользователя
+    - change_user_password() - смена пароля
+  - Созданы кастомные исключения:
+    - AuthenticationError - базовое исключение аутентификации
+    - UserAlreadyExistsError - пользователь уже существует
+    - InvalidCredentialsError - неверные учётные данные
+  - Обновлён backend/services/__init__.py для экспорта функций
+  - Написаны тесты (35 тестов) в 7 категориях:
+    - TestGetUserByUsername (4 теста): получение пользователя по имени
+    - TestGetUserById (4 теста): получение пользователя по ID
+    - TestRegisterUser (8 тестов): регистрация пользователей
+    - TestAuthenticateUser (7 тестов): аутентификация пользователей
+    - TestCreateUserTokens (3 теста): создание JWT токенов
+    - TestChangeUserPassword (4 теста): смена пароля
+    - TestAuthIntegration (5 тестов): интеграционные тесты
+  - Все тесты пройдены успешно (35 passed in 31.25s)
+  - Обновлены .ai/state.json, .ai/tests.json

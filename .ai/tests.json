@@ -1,15 +1,34 @@
 {
-  "task_id": "SchemasUser",
+  "task_id": "AuthService",
   "tests_written": true,
   "last_run_result": "pass",
-  "test_file": "tests/test_schemas.py",
-  "tests_count": 48,
+  "test_file": "tests/test_auth_service.py",
+  "tests_count": 35,
   "test_categories": {
-    "TestUserCreate": 20,
-    "TestUserLogin": 8,
-    "TestUserResponse": 7,
-    "TestTokenResponse": 4,
-    "TestTokenData": 5,
-    "TestSchemasIntegration": 4
+    "TestGetUserByUsername": 4,
+    "TestGetUserById": 4,
+    "TestRegisterUser": 8,
+    "TestAuthenticateUser": 7,
+    "TestCreateUserTokens": 3,
+    "TestChangeUserPassword": 4,
+    "TestAuthIntegration": 5
+  },
+  "schemas_tests": {
+    "written": true,
+    "test_file": "tests/test_schemas.py",
+    "tests_count": 48,
+    "last_run_result": "pass"
+  },
+  "integration_tests": {
+    "written": true,
+    "test_file": "tests/test_integration.py",
+    "tests_count": 13,
+    "last_run_result": "pass"
+  },
+  "security_tests": {
+    "written": true,
+    "test_file": "tests/test_security.py",
+    "tests_count": 36,
+    "last_run_result": "pass"
   }
 }
