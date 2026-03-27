@@ -58,3 +58,25 @@
     - Ограничение bcrypt 72 байта → добавлена обрезка длинных паролей
     - Отсутствие claim 'iat' в JWT → добавлено вручную в create_access_token()
   - Обновлены .ai/state.json, .ai/tests.json, docs/error_log.md
+
+- [x] Этап 3.2 – Создание схем Pydantic (schemas/user.py) – 2026-03-27
+  - Создан backend/schemas/user.py с схемами:
+    - UserCreate - схема регистрации (username, password с валидацией)
+    - UserLogin - схема входа (username, password)
+    - UserResponse - схема ответа с данными пользователя (user_id, username)
+    - TokenResponse - схема ответа с JWT токеном (access_token, token_type)
+    - TokenData - схема данных внутри JWT токена (user_id, username, exp, iat)
+  - Обновлён backend/schemas/__init__.py для экспорта схем
+  - Написаны тесты (48 тестов) в 6 категориях:
+    - TestUserCreate (20 тестов): валидация имени, пароля, спецсимволы, длина
+    - TestUserLogin (8 тестов): валидация данных для входа
+    - TestUserResponse (7 тестов): валидация ответа с данными пользователя
+    - TestTokenResponse (4 теста): валидация ответа с токеном
+    - TestTokenData (5 тестов): валидация данных токена
+    - TestSchemasIntegration (4 теста): интеграционные тесты схем
+  - Все тесты пройдены успешно (48 passed in 0.51s)
+  - Исправлены ошибки в процессе:
+    - Изменена минимальная длина пароля с 6 до 5 символов
+    - Улучшен валидатор username (trim перед проверкой символов)
+    - Заменён class Config на ConfigDict (Pydantic v2)
+  - Обновлены .ai/state.json, .ai/tests.json

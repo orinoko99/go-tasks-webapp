@@ -9,7 +9,7 @@
 - [x] 2.1 Создать database.py (подключение SQLite, сессии)
 - [x] 2.2 Создать модель User (models/user.py)
 - [x] 2.3 Создать модель SolvedTask (models/solved_task.py)
-- [ ] 2.4 Тесты: models test
+- [x] 2.4 Тесты: интеграционные тесты для моделей User и SolvedTask
 
 ## Этап 3: Backend — Аутентификация
 - [ ] 3.1 Создать utils/security.py (хеширование паролей, JWT)

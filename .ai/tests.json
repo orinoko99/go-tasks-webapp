@@ -1,21 +1,15 @@
 {
-  "task_id": "SecurityModule",
+  "task_id": "SchemasUser",
   "tests_written": true,
   "last_run_result": "pass",
-  "test_file": "tests/test_security.py",
-  "tests_count": 36,
+  "test_file": "tests/test_schemas.py",
+  "tests_count": 48,
   "test_categories": {
-    "TestHashPassword": 7,
-    "TestVerifyPassword": 7,
-    "TestCreateAccessToken": 9,
-    "TestDecodeAccessToken": 5,
-    "TestGetUserFromToken": 4,
-    "TestSecurityIntegration": 4
-  },
-  "integration_tests": {
-    "written": true,
-    "test_file": "tests/test_integration.py",
-    "tests_count": 13,
-    "last_run_result": "pass"
+    "TestUserCreate": 20,
+    "TestUserLogin": 8,
+    "TestUserResponse": 7,
+    "TestTokenResponse": 4,
+    "TestTokenData": 5,
+    "TestSchemasIntegration": 4
   }
 }
