@@ -1,14 +1,21 @@
 {
-  "task_id": "AuthRoutes",
+  "task_id": "SGFParser",
   "tests_written": true,
   "last_run_result": "pass",
-  "test_file": "tests/test_auth.py",
-  "tests_count": 23,
+  "test_file": "tests/test_sgf.py",
+  "tests_count": 34,
   "test_categories": {
-    "TestRegisterEndpoint": 4,
-    "TestLoginEndpoint": 6,
-    "TestAuthValidation": 8,
-    "TestAuthIntegration": 5
+    "TestCoordConversion": 7,
+    "TestSGFParser": 4,
+    "TestTaskExtraction": 4,
+    "TestHelperFunctions": 2,
+    "TestIntegration": 17
+  },
+  "auth_service_tests": {
+    "written": true,
+    "test_file": "tests/test_auth_service.py",
+    "tests_count": 35,
+    "last_run_result": "pass"
   },
   "schemas_tests": {
     "written": true,
@@ -28,10 +35,10 @@
     "tests_count": 36,
     "last_run_result": "pass"
   },
-  "auth_service_tests": {
+  "auth_routes_tests": {
     "written": true,
-    "test_file": "tests/test_auth_service.py",
-    "tests_count": 35,
+    "test_file": "tests/test_auth.py",
+    "tests_count": 23,
     "last_run_result": "pass"
   }
 }

@@ -126,3 +126,28 @@
     - Обновлены тесты на валидацию (max_length=50 для username)
     - Исправлены тесты на работу с БД (добавлена проверка register_response)
   - Обновлены .ai/state.json, .ai/tests.json
+
+- [x] Этап 4.1 – Создание services/sgf_parser.py (парсинг SGF файлов) – 2026-03-29
+  - Создан backend/schemas/task.py с Pydantic схемами:
+    - TaskMove, TaskPosition, TaskNode, TaskTree
+    - SgfTask, SgfCollection, SgfCollectionMetadata
+    - TaskListResponse, TaskResponse, MoveRequest, MoveResponse
+  - Создан backend/services/sgf_parser.py с функциями:
+    - parse_sgf_file() - парсинг SGF файла
+    - parse_sgf_content() - парсинг строки
+    - sgf_coords_to_tuple() - преобразование координат
+    - tuple_to_sgf_coords() - обратное преобразование
+    - get_task_possible_moves() - возможные ходы
+    - get_task_solution_path() - путь решения
+  - Обновлены backend/schemas/__init__.py и backend/services/__init__.py
+  - Написаны тесты (34 теста) в 6 категориях:
+    - TestCoordConversion (7 тестов): преобразование координат
+    - TestSGFParser (4 теста): парсинг SGF
+    - TestTaskExtraction (4 теста): извлечение задач
+    - TestHelperFunctions (2 теста): вспомогательные функции
+    - TestIntegration (17 тестов): интеграционные тесты
+  - Все тесты пройдены успешно (34 passed in 1.64s)
+  - Известные ограничения (задокументированы):
+    - Парсинг вариаций требует доработки
+    - Распознавание аннотаций TE[]/BM[] требует доработки
+  - Обновлены .ai/state.json, .ai/tests.json

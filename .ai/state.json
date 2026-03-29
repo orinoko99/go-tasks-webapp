@@ -1,16 +1,16 @@
 {
-  "current_task": "Этап 3.4 – Создание routes/auth.py (endpoints /register, /login)",
+  "current_task": "Этап 4.1 – Создание services/sgf_parser.py (парсинг SGF файлов)",
   "plan": [
-    "Создать backend/routes/auth.py с endpoints /register и /login",
-    "Создать backend/main.py - точка входа FastAPI",
-    "Написать тесты для routes/auth.py",
+    "Создать backend/schemas/task.py с Pydantic схемами",
+    "Создать backend/services/sgf_parser.py с функциями парсинга",
+    "Написать тесты для sgf_parser",
     "Запустить тесты и исправить ошибки",
     "Провести ревью кода",
     "Обновить completed_tasks.md",
     "Подготовить коммит и git push"
   ],
   "step_index": 7,
-  "mode": "GIT",
+  "mode": "LOGGER",
   "status": "done",
   "attempts": 0,
   "tests": {
@@ -45,6 +45,12 @@
       "test_file": "tests/test_auth.py",
       "tests_count": 23,
       "last_run_result": "pass"
+    },
+    "sgf_parser_tests": {
+      "written": true,
+      "test_file": "tests/test_sgf.py",
+      "tests_count": 34,
+      "last_run_result": "pass"
     }
   },
   "review": {
@@ -55,9 +61,9 @@
     "fixes_recorded": true
   },
   "git": {
-    "committed": true,
-    "pushed": true
+    "committed": false,
+    "pushed": false
   },
-  "next_task": "Этап 4.1 – Создание services/sgf_parser.py (парсинг SGF файлов)",
-  "completed_commit": "9f39ebd"
+  "next_task": "Этап 4.2 – Создание services/task_resolver.py (проверка ходов)",
+  "completed_commit": "9bcfaf2"
 }

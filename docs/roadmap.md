@@ -1,9 +1,9 @@
 # Roadmap проекта Go Problems Trainer
 
 ## Этап 1: Инициализация проекта
-- [ ] 1.1 Создать структуру директорий (backend/, frontend/, data/, tests/)
-- [ ] 1.2 Создать requirements.txt с зависимостями
-- [ ] 1.3 Создать README.md проекта
+- [x] 1.1 Создать структуру директорий (backend/, frontend/, data/, tests/)
+- [x] 1.2 Создать requirements.txt с зависимостями
+- [x] 1.3 Создать README.md проекта
 
 ## Этап 2: Backend — База данных и модели
 - [x] 2.1 Создать database.py (подключение SQLite, сессии)
@@ -12,11 +12,11 @@
 - [x] 2.4 Тесты: интеграционные тесты для моделей User и SolvedTask
 
 ## Этап 3: Backend — Аутентификация
-- [ ] 3.1 Создать utils/security.py (хеширование паролей, JWT)
-- [ ] 3.2 Создать schemas/user.py (Pydantic схемы)
-- [ ] 3.3 Создать services/auth.py (логика auth)
-- [ ] 3.4 Создать routes/auth.py (endpoints /register, /login)
-- [ ] 3.5 Тесты: test_auth.py (регистрация, логин, невалидные данные)
+- [x] 3.1 Создать utils/security.py (хеширование паролей, JWT)
+- [x] 3.2 Создать schemas/user.py (Pydantic схемы)
+- [x] 3.3 Создать services/auth.py (логика auth)
+- [x] 3.4 Создать routes/auth.py (endpoints /register, /login)
+- [x] 3.5 Тесты: test_auth.py (регистрация, логин, невалидные данные)
 
 ## Этап 4: Backend — SGF парсер
 - [ ] 4.1 Создать services/sgf_parser.py (парсинг SGF файлов)
@@ -50,7 +50,7 @@
 ---
 
 ## Current stage
-**Этап 2.3** — Создание модели SolvedTask — ✅ завершено
+**Этап 3.5** — Тесты auth routes — ✅ завершено
 
 ## Следующий этап
-**Этап 2.4** — Тесты моделей (интеграционные тесты для всех моделей вместе)
+**Этап 4.1** — Создание services/sgf_parser.py (парсинг SGF файлов)
