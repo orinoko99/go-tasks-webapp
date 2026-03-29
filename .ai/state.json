@@ -1,17 +1,17 @@
 {
-  "current_task": "Этап 3.3 – Создание services/auth.py (логика аутентификации)",
+  "current_task": "Этап 3.4 – Создание routes/auth.py (endpoints /register, /login)",
   "plan": [
-    "Изучить существующие модели User и security.py",
-    "Создать backend/services/auth.py с функциями register_user и authenticate_user",
-    "Написать тесты для auth сервиса",
+    "Создать backend/routes/auth.py с endpoints /register и /login",
+    "Создать backend/main.py - точка входа FastAPI",
+    "Написать тесты для routes/auth.py",
     "Запустить тесты и исправить ошибки",
     "Провести ревью кода",
     "Обновить completed_tasks.md",
     "Подготовить коммит и git push"
   ],
-  "step_index": 6,
-  "mode": "GIT",
-  "status": "ready_for_commit",
+  "step_index": 7,
+  "mode": "LOGGER",
+  "status": "done",
   "attempts": 0,
   "tests": {
     "written": true,
@@ -39,6 +39,12 @@
       "test_file": "tests/test_security.py",
       "tests_count": 36,
       "last_run_result": "pass"
+    },
+    "auth_routes_tests": {
+      "written": true,
+      "test_file": "tests/test_auth.py",
+      "tests_count": 23,
+      "last_run_result": "pass"
     }
   },
   "review": {
@@ -51,5 +57,6 @@
   "git": {
     "committed": false,
     "pushed": false
-  }
+  },
+  "next_task": "Этап 4.1 – Создание services/sgf_parser.py (парсинг SGF файлов)"
 }

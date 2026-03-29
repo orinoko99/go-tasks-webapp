@@ -1,16 +1,13 @@
 {
-  "task_id": "AuthService",
+  "task_id": "AuthRoutes",
   "tests_written": true,
   "last_run_result": "pass",
-  "test_file": "tests/test_auth_service.py",
-  "tests_count": 35,
+  "test_file": "tests/test_auth.py",
+  "tests_count": 23,
   "test_categories": {
-    "TestGetUserByUsername": 4,
-    "TestGetUserById": 4,
-    "TestRegisterUser": 8,
-    "TestAuthenticateUser": 7,
-    "TestCreateUserTokens": 3,
-    "TestChangeUserPassword": 4,
+    "TestRegisterEndpoint": 4,
+    "TestLoginEndpoint": 6,
+    "TestAuthValidation": 8,
     "TestAuthIntegration": 5
   },
   "schemas_tests": {
@@ -29,6 +26,12 @@
     "written": true,
     "test_file": "tests/test_security.py",
     "tests_count": 36,
+    "last_run_result": "pass"
+  },
+  "auth_service_tests": {
+    "written": true,
+    "test_file": "tests/test_auth_service.py",
+    "tests_count": 35,
     "last_run_result": "pass"
   }
 }

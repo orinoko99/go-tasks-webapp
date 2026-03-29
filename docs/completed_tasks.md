@@ -104,3 +104,25 @@
     - TestAuthIntegration (5 тестов): интеграционные тесты
   - Все тесты пройдены успешно (35 passed in 31.25s)
   - Обновлены .ai/state.json, .ai/tests.json
+
+- [x] Этап 3.4 – Создание routes/auth.py (endpoints /register, /login) – 2026-03-29
+  - Создан backend/routes/auth.py с endpoints:
+    - POST /auth/register - регистрация нового пользователя
+    - POST /auth/login - вход пользователя и получение JWT токена
+  - Создан backend/main.py - точка входа FastAPI приложения:
+    - Настроено FastAPI приложение с метаданными
+    - Подключён роутер аутентификации
+    - Настроен CORS для frontend (localhost:3000, localhost:5173)
+    - Добавлены health check endpoints (/ , /health)
+  - Обновлён backend/routes/__init__.py для экспорта роутера
+  - Написаны тесты (23 теста) в 4 категориях:
+    - TestRegisterEndpoint (4 теста): успешная регистрация, дубликат username, хеширование пароля
+    - TestLoginEndpoint (6 тестов): успешный вход, JWT токен, неверный пароль, несуществующий пользователь
+    - TestAuthValidation (8 тестов): валидация username/password, missing поля
+    - TestAuthIntegration (5 тестов): полный поток, несколько пользователей, смена пароля
+  - Все тесты пройдены успешно (23 passed in 23.73s)
+  - Исправлены ошибки в процессе:
+    - Добавлена инициализация БД в фикстуру setup_db (init_db после reset_db)
+    - Обновлены тесты на валидацию (max_length=50 для username)
+    - Исправлены тесты на работу с БД (добавлена проверка register_response)
+  - Обновлены .ai/state.json, .ai/tests.json
