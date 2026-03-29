@@ -10,7 +10,7 @@
     "Подготовить коммит и git push"
   ],
   "step_index": 7,
-  "mode": "LOGGER",
+  "mode": "GIT",
   "status": "done",
   "attempts": 0,
   "tests": {
@@ -55,8 +55,9 @@
     "fixes_recorded": true
   },
   "git": {
-    "committed": false,
-    "pushed": false
+    "committed": true,
+    "pushed": true
   },
-  "next_task": "Этап 4.1 – Создание services/sgf_parser.py (парсинг SGF файлов)"
+  "next_task": "Этап 4.1 – Создание services/sgf_parser.py (парсинг SGF файлов)",
+  "completed_commit": "9f39ebd"
 }
