@@ -1,15 +1,19 @@
 {
-  "task_id": "SGFParser",
+  "task_id": "TaskResolver",
   "tests_written": true,
   "last_run_result": "pass",
-  "test_file": "tests/test_sgf.py",
-  "tests_count": 34,
+  "test_file": "tests/test_task_resolver.py",
+  "tests_count": 39,
   "test_categories": {
-    "TestCoordConversion": 7,
-    "TestSGFParser": 4,
-    "TestTaskExtraction": 4,
-    "TestHelperFunctions": 2,
-    "TestIntegration": 17
+    "TestBoardCreation": 5,
+    "TestMoveValidation": 3,
+    "TestMoveExecution": 4,
+    "TestCapture": 3,
+    "TestLiberties": 5,
+    "TestSpecialRules": 3,
+    "TestHelperFunctions": 3,
+    "TestGameState": 3,
+    "TestIntegration": 10
   },
   "auth_service_tests": {
     "written": true,
@@ -39,6 +43,12 @@
     "written": true,
     "test_file": "tests/test_auth.py",
     "tests_count": 23,
+    "last_run_result": "pass"
+  },
+  "sgf_parser_tests": {
+    "written": true,
+    "test_file": "tests/test_sgf.py",
+    "tests_count": 34,
     "last_run_result": "pass"
   }
 }

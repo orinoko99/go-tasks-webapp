@@ -19,6 +19,13 @@ from backend.services.sgf_parser import (
     get_task_solution_path,
     SGFParser,
 )
+from backend.services.task_resolver import (
+    TaskResolver,
+    BoardState,
+    GameState,
+    coords_to_sgf,
+    sgf_to_coords,
+)
 
 __all__ = [
     # Auth
@@ -39,4 +46,10 @@ __all__ = [
     'get_task_possible_moves',
     'get_task_solution_path',
     'SGFParser',
+    # Task Resolver
+    'TaskResolver',
+    'BoardState',
+    'GameState',
+    'coords_to_sgf',
+    'sgf_to_coords',
 ]

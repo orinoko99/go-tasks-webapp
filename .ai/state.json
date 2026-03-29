@@ -1,15 +1,14 @@
 {
-  "current_task": "Этап 4.1 – Создание services/sgf_parser.py (парсинг SGF файлов)",
+  "current_task": "Этап 4.2 – Создание services/task_resolver.py (проверка ходов)",
   "plan": [
-    "Создать backend/schemas/task.py с Pydantic схемами",
-    "Создать backend/services/sgf_parser.py с функциями парсинга",
-    "Написать тесты для sgf_parser",
+    "Создать backend/services/task_resolver.py с классом TaskResolver",
+    "Написать тесты для task_resolver",
     "Запустить тесты и исправить ошибки",
     "Провести ревью кода",
     "Обновить completed_tasks.md",
     "Подготовить коммит и git push"
   ],
-  "step_index": 7,
+  "step_index": 6,
   "mode": "LOGGER",
   "status": "done",
   "attempts": 0,
@@ -51,6 +50,12 @@
       "test_file": "tests/test_sgf.py",
       "tests_count": 34,
       "last_run_result": "pass"
+    },
+    "task_resolver_tests": {
+      "written": true,
+      "test_file": "tests/test_task_resolver.py",
+      "tests_count": 39,
+      "last_run_result": "pass"
     }
   },
   "review": {
@@ -64,6 +69,6 @@
     "committed": false,
     "pushed": false
   },
-  "next_task": "Этап 4.2 – Создание services/task_resolver.py (проверка ходов)",
-  "completed_commit": "9bcfaf2"
+  "next_task": "Этап 4.3 – Создание schemas/task.py (схемы для задач API)",
+  "completed_commit": "3489eab"
 }

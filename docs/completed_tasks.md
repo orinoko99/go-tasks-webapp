@@ -151,3 +151,27 @@
     - Парсинг вариаций требует доработки
     - Распознавание аннотаций TE[]/BM[] требует доработки
   - Обновлены .ai/state.json, .ai/tests.json
+
+- [x] Этап 4.2 – Создание services/task_resolver.py (проверка ходов) – 2026-03-29
+  - Создан backend/services/task_resolver.py с классом TaskResolver:
+    - BoardState - состояние доски
+    - GameState - состояние игры (ACTIVE, RESIGNED, SCORED)
+    - Проверка корректности хода (is_valid_move)
+    - Выполнение хода (make_move)
+    - Проверка захвата камней (capture)
+    - Подсчёт даме (get_liberties)
+    - Правило ко и запрет суицида
+    - Пас и сдача игры
+  - Обновлён backend/services/__init__.py для экспорта
+  - Написаны тесты (39 тестов) в 8 категориях:
+    - TestBoardCreation (5 тестов): создание доски
+    - TestMoveValidation (3 теста): валидация ходов
+    - TestMoveExecution (4 теста): выполнение ходов
+    - TestCapture (3 теста): захват камней
+    - TestLiberties (5 тестов): подсчёт даме
+    - TestSpecialRules (3 теста): специальные правила
+    - TestHelperFunctions (3 теста): вспомогательные функции
+    - TestGameState (3 теста): состояние игры
+    - TestIntegration (10 тестов): интеграционные тесты
+  - Все тесты пройдены успешно (39 passed in 1.59s)
+  - Обновлены .ai/state.json, .ai/tests.json
